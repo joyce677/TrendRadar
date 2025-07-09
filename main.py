@@ -2594,7 +2594,6 @@ class NewsAnalyzer:
             ("ifeng", "凤凰网"),
             ("jin10", "金十数据"),
             ("wallstreetcn-quick", "华尔街见闻-快讯"),
-            ("sputniknewscn&latest", "卫星通讯社"),
             ("tieba", "贴吧"),
             ("weibo", "微博"),
             ("douyin", "抖音"),
