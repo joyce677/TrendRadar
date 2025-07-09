@@ -46,7 +46,26 @@ jobs:
     
     - name: Commit and push if changes
       run: |
+        # 配置Git用户信息
         git config --global user.name 'GitHub Actions'
         git config --global user.email 'actions@github.com'
+        
+        # 将所有更改（新文件、修改、删除）添加到暂存区
         git add -A
-        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto update by GitHub Actions at $(TZ=Asia/Shanghai date)" && git push)
+        
+        # 检查是否有文件变动。如果没有，则不执行任何操作。
+        # git diff --staged --quiet 会检查暂存区是否有变动
+        if git diff --staged --quiet; then
+          echo "No changes to commit."
+        else
+          echo "Changes detected. Committing and pushing..."
+          # 提交更改，使用上海时间
+          git commit -m "Auto update by GitHub Actions at $(TZ=Asia/Shanghai date)"
+          
+          # 在推送前，先拉取远程的最新更改并变基
+          # 这可以解决 "rejected" 错误
+          git pull --rebase
+          
+          # 推送提交到远程仓库
+          git push
+        fi
