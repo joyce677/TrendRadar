@@ -16,7 +16,6 @@ import pytz
 CONFIG = {
     "VERSION": "1.4.1",
     "VERSION_CHECK_URL": "https://raw.githubusercontent.com/sansan0/TrendRadar/refs/heads/master/version",
-    "ENABLE_API_GENERATION": True,  # 新增：是否生成API JSON文件
     "SHOW_VERSION_UPDATE": True,  # 控制显示版本更新提示，改成 False 将不接受新版本提示
     "FEISHU_MESSAGE_SEPARATOR": "━━━━━━━━━━━━━━━━━━━",  # feishu消息分割线
     "REQUEST_INTERVAL": 1000,  # 请求间隔(毫秒)
@@ -1094,58 +1093,6 @@ class ReportGenerator:
     """报告生成器"""
 
     @staticmethod
-    def generate_api_json(
-        stats: List[Dict],
-        is_daily: bool = False
-    ) -> str:
-        """
-        生成供API使用的JSON文件。
-        包含：排名、频率词、出现次数、相关标题等信息。
-        """
-        if is_daily:
-            filename = "daily_summary.json"
-        else:
-            filename = f"{TimeHelper.format_time_filename()}.json"
-
-        # 将API文件保存在独立的 'api' 文件夹中
-        file_path = FileHelper.get_output_path("api", filename)
-
-        api_data = []
-        # stats 列表已经按出现次数排好序，所以其索引+1就是排名
-        for rank, stat in enumerate(stats, 1):
-            if stat["count"] <= 0:
-                continue
-
-            # 清理和格式化相关标题列表
-            related_titles = []
-            for title_data in stat["titles"]:
-                related_titles.append({
-                    "title": DataProcessor.clean_title(title_data["title"]),
-                    "source": title_data["source_alias"],
-                    "ranks_on_source": title_data["ranks"],
-                    "appearances": title_data["count"],
-                    "url": title_data.get("url", ""),
-                    "mobileUrl": title_data.get("mobileUrl", ""),
-                    "is_new": title_data.get("is_new", False),
-                    "first_seen": title_data.get("first_time", ""),
-                    "last_seen": title_data.get("last_time", ""),
-                })
-            
-            # 构建单个频率词的API对象
-            api_data.append({
-                "rank": rank,
-                "frequency_word": stat["word"],
-                "occurrence_count": stat["count"],
-                "related_titles": related_titles
-            })
-
-        # 写入JSON文件
-        with open(file_path, 'w', encoding='utf-8') as f:
-            json.dump(api_data, f, ensure_ascii=False, indent=2)
-        
-        return file_path
-
-    @staticmethod
     def generate_html_report(
         stats: List[Dict],
         total_titles: int,
@@ -1153,27 +1100,32 @@ class ReportGenerator:
         is_daily: bool = False,
         new_titles: Optional[Dict] = None,
         id_to_alias: Optional[Dict] = None,
-        hide_new_section: bool = False,
     ) -> str:
-        """生成HTML报告文件"""
+        """生成HTML报告"""
         if is_daily:
-            filename = "daily_summary.html"
+            filename = "当日统计.html"
         else:
             filename = f"{TimeHelper.format_time_filename()}.html"
-        
-        # 将HTML文件保存在独立的 'html' 文件夹中，保持整洁
+
         file_path = FileHelper.get_output_path("html", filename)
 
+        # 数据处理层
         report_data = ReportGenerator._prepare_report_data(
-            stats, failed_ids, new_titles, id_to_alias, hide_new_section
+            stats, failed_ids, new_titles, id_to_alias
         )
-        
+
+        # 渲染层
         html_content = ReportGenerator._render_html_content(
             report_data, total_titles, is_daily
         )
 
         with open(file_path, "w", encoding="utf-8") as f:
             f.write(html_content)
+
+        if is_daily:
+            root_file_path = Path("index.html")
+            with open(root_file_path, "w", encoding="utf-8") as f:
+                f.write(html_content)
 
         return file_path
 
@@ -1188,6 +1140,7 @@ class ReportGenerator:
         """准备报告数据"""
         processed_new_titles = []
 
+        # 只有在非隐藏模式下才处理新增新闻部分
         if not hide_new_section:
             filtered_new_titles = {}
             if new_titles and id_to_alias:
@@ -1300,11 +1253,11 @@ class ReportGenerator:
             text = str(text)
 
         return (
-            text.replace("&", "&")
-            .replace("<", "<")
-            .replace(">", ">")
-            .replace('"', """)
-            .replace("'", "'")
+            text.replace("&", "&amp;")
+            .replace("<", "&lt;")
+            .replace(">", "&gt;")
+            .replace('"', "&quot;")
+            .replace("'", "&#x27;")
         )
 
     @staticmethod
@@ -1411,6 +1364,7 @@ class ReportGenerator:
         html += f"<p>总标题数: {total_titles}</p>"
         html += f"<p>生成时间: {now.strftime('%Y-%m-%d %H:%M:%S')}</p>"
 
+        # 渲染失败平台
         if report_data["failed_ids"]:
             html += """
             <div class="error">
@@ -1424,6 +1378,7 @@ class ReportGenerator:
             </div>
             """
 
+        # 渲染统计表格
         html += """
             <table>
                 <tr>
@@ -1457,6 +1412,7 @@ class ReportGenerator:
             </table>
         """
 
+        # 渲染新增新闻部分
         if report_data["new_titles"]:
             html += f"""
             <div class="new-section">
@@ -1477,6 +1433,7 @@ class ReportGenerator:
                     formatted_title = ReportGenerator._format_title_html(
                         title_data_copy
                     )
+                    # 移除来源标签
                     if "] " in formatted_title:
                         formatted_title = formatted_title.split("] ", 1)[1]
                     html += f"<li>{formatted_title}</li>"
@@ -1498,23 +1455,30 @@ class ReportGenerator:
         rank_display = StatisticsCalculator._format_rank_for_feishu(
             title_data["ranks"], title_data["rank_threshold"]
         )
+
         link_url = title_data["mobile_url"] or title_data["url"]
+
         cleaned_title = DataProcessor.clean_title(title_data["title"])
+
         if link_url:
             formatted_title = f"[{cleaned_title}]({link_url})"
         else:
             formatted_title = cleaned_title
+
         title_prefix = "🆕 " if title_data["is_new"] else ""
+
         if show_source:
             result = f"<font color='grey'>[{title_data['source_alias']}]</font> {title_prefix}{formatted_title}"
         else:
             result = f"{title_prefix}{formatted_title}"
+
         if rank_display:
             result += f" {rank_display}"
         if title_data["time_display"]:
             result += f" <font color='grey'>- {title_data['time_display']}</font>"
         if title_data["count"] > 1:
             result += f" <font color='green'>({title_data['count']}次)</font>"
+
         return result
 
     @staticmethod
@@ -1523,23 +1487,30 @@ class ReportGenerator:
         rank_display = StatisticsCalculator._format_rank_for_dingtalk(
             title_data["ranks"], title_data["rank_threshold"]
         )
+
         link_url = title_data["mobile_url"] or title_data["url"]
+
         cleaned_title = DataProcessor.clean_title(title_data["title"])
+
         if link_url:
             formatted_title = f"[{cleaned_title}]({link_url})"
         else:
             formatted_title = cleaned_title
+
         title_prefix = "🆕 " if title_data["is_new"] else ""
+
         if show_source:
             result = f"[{title_data['source_alias']}] {title_prefix}{formatted_title}"
         else:
             result = f"{title_prefix}{formatted_title}"
+
         if rank_display:
             result += f" {rank_display}"
         if title_data["time_display"]:
             result += f" - {title_data['time_display']}"
         if title_data["count"] > 1:
             result += f" ({title_data['count']}次)"
+
         return result
 
     @staticmethod
@@ -1548,23 +1519,30 @@ class ReportGenerator:
         rank_display = StatisticsCalculator._format_rank_for_wework(
             title_data["ranks"], title_data["rank_threshold"]
         )
+
         link_url = title_data["mobile_url"] or title_data["url"]
+
         cleaned_title = DataProcessor.clean_title(title_data["title"])
+
         if link_url:
             formatted_title = f"[{cleaned_title}]({link_url})"
         else:
             formatted_title = cleaned_title
+
         title_prefix = "🆕 " if title_data["is_new"] else ""
+
         if show_source:
             result = f"[{title_data['source_alias']}] {title_prefix}{formatted_title}"
         else:
             result = f"{title_prefix}{formatted_title}"
+
         if rank_display:
             result += f" {rank_display}"
         if title_data["time_display"]:
             result += f" - {title_data['time_display']}"
         if title_data["count"] > 1:
             result += f" ({title_data['count']}次)"
+
         return result
 
     @staticmethod
@@ -1573,23 +1551,30 @@ class ReportGenerator:
         rank_display = StatisticsCalculator._format_rank_for_telegram(
             title_data["ranks"], title_data["rank_threshold"]
         )
+
         link_url = title_data["mobile_url"] or title_data["url"]
+
         cleaned_title = DataProcessor.clean_title(title_data["title"])
+
         if link_url:
             formatted_title = f'<a href="{link_url}">{ReportGenerator._html_escape(cleaned_title)}</a>'
         else:
             formatted_title = cleaned_title
+
         title_prefix = "🆕 " if title_data["is_new"] else ""
+
         if show_source:
             result = f"[{title_data['source_alias']}] {title_prefix}{formatted_title}"
         else:
             result = f"{title_prefix}{formatted_title}"
+
         if rank_display:
             result += f" {rank_display}"
         if title_data["time_display"]:
             result += f" <code>- {title_data['time_display']}</code>"
         if title_data["count"] > 1:
             result += f" <code>({title_data['count']}次)</code>"
+
         return result
 
     @staticmethod
@@ -1598,38 +1583,53 @@ class ReportGenerator:
     ) -> str:
         """渲染飞书内容"""
         text_content = ""
+
+        # 渲染热点词汇统计
         if report_data["stats"]:
             text_content += "📊 **热点词汇统计**\n\n"
+
         total_count = len(report_data["stats"])
+
         for i, stat in enumerate(report_data["stats"]):
             word = stat["word"]
             count = stat["count"]
+
             sequence_display = f"<font color='grey'>[{i + 1}/{total_count}]</font>"
+
             if count >= 10:
                 text_content += f"🔥 {sequence_display} **{word}** : <font color='red'>{count}</font> 条\n\n"
             elif count >= 5:
                 text_content += f"📈 {sequence_display} **{word}** : <font color='orange'>{count}</font> 条\n\n"
             else:
                 text_content += f"📌 {sequence_display} **{word}** : {count} 条\n\n"
+
             for j, title_data in enumerate(stat["titles"], 1):
                 formatted_title = ReportGenerator._format_title_feishu(
                     title_data, show_source=True
                 )
                 text_content += f"  {j}. {formatted_title}\n"
+
                 if j < len(stat["titles"]):
                     text_content += "\n"
+
             if i < len(report_data["stats"]) - 1:
                 text_content += f"\n{CONFIG['FEISHU_MESSAGE_SEPARATOR']}\n\n"
+
         if not text_content:
             text_content = "📭 暂无匹配的热点词汇\n\n"
+
+        # 渲染新增新闻部分
         if report_data["new_titles"]:
             if text_content and "暂无匹配" not in text_content:
                 text_content += f"\n{CONFIG['FEISHU_MESSAGE_SEPARATOR']}\n\n"
+
             text_content += (
                 f"🆕 **本次新增热点新闻** (共 {report_data['total_new_count']} 条)\n\n"
             )
+
             for source_data in report_data["new_titles"]:
                 text_content += f"**{source_data['source_alias']}** ({len(source_data['titles'])} 条):\n"
+
                 for j, title_data in enumerate(source_data["titles"], 1):
                     title_data_copy = title_data.copy()
                     title_data_copy["is_new"] = False
@@ -1637,17 +1637,26 @@ class ReportGenerator:
                         title_data_copy, show_source=False
                     )
                     text_content += f"  {j}. {formatted_title}\n"
+
                 text_content += "\n"
+
+        # 渲染失败平台
         if report_data["failed_ids"]:
             if text_content and "暂无匹配" not in text_content:
                 text_content += f"\n{CONFIG['FEISHU_MESSAGE_SEPARATOR']}\n\n"
+
             text_content += "⚠️ **数据获取失败的平台：**\n\n"
             for i, id_value in enumerate(report_data["failed_ids"], 1):
                 text_content += f"  • <font color='red'>{id_value}</font>\n"
+
+        # 添加时间戳
         now = TimeHelper.get_beijing_time()
         text_content += f"\n\n<font color='grey'>更新时间：{now.strftime('%Y-%m-%d %H:%M:%S')}</font>"
+
+        # 版本更新提示
         if update_info:
             text_content += f"\n<font color='grey'>TrendRadar 发现新版本 {update_info['remote_version']}，当前 {update_info['current_version']}</font>"
+
         return text_content
 
     @staticmethod
@@ -1656,21 +1665,32 @@ class ReportGenerator:
     ) -> str:
         """渲染钉钉内容"""
         text_content = ""
+
+        # 计算总标题数
         total_titles = sum(
             len(stat["titles"]) for stat in report_data["stats"] if stat["count"] > 0
         )
         now = TimeHelper.get_beijing_time()
+
+        # 顶部统计信息
         text_content += f"**总新闻数：** {total_titles}\n\n"
         text_content += f"**时间：** {now.strftime('%Y-%m-%d %H:%M:%S')}\n\n"
         text_content += f"**类型：** 热点分析报告\n\n"
+
         text_content += "---\n\n"
+
+        # 渲染热点词汇统计
         if report_data["stats"]:
             text_content += "📊 **热点词汇统计**\n\n"
+
             total_count = len(report_data["stats"])
+
             for i, stat in enumerate(report_data["stats"]):
                 word = stat["word"]
                 count = stat["count"]
+
                 sequence_display = f"[{i + 1}/{total_count}]"
+
                 if count >= 10:
                     text_content += (
                         f"🔥 {sequence_display} **{word}** : **{count}** 条\n\n"
@@ -1681,25 +1701,34 @@ class ReportGenerator:
                     )
                 else:
                     text_content += f"📌 {sequence_display} **{word}** : {count} 条\n\n"
+
                 for j, title_data in enumerate(stat["titles"], 1):
                     formatted_title = ReportGenerator._format_title_dingtalk(
                         title_data, show_source=True
                     )
                     text_content += f"  {j}. {formatted_title}\n"
+
                     if j < len(stat["titles"]):
                         text_content += "\n"
+
                 if i < len(report_data["stats"]) - 1:
                     text_content += f"\n---\n\n"
+
         if not report_data["stats"]:
             text_content += "📭 暂无匹配的热点词汇\n\n"
+
+        # 渲染新增新闻部分
         if report_data["new_titles"]:
             if text_content and "暂无匹配" not in text_content:
                 text_content += f"\n---\n\n"
+
             text_content += (
                 f"🆕 **本次新增热点新闻** (共 {report_data['total_new_count']} 条)\n\n"
             )
+
             for source_data in report_data["new_titles"]:
                 text_content += f"**{source_data['source_alias']}** ({len(source_data['titles'])} 条):\n\n"
+
                 for j, title_data in enumerate(source_data["titles"], 1):
                     title_data_copy = title_data.copy()
                     title_data_copy["is_new"] = False
@@ -1707,16 +1736,25 @@ class ReportGenerator:
                         title_data_copy, show_source=False
                     )
                     text_content += f"  {j}. {formatted_title}\n"
+
                 text_content += "\n"
+
+        # 渲染失败平台
         if report_data["failed_ids"]:
             if text_content and "暂无匹配" not in text_content:
                 text_content += f"\n---\n\n"
+
             text_content += "⚠️ **数据获取失败的平台：**\n\n"
             for i, id_value in enumerate(report_data["failed_ids"], 1):
                 text_content += f"  • **{id_value}**\n"
+
+        # 添加时间戳
         text_content += f"\n\n> 更新时间：{now.strftime('%Y-%m-%d %H:%M:%S')}"
+
+        # 版本更新提示
         if update_info:
             text_content += f"\n> TrendRadar 发现新版本 **{update_info['remote_version']}**，当前 **{update_info['current_version']}**"
+
         return text_content
 
     @staticmethod
@@ -1728,15 +1766,19 @@ class ReportGenerator:
     ) -> List[str]:
         """分批处理消息内容，确保词组标题+至少第一条新闻的完整性"""
         batches = []
+
+        # 基础信息构建
         total_titles = sum(
             len(stat["titles"]) for stat in report_data["stats"] if stat["count"] > 0
         )
         now = TimeHelper.get_beijing_time()
+
         base_header = ""
         if format_type == "wework":
             base_header = f"**总新闻数：** {total_titles}\n\n\n\n"
         elif format_type == "telegram":
             base_header = f"总新闻数： {total_titles}\n\n"
+
         base_footer = ""
         if format_type == "wework":
             base_footer = f"\n\n\n> 更新时间：{now.strftime('%Y-%m-%d %H:%M:%S')}"
@@ -1746,14 +1788,18 @@ class ReportGenerator:
             base_footer = f"\n\n更新时间：{now.strftime('%Y-%m-%d %H:%M:%S')}"
             if update_info:
                 base_footer += f"\nTrendRadar 发现新版本 {update_info['remote_version']}，当前 {update_info['current_version']}"
+
         stats_header = ""
         if report_data["stats"]:
             if format_type == "wework":
                 stats_header = "📊 **热点词汇统计**\n\n"
             elif format_type == "telegram":
                 stats_header = "📊 热点词汇统计\n\n"
+
         current_batch = base_header
         current_batch_has_content = False
+
+        # 空内容处理
         if (
             not report_data["stats"]
             and not report_data["new_titles"]
@@ -1763,8 +1809,12 @@ class ReportGenerator:
             final_content = base_header + simple_content + base_footer
             batches.append(final_content)
             return batches
+
+        # 处理热点词汇统计
         if report_data["stats"]:
             total_count = len(report_data["stats"])
+
+            # 添加统计标题
             test_content = current_batch + stats_header
             if (
                 len(test_content.encode("utf-8")) + len(base_footer.encode("utf-8"))
@@ -1777,10 +1827,14 @@ class ReportGenerator:
                     batches.append(current_batch + base_footer)
                 current_batch = base_header + stats_header
                 current_batch_has_content = True
+
+            # 逐个处理词组（确保词组标题+第一条新闻的原子性）
             for i, stat in enumerate(report_data["stats"]):
                 word = stat["word"]
                 count = stat["count"]
                 sequence_display = f"[{i + 1}/{total_count}]"
+
+                # 构建词组标题
                 word_header = ""
                 if format_type == "wework":
                     if count >= 10:
@@ -1802,6 +1856,8 @@ class ReportGenerator:
                         word_header = f"📈 {sequence_display} {word} : {count} 条\n\n"
                     else:
                         word_header = f"📌 {sequence_display} {word} : {count} 条\n\n"
+
+                # 构建第一条新闻
                 first_news_line = ""
                 if stat["titles"]:
                     first_title_data = stat["titles"][0]
@@ -1815,15 +1871,20 @@ class ReportGenerator:
                         )
                     else:
                         formatted_title = f"{first_title_data['title']}"
+
                     first_news_line = f"  1. {formatted_title}\n"
                     if len(stat["titles"]) > 1:
                         first_news_line += "\n"
+
+                # 原子性检查：词组标题+第一条新闻必须一起处理
                 word_with_first_news = word_header + first_news_line
                 test_content = current_batch + word_with_first_news
+
                 if (
                     len(test_content.encode("utf-8")) + len(base_footer.encode("utf-8"))
                     >= max_bytes
                 ):
+                    # 当前批次容纳不下，开启新批次
                     if current_batch_has_content:
                         batches.append(current_batch + base_footer)
                     current_batch = base_header + stats_header + word_with_first_news
@@ -1833,6 +1894,8 @@ class ReportGenerator:
                     current_batch = test_content
                     current_batch_has_content = True
                     start_index = 1
+
+                # 处理剩余新闻条目
                 for j in range(start_index, len(stat["titles"])):
                     title_data = stat["titles"][j]
                     if format_type == "wework":
@@ -1845,9 +1908,11 @@ class ReportGenerator:
                         )
                     else:
                         formatted_title = f"{title_data['title']}"
+
                     news_line = f"  {j + 1}. {formatted_title}\n"
                     if j < len(stat["titles"]) - 1:
                         news_line += "\n"
+
                     test_content = current_batch + news_line
                     if (
                         len(test_content.encode("utf-8"))
@@ -1863,12 +1928,15 @@ class ReportGenerator:
                     else:
                         current_batch = test_content
                         current_batch_has_content = True
+
+                # 词组间分隔符
                 if i < len(report_data["stats"]) - 1:
                     separator = ""
                     if format_type == "wework":
                         separator = f"\n\n\n\n"
                     elif format_type == "telegram":
                         separator = f"\n\n"
+
                     test_content = current_batch + separator
                     if (
                         len(test_content.encode("utf-8"))
@@ -1876,12 +1944,15 @@ class ReportGenerator:
                         < max_bytes
                     ):
                         current_batch = test_content
+
+        # 处理新增新闻（同样确保来源标题+第一条新闻的原子性）
         if report_data["new_titles"]:
             new_header = ""
             if format_type == "wework":
                 new_header = f"\n\n\n\n🆕 **本次新增热点新闻** (共 {report_data['total_new_count']} 条)\n\n"
             elif format_type == "telegram":
                 new_header = f"\n\n🆕 本次新增热点新闻 (共 {report_data['total_new_count']} 条)\n\n"
+
             test_content = current_batch + new_header
             if (
                 len(test_content.encode("utf-8")) + len(base_footer.encode("utf-8"))
@@ -1894,17 +1965,22 @@ class ReportGenerator:
             else:
                 current_batch = test_content
                 current_batch_has_content = True
+
+            # 逐个处理新增新闻来源
             for source_data in report_data["new_titles"]:
                 source_header = ""
                 if format_type == "wework":
                     source_header = f"**{source_data['source_alias']}** ({len(source_data['titles'])} 条):\n\n"
                 elif format_type == "telegram":
                     source_header = f"{source_data['source_alias']} ({len(source_data['titles'])} 条):\n\n"
+
+                # 构建第一条新增新闻
                 first_news_line = ""
                 if source_data["titles"]:
                     first_title_data = source_data["titles"][0]
                     title_data_copy = first_title_data.copy()
                     title_data_copy["is_new"] = False
+
                     if format_type == "wework":
                         formatted_title = ReportGenerator._format_title_wework(
                             title_data_copy, show_source=False
@@ -1915,9 +1991,13 @@ class ReportGenerator:
                         )
                     else:
                         formatted_title = f"{title_data_copy['title']}"
+
                     first_news_line = f"  1. {formatted_title}\n"
+
+                # 原子性检查：来源标题+第一条新闻
                 source_with_first_news = source_header + first_news_line
                 test_content = current_batch + source_with_first_news
+
                 if (
                     len(test_content.encode("utf-8")) + len(base_footer.encode("utf-8"))
                     >= max_bytes
@@ -1931,10 +2011,13 @@ class ReportGenerator:
                     current_batch = test_content
                     current_batch_has_content = True
                     start_index = 1
+
+                # 处理剩余新增新闻
                 for j in range(start_index, len(source_data["titles"])):
                     title_data = source_data["titles"][j]
                     title_data_copy = title_data.copy()
                     title_data_copy["is_new"] = False
+
                     if format_type == "wework":
                         formatted_title = ReportGenerator._format_title_wework(
                             title_data_copy, show_source=False
@@ -1945,7 +2028,9 @@ class ReportGenerator:
                         )
                     else:
                         formatted_title = f"{title_data_copy['title']}"
+
                     news_line = f"  {j + 1}. {formatted_title}\n"
+
                     test_content = current_batch + news_line
                     if (
                         len(test_content.encode("utf-8"))
@@ -1961,13 +2046,17 @@ class ReportGenerator:
                     else:
                         current_batch = test_content
                         current_batch_has_content = True
+
                 current_batch += "\n"
+
+        # 处理失败平台
         if report_data["failed_ids"]:
             failed_header = ""
             if format_type == "wework":
                 failed_header = f"\n\n\n\n⚠️ **数据获取失败的平台：**\n\n"
             elif format_type == "telegram":
                 failed_header = f"\n\n⚠️ 数据获取失败的平台：\n\n"
+
             test_content = current_batch + failed_header
             if (
                 len(test_content.encode("utf-8")) + len(base_footer.encode("utf-8"))
@@ -1980,6 +2069,7 @@ class ReportGenerator:
             else:
                 current_batch = test_content
                 current_batch_has_content = True
+
             for i, id_value in enumerate(report_data["failed_ids"], 1):
                 failed_line = f"  • {id_value}\n"
                 test_content = current_batch + failed_line
@@ -1994,8 +2084,11 @@ class ReportGenerator:
                 else:
                     current_batch = test_content
                     current_batch_has_content = True
+
+        # 完成最后批次
         if current_batch_has_content:
             batches.append(current_batch + base_footer)
+
         return batches
 
     @staticmethod
@@ -2011,9 +2104,13 @@ class ReportGenerator:
     ) -> Dict[str, bool]:
         """发送数据到多个webhook平台"""
         results = {}
+
+        # 数据处理层
         report_data = ReportGenerator._prepare_report_data(
             stats, failed_ids, new_titles, id_to_alias, hide_new_section
         )
+
+        # 获取环境变量中的webhook配置
         feishu_url = os.environ.get("FEISHU_WEBHOOK_URL", CONFIG["FEISHU_WEBHOOK_URL"])
         dingtalk_url = os.environ.get(
             "DINGTALK_WEBHOOK_URL", CONFIG["DINGTALK_WEBHOOK_URL"]
@@ -2025,19 +2122,28 @@ class ReportGenerator:
         telegram_chat_id = os.environ.get(
             "TELEGRAM_CHAT_ID", CONFIG["TELEGRAM_CHAT_ID"]
         )
+
         update_info_to_send = update_info if CONFIG["SHOW_VERSION_UPDATE"] else None
+
+        # 发送到飞书
         if feishu_url:
             results["feishu"] = ReportGenerator._send_to_feishu(
                 feishu_url, report_data, report_type, update_info_to_send, proxy_url
             )
+
+        # 发送到钉钉
         if dingtalk_url:
             results["dingtalk"] = ReportGenerator._send_to_dingtalk(
                 dingtalk_url, report_data, report_type, update_info_to_send, proxy_url
             )
+
+        # 发送到企业微信
         if wework_url:
             results["wework"] = ReportGenerator._send_to_wework(
                 wework_url, report_data, report_type, update_info_to_send, proxy_url
             )
+
+        # 发送到Telegram
         if telegram_token and telegram_chat_id:
             results["telegram"] = ReportGenerator._send_to_telegram(
                 telegram_token,
@@ -2047,8 +2153,10 @@ class ReportGenerator:
                 update_info_to_send,
                 proxy_url,
             )
+
         if not results:
             print("未配置任何webhook URL，跳过通知发送")
+
         return results
 
     @staticmethod
@@ -2061,10 +2169,12 @@ class ReportGenerator:
     ) -> bool:
         """发送到飞书"""
         headers = {"Content-Type": "application/json"}
+
         text_content = ReportGenerator._render_feishu_content(report_data, update_info)
         total_titles = sum(
             len(stat["titles"]) for stat in report_data["stats"] if stat["count"] > 0
         )
+
         now = TimeHelper.get_beijing_time()
         payload = {
             "msg_type": "text",
@@ -2075,7 +2185,11 @@ class ReportGenerator:
                 "text": text_content,
             },
         }
-        proxies = {"http": proxy_url, "https": proxy_url} if proxy_url else None
+
+        proxies = None
+        if proxy_url:
+            proxies = {"http": proxy_url, "https": proxy_url}
+
         try:
             response = requests.post(
                 webhook_url, headers=headers, json=payload, proxies=proxies, timeout=30
@@ -2102,9 +2216,11 @@ class ReportGenerator:
     ) -> bool:
         """发送到钉钉"""
         headers = {"Content-Type": "application/json"}
+
         text_content = ReportGenerator._render_dingtalk_content(
             report_data, update_info
         )
+
         payload = {
             "msgtype": "markdown",
             "markdown": {
@@ -2112,17 +2228,28 @@ class ReportGenerator:
                 "text": text_content,
             },
         }
-        proxies = {"http": proxy_url, "https": proxy_url} if proxy_url else None
+
+        proxies = None
+        if proxy_url:
+            proxies = {"http": proxy_url, "https": proxy_url}
+
         try:
             response = requests.post(
                 webhook_url, headers=headers, json=payload, proxies=proxies, timeout=30
             )
-            if response.status_code == 200 and response.json().get("errcode") == 0:
-                print(f"钉钉通知发送成功 [{report_type}]")
-                return True
+            if response.status_code == 200:
+                result = response.json()
+                if result.get("errcode") == 0:
+                    print(f"钉钉通知发送成功 [{report_type}]")
+                    return True
+                else:
+                    print(
+                        f"钉钉通知发送失败 [{report_type}]，错误：{result.get('errmsg')}"
+                    )
+                    return False
             else:
                 print(
-                    f"钉钉通知发送失败 [{report_type}]，状态码：{response.status_code}, 响应: {response.text}"
+                    f"钉钉通知发送失败 [{report_type}]，状态码：{response.status_code}"
                 )
                 return False
         except Exception as e:
@@ -2139,19 +2266,31 @@ class ReportGenerator:
     ) -> bool:
         """发送到企业微信（支持分批发送）"""
         headers = {"Content-Type": "application/json"}
-        proxies = {"http": proxy_url, "https": proxy_url} if proxy_url else None
+        proxies = None
+        if proxy_url:
+            proxies = {"http": proxy_url, "https": proxy_url}
+
+        # 获取分批内容
         batches = ReportGenerator._split_content_into_batches(
             report_data, "wework", update_info
         )
+
         print(f"企业微信消息分为 {len(batches)} 批次发送 [{report_type}]")
+
+        # 逐批发送
         for i, batch_content in enumerate(batches, 1):
             batch_size = len(batch_content.encode("utf-8"))
             print(
                 f"发送企业微信第 {i}/{len(batches)} 批次，大小：{batch_size} 字节 [{report_type}]"
             )
+
+            # 添加批次标识
             if len(batches) > 1:
-                batch_content = f"**[第 {i}/{len(batches)} 批次]**\n\n" + batch_content
+                batch_header = f"**[第 {i}/{len(batches)} 批次]**\n\n"
+                batch_content = batch_header + batch_content
+
             payload = {"msgtype": "markdown", "markdown": {"content": batch_content}}
+
             try:
                 response = requests.post(
                     webhook_url,
@@ -2160,15 +2299,23 @@ class ReportGenerator:
                     proxies=proxies,
                     timeout=30,
                 )
-                if response.status_code == 200 and response.json().get("errcode") == 0:
-                    print(
-                        f"企业微信第 {i}/{len(batches)} 批次发送成功 [{report_type}]"
-                    )
-                    if i < len(batches):
-                        time.sleep(CONFIG["BATCH_SEND_INTERVAL"])
+                if response.status_code == 200:
+                    result = response.json()
+                    if result.get("errcode") == 0:
+                        print(
+                            f"企业微信第 {i}/{len(batches)} 批次发送成功 [{report_type}]"
+                        )
+                        # 批次间间隔
+                        if i < len(batches):
+                            time.sleep(CONFIG["BATCH_SEND_INTERVAL"])
+                    else:
+                        print(
+                            f"企业微信第 {i}/{len(batches)} 批次发送失败 [{report_type}]，错误：{result.get('errmsg')}"
+                        )
+                        return False
                 else:
                     print(
-                        f"企业微信第 {i}/{len(batches)} 批次发送失败 [{report_type}]，状态码：{response.status_code}, 响应: {response.text}"
+                        f"企业微信第 {i}/{len(batches)} 批次发送失败 [{report_type}]，状态码：{response.status_code}"
                     )
                     return False
             except Exception as e:
@@ -2176,6 +2323,7 @@ class ReportGenerator:
                     f"企业微信第 {i}/{len(batches)} 批次发送出错 [{report_type}]：{e}"
                 )
                 return False
+
         print(f"企业微信所有 {len(batches)} 批次发送完成 [{report_type}]")
         return True
 
@@ -2189,38 +2337,60 @@ class ReportGenerator:
         proxy_url: Optional[str] = None,
     ) -> bool:
         """发送到Telegram（支持分批发送）"""
+        headers = {"Content-Type": "application/json"}
         url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
-        proxies = {"http": proxy_url, "https": proxy_url} if proxy_url else None
+
+        proxies = None
+        if proxy_url:
+            proxies = {"http": proxy_url, "https": proxy_url}
+
+        # 获取分批内容
         batches = ReportGenerator._split_content_into_batches(
             report_data, "telegram", update_info
         )
+
         print(f"Telegram消息分为 {len(batches)} 批次发送 [{report_type}]")
+
+        # 逐批发送
         for i, batch_content in enumerate(batches, 1):
             batch_size = len(batch_content.encode("utf-8"))
             print(
                 f"发送Telegram第 {i}/{len(batches)} 批次，大小：{batch_size} 字节 [{report_type}]"
             )
+
+            # 添加批次标识
             if len(batches) > 1:
-                batch_content = f"<b>[第 {i}/{len(batches)} 批次]</b>\n\n" + batch_content
+                batch_header = f"<b>[第 {i}/{len(batches)} 批次]</b>\n\n"
+                batch_content = batch_header + batch_content
+
             payload = {
                 "chat_id": chat_id,
                 "text": batch_content,
                 "parse_mode": "HTML",
                 "disable_web_page_preview": True,
             }
+
             try:
                 response = requests.post(
-                    url, json=payload, proxies=proxies, timeout=30
+                    url, headers=headers, json=payload, proxies=proxies, timeout=30
                 )
-                if response.status_code == 200 and response.json().get("ok"):
-                    print(
-                        f"Telegram第 {i}/{len(batches)} 批次发送成功 [{report_type}]"
-                    )
-                    if i < len(batches):
-                        time.sleep(CONFIG["BATCH_SEND_INTERVAL"])
+                if response.status_code == 200:
+                    result = response.json()
+                    if result.get("ok"):
+                        print(
+                            f"Telegram第 {i}/{len(batches)} 批次发送成功 [{report_type}]"
+                        )
+                        # 批次间间隔
+                        if i < len(batches):
+                            time.sleep(CONFIG["BATCH_SEND_INTERVAL"])
+                    else:
+                        print(
+                            f"Telegram第 {i}/{len(batches)} 批次发送失败 [{report_type}]，错误：{result.get('description')}"
+                        )
+                        return False
                 else:
                     print(
-                        f"Telegram第 {i}/{len(batches)} 批次发送失败 [{report_type}]，状态码：{response.status_code}, 响应: {response.text}"
+                        f"Telegram第 {i}/{len(batches)} 批次发送失败 [{report_type}]，状态码：{response.status_code}"
                     )
                     return False
             except Exception as e:
@@ -2228,6 +2398,7 @@ class ReportGenerator:
                     f"Telegram第 {i}/{len(batches)} 批次发送出错 [{report_type}]：{e}"
                 )
                 return False
+
         print(f"Telegram所有 {len(batches)} 批次发送完成 [{report_type}]")
         return True
 
@@ -2328,10 +2499,7 @@ class NewsAnalyzer:
             id_to_alias=id_to_alias,
         )
         print(f"当日HTML统计报告已生成: {html_file}")
- # --- 新增代码块开始 ---
-        if CONFIG["ENABLE_API_GENERATION"]:
-            api_file = ReportGenerator.generate_api_json(stats, is_daily=True)
-            print(f"当日API JSON文件已生成: {api_file}")
+
         # 检查通知配置
         has_webhook = any(
             [
@@ -2513,11 +2681,7 @@ class NewsAnalyzer:
             stats, total_titles, failed_ids, False, new_titles, id_to_alias
         )
         print(f"HTML报告已生成: {html_file}")
-# --- 新增代码块开始 ---
-        if CONFIG["ENABLE_API_GENERATION"]:
-            api_file = ReportGenerator.generate_api_json(stats, is_daily=False)
-            print(f"单次爬取API JSON文件已生成: {api_file}")
-        # --- 新增代码块结束 ---
+
         daily_html = self.generate_daily_summary()
 
         if not self.is_github_actions and html_file:
