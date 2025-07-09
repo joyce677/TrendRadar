@@ -2592,10 +2592,13 @@ class NewsAnalyzer:
             ("bilibili-hot-search", "bilibili 热搜"),
             ("cls-hot", "财联社热门"),
             ("ifeng", "凤凰网"),
-            "tieba",
-            "weibo",
-            "douyin",
-            "zhihu",
+            ("jin10", "金十数据"),
+            ("wallstreetcn-quick", "华尔街见闻-快讯"),
+            ("sputniknewscn&latest", "卫星通讯社"),
+            ("tieba", "贴吧"),
+            ("weibo", "微博"),
+            ("douyin", "抖音"),
+            ("zhihu", "知乎"),
         ]
 
         print(f"开始爬取数据，请求间隔 {self.request_interval} 毫秒")
