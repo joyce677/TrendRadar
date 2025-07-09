@@ -1145,6 +1145,43 @@ class ReportGenerator:
         
         return file_path
 
+    # --- 新增的、缺失的方法 ---
+    @staticmethod
+    def generate_html_report(
+        stats: List[Dict],
+        total_titles: int,
+        failed_ids: Optional[List] = None,
+        is_daily: bool = False,
+        new_titles: Optional[Dict] = None,
+        id_to_alias: Optional[Dict] = None,
+        hide_new_section: bool = False,
+    ) -> str:
+        """生成HTML报告文件"""
+        if is_daily:
+            filename = "daily_summary.html"
+        else:
+            filename = f"{TimeHelper.format_time_filename()}.html"
+        
+        # 将HTML文件保存在独立的 'html' 文件夹中，保持整洁
+        file_path = FileHelper.get_output_path("html", filename)
+
+        # 1. 准备报告所需的数据结构
+        report_data = ReportGenerator._prepare_report_data(
+            stats, failed_ids, new_titles, id_to_alias, hide_new_section
+        )
+        
+        # 2. 渲染成HTML字符串
+        html_content = ReportGenerator._render_html_content(
+            report_data, total_titles, is_daily
+        )
+
+        # 3. 写入文件
+        with open(file_path, "w", encoding="utf-8") as f:
+            f.write(html_content)
+
+        return file_path
+    # --- 方法补充结束 ---
+
     @staticmethod
     def _prepare_report_data(
         stats: List[Dict],
@@ -1269,11 +1306,11 @@ class ReportGenerator:
             text = str(text)
 
         return (
-            text.replace("&", "&amp;")
-            .replace("<", "&lt;")
-            .replace(">", "&gt;")
-            .replace('"', "&quot;")
-            .replace("'", "&#x27;")
+            text.replace("&", "&")
+            .replace("<", "<")
+            .replace(">", ">")
+            .replace('"', """)
+            .replace("'", "'")
         )
 
     @staticmethod
