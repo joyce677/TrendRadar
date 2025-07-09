@@ -16,6 +16,7 @@ import pytz
 CONFIG = {
     "VERSION": "1.4.1",
     "VERSION_CHECK_URL": "https://raw.githubusercontent.com/sansan0/TrendRadar/refs/heads/master/version",
+    "ENABLE_API_GENERATION": True,  # 新增：是否生成API JSON文件
     "SHOW_VERSION_UPDATE": True,  # 控制显示版本更新提示，改成 False 将不接受新版本提示
     "FEISHU_MESSAGE_SEPARATOR": "━━━━━━━━━━━━━━━━━━━",  # feishu消息分割线
     "REQUEST_INTERVAL": 1000,  # 请求间隔(毫秒)
@@ -1093,40 +1094,55 @@ class ReportGenerator:
     """报告生成器"""
 
     @staticmethod
-    def generate_html_report(
+    def generate_api_json(
         stats: List[Dict],
-        total_titles: int,
-        failed_ids: Optional[List] = None,
-        is_daily: bool = False,
-        new_titles: Optional[Dict] = None,
-        id_to_alias: Optional[Dict] = None,
+        is_daily: bool = False
     ) -> str:
-        """生成HTML报告"""
+        """
+        生成供API使用的JSON文件。
+        包含：排名、频率词、出现次数、相关标题等信息。
+        """
         if is_daily:
-            filename = "当日统计.html"
+            filename = "daily_summary.json"
         else:
-            filename = f"{TimeHelper.format_time_filename()}.html"
+            filename = f"{TimeHelper.format_time_filename()}.json"
 
-        file_path = FileHelper.get_output_path("html", filename)
+        # 将API文件保存在独立的 'api' 文件夹中
+        file_path = FileHelper.get_output_path("api", filename)
 
-        # 数据处理层
-        report_data = ReportGenerator._prepare_report_data(
-            stats, failed_ids, new_titles, id_to_alias
-        )
+        api_data = []
+        # stats 列表已经按出现次数排好序，所以其索引+1就是排名
+        for rank, stat in enumerate(stats, 1):
+            if stat["count"] <= 0:
+                continue
 
-        # 渲染层
-        html_content = ReportGenerator._render_html_content(
-            report_data, total_titles, is_daily
-        )
+            # 清理和格式化相关标题列表
+            related_titles = []
+            for title_data in stat["titles"]:
+                related_titles.append({
+                    "title": DataProcessor.clean_title(title_data["title"]),
+                    "source": title_data["source_alias"],
+                    "ranks_on_source": title_data["ranks"],
+                    "appearances": title_data["count"],
+                    "url": title_data.get("url", ""),
+                    "mobileUrl": title_data.get("mobileUrl", ""),
+                    "is_new": title_data.get("is_new", False),
+                    "first_seen": title_data.get("first_time", ""),
+                    "last_seen": title_data.get("last_time", ""),
+                })
+            
+            # 构建单个频率词的API对象
+            api_data.append({
+                "rank": rank,
+                "frequency_word": stat["word"],
+                "occurrence_count": stat["count"],
+                "related_titles": related_titles
+            })
 
-        with open(file_path, "w", encoding="utf-8") as f:
-            f.write(html_content)
-
-        if is_daily:
-            root_file_path = Path("index.html")
-            with open(root_file_path, "w", encoding="utf-8") as f:
-                f.write(html_content)
-
+        # 写入JSON文件
+        with open(file_path, 'w', encoding='utf-8') as f:
+            json.dump(api_data, f, ensure_ascii=False, indent=2)
+        
         return file_path
 
     @staticmethod
@@ -2499,7 +2515,10 @@ class NewsAnalyzer:
             id_to_alias=id_to_alias,
         )
         print(f"当日HTML统计报告已生成: {html_file}")
-
+ # --- 新增代码块开始 ---
+        if CONFIG["ENABLE_API_GENERATION"]:
+            api_file = ReportGenerator.generate_api_json(stats, is_daily=True)
+            print(f"当日API JSON文件已生成: {api_file}")
         # 检查通知配置
         has_webhook = any(
             [
@@ -2681,7 +2700,11 @@ class NewsAnalyzer:
             stats, total_titles, failed_ids, False, new_titles, id_to_alias
         )
         print(f"HTML报告已生成: {html_file}")
-
+# --- 新增代码块开始 ---
+        if CONFIG["ENABLE_API_GENERATION"]:
+            api_file = ReportGenerator.generate_api_json(stats, is_daily=False)
+            print(f"单次爬取API JSON文件已生成: {api_file}")
+        # --- 新增代码块结束 ---
         daily_html = self.generate_daily_summary()
 
         if not self.is_github_actions and html_file:
