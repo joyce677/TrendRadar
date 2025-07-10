@@ -5,7 +5,6 @@ import time
 import random
 import re
 from datetime import datetime
-from flask import Flask, jsonify
 import argparse
 import webbrowser
 from typing import Dict, List, Tuple, Optional, Union
@@ -2404,7 +2403,67 @@ class ReportGenerator:
         print(f"Telegram所有 {len(batches)} 批次发送完成 [{report_type}]")
         return True
 
-
+def save_trends_to_json_file(analyzer: "NewsAnalyzer", output_path: str):
+    """
+    获取趋势数据并将其保存为静态的 JSON 文件。
+    """
+    # 这一部分和之前写的 get_trend_data 逻辑完全一样
+    print("生成静态API文件：开始获取和分析数据...")
+    ids = [
+        ("toutiao", "今日头条"), ("baidu", "百度热搜"), ("wallstreetcn-hot", "华尔街见闻"),
+        ("thepaper", "澎湃新闻"), ("bilibili-hot-search", "bilibili 热搜"), ("cls-hot", "财联社热门"),
+        ("ifeng", "凤凰网"), ("jin10", "金十数据"), ("wallstreetcn-quick", "华尔街见闻-快讯"),
+        ("tieba", "贴吧"), ("weibo", "微博"), ("douyin", "抖音"), ("zhihu", "知乎"),
+    ]
+    results, id_to_alias, failed_ids = analyzer.data_fetcher.crawl_websites(
+        ids, analyzer.request_interval
+    )
+    DataProcessor.save_titles_to_file(results, id_to_alias, failed_ids)
+    new_titles = DataProcessor.detect_latest_new_titles(id_to_alias)
+    word_groups, filter_words = DataProcessor.load_frequency_words()
+    stats, total_titles = StatisticsCalculator.count_word_frequency(
+        results,
+        word_groups,
+        filter_words,
+        id_to_alias,
+        rank_threshold=analyzer.rank_threshold,
+        new_titles=new_titles,
+        focus_new_only=CONFIG["FOCUS_NEW_ONLY"],
+    )
+    api_response = {
+        "generated_at": TimeHelper.get_beijing_time().isoformat(),
+        "total_titles_processed": total_titles,
+        "failed_sources": failed_ids,
+        "trends": []
+    }
+    for stat in stats:
+        if stat['count'] > 0:
+            trend_item = {
+                "keyword_group": stat['word'],
+                "match_count": stat['count'],
+                "titles": []
+            }
+            for title_data in stat['titles']:
+                trend_item['titles'].append({
+                    "title": DataProcessor.clean_title(title_data['title']),
+                    "url": title_data.get('mobileUrl') or title_data.get('url'),
+                    "source": title_data.get('source_alias'),
+                    "ranks": title_data.get('ranks', []),
+                    "is_new": title_data.get('is_new', False),
+                    "appearance_count": title_data.get('count', 1),
+                    "time_info": title_data.get('time_display', '')
+                })
+            api_response['trends'].append(trend_item)
+    
+    # 确保输出目录存在
+    output_dir = Path(output_path).parent
+    output_dir.mkdir(parents=True, exist_ok=True)
+    
+    # 将格式化后的数据写入JSON文件
+    with open(output_path, 'w', encoding='utf-8') as f:
+        json.dump(api_response, f, ensure_ascii=False, indent=2)
+    
+    print(f"静态API文件已成功生成: {output_path}")
 class NewsAnalyzer:
     """新闻分析器"""
 
@@ -2685,7 +2744,8 @@ class NewsAnalyzer:
         print(f"HTML报告已生成: {html_file}")
 
         daily_html = self.generate_daily_summary()
-
+        api_file_path = "output/api/trends.json" 
+        save_trends_to_json_file(self, api_file_path)
         if not self.is_github_actions and html_file:
             file_url = "file://" + str(Path(html_file).resolve())
             print(f"正在打开HTML报告: {file_url}")
@@ -2695,93 +2755,7 @@ class NewsAnalyzer:
                 daily_url = "file://" + str(Path(daily_html).resolve())
                 print(f"正在打开当日统计报告: {daily_url}")
                 webbrowser.open(daily_url)
-def get_trend_data(analyzer: "NewsAnalyzer") -> dict:
-    """
-    封装核心的数据获取和分析逻辑，供API调用。
-    返回一个可序列化为JSON的字典。
-    """
-    print("API请求：开始获取和分析数据...")
-    
-    # 1. 爬取数据
-    ids = [
-        ("toutiao", "今日头条"), ("baidu", "百度热搜"), ("wallstreetcn-hot", "华尔街见闻"),
-        ("thepaper", "澎湃新闻"), ("bilibili-hot-search", "bilibili 热搜"), ("cls-hot", "财联社热门"),
-        ("ifeng", "凤凰网"), ("jin10", "金十数据"), ("wallstreetcn-quick", "华尔街见闻-快讯"),
-        ("tieba", "贴吧"), ("weibo", "微博"), ("douyin", "抖音"), ("zhihu", "知乎"),
-    ]
-    results, id_to_alias, failed_ids = analyzer.data_fetcher.crawl_websites(
-        ids, analyzer.request_interval
-    )
 
-    # 2. 保存当次文件并检测新增
-    # 注意：API模式下，每次请求都是独立的，因此每次都会保存文件
-    DataProcessor.save_titles_to_file(results, id_to_alias, failed_ids)
-    new_titles = DataProcessor.detect_latest_new_titles(id_to_alias)
-
-    # 3. 统计词频
-    word_groups, filter_words = DataProcessor.load_frequency_words()
-    stats, total_titles = StatisticsCalculator.count_word_frequency(
-        results,
-        word_groups,
-        filter_words,
-        id_to_alias,
-        rank_threshold=analyzer.rank_threshold,
-        new_titles=new_titles,
-        focus_new_only=CONFIG["FOCUS_NEW_ONLY"],
-    )
-
-    # 4. 格式化输出
-    api_response = {
-        "generated_at": TimeHelper.get_beijing_time().isoformat(),
-        "total_titles_processed": total_titles,
-        "failed_sources": failed_ids,
-        "trends": []
-    }
-
-    for stat in stats:
-        if stat['count'] > 0:
-            trend_item = {
-                "keyword_group": stat['word'],
-                "match_count": stat['count'],
-                "titles": []
-            }
-            for title_data in stat['titles']:
-                trend_item['titles'].append({
-                    "title": DataProcessor.clean_title(title_data['title']),
-                    "url": title_data.get('mobileUrl') or title_data.get('url'),
-                    "source": title_data.get('source_alias'),
-                    "ranks": title_data.get('ranks', []),
-                    "is_new": title_data.get('is_new', False),
-                    "appearance_count": title_data.get('count', 1),
-                    "time_info": title_data.get('time_display', '')
-                })
-            api_response['trends'].append(trend_item)
-
-    print("API请求：数据处理完成。")
-    return api_response
-
-
-if Flask:
-    app = Flask(__name__)
-
-    @app.route('/api/trends', methods=['GET'])
-    def trends_api():
-        """
-        提供趋势数据的API端点。
-        """
-        # 每次请求都创建一个新的分析器实例，以确保获取最新配置和数据
-        analyzer = NewsAnalyzer(
-            request_interval=CONFIG["REQUEST_INTERVAL"],
-            report_type=CONFIG["REPORT_TYPE"],
-            rank_threshold=CONFIG["RANK_THRESHOLD"],
-        )
-        
-        try:
-            data = get_trend_data(analyzer)
-            return jsonify(data)
-        except Exception as e:
-            print(f"API处理时发生错误: {e}")
-            return jsonify({"error": "内部服务器错误", "message": str(e)}), 500
 
 def main():
     # 在文件顶部增加 import argparse
