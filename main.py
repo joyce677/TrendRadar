@@ -5,6 +5,8 @@ import time
 import random
 import re
 from datetime import datetime
+from flask import Flask, jsonify
+import argparse
 import webbrowser
 from typing import Dict, List, Tuple, Optional, Union
 from pathlib import Path
@@ -2693,15 +2695,120 @@ class NewsAnalyzer:
                 daily_url = "file://" + str(Path(daily_html).resolve())
                 print(f"正在打开当日统计报告: {daily_url}")
                 webbrowser.open(daily_url)
+def get_trend_data(analyzer: "NewsAnalyzer") -> dict:
+    """
+    封装核心的数据获取和分析逻辑，供API调用。
+    返回一个可序列化为JSON的字典。
+    """
+    print("API请求：开始获取和分析数据...")
+    
+    # 1. 爬取数据
+    ids = [
+        ("toutiao", "今日头条"), ("baidu", "百度热搜"), ("wallstreetcn-hot", "华尔街见闻"),
+        ("thepaper", "澎湃新闻"), ("bilibili-hot-search", "bilibili 热搜"), ("cls-hot", "财联社热门"),
+        ("ifeng", "凤凰网"), ("jin10", "金十数据"), ("wallstreetcn-quick", "华尔街见闻-快讯"),
+        ("tieba", "贴吧"), ("weibo", "微博"), ("douyin", "抖音"), ("zhihu", "知乎"),
+    ]
+    results, id_to_alias, failed_ids = analyzer.data_fetcher.crawl_websites(
+        ids, analyzer.request_interval
+    )
 
+    # 2. 保存当次文件并检测新增
+    # 注意：API模式下，每次请求都是独立的，因此每次都会保存文件
+    DataProcessor.save_titles_to_file(results, id_to_alias, failed_ids)
+    new_titles = DataProcessor.detect_latest_new_titles(id_to_alias)
+
+    # 3. 统计词频
+    word_groups, filter_words = DataProcessor.load_frequency_words()
+    stats, total_titles = StatisticsCalculator.count_word_frequency(
+        results,
+        word_groups,
+        filter_words,
+        id_to_alias,
+        rank_threshold=analyzer.rank_threshold,
+        new_titles=new_titles,
+        focus_new_only=CONFIG["FOCUS_NEW_ONLY"],
+    )
+
+    # 4. 格式化输出
+    api_response = {
+        "generated_at": TimeHelper.get_beijing_time().isoformat(),
+        "total_titles_processed": total_titles,
+        "failed_sources": failed_ids,
+        "trends": []
+    }
+
+    for stat in stats:
+        if stat['count'] > 0:
+            trend_item = {
+                "keyword_group": stat['word'],
+                "match_count": stat['count'],
+                "titles": []
+            }
+            for title_data in stat['titles']:
+                trend_item['titles'].append({
+                    "title": DataProcessor.clean_title(title_data['title']),
+                    "url": title_data.get('mobileUrl') or title_data.get('url'),
+                    "source": title_data.get('source_alias'),
+                    "ranks": title_data.get('ranks', []),
+                    "is_new": title_data.get('is_new', False),
+                    "appearance_count": title_data.get('count', 1),
+                    "time_info": title_data.get('time_display', '')
+                })
+            api_response['trends'].append(trend_item)
+
+    print("API请求：数据处理完成。")
+    return api_response
+
+
+if Flask:
+    app = Flask(__name__)
+
+    @app.route('/api/trends', methods=['GET'])
+    def trends_api():
+        """
+        提供趋势数据的API端点。
+        """
+        # 每次请求都创建一个新的分析器实例，以确保获取最新配置和数据
+        analyzer = NewsAnalyzer(
+            request_interval=CONFIG["REQUEST_INTERVAL"],
+            report_type=CONFIG["REPORT_TYPE"],
+            rank_threshold=CONFIG["RANK_THRESHOLD"],
+        )
+        
+        try:
+            data = get_trend_data(analyzer)
+            return jsonify(data)
+        except Exception as e:
+            print(f"API处理时发生错误: {e}")
+            return jsonify({"error": "内部服务器错误", "message": str(e)}), 500
 
 def main():
-    analyzer = NewsAnalyzer(
-        request_interval=CONFIG["REQUEST_INTERVAL"],
-        report_type=CONFIG["REPORT_TYPE"],
-        rank_threshold=CONFIG["RANK_THRESHOLD"],
+    # 在文件顶部增加 import argparse
+    parser = argparse.ArgumentParser(description="TrendRadar: 新闻热点分析工具。")
+    parser.add_argument(
+        '--serve-api',
+        action='store_true',
+        help='以API服务器模式运行，监听在 http://0.0.0.0:5001'
     )
-    analyzer.run()
+    args = parser.parse_args()
+
+    if args.serve_api:
+        if Flask is None:
+            print("无法启动API服务器，因为 Flask 模块未安装。")
+            return
+        print("以API服务器模式启动...")
+        # 您可以修改 host 和 port
+        app.run(host='0.0.0.0', port=5001, debug=False)
+    else:
+        # 这是原有的脚本执行逻辑
+        print("以单次脚本模式运行...")
+        analyzer = NewsAnalyzer(
+            request_interval=CONFIG["REQUEST_INTERVAL"],
+            report_type=CONFIG["REPORT_TYPE"],
+            rank_threshold=CONFIG["RANK_THRESHOLD"],
+        )
+        analyzer.run()
 
 
 if __name__ == "__main__":
