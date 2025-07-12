@@ -1,0 +1,111 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>频率词统计报告</title>
+            <style>
+                body { font-family: Arial, sans-serif; margin: 20px; }
+                h1, h2 { color: #333; }
+                table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+                th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+                th { background-color: #f2f2f2; }
+                tr:nth-child(even) { background-color: #f9f9f9; }
+                .word { font-weight: bold; }
+                .count { text-align: center; }
+                .percentage { text-align: center; }
+                .titles { max-width: 500px; }
+                .source { color: #666; font-style: italic; }
+                .error { color: #d9534f; }
+                .news-link { 
+                    color: #007bff; 
+                    text-decoration: none; 
+                    border-bottom: 1px dotted #007bff;
+                }
+                .news-link:hover { 
+                    color: #0056b3; 
+                    text-decoration: underline; 
+                }
+                .news-link:visited { 
+                    color: #6f42c1; 
+                }
+                .no-link { 
+                    color: #333; 
+                }
+                .new-title {
+                    background-color: #fff3cd;
+                    border: 1px solid #ffc107;
+                    border-radius: 3px;
+                    padding: 2px 6px;
+                    margin: 2px 0;
+                }
+                .new-section {
+                    background-color: #d1ecf1;
+                    border: 1px solid #bee5eb;
+                    border-radius: 5px;
+                    padding: 10px;
+                    margin-top: 10px;
+                }
+                .new-section h3 {
+                    color: #0c5460;
+                    margin-top: 0;
+                }
+            </style>
+        </head>
+        <body>
+            <h1>频率词统计报告</h1>
+        <p>总标题数: 315</p><p>生成时间: 2025-07-12 12:20:33</p>
+            <table>
+                <tr>
+                    <th>排名</th>
+                    <th>频率词</th>
+                    <th>出现次数</th>
+                    <th>占比</th>
+                    <th>相关标题</th>
+                </tr>
+        
+                <tr>
+                    <td>1</td>
+                    <td class="word">特朗普</td>
+                    <td class="count">9</td>
+                    <td class="percentage">2.86%</td>
+                    <td class="titles">[华尔街见闻] <a href="https://wallstreetcn.com/articles/3750882" target="_blank" class="news-link">特朗普“对等关税2.0”全面开战</a> <font color='red'><strong>[2]</strong></font> <font color='grey'>- 12时20分</font><br>[凤凰网] <a href="https://news.ifeng.com/c/8kv8erPAO9J" target="_blank" class="news-link">鲁比奥：与王毅的会晤富有成效，特朗普希望访华能成行</a> <font color='red'><strong>[2]</strong></font> <font color='grey'>- 12时20分</font><br>[凤凰网] <a href="https://news.ifeng.com/c/8kuXnW3FGWW" target="_blank" class="news-link">50%关税是巴西“躺枪”？美媒：特朗普看到金砖“去美元”就气</a> [7] <font color='grey'>- 12时20分</font><br>[财联社热门] <a href="https://www.cls.cn/detail/2083365" target="_blank" class="news-link">美联储鸽派票委警告：特朗普最新一轮关税威胁恐推迟降息进程！</a> [8] <font color='grey'>- 12时20分</font><br>[凤凰网] <a href="https://news.ifeng.com/c/8kvCND5i4mY" target="_blank" class="news-link">特朗普透露援乌新模式</a> [9] <font color='grey'>- 12时20分</font><br>[知乎] <a href="https://www.zhihu.com/question/1926937209438705281" target="_blank" class="news-link">特朗普宣布 8 月 1 日起对加拿大进口商品征收 35% 关税，美元兑加元出现波动，将产生哪些影响？</a> [14] <font color='grey'>- 12时20分</font><br>[澎湃新闻] <a href="https://m.thepaper.cn/newsDetail_forward_31160853" target="_blank" class="news-link">石破茂“喊话”特朗普：依赖美国不等于言听计从！日本不能让人小瞧了</a> [15] <font color='grey'>- 12时20分</font><br>[金十数据] <a href="https://flash.jin10.com/detail/20250712093347712800" target="_blank" class="news-link">消息人士：特朗普50%的铜关税将涵盖精炼铜</a> [17] <font color='grey'>- 12时20分</font><br>[百度热搜] <a href="https://www.baidu.com/s?wd=%E4%BF%84%E7%BD%97%E6%96%AF%EF%BC%9A%E7%AD%89%E5%BE%85%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E8%A1%A8%E2%80%9C%E9%87%8D%E5%A4%A7%E5%A3%B0%E6%98%8E%E2%80%9D" target="_blank" class="news-link">俄罗斯：等待特朗普发表“重大声明”</a> [25] <font color='grey'>- 12时20分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>2</td>
+                    <td class="word">谷歌 google gemini</td>
+                    <td class="count">3</td>
+                    <td class="percentage">0.95%</td>
+                    <td class="titles">[金十数据] <a href="https://flash.jin10.com/detail/20250712101514204800" target="_blank" class="news-link">美媒：谷歌斥资24亿美元购买Windsurf技术授权，并聘请其CEO</a> [14] <font color='grey'>- 12时20分</font><br>[金十数据] <a href="https://flash.jin10.com/detail/20250712100743298800" target="_blank" class="news-link">据华尔街日报：谷歌(GOOG.O)已同意支付约24亿美元，获得人工智能编码初创公司Windsurf的技术授权，并聘用其首席执行官和部分员工。</a> [15] <font color='grey'>- 12时20分</font><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2941269" target="_blank" class="news-link">谷歌据悉斥资24亿美元收购AI初创公司Windsurf资产和人员，此前消息称OpenAI以30亿美元收购Windsurf的计划告吹。（彭博）</a> [15] <font color='grey'>- 12时20分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>3</td>
+                    <td class="word">美股</td>
+                    <td class="count">2</td>
+                    <td class="percentage">0.63%</td>
+                    <td class="titles">[财联社热门] <a href="https://www.cls.cn/detail/2083346" target="_blank" class="news-link">美股收盘：三大指数集体下跌 白银股逆市走强 英伟达继续新高</a> <font color='red'><strong>[5]</strong></font> <font color='grey'>- 12时20分</font><br>[财联社热门] <a href="https://www.cls.cn/detail/2083178" target="_blank" class="news-link">特朗普加码贸易攻势 美股期指全线下跌 | 今夜看点</a> [10] <font color='grey'>- 12时20分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>4</td>
+                    <td class="word">DeepSeek 梁文锋</td>
+                    <td class="count">1</td>
+                    <td class="percentage">0.32%</td>
+                    <td class="titles">[知乎] <a href="https://www.zhihu.com/question/1926047696361329190" target="_blank" class="news-link">据国外媒体报道 DeepSeek 用户使用率半年暴跌 94% 下滑至 3%，是否属实？原因为何？</a> [7] <font color='grey'>- 12时20分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>5</td>
+                    <td class="word">chatgpt openai</td>
+                    <td class="count">1</td>
+                    <td class="percentage">0.32%</td>
+                    <td class="titles">[金十数据] <a href="https://flash.jin10.com/detail/20250712090704667800" target="_blank" class="news-link">OpenAI首席执行官Sam Altman：我们将推迟开放式权重模型的发布，我们需要时间进行额外的安全测试并审查高风险区域。</a> [21] <font color='grey'>- 12时20分</font></td>
+                </tr>
+            
+            </table>
+        
+        </body>
+        </html>
+        
