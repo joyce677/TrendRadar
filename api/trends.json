@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-07-16T13:15:12.055580+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-07-16T13:58:44.486672+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 9,
       "titles": [
         {
           "title": "共和党议员反水！特朗普支持的加密监管法案遭遇重大挫败，众议院程序性表决失败",
@@ -67,17 +67,6 @@
           "url": "https://wallstreetcn.com/articles/3751174",
           "source": "华尔街见闻",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "特朗普称与越南敲定关税协议",
-          "url": "https://www.douyin.com/hot/2168855",
-          "source": "抖音",
-          "ranks": [
             10
           ],
           "is_new": false,
@@ -89,9 +78,20 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31184952",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            14
           ],
           "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "博主：特朗普关税牌打光扛不住了",
+          "url": "https://www.toutiao.com/trending/7527513453410389547/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -100,29 +100,7 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E6%9D%A5%E8%B4%A2%E4%B9%8B%E9%81%93",
           "source": "bilibili 热搜",
           "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "特朗普称与越南关税协议基本敲定",
-          "url": "https://www.toutiao.com/trending/7526912501154807850/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "特朗普：不应将莫斯科作为攻击目标",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E5%BA%94%E5%B0%86%E8%8E%AB%E6%96%AF%E7%A7%91%E4%BD%9C%E4%B8%BA%E6%94%BB%E5%87%BB%E7%9B%AE%E6%A0%87",
-          "source": "百度热搜",
-          "ranks": [
-            27
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -135,13 +113,13 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "伊朗扣押一艘外国油轮，指控其走私200万升燃料。",
-          "url": "https://flash.jin10.com/detail/20250716125530754800",
-          "source": "金十数据",
+          "title": "中国外交部长王毅会见伊朗外长阿拉格奇",
+          "url": "https://wallstreetcn.com/livenews/2943153",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -150,7 +128,7 @@
           "url": "https://wallstreetcn.com/livenews/2943125",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -161,7 +139,7 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E6%96%87%E5%8C%96%E4%B8%BB%E4%BD%93%E6%80%A7%E6%8E%A2%E7%B4%A2%E4%B9%8B%E8%B7%AF",
           "source": "bilibili 热搜",
           "ranks": [
-            22
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -198,23 +176,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "市场消息：OpenAI表示，已发现ChatGPT用户正在经历错误率升高的问题，公司团队正在努力实施缓解措施。",
-          "url": "https://flash.jin10.com/detail/20250716121912261800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -223,7 +184,7 @@
           "url": "https://m.weibo.cn/search?containerid=231522type%3D1%26q%3D%E9%87%91%E4%BB%B7&_T_WM=16922097837&v_p=42",
           "source": "微博",
           "ranks": [
-            4
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
