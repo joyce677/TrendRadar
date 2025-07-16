@@ -1,16 +1,27 @@
 {
-  "generated_at": "2025-07-16T13:58:44.486672+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2025-07-16T14:44:22.259377+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "共和党议员反水！特朗普支持的加密监管法案遭遇重大挫败，众议院程序性表决失败",
           "url": "https://wallstreetcn.com/articles/3751181",
           "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "“CPI之夜”谁赢了？特朗普再催降息 但市场正站队鲍威尔……",
+          "url": "https://www.cls.cn/detail/2086522",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
@@ -52,17 +63,6 @@
           "time_info": ""
         },
         {
-          "title": "“CPI之夜”谁赢了？特朗普再催降息 但市场正站队鲍威尔……",
-          "url": "https://www.cls.cn/detail/2086522",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
           "title": "特朗普称与印尼达成协议，美国将征19%关税，低于上周威胁水平",
           "url": "https://wallstreetcn.com/articles/3751174",
           "source": "华尔街见闻",
@@ -78,9 +78,20 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31184952",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            12
           ],
           "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特朗普想动鲍威尔？小摩CEO戴蒙发声护航美联储",
+          "url": "https://www.cls.cn/detail/2086387",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -89,59 +100,31 @@
           "url": "https://www.toutiao.com/trending/7527513453410389547/",
           "source": "今日头条",
           "ranks": [
-            23
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特朗普访华时间确定？学者解读",
+          "url": "https://www.toutiao.com/trending/7527507157214826026/",
+          "source": "今日头条",
+          "ranks": [
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
         {
-          "title": "特朗普的来财之道",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%9A%84%E6%9D%A5%E8%B4%A2%E4%B9%8B%E9%81%93",
-          "source": "bilibili 热搜",
+          "title": "印尼总统普拉博沃：与美国总统特朗普进行了一次非常良好的通话。",
+          "url": "https://flash.jin10.com/detail/20250716135904223800",
+          "source": "金十数据",
           "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "中国外交部长王毅会见伊朗外长阿拉格奇",
-          "url": "https://wallstreetcn.com/livenews/2943153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
+            30
           ],
           "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "王毅会见伊朗外长阿拉格奇",
-          "url": "https://wallstreetcn.com/livenews/2943125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "伊朗文化主体性探索之路",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E6%96%87%E5%8C%96%E4%B8%BB%E4%BD%93%E6%80%A7%E6%8E%A2%E7%B4%A2%E4%B9%8B%E8%B7%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         }
@@ -184,7 +167,24 @@
           "url": "https://m.weibo.cn/search?containerid=231522type%3D1%26q%3D%E9%87%91%E4%BB%B7&_T_WM=16922097837&v_p=42",
           "source": "微博",
           "ranks": [
-            6
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国外交部长王毅会见伊朗外长阿拉格奇",
+          "url": "https://wallstreetcn.com/livenews/2943153",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
