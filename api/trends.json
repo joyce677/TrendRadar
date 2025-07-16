@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-07-17T07:28:56.373928+08:00",
+  "generated_at": "2025-07-17T07:57:56.286621+08:00",
   "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 12,
       "titles": [
         {
           "title": "报道称特朗普起草解雇鲍威尔信函，特朗普否认免职传闻、但暗示正当理由可行",
@@ -13,6 +13,28 @@
           "source": "华尔街见闻",
           "ranks": [
             1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "美国总统特朗普：已正式解除对加州“毫无前途的高铁项目”过高成本的资金支持。",
+          "url": "https://flash.jin10.com/detail/20250717073007816800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特朗普：美国人知道，我们需要更好的医疗保健系统。 不会把联邦资金花在加州高铁上。",
+          "url": "https://wallstreetcn.com/livenews/2943681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -41,9 +63,9 @@
           "time_info": ""
         },
         {
-          "title": "美国纽约联储主席威廉姆斯：如果不是因为（总统特朗普挑起的）关税的话，美国通胀率已经被（美联储）降低至2%这个目标。 仍然存在基础通胀放缓现象。",
-          "url": "https://wallstreetcn.com/livenews/2943666",
-          "source": "华尔街见闻-快讯",
+          "title": "白宫与议员放风“很快解雇鲍威尔”，特朗普回应：暂无行动计划",
+          "url": "https://www.cls.cn/detail/2087594",
+          "source": "财联社热门",
           "ranks": [
             9
           ],
@@ -52,9 +74,9 @@
           "time_info": ""
         },
         {
-          "title": "白宫与议员放风“很快解雇鲍威尔”，特朗普回应：暂无行动计划",
-          "url": "https://www.cls.cn/detail/2087594",
-          "source": "财联社热门",
+          "title": "特朗普：暂时没打算解雇美联储主席",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%9A%82%E6%97%B6%E6%B2%A1%E6%89%93%E7%AE%97%E8%A7%A3%E9%9B%87%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
+          "source": "百度热搜",
           "ranks": [
             10
           ],
@@ -78,20 +100,31 @@
           "url": "https://m.weibo.cn/search?containerid=231522type%3D1%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E8%A2%AB%E6%8B%8D%E5%88%B0%E7%94%A8%E9%81%AE%E7%91%95%E8%86%8F%E9%81%AE%E6%89%8B%E8%83%8C%E7%98%80%E4%BC%A4%23&_T_WM=16922097837&v_p=42",
           "source": "微博",
           "ranks": [
-            12
+            11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
         {
-          "title": "美国参议院共和党领袖图恩：特朗普可能将解雇鲍威尔的决定建立在市场之上。",
-          "url": "https://flash.jin10.com/detail/20250717063012499800",
-          "source": "金十数据",
+          "title": "美国纽约联储主席威廉姆斯：如果不是因为（总统特朗普挑起的）关税的话，美国通胀率已经被（美联储）降低至2%这个目标。 仍然存在基础通胀放缓现象。",
+          "url": "https://wallstreetcn.com/livenews/2943666",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            15
           ],
           "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "马斯克与特朗普争执后更换手机号",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%89%E6%89%A7%E5%90%8E%E6%9B%B4%E6%8D%A2%E6%89%8B%E6%9C%BA%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -100,95 +133,7 @@
           "url": "https://wallstreetcn.com/livenews/2943654",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "美国总统特朗普：将为150个国家发布一个单一关税数字。",
-          "url": "https://flash.jin10.com/detail/20250717062859125800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "美国总统特朗普：目前的关税水平仅仅是开始。",
-          "url": "https://flash.jin10.com/detail/20250717062827681800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "美国总统特朗普：但如果鲍威尔想要辞职，我也会感到乐意。",
-          "url": "https://wallstreetcn.com/livenews/2943649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "特朗普：将对150个国家设定10%或15%的统一关税",
-          "url": "https://wallstreetcn.com/livenews/2943647",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "美国总统特朗普：将对汽车、钢铁和木材征收关税。",
-          "url": "https://flash.jin10.com/detail/20250717062348134800",
-          "source": "金十数据",
-          "ranks": [
             27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "美国总统特朗普：8月1日的关税政策将非常重大。",
-          "url": "https://flash.jin10.com/detail/20250717062256559800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "美国参议院民主党成员、反垄断斗士Warren：加密数字货币监管已经由行业编写。 （总统特朗普）对监管的调整可能会破坏纽交所的价值。",
-          "url": "https://wallstreetcn.com/livenews/2943643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "美国总统特朗普：可能对较小国家征收10%或15%的关税。",
-          "url": "https://flash.jin10.com/detail/20250717061958014800",
-          "source": "金十数据",
-          "ranks": [
-            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -198,25 +143,14 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "温和通胀难压关税担忧，美股涨跌互现，英伟达涨4%，中概跑赢大盘，比特币下挫3%",
-          "url": "https://wallstreetcn.com/articles/3751139",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
         {
           "title": "鲍威尔解雇传闻一度引发市场混乱，美股先跌后涨，纳指收新高，美元跌",
           "url": "https://wallstreetcn.com/articles/3751221",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -238,20 +172,26 @@
           "url": "https://wallstreetcn.com/articles/3751196",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "美国农业贸易巨头阿奇尔丹尼斯米德兰公司（ADM）美股盘后下跌7.3%，总统特朗普要求可口可乐在在美国市场用蔗糖来生产可可。",
-          "url": "https://wallstreetcn.com/livenews/2943642",
-          "source": "华尔街见闻-快讯",
+          "title": "哈梅内伊：伊朗准备好应对新军事打击",
+          "url": "https://www.baidu.com/s?wd=%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%EF%BC%9A%E4%BC%8A%E6%9C%97%E5%87%86%E5%A4%87%E5%A5%BD%E5%BA%94%E5%AF%B9%E6%96%B0%E5%86%9B%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
           "ranks": [
             30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         }
