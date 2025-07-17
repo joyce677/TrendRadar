@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-07-17T12:41:33.783628+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2025-07-17T13:14:30.558941+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 22,
       "titles": [
         {
           "title": "报道称特朗普起草解雇鲍威尔信函，特朗普否认免职传闻、但暗示正当理由可行",
@@ -15,6 +15,17 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "普京视察俄最大钢厂，系特朗普威胁加关税后首次公开露面",
+          "url": "https://wallstreetcn.com/livenews/2943843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -80,7 +91,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -107,17 +118,6 @@
           "time_info": ""
         },
         {
-          "title": "十位美国共和党参议员敦促美国总统特朗普取消学校资金冻结措施。",
-          "url": "https://flash.jin10.com/detail/20250717115003470800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
           "title": "特朗普让可口可乐改配方",
           "url": "https://m.weibo.cn/search?containerid=231522type%3D1%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90%E6%94%B9%E9%85%8D%E6%96%B9%23&_T_WM=16922097837&v_p=42",
           "source": "微博",
@@ -129,99 +129,11 @@
           "time_info": ""
         },
         {
-          "title": "特朗普称可乐要改配方 可口可乐回应",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%AF%E4%B9%90%E8%A6%81%E6%94%B9%E9%85%8D%E6%96%B9+%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "特朗普说可口可乐要改配方了 官方回应：谢谢，但没说改",
-          "url": "https://wallstreetcn.com/livenews/2943820",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "美媒：马斯克密集发文猛烈抨击特朗普“爱泼斯坦案是骗局”说法",
-          "url": "https://wallstreetcn.com/livenews/2943818",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "特朗普称可口可乐同意修改配方",
-          "url": "https://www.toutiao.com/trending/7527451255527292937/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
           "title": "特朗普发出威胁后 普京首次公开露面",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E5%87%BA%E5%A8%81%E8%83%81%E5%90%8E+%E6%99%AE%E4%BA%AC%E9%A6%96%E6%AC%A1%E5%85%AC%E5%BC%80%E9%9C%B2%E9%9D%A2",
           "source": "百度热搜",
           "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "专家：特朗普漫天要价吓不倒任何人",
-          "url": "https://www.toutiao.com/trending/7527612297724825130/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "特朗普加密货币周取得进展 众议院保守派结束阻挠",
-          "url": "https://flash.jin10.com/detail/20250717113017767800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "特朗普被拍到“顺走”世俱杯冠军奖牌",
-          "url": "https://www.toutiao.com/trending/7527093551525380115/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "特朗普宣布终止加州高铁联邦资助",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E7%BB%88%E6%AD%A2%E5%8A%A0%E5%B7%9E%E9%AB%98%E9%93%81%E8%81%94%E9%82%A6%E8%B5%84%E5%8A%A9",
-          "source": "百度热搜",
-          "ranks": [
-            26
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -232,20 +144,31 @@
           "url": "https://www.toutiao.com/trending/7527840216887951403/",
           "source": "今日头条",
           "ranks": [
-            27
+            14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
         {
-          "title": "研究员：特朗普朝令夕改是常态",
-          "url": "https://www.toutiao.com/trending/7527651489142017599/",
+          "title": "特朗普被拍到“顺走”世俱杯冠军奖牌",
+          "url": "https://www.toutiao.com/trending/7527093551525380115/",
           "source": "今日头条",
           "ranks": [
-            28
+            16
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "十位美国共和党参议员敦促美国总统特朗普取消学校资金冻结措施。",
+          "url": "https://flash.jin10.com/detail/20250717115003470800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -254,29 +177,73 @@
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E8%A7%A3%E9%9B%87%E9%B2%8D%E5%A8%81%E5%B0%94%E2%80%9C%E5%8F%AF%E8%83%BD%E6%80%A7%E6%9E%81%E4%BD%8E%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
-            28
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
         {
-          "title": "金十整理：特朗普恐吓市场上瘾？盘一盘4月“解放日”以来，共出现过几次“TACO交易”",
-          "url": "https://flash.jin10.com/detail/20250717112345147800",
-          "source": "金十数据",
+          "title": "特朗普说可口可乐要改配方了 官方回应：谢谢，但没说改",
+          "url": "https://wallstreetcn.com/livenews/2943820",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
         {
-          "title": "特朗普“50天最后通牒”引猜测",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E2%80%9C50%E5%A4%A9%E6%9C%80%E5%90%8E%E9%80%9A%E7%89%92%E2%80%9D%E5%BC%95%E7%8C%9C%E6%B5%8B",
+          "title": "研究员：特朗普朝令夕改是常态",
+          "url": "https://www.toutiao.com/trending/7527651489142017599/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "美媒：马斯克密集发文猛烈抨击特朗普“爱泼斯坦案是骗局”说法",
+          "url": "https://wallstreetcn.com/livenews/2943818",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特朗普宣布终止加州高铁联邦资助",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E7%BB%88%E6%AD%A2%E5%8A%A0%E5%B7%9E%E9%AB%98%E9%93%81%E8%81%94%E9%82%A6%E8%B5%84%E5%8A%A9",
           "source": "百度热搜",
           "ranks": [
-            30
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "专家：特朗普漫天要价吓不倒任何人",
+          "url": "https://www.toutiao.com/trending/7527612297724825130/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特朗普称可乐要改配方 可口可乐回应",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%AF%E4%B9%90%E8%A6%81%E6%94%B9%E9%85%8D%E6%96%B9+%E5%8F%AF%E5%8F%A3%E5%8F%AF%E4%B9%90%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -315,9 +282,9 @@
           "url": "https://www.toutiao.com/trending/7527500923833663529/",
           "source": "今日头条",
           "ranks": [
-            23
+            15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         }
@@ -360,7 +327,7 @@
           "url": "https://www.cls.cn/detail/2087693",
           "source": "财联社热门",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
