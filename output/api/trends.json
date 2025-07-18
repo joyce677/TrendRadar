@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-07-18T23:31:29.587547+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-07-19T00:01:06.688368+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "特朗普最新支持率公布",
@@ -89,9 +89,20 @@
           "url": "https://wallstreetcn.com/livenews/2944919",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            14
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特朗普为何对中国的态度不再强硬",
+          "url": "https://www.toutiao.com/trending/7528365271023619593/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -100,31 +111,9 @@
           "url": "https://wallstreetcn.com/livenews/2944918",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "据美联社：美国总统特朗普任命的官员要求为美联储大楼的装修采购更多的大理石材料。",
-          "url": "https://flash.jin10.com/detail/20250718224637807800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "美国财政部副部长福尔肯德：财政部希望美国总统特朗普广泛征求美联储人选的意见。",
-          "url": "https://flash.jin10.com/detail/20250718224155995800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -140,13 +129,35 @@
           "time_info": ""
         },
         {
-          "title": "特朗普为何对中国的态度不再强硬",
-          "url": "https://www.toutiao.com/trending/7528365271023619593/",
-          "source": "今日头条",
+          "title": "据美联社：美国总统特朗普任命的官员要求为美联储大楼的装修采购更多的大理石材料。",
+          "url": "https://flash.jin10.com/detail/20250718224637807800",
+          "source": "金十数据",
           "ranks": [
-            17
+            24
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "美国财政部副部长福尔肯德：财政部希望美国总统特朗普广泛征求美联储人选的意见。",
+          "url": "https://flash.jin10.com/detail/20250718224155995800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特朗普被确诊患静脉疾病",
+          "url": "https://www.douyin.com/hot/2171340",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         }
@@ -154,7 +165,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI发布ChatGPT Agent：能主动思考、自选工具，智能体赛道大变天",
@@ -168,11 +179,22 @@
           "time_info": ""
         },
         {
+          "title": "OpenAI发布最强智能体",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83%E6%9C%80%E5%BC%BA%E6%99%BA%E8%83%BD%E4%BD%93",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
           "title": "深度解析OpenAI最强智能体",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90OpenAI%E6%9C%80%E5%BC%BA%E6%99%BA%E8%83%BD%E4%BD%93",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -183,40 +205,7 @@
           "url": "https://wallstreetcn.com/livenews/2944916",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "OpenAI发布最强智能体",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83%E6%9C%80%E5%BC%BA%E6%99%BA%E8%83%BD%E4%BD%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "摩根大通扩大对私营企业的研究范围，首家覆盖OpenAI。",
-          "url": "https://flash.jin10.com/detail/20250718223352229800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "摩根大通：到2030年，OpenAI的潜在市场总额将超过7000亿美元。",
-          "url": "https://flash.jin10.com/detail/20250718222020076800",
-          "source": "金十数据",
-          "ranks": [
-            27
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -233,9 +222,9 @@
           "url": "https://wallstreetcn.com/livenews/2944921",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -253,23 +242,6 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股盘初，主要行业ETF多数走高，公用事业ETF涨超1%，可选消费ETF涨幅居前。",
-          "url": "https://wallstreetcn.com/livenews/2944893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
       "match_count": 1,
       "titles": [
@@ -278,7 +250,7 @@
           "url": "https://wallstreetcn.com/livenews/2944907",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
