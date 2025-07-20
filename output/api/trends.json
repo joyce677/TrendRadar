@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-07-20T14:39:42.376509+08:00",
+  "generated_at": "2025-07-20T15:00:16.249273+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普捅破了印度今年隐藏最深的秘密",
@@ -34,7 +34,7 @@
           "url": "https://wallstreetcn.com/articles/3751478",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -80,7 +80,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -89,7 +89,7 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BF%84%E6%96%B0%E5%85%B3%E7%A8%8E%E6%94%BF%E7%AD%96%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
           "source": "bilibili 热搜",
           "ranks": [
-            21
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -111,7 +111,7 @@
           "url": "https://www.toutiao.com/trending/7528985457867099667/",
           "source": "今日头条",
           "ranks": [
-            26
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -122,7 +122,46 @@
           "url": "https://wallstreetcn.com/livenews/2945186",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特朗普政府想与马斯克分手发现离不开",
+          "url": "https://m.weibo.cn/search?containerid=231522type%3D1%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%83%B3%E4%B8%8E%E9%A9%AC%E6%96%AF%E5%85%8B%E5%88%86%E6%89%8B%E5%8F%91%E7%8E%B0%E7%A6%BB%E4%B8%8D%E5%BC%80%23&_T_WM=16922097837&v_p=42",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "摩根大通首份非上市公司深度报告：OpenAI的“王座”与“枷锁”",
+          "url": "https://wallstreetcn.com/articles/3751472",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "OpenAI神秘新模型斩获IMO 2025金牌！攻克奥数巅峰，硅谷沸腾",
+          "url": "https://wallstreetcn.com/articles/3751475",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -139,7 +178,7 @@
           "url": "https://wallstreetcn.com/articles/3751476",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -178,24 +217,7 @@
           "url": "https://wallstreetcn.com/livenews/2945201",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "摩根大通首份非上市公司深度报告：OpenAI的“王座”与“枷锁”",
-          "url": "https://wallstreetcn.com/articles/3751472",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
