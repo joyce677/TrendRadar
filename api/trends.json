@@ -1,20 +1,20 @@
 {
-  "generated_at": "2025-07-22T01:58:10.869859+08:00",
+  "generated_at": "2025-07-22T02:42:53.062875+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
-          "title": "特朗普发布AI视频：美国前总统奥巴马“被捕”",
-          "url": "https://flash.jin10.com/detail/20250722012550043800",
-          "source": "金十数据",
+          "title": "国会预算办公室：特朗普税法将使美国赤字增加3.4万亿美元",
+          "url": "https://wallstreetcn.com/livenews/2945826",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            4
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -34,7 +34,7 @@
           "url": "https://www.toutiao.com/trending/7529484789200457235/",
           "source": "今日头条",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -67,9 +67,31 @@
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BD%AC%E5%8F%91%E2%80%9C%E5%A5%A5%E5%B7%B4%E9%A9%AC%E8%A2%AB%E6%8D%95%E2%80%9DAI%E8%A7%86%E9%A2%91",
           "source": "百度热搜",
           "ranks": [
-            16
+            13
           ],
           "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特朗普称将立即对哈佛大学的裁决提出上诉",
+          "url": "https://flash.jin10.com/detail/20250722015825606800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "美国总统特朗普在社交媒体表示，将对哈佛案裁决提出上诉。",
+          "url": "https://flash.jin10.com/detail/20250722015343625800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -85,33 +107,33 @@
           "time_info": ""
         },
         {
-          "title": "报道：特朗普盟友Luna向美国司法部建议对鲍威尔提起刑事指控",
-          "url": "https://wallstreetcn.com/livenews/2945789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
           "title": "特朗普曝印巴空战结果为何令印破防",
           "url": "https://www.toutiao.com/trending/7529356527396720166/",
           "source": "今日头条",
           "ranks": [
-            22
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
         {
-          "title": "特朗普关税大限又至 各国商家怎么看",
-          "url": "https://www.toutiao.com/trending/7528636019764756534/",
-          "source": "今日头条",
+          "title": "特朗普政府拟议规则变更，有望放宽日内交易限制",
+          "url": "https://wallstreetcn.com/livenews/2945824",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特朗普发布AI视频：美国前总统奥巴马“被捕”",
+          "url": "https://flash.jin10.com/detail/20250722012550043800",
+          "source": "金十数据",
+          "ranks": [
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -132,47 +154,14 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "OpenAI和英国签署战略合作伙伴关系，以推动投资",
-          "url": "https://flash.jin10.com/detail/20250722011840377800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
         {
           "title": "OpenAI和英国签署战略合作伙伴关系，以推动投资",
           "url": "https://wallstreetcn.com/livenews/2945806",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "英国政府：OpenAI与DSIT（英国科学、创新和技术部）将合作探索如何在政府和私营部门部署先进的人工智能模型的机会。",
-          "url": "https://flash.jin10.com/detail/20250722010653302800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "英国政府：OpenAI也可能在英国探索开发人工智能支持的研发基础设施。",
-          "url": "https://flash.jin10.com/detail/20250722010642057800",
-          "source": "金十数据",
-          "ranks": [
-            8
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -183,40 +172,29 @@
           "url": "https://wallstreetcn.com/livenews/2945801",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
         {
-          "title": "英国政府：英国与OpenAI签署关于人工智能机遇的谅解备忘录。",
-          "url": "https://flash.jin10.com/detail/20250722010407902800",
+          "title": "OpenAI和英国签署战略合作伙伴关系，以推动投资",
+          "url": "https://flash.jin10.com/detail/20250722011840377800",
           "source": "金十数据",
           "ranks": [
-            14
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
         {
-          "title": "Fidji Simo将从8月18日开始担任OpenAI应用业务的CEO。",
-          "url": "https://flash.jin10.com/detail/20250722010337811800",
+          "title": "英国政府：OpenAI与DSIT（英国科学、创新和技术部）将合作探索如何在政府和私营部门部署先进的人工智能模型的机会。",
+          "url": "https://flash.jin10.com/detail/20250722010653302800",
           "source": "金十数据",
           "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "OpenAI与英国签署“战略合作伙伴关系”以推动投资。",
-          "url": "https://flash.jin10.com/detail/20250722010224618800",
-          "source": "金十数据",
-          "ranks": [
-            16
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -264,17 +242,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "供需两端支撑，铂金价格年内涨超五成",
+          "url": "https://wallstreetcn.com/livenews/2945814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 1,
       "titles": [
         {
-          "title": "市场消息：伊朗大不里士市发生两起爆炸。三架无人机袭击了警察总部，报告显示可能造成人员死亡。",
-          "url": "https://flash.jin10.com/detail/20250722010633378800",
-          "source": "金十数据",
+          "title": "以军袭击伊朗总统画面曝光",
+          "url": "https://www.toutiao.com/trending/7528658110081417252/",
+          "source": "今日头条",
           "ranks": [
-            9
+            28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         }
