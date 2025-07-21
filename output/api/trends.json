@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-07-21T16:43:12.521499+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2025-07-21T17:15:59.027544+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 5,
       "titles": [
         {
           "title": "特朗普开查马斯克",
@@ -19,35 +19,24 @@
           "time_info": ""
         },
         {
-          "title": "特朗普开始审查马斯克公司合同",
-          "url": "https://www.cls.cn/detail/2090652",
-          "source": "财联社热门",
+          "title": "美国叙利亚问题特使巴拉克：特朗普对确保实现合理的稳定非常感兴趣，而黎巴嫩是关键。",
+          "url": "https://flash.jin10.com/detail/20250721164354268800",
+          "source": "金十数据",
           "ranks": [
-            4
+            7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
         {
-          "title": "特朗普有权将泽连斯基“流放”吗",
-          "url": "https://www.toutiao.com/trending/7529336453982064166/",
+          "title": "特朗普发布“奥巴马被逮捕”AI视频",
+          "url": "https://www.toutiao.com/trending/7529227534635106340/",
           "source": "今日头条",
           "ranks": [
-            8
+            9
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "特朗普曝印巴空战结果为何令印破防",
-          "url": "https://www.toutiao.com/trending/7529356527396720166/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -76,56 +65,6 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "伊朗外交部发言人：就核协议和联合国制裁恢复机制展开的三方会谈将于星期二举行。",
-          "url": "https://flash.jin10.com/detail/20250721162017094800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "伊朗外交部：目前没有与美国谈判的计划。",
-          "url": "https://flash.jin10.com/detail/20250721161430746800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "伊朗将与法德英举行核问题会谈，外交部：呼吁有关方面相向而行",
-          "url": "https://wallstreetcn.com/livenews/2945590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "欧盟制裁伊朗石油大亨 指控其协助俄罗斯石油贸易",
-          "url": "https://flash.jin10.com/detail/20250721155705192800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 3,
       "titles": [
@@ -141,13 +80,13 @@
           "time_info": ""
         },
         {
-          "title": "特斯拉(TSLA.O)美股盘前涨1.5%，上周五股价曾创下逾三周高点。",
-          "url": "https://flash.jin10.com/detail/20250721161311830800",
+          "title": "以太坊创年内新高 相关公司美股盘前上涨",
+          "url": "https://flash.jin10.com/detail/20250721162502031800",
           "source": "金十数据",
           "ranks": [
-            8
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -156,7 +95,35 @@
           "url": "https://wallstreetcn.com/livenews/2945605",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "伊朗外交部发言人：就核协议和联合国制裁恢复机制展开的三方会谈将于星期二举行。",
+          "url": "https://flash.jin10.com/detail/20250721162017094800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "伊朗外交部：目前没有与美国谈判的计划。",
+          "url": "https://flash.jin10.com/detail/20250721161430746800",
+          "source": "金十数据",
+          "ranks": [
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
