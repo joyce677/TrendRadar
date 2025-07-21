@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-07-21T14:47:07.547257+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2025-07-21T15:16:41.233867+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "印巴冲突期间5架战机被击落？特朗普表态",
@@ -15,6 +15,17 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "美财长曾私下建议特朗普别动美联储主席？特朗普“愤怒”回应",
+          "url": "https://wallstreetcn.com/livenews/2945571",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -34,7 +45,7 @@
           "url": "https://www.cls.cn/detail/2090652",
           "source": "财联社热门",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -45,7 +56,7 @@
           "url": "https://www.toutiao.com/trending/7529356527396720166/",
           "source": "今日头条",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -63,6 +74,17 @@
           "time_info": ""
         },
         {
+          "title": "克宫回应特朗普“变脸”：习惯了",
+          "url": "https://www.toutiao.com/trending/7528482504215576630/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
           "title": "MAGA对特朗普信任崩塌",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28343609&amp;topic_name=MAGA%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E4%BF%A1%E4%BB%BB%E5%B4%A9%E5%A1%8C",
           "source": "贴吧",
@@ -70,6 +92,23 @@
             23
           ],
           "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年07月21日（周一）上海金午盘价为777.6元/克，较国际金价(777.37元/克)，高0.23元/克",
+          "url": "https://flash.jin10.com/detail/20250721150216303800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         }
@@ -84,24 +123,7 @@
           "url": "https://www.cls.cn/detail/2090950",
           "source": "财联社热门",
           "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国为啥死磕伊朗核问题",
-          "url": "https://www.toutiao.com/trending/7529362229028720170/",
-          "source": "今日头条",
-          "ranks": [
-            24
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
