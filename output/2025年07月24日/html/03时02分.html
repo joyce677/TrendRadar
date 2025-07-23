@@ -1,0 +1,106 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>频率词统计报告</title>
+            <style>
+                body { font-family: Arial, sans-serif; margin: 20px; }
+                h1, h2 { color: #333; }
+                table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+                th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+                th { background-color: #f2f2f2; }
+                tr:nth-child(even) { background-color: #f9f9f9; }
+                .word { font-weight: bold; }
+                .count { text-align: center; }
+                .percentage { text-align: center; }
+                .titles { max-width: 500px; }
+                .source { color: #666; font-style: italic; }
+                .error { color: #d9534f; }
+                .news-link { 
+                    color: #007bff; 
+                    text-decoration: none; 
+                    border-bottom: 1px dotted #007bff;
+                }
+                .news-link:hover { 
+                    color: #0056b3; 
+                    text-decoration: underline; 
+                }
+                .news-link:visited { 
+                    color: #6f42c1; 
+                }
+                .no-link { 
+                    color: #333; 
+                }
+                .new-title {
+                    background-color: #fff3cd;
+                    border: 1px solid #ffc107;
+                    border-radius: 3px;
+                    padding: 2px 6px;
+                    margin: 2px 0;
+                }
+                .new-section {
+                    background-color: #d1ecf1;
+                    border: 1px solid #bee5eb;
+                    border-radius: 5px;
+                    padding: 10px;
+                    margin-top: 10px;
+                }
+                .new-section h3 {
+                    color: #0c5460;
+                    margin-top: 0;
+                }
+            </style>
+        </head>
+        <body>
+            <h1>频率词统计报告</h1>
+        <p>总标题数: 315</p><p>生成时间: 2025-07-24 03:02:12</p>
+            <table>
+                <tr>
+                    <th>排名</th>
+                    <th>频率词</th>
+                    <th>出现次数</th>
+                    <th>占比</th>
+                    <th>相关标题</th>
+                </tr>
+        
+                <tr>
+                    <td>1</td>
+                    <td class="word">特朗普</td>
+                    <td class="count">16</td>
+                    <td class="percentage">5.08%</td>
+                    <td class="titles">[华尔街见闻] <a href="https://wallstreetcn.com/articles/3751670" target="_blank" class="news-link">日本“投降”？特朗普称“美日达成协议，日本接受15%税率，开放汽车、大米市场”</a> <font color='red'><strong>[1]</strong></font> <font color='grey'>- 03时02分</font><br>[bilibili 热搜] <a href="https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E8%AF%B4%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%8F%9B%E5%9B%BD" target="_blank" class="news-link">特朗普为何说奥巴马叛国</a> <font color='red'><strong>[2]</strong></font> <font color='grey'>- 03时02分</font><br>[凤凰网] <a href="https://news.ifeng.com/c/8lDx2Q4TmG6" target="_blank" class="news-link">特朗普称与日本达成贸易协议，中方表态</a> <font color='red'><strong>[2]</strong></font> <font color='grey'>- 03时02分</font><br>[凤凰网] <a href="https://news.ifeng.com/c/8lECBXd1WO7" target="_blank" class="news-link">特朗普指控奥巴马“叛国”，有何恩怨与心机</a> <font color='red'><strong>[3]</strong></font> <font color='grey'>- 03时02分</font><br><div class='new-title'>🆕 [华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2947294" target="_blank" class="news-link">【白宫：特朗普希望保留自己对俄罗斯制裁的决定权】当地时间23日，美国白宫表示，美国总统特朗普希望保留自己对俄罗斯制裁的决定权。（央视）</a> <font color='red'><strong>[3]</strong></font> <font color='grey'>- 03时02分</font></div><br>[华尔街见闻] <a href="https://wallstreetcn.com/articles/3751696" target="_blank" class="news-link">就在今晚，特朗普将宣布《AI行动计划》，“以胡萝卜为主，而非大棒”？</a> <font color='red'><strong>[4]</strong></font> <font color='grey'>- 03时02分</font><br><div class='new-title'>🆕 [华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2947290" target="_blank" class="news-link">白宫新闻秘书Leavitt：美国总统特朗普继续与商务部长沟通关税问题。</a> [7] <font color='grey'>- 03时02分</font></div><br>[澎湃新闻] <a href="https://m.thepaper.cn/newsDetail_forward_31239052" target="_blank" class="news-link">特朗普宣布美国与菲律宾达成贸易协议</a> [12] <font color='grey'>- 03时02分</font><br>[澎湃新闻] <a href="https://m.thepaper.cn/newsDetail_forward_31239635" target="_blank" class="news-link">特朗普称美日达成贸易协议</a> [14] <font color='grey'>- 03时02分</font><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2947279" target="_blank" class="news-link">白宫新闻秘书Leavitt：美国总统特朗普将于纽约下午签署三项行政命令。</a> [16] <font color='grey'>- 03时02分</font><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2947278" target="_blank" class="news-link">标普500指数目前涨0.59%，道指涨466点涨幅1.05%，纳指涨69点涨幅0.33%。 特斯拉目前跌0.58%。 美国总统特朗普的贸易顾问纳瓦罗认为，与日本的协议将有助于巩固美国供应链的薄弱环节。 美日贸易协议应该能够带动其他协议谈判的推进。</a> [17] <font color='grey'>- 03时02分</font><br>[澎湃新闻] <a href="https://m.thepaper.cn/newsDetail_forward_31239686" target="_blank" class="news-link">特朗普称与菲律宾、日本达成贸易协议，透露与印尼协议细节</a> [18] <font color='grey'>- 03时02分</font><br><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250724023901475800" target="_blank" class="news-link">白宫新闻秘书莱维特：特朗普继续与美国商务部长卢特尼克就行业关税进行沟通。</a> [20] <font color='grey'>- 03时02分</font></div><br><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250724023421653800" target="_blank" class="news-link">白宫新闻秘书莱维特：美国总统特朗普希望保留对俄罗斯制裁决定的专属权力。</a> [25] <font color='grey'>- 03时02分</font></div><br><div class='new-title'>🆕 [今日头条] <a href="https://www.toutiao.com/trending/7530158914726284809/" target="_blank" class="news-link">特朗普为何戳破马科斯的“反华秀”</a> [26] <font color='grey'>- 03时02分</font></div><br><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250724023306772800" target="_blank" class="news-link">美国法官命令特朗普政府暂停驱逐萨尔瓦多移民基尔玛·阿布雷戈·加西亚，为期72小时。</a> [26] <font color='grey'>- 03时02分</font></div></td>
+                </tr>
+            
+                <tr>
+                    <td>2</td>
+                    <td class="word">chatgpt openai</td>
+                    <td class="count">2</td>
+                    <td class="percentage">0.63%</td>
+                    <td class="titles">[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2947292" target="_blank" class="news-link">AMD的CEO Lisa Su：台积电美国工厂的芯片成本（相比其他产地）高出5%-20%。 OpenAI和马斯克的公司（对芯片的）需求是巨大的。</a> <font color='red'><strong>[5]</strong></font> <font color='grey'>- 03时02分</font><br><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250724024620496800" target="_blank" class="news-link">AMD首席执行官苏姿丰：OpenAI和马斯克的公司（对芯片的）需求是巨大的。</a> [15] <font color='grey'>- 03时02分</font></div></td>
+                </tr>
+            
+                <tr>
+                    <td>3</td>
+                    <td class="word">美股</td>
+                    <td class="count">1</td>
+                    <td class="percentage">0.32%</td>
+                    <td class="titles">[华尔街见闻] <a href="https://wallstreetcn.com/articles/3751713" target="_blank" class="news-link">美日贸易协议推动美股、欧股走高，焦煤夜盘涨超7%，欧股汽车股大涨，欧元下跌</a> [9] <font color='grey'>- 03时02分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>4</td>
+                    <td class="word">伊朗</td>
+                    <td class="count">1</td>
+                    <td class="percentage">0.32%</td>
+                    <td class="titles">[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2947282" target="_blank" class="news-link">伊朗副外长： 将对启动“快速恢复制裁”做出反应</a> [13] <font color='grey'>- 03时02分</font></td>
+                </tr>
+            
+            </table>
+        
+            <div class="new-section">
+                <h3>🆕 本次新增热点新闻 (共 8 条)</h3>
+            <h4>今日头条 (1 条)</h4><ul><li><a href="https://www.toutiao.com/trending/7530158914726284809/" target="_blank" class="news-link">特朗普为何戳破马科斯的“反华秀”</a> [26]</li></ul><h4>金十数据 (4 条)</h4><ul><li><a href="https://flash.jin10.com/detail/20250724024620496800" target="_blank" class="news-link">AMD首席执行官苏姿丰：OpenAI和马斯克的公司（对芯片的）需求是巨大的。</a> [15]</li><li><a href="https://flash.jin10.com/detail/20250724023901475800" target="_blank" class="news-link">白宫新闻秘书莱维特：特朗普继续与美国商务部长卢特尼克就行业关税进行沟通。</a> [20]</li><li><a href="https://flash.jin10.com/detail/20250724023421653800" target="_blank" class="news-link">白宫新闻秘书莱维特：美国总统特朗普希望保留对俄罗斯制裁决定的专属权力。</a> [25]</li><li><a href="https://flash.jin10.com/detail/20250724023306772800" target="_blank" class="news-link">美国法官命令特朗普政府暂停驱逐萨尔瓦多移民基尔玛·阿布雷戈·加西亚，为期72小时。</a> [26]</li></ul><h4>华尔街见闻-快讯 (3 条)</h4><ul><li><a href="https://wallstreetcn.com/livenews/2947294" target="_blank" class="news-link">【白宫：特朗普希望保留自己对俄罗斯制裁的决定权】当地时间23日，美国白宫表示，美国总统特朗普希望保留自己对俄罗斯制裁的决定权。（央视）</a> <font color='red'><strong>[3]</strong></font></li><li><a href="https://wallstreetcn.com/livenews/2947292" target="_blank" class="news-link">AMD的CEO Lisa Su：台积电美国工厂的芯片成本（相比其他产地）高出5%-20%。 OpenAI和马斯克的公司（对芯片的）需求是巨大的。</a> <font color='red'><strong>[5]</strong></font></li><li><a href="https://wallstreetcn.com/livenews/2947290" target="_blank" class="news-link">白宫新闻秘书Leavitt：美国总统特朗普继续与商务部长沟通关税问题。</a> [7]</li></ul></div>
+        </body>
+        </html>
+        
