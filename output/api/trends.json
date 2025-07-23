@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-07-23T18:35:20.284156+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2025-07-23T18:59:32.664574+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "日本“投降”？特朗普称“美日达成协议，日本接受15%税率，开放汽车、大米市场”",
@@ -52,6 +52,17 @@
           "time_info": ""
         },
         {
+          "title": "就在今晚，特朗普将宣布《AI行动计划》，“以胡萝卜为主，而非大棒”？",
+          "url": "https://wallstreetcn.com/articles/3751696",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
           "title": "特朗普宣布美国与菲律宾达成贸易协议",
           "url": "https://m.thepaper.cn/newsDetail_forward_31239052",
           "source": "澎湃新闻",
@@ -63,13 +74,24 @@
           "time_info": ""
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-07-23）",
-          "url": "https://flash.jin10.com/detail/20250723180611462800",
+          "title": "AT&T(T.N)：预计到2027年，将从特朗普的法案中节省65亿至80亿美元的税收。",
+          "url": "https://flash.jin10.com/detail/20250723183656516800",
           "source": "金十数据",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特朗普为何戳破马科斯的“反华秀”",
+          "url": "https://www.toutiao.com/trending/7530158914726284809/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -85,17 +107,6 @@
           "time_info": ""
         },
         {
-          "title": "伊朗外长：从未试图暗杀特朗普",
-          "url": "https://www.toutiao.com/trending/7529311146164109348/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
           "title": "特朗普称与菲律宾、日本达成贸易协议，透露与印尼协议细节",
           "url": "https://m.thepaper.cn/newsDetail_forward_31239686",
           "source": "澎湃新闻",
@@ -107,13 +118,13 @@
           "time_info": ""
         },
         {
-          "title": "特朗普为何戳破马科斯的“反华秀”",
-          "url": "https://www.toutiao.com/trending/7530158914726284809/",
+          "title": "特朗普称美日达成协议 日本妥协了吗",
+          "url": "https://www.toutiao.com/trending/7530136477833891371/",
           "source": "今日头条",
           "ranks": [
-            18
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -122,7 +133,7 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28343671&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%A6%81%E2%80%9C%E9%80%80%E7%BE%A4%E2%80%9D%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            24
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -133,7 +144,7 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E6%97%A5%E8%BE%BE%E6%88%90%E8%B4%B8%E6%98%93%E5%8D%8F%E8%AE%AE",
           "source": "bilibili 热搜",
           "ranks": [
-            28
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -142,37 +153,65 @@
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
+        {
+          "title": "谷歌：正在支持英国移动生态系统中的选择、创新和安全性。",
+          "url": "https://flash.jin10.com/detail/20250723184206140800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "谷歌：仍致力于与英国竞争与市场管理局（CMA）进行建设性互动。",
+          "url": "https://flash.jin10.com/detail/20250723184029380800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "英国竞争和市场管理局（CMA）对谷歌对安卓操作系统的控制表示担忧。CMA希望应用开发者能以公平的条款获得客户访问权限。",
+          "url": "https://flash.jin10.com/detail/20250723184023580800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "孩之宝二季度净营收9.808亿美元，预估8.805亿美元。 二季度经调整后每股收益1.3美元，预估0.77美元。 孩之宝美股盘前涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/2947092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
         {
           "title": "“弱美元”成美股财报季最大依仗！一文读懂：哪些股票受益最多？",
           "url": "https://www.cls.cn/detail/2093596",
           "source": "财联社热门",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "美股人造肉概念股beyond meat美股盘前涨超13%，美国农业部数据显示，自今年1月以来，牛肉价格已上涨近9%，创下历史新高，目前零售价为每磅9.26美元。",
-          "url": "https://wallstreetcn.com/livenews/2947045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "小马智行美股盘前涨超5%，消息称小马智行在北京启动第七代Robotaxi路测。",
-          "url": "https://wallstreetcn.com/livenews/2947032",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
