@@ -1,0 +1,106 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>频率词统计报告</title>
+            <style>
+                body { font-family: Arial, sans-serif; margin: 20px; }
+                h1, h2 { color: #333; }
+                table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+                th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+                th { background-color: #f2f2f2; }
+                tr:nth-child(even) { background-color: #f9f9f9; }
+                .word { font-weight: bold; }
+                .count { text-align: center; }
+                .percentage { text-align: center; }
+                .titles { max-width: 500px; }
+                .source { color: #666; font-style: italic; }
+                .error { color: #d9534f; }
+                .news-link { 
+                    color: #007bff; 
+                    text-decoration: none; 
+                    border-bottom: 1px dotted #007bff;
+                }
+                .news-link:hover { 
+                    color: #0056b3; 
+                    text-decoration: underline; 
+                }
+                .news-link:visited { 
+                    color: #6f42c1; 
+                }
+                .no-link { 
+                    color: #333; 
+                }
+                .new-title {
+                    background-color: #fff3cd;
+                    border: 1px solid #ffc107;
+                    border-radius: 3px;
+                    padding: 2px 6px;
+                    margin: 2px 0;
+                }
+                .new-section {
+                    background-color: #d1ecf1;
+                    border: 1px solid #bee5eb;
+                    border-radius: 5px;
+                    padding: 10px;
+                    margin-top: 10px;
+                }
+                .new-section h3 {
+                    color: #0c5460;
+                    margin-top: 0;
+                }
+            </style>
+        </head>
+        <body>
+            <h1>频率词统计报告</h1>
+        <p>总标题数: 300</p><p>生成时间: 2025-07-23 17:13:32</p>
+            <table>
+                <tr>
+                    <th>排名</th>
+                    <th>频率词</th>
+                    <th>出现次数</th>
+                    <th>占比</th>
+                    <th>相关标题</th>
+                </tr>
+        
+                <tr>
+                    <td>1</td>
+                    <td class="word">特朗普</td>
+                    <td class="count">15</td>
+                    <td class="percentage">5.0%</td>
+                    <td class="titles">[华尔街见闻] <a href="https://wallstreetcn.com/articles/3751670" target="_blank" class="news-link">日本“投降”？特朗普称“美日达成协议，日本接受15%税率，开放汽车、大米市场”</a> <font color='red'><strong>[1]</strong></font> <font color='grey'>- 17时13分</font><br>[凤凰网] <a href="https://news.ifeng.com/c/8lDx2Q4TmG6" target="_blank" class="news-link">特朗普称与日本达成贸易协议，中方表态</a> <font color='red'><strong>[1]</strong></font> <font color='grey'>- 17时13分</font><br>[凤凰网] <a href="https://news.ifeng.com/c/8lDgocCvkev" target="_blank" class="news-link">尴尬！马科斯阴阳中国，特朗普当场打脸</a> [6] <font color='grey'>- 17时13分</font><br>[华尔街见闻] <a href="https://wallstreetcn.com/articles/3751655" target="_blank" class="news-link">卢特尼克爆料：特朗普几乎每晚1点都给我打电话，包括八卦，还曾让我背锅</a> [8] <font color='grey'>- 17时13分</font><br>[凤凰网] <a href="https://news.ifeng.com/c/8lDh1dxMMam" target="_blank" class="news-link">特朗普再炮轰鲍威尔：他是一个蠢货！</a> [8] <font color='grey'>- 17时13分</font><br><div class='new-title'>🆕 [华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2947026" target="_blank" class="news-link">成本因关税剧增近7000万美元，美一果汁公司起诉特朗普政府</a> [9] <font color='grey'>- 17时13分</font></div><br><div class='new-title'>🆕 [今日头条] <a href="https://www.toutiao.com/trending/7530159310047809065/" target="_blank" class="news-link">马科斯访美表忠心 特朗普为何不买账</a> [14] <font color='grey'>- 17时13分</font></div><br>[澎湃新闻] <a href="https://m.thepaper.cn/newsDetail_forward_31239052" target="_blank" class="news-link">特朗普宣布美国与菲律宾达成贸易协议</a> [14] <font color='grey'>- 17时13分</font><br>[知乎] <a href="https://www.zhihu.com/question/1931264691251930952" target="_blank" class="news-link">特朗普称美日达成贸易协议，关税税率为 15%，有哪些信息值得关注？会产生哪些影响？</a> [14] <font color='grey'>- 17时13分</font><br>[澎湃新闻] <a href="https://m.thepaper.cn/newsDetail_forward_31239635" target="_blank" class="news-link">特朗普称美日达成贸易协议</a> [18] <font color='grey'>- 17时13分</font><br>[澎湃新闻] <a href="https://m.thepaper.cn/newsDetail_forward_31239686" target="_blank" class="news-link">特朗普称与菲律宾、日本达成贸易协议，透露与印尼协议细节</a> [19] <font color='grey'>- 17时13分</font><br><div class='new-title'>🆕 [今日头条] <a href="https://www.toutiao.com/trending/7530121475014020646/" target="_blank" class="news-link">特朗普：可能会在“不远的将来”访华</a> [20] <font color='grey'>- 17时13分</font></div><br>[贴吧] <a href="https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28343671&amp;amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%A6%81%E2%80%9C%E9%80%80%E7%BE%A4%E2%80%9D%E4%BA%86" target="_blank" class="news-link">特朗普又要“退群”了</a> [20] <font color='grey'>- 17时13分</font><br><div class='new-title'>🆕 [今日头条] <a href="https://www.toutiao.com/trending/7530131175172476425/" target="_blank" class="news-link">美记者点破特朗普访华小心思</a> [23] <font color='grey'>- 17时13分</font></div><br><div class='new-title'>🆕 [今日头条] <a href="https://www.toutiao.com/trending/7530158914726284809/" target="_blank" class="news-link">特朗普为何戳破马科斯的“反华秀”</a> [25] <font color='grey'>- 17时13分</font></div></td>
+                </tr>
+            
+                <tr>
+                    <td>2</td>
+                    <td class="word">美股</td>
+                    <td class="count">2</td>
+                    <td class="percentage">0.67%</td>
+                    <td class="titles"><div class='new-title'>🆕 [华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2947032" target="_blank" class="news-link">小马智行美股盘前涨超5%，消息称小马智行在北京启动第七代Robotaxi路测。</a> <font color='red'><strong>[3]</strong></font> <font color='grey'>- 17时13分</font></div><br>[财联社热门] <a href="https://www.cls.cn/detail/2093596" target="_blank" class="news-link">“弱美元”成美股财报季最大依仗！一文读懂：哪些股票受益最多？</a> [7] <font color='grey'>- 17时13分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>3</td>
+                    <td class="word">伊朗</td>
+                    <td class="count">2</td>
+                    <td class="percentage">0.67%</td>
+                    <td class="titles"><div class='new-title'>🆕 [华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2947028" target="_blank" class="news-link">再发威胁！美国称或打击伊朗核设施 伊核谈判前景复杂</a> [7] <font color='grey'>- 17时13分</font></div><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2946998" target="_blank" class="news-link">美媒：伊朗多地接连发生“神秘爆炸事件”，伊朗官员怀疑可能与以色列有关</a> [26] <font color='grey'>- 17时13分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>4</td>
+                    <td class="word">DeepSeek 梁文锋</td>
+                    <td class="count">1</td>
+                    <td class="percentage">0.33%</td>
+                    <td class="titles">[华尔街见闻] <a href="https://wallstreetcn.com/articles/3751634" target="_blank" class="news-link">中国基建的DeepSeek时刻</a> <font color='red'><strong>[5]</strong></font> <font color='grey'>- 17时13分</font></td>
+                </tr>
+            
+            </table>
+        
+            <div class="new-section">
+                <h3>🆕 本次新增热点新闻 (共 7 条)</h3>
+            <h4>今日头条 (4 条)</h4><ul><li><a href="https://www.toutiao.com/trending/7530159310047809065/" target="_blank" class="news-link">马科斯访美表忠心 特朗普为何不买账</a> [14]</li><li><a href="https://www.toutiao.com/trending/7530121475014020646/" target="_blank" class="news-link">特朗普：可能会在“不远的将来”访华</a> [20]</li><li><a href="https://www.toutiao.com/trending/7530131175172476425/" target="_blank" class="news-link">美记者点破特朗普访华小心思</a> [23]</li><li><a href="https://www.toutiao.com/trending/7530158914726284809/" target="_blank" class="news-link">特朗普为何戳破马科斯的“反华秀”</a> [25]</li></ul><h4>华尔街见闻-快讯 (3 条)</h4><ul><li><a href="https://wallstreetcn.com/livenews/2947032" target="_blank" class="news-link">小马智行美股盘前涨超5%，消息称小马智行在北京启动第七代Robotaxi路测。</a> <font color='red'><strong>[3]</strong></font></li><li><a href="https://wallstreetcn.com/livenews/2947028" target="_blank" class="news-link">再发威胁！美国称或打击伊朗核设施 伊核谈判前景复杂</a> [7]</li><li><a href="https://wallstreetcn.com/livenews/2947026" target="_blank" class="news-link">成本因关税剧增近7000万美元，美一果汁公司起诉特朗普政府</a> [9]</li></ul></div>
+        </body>
+        </html>
+        
