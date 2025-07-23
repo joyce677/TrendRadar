@@ -1,0 +1,106 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>频率词统计报告</title>
+            <style>
+                body { font-family: Arial, sans-serif; margin: 20px; }
+                h1, h2 { color: #333; }
+                table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+                th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+                th { background-color: #f2f2f2; }
+                tr:nth-child(even) { background-color: #f9f9f9; }
+                .word { font-weight: bold; }
+                .count { text-align: center; }
+                .percentage { text-align: center; }
+                .titles { max-width: 500px; }
+                .source { color: #666; font-style: italic; }
+                .error { color: #d9534f; }
+                .news-link { 
+                    color: #007bff; 
+                    text-decoration: none; 
+                    border-bottom: 1px dotted #007bff;
+                }
+                .news-link:hover { 
+                    color: #0056b3; 
+                    text-decoration: underline; 
+                }
+                .news-link:visited { 
+                    color: #6f42c1; 
+                }
+                .no-link { 
+                    color: #333; 
+                }
+                .new-title {
+                    background-color: #fff3cd;
+                    border: 1px solid #ffc107;
+                    border-radius: 3px;
+                    padding: 2px 6px;
+                    margin: 2px 0;
+                }
+                .new-section {
+                    background-color: #d1ecf1;
+                    border: 1px solid #bee5eb;
+                    border-radius: 5px;
+                    padding: 10px;
+                    margin-top: 10px;
+                }
+                .new-section h3 {
+                    color: #0c5460;
+                    margin-top: 0;
+                }
+            </style>
+        </head>
+        <body>
+            <h1>频率词统计报告</h1>
+        <p>总标题数: 313</p><p>生成时间: 2025-07-23 22:00:52</p>
+            <table>
+                <tr>
+                    <th>排名</th>
+                    <th>频率词</th>
+                    <th>出现次数</th>
+                    <th>占比</th>
+                    <th>相关标题</th>
+                </tr>
+        
+                <tr>
+                    <td>1</td>
+                    <td class="word">特朗普</td>
+                    <td class="count">22</td>
+                    <td class="percentage">7.03%</td>
+                    <td class="titles">[华尔街见闻] <a href="https://wallstreetcn.com/articles/3751670" target="_blank" class="news-link">日本“投降”？特朗普称“美日达成协议，日本接受15%税率，开放汽车、大米市场”</a> <font color='red'><strong>[1]</strong></font> <font color='grey'>- 22时00分</font><br>[凤凰网] <a href="https://news.ifeng.com/c/8lDx2Q4TmG6" target="_blank" class="news-link">特朗普称与日本达成贸易协议，中方表态</a> <font color='red'><strong>[1]</strong></font> <font color='grey'>- 22时00分</font><br>[凤凰网] <a href="https://news.ifeng.com/c/8lECBXd1WO7" target="_blank" class="news-link">特朗普指控奥巴马“叛国”，有何恩怨与心机</a> <font color='red'><strong>[2]</strong></font> <font color='grey'>- 22时00分</font><br>[华尔街见闻] <a href="https://wallstreetcn.com/articles/3751696" target="_blank" class="news-link">就在今晚，特朗普将宣布《AI行动计划》，“以胡萝卜为主，而非大棒”？</a> <font color='red'><strong>[4]</strong></font> <font color='grey'>- 22时00分</font><br>[华尔街见闻] <a href="https://wallstreetcn.com/articles/3751655" target="_blank" class="news-link">卢特尼克爆料：特朗普几乎每晚1点都给我打电话，包括八卦，还曾让我背锅</a> <font color='red'><strong>[5]</strong></font> <font color='grey'>- 22时00分</font><br>[澎湃新闻] <a href="https://m.thepaper.cn/newsDetail_forward_31239052" target="_blank" class="news-link">特朗普宣布美国与菲律宾达成贸易协议</a> [9] <font color='grey'>- 22时00分</font><br><div class='new-title'>🆕 [华尔街见闻] <a href="https://wallstreetcn.com/articles/3751659" target="_blank" class="news-link">特朗普称美菲达成贸易协议，将征菲律宾19%关税，道指加速上涨</a> [10] <font color='grey'>- 22时00分</font></div><br>[澎湃新闻] <a href="https://m.thepaper.cn/newsDetail_forward_31239635" target="_blank" class="news-link">特朗普称美日达成贸易协议</a> [10] <font color='grey'>- 22时00分</font><br><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250723213812639800" target="_blank" class="news-link">美国总统特朗普：只有在国家开放市场的情况下，才会降低关税。</a> [10] <font color='grey'>- 22时00分</font></div><br>[澎湃新闻] <a href="https://m.thepaper.cn/newsDetail_forward_31239686" target="_blank" class="news-link">特朗普称与菲律宾、日本达成贸易协议，透露与印尼协议细节</a> [14] <font color='grey'>- 22时00分</font><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2947194" target="_blank" class="news-link">特朗普：日本同意购买价值数十亿的军事装备。 我们的企业将从与印尼的协议中赚钱。 希望主要国家向美国开放市场。 若能让主要国家对美国开放市场，将始终愿在关税上作出让步。 只有对方开放市场，才会降低关税。</a> [14] <font color='grey'>- 22时00分</font><br><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250723212850347800" target="_blank" class="news-link">特朗普明牌拿关税当筹码 以打开他国市场</a> [16] <font color='grey'>- 22时00分</font></div><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2947191" target="_blank" class="news-link">特朗普：住房市场滞后是因为鲍威尔拒绝降低利率。 美联储应采取行动。 我们的利率应该比目前低三个点。</a> [17] <font color='grey'>- 22时00分</font><br><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250723212730769800" target="_blank" class="news-link">美国总统特朗普：印尼同意完全向美国开放其市场。</a> [18] <font color='grey'>- 22时00分</font></div><br><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250723212431348800" target="_blank" class="news-link">美国总统特朗普：我们的企业将从与印尼的协议中赚取“巨额财富”。</a> [19] <font color='grey'>- 22时00分</font></div><br><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250723212219265800" target="_blank" class="news-link">美国总统特朗普：日本的开放市场可能和关税本身一样是一个巨大的利润因素，但这只是因为关税的力量。</a> [22] <font color='grey'>- 22时00分</font></div><br><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250723212153182800" target="_blank" class="news-link">美国总统特朗普：日本有史以来第一次向美国开放了它的市场，甚至是汽车、SUV、卡车，以及其他一切，甚至是农业和大米，这一直是一个完全不可能的事情。</a> [23] <font color='grey'>- 22时00分</font></div><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2947183" target="_blank" class="news-link">美国商务部长卢特尼克：大国获得较低税率会比较难。 如果欧盟接受美国的产品和标准，将“打动”特朗普。 特朗普希望欧盟“完全”开放市场。</a> [23] <font color='grey'>- 22时00分</font><br><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250723212016006800" target="_blank" class="news-link">美国总统特朗普：日本同意购买价值数十亿美元的军事装备。</a> [24] <font color='grey'>- 22时00分</font></div><br>[今日头条] <a href="https://www.toutiao.com/trending/7530158914726284809/" target="_blank" class="news-link">特朗普为何戳破马科斯的“反华秀”</a> [25] <font color='grey'>- 22时00分</font><br><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250723211249682800" target="_blank" class="news-link">特朗普批评鲍威尔 称FOMC应采取行动</a> [25] <font color='grey'>- 22时00分</font></div><br>[贴吧] <a href="https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28343671&amp;amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%A6%81%E2%80%9C%E9%80%80%E7%BE%A4%E2%80%9D%E4%BA%86" target="_blank" class="news-link">特朗普又要“退群”了</a> [28] <font color='grey'>- 22时00分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>2</td>
+                    <td class="word">美股</td>
+                    <td class="count">7</td>
+                    <td class="percentage">2.24%</td>
+                    <td class="titles"><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250723214219465800" target="_blank" class="news-link">金十图示：2025年07月23日（周三）美股热门股票行情一览（美股盘初）</a> [8] <font color='grey'>- 22时00分</font></div><br>[财联社热门] <a href="https://www.cls.cn/detail/2093596" target="_blank" class="news-link">“弱美元”成美股财报季最大依仗！一文读懂：哪些股票受益最多？</a> [9] <font color='grey'>- 22时00分</font><br><div class='new-title'>🆕 [华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2947199" target="_blank" class="news-link">美股三大股指开盘集体上涨，德州仪器跌近10%</a> [9] <font color='grey'>- 22时00分</font></div><br><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250723213733791800" target="_blank" class="news-link">金十图示：2025年07月23日（周三）热门中概股行情一览（美股盘初）</a> [11] <font color='grey'>- 22时00分</font></div><br><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250723213026471800" target="_blank" class="news-link">美股开盘，道指涨0.36%，标普500指数涨0.34%，纳指涨0.34%。赛默飞世尔(TMO.N)涨11%，Q2业绩好于预期。Opendoor Technologies跌12.5%，AT&amp;T(T.N)跌5.18%。</a> [15] <font color='grey'>- 22时00分</font></div><br><div class='new-title'>🆕 [华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2947188" target="_blank" class="news-link">周三美股盘前你需要了解的全球要闻</a> [19] <font color='grey'>- 22时00分</font></div><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2947176" target="_blank" class="news-link">波音美股盘前涨超1%，消息称白宫官员表示日本将购买100架波音飞机。</a> [29] <font color='grey'>- 22时00分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>3</td>
+                    <td class="word">美元</td>
+                    <td class="count">1</td>
+                    <td class="percentage">0.32%</td>
+                    <td class="titles"><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250723213841752800" target="_blank" class="news-link">美元指数DXY短线走高10点，现报97.58。</a> [9] <font color='grey'>- 22时00分</font></div></td>
+                </tr>
+            
+                <tr>
+                    <td>4</td>
+                    <td class="word">伊朗</td>
+                    <td class="count">1</td>
+                    <td class="percentage">0.32%</td>
+                    <td class="titles">[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2947175" target="_blank" class="news-link">伊朗西部边境发生武装冲突致3人丧生</a> [30] <font color='grey'>- 22时00分</font></td>
+                </tr>
+            
+            </table>
+        
+            <div class="new-section">
+                <h3>🆕 本次新增热点新闻 (共 18 条)</h3>
+            <h4>华尔街见闻 (1 条)</h4><ul><li><a href="https://wallstreetcn.com/articles/3751659" target="_blank" class="news-link">特朗普称美菲达成贸易协议，将征菲律宾19%关税，道指加速上涨</a> [10]</li></ul><h4>金十数据 (12 条)</h4><ul><li><a href="https://flash.jin10.com/detail/20250723214219465800" target="_blank" class="news-link">金十图示：2025年07月23日（周三）美股热门股票行情一览（美股盘初）</a> [8]</li><li><a href="https://flash.jin10.com/detail/20250723213841752800" target="_blank" class="news-link">美元指数DXY短线走高10点，现报97.58。</a> [9]</li><li><a href="https://flash.jin10.com/detail/20250723213812639800" target="_blank" class="news-link">美国总统特朗普：只有在国家开放市场的情况下，才会降低关税。</a> [10]</li><li><a href="https://flash.jin10.com/detail/20250723213733791800" target="_blank" class="news-link">金十图示：2025年07月23日（周三）热门中概股行情一览（美股盘初）</a> [11]</li><li><a href="https://flash.jin10.com/detail/20250723213026471800" target="_blank" class="news-link">美股开盘，道指涨0.36%，标普500指数涨0.34%，纳指涨0.34%。赛默飞世尔(TMO.N)涨11%，Q2业绩好于预期。Opendoor Technologies跌12.5%，AT&amp;T(T.N)跌5.18%。</a> [15]</li><li><a href="https://flash.jin10.com/detail/20250723212850347800" target="_blank" class="news-link">特朗普明牌拿关税当筹码 以打开他国市场</a> [16]</li><li><a href="https://flash.jin10.com/detail/20250723212730769800" target="_blank" class="news-link">美国总统特朗普：印尼同意完全向美国开放其市场。</a> [18]</li><li><a href="https://flash.jin10.com/detail/20250723212431348800" target="_blank" class="news-link">美国总统特朗普：我们的企业将从与印尼的协议中赚取“巨额财富”。</a> [19]</li><li><a href="https://flash.jin10.com/detail/20250723212219265800" target="_blank" class="news-link">美国总统特朗普：日本的开放市场可能和关税本身一样是一个巨大的利润因素，但这只是因为关税的力量。</a> [22]</li><li><a href="https://flash.jin10.com/detail/20250723212153182800" target="_blank" class="news-link">美国总统特朗普：日本有史以来第一次向美国开放了它的市场，甚至是汽车、SUV、卡车，以及其他一切，甚至是农业和大米，这一直是一个完全不可能的事情。</a> [23]</li><li><a href="https://flash.jin10.com/detail/20250723212016006800" target="_blank" class="news-link">美国总统特朗普：日本同意购买价值数十亿美元的军事装备。</a> [24]</li><li><a href="https://flash.jin10.com/detail/20250723211249682800" target="_blank" class="news-link">特朗普批评鲍威尔 称FOMC应采取行动</a> [25]</li></ul><h4>华尔街见闻-快讯 (5 条)</h4><ul><li><a href="https://wallstreetcn.com/livenews/2947199" target="_blank" class="news-link">美股三大股指开盘集体上涨，德州仪器跌近10%</a> [9]</li><li><a href="https://wallstreetcn.com/livenews/2947194" target="_blank" class="news-link">特朗普：日本同意购买价值数十亿的军事装备。 我们的企业将从与印尼的协议中赚钱。 希望主要国家向美国开放市场。 若能让主要国家对美国开放市场，将始终愿在关税上作出让步。 只有对方开放市场，才会降低关税。</a> [14]</li><li><a href="https://wallstreetcn.com/livenews/2947191" target="_blank" class="news-link">特朗普：住房市场滞后是因为鲍威尔拒绝降低利率。 美联储应采取行动。 我们的利率应该比目前低三个点。</a> [17]</li><li><a href="https://wallstreetcn.com/livenews/2947188" target="_blank" class="news-link">周三美股盘前你需要了解的全球要闻</a> [19]</li><li><a href="https://wallstreetcn.com/livenews/2947183" target="_blank" class="news-link">美国商务部长卢特尼克：大国获得较低税率会比较难。 如果欧盟接受美国的产品和标准，将“打动”特朗普。 特朗普希望欧盟“完全”开放市场。</a> [23]</li></ul></div>
+        </body>
+        </html>
+        
