@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-07-24T00:00:04.127784+08:00",
+  "generated_at": "2025-07-24T00:39:39.713341+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -63,11 +63,11 @@
           "time_info": ""
         },
         {
-          "title": "卢特尼克爆料：特朗普几乎每晚1点都给我打电话，包括八卦，还曾让我背锅",
-          "url": "https://wallstreetcn.com/articles/3751655",
+          "title": "特朗普称美菲达成贸易协议，将征菲律宾19%关税，道指加速上涨",
+          "url": "https://wallstreetcn.com/articles/3751659",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -78,20 +78,20 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31239052",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
         {
-          "title": "特朗普称美菲达成贸易协议，将征菲律宾19%关税，道指加速上涨",
-          "url": "https://wallstreetcn.com/articles/3751659",
-          "source": "华尔街见闻",
+          "title": "德州仪器（TXN）一度下跌将近12.75%，创2008年以来最差盘中表现，（在美国总统特朗普“大漂亮税法”生效之际）该公司业绩展望逊色于市场最乐观的预期。",
+          "url": "https://wallstreetcn.com/livenews/2947249",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -100,18 +100,7 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31239635",
           "source": "澎湃新闻",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "【美国众议长约翰逊：对鲍威尔感到失望】美国众议长约翰逊：对美联储主席鲍威尔“不抱幻想”。对修订“联储法案”持开放态度。对改革美联储持开放态度，但“魔鬼在于细节”。对于特朗普罢免鲍威尔的意图，法律权限是不清晰的。",
-          "url": "https://wallstreetcn.com/livenews/2947235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -122,7 +111,18 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31239686",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "【美国众议长约翰逊：对鲍威尔感到失望】美国众议长约翰逊：对美联储主席鲍威尔“不抱幻想”。对修订“联储法案”持开放态度。对改革美联储持开放态度，但“魔鬼在于细节”。对于特朗普罢免鲍威尔的意图，法律权限是不清晰的。",
+          "url": "https://wallstreetcn.com/livenews/2947235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -132,16 +132,16 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
         {
-          "title": "伊朗总统：要结束我们的核计划是一种幻想。",
-          "url": "https://flash.jin10.com/detail/20250723233725496800",
+          "title": "伊朗担心美国将利用核谈判作为新袭击的借口。",
+          "url": "https://flash.jin10.com/detail/20250724002426988800",
           "source": "金十数据",
           "ranks": [
-            4
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -150,31 +150,37 @@
           "url": "https://wallstreetcn.com/livenews/2947239",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
         {
-          "title": "伊朗外交部副部长：国际原子能机构技术小组将不会前往伊朗的核设施。",
-          "url": "https://flash.jin10.com/detail/20250723224554358800",
+          "title": "伊朗总统：要结束我们的核计划是一种幻想。",
+          "url": "https://flash.jin10.com/detail/20250723233725496800",
           "source": "金十数据",
           "ranks": [
-            13
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "伊朗外交部副部长：伊朗已同意接受国际原子能机构技术代表团，该代表团将在两到三周内访问伊朗。",
-          "url": "https://flash.jin10.com/detail/20250723223440627800",
-          "source": "金十数据",
+          "title": "欧元、欧股期货、波音走高，金价跌1%，报道称欧美接近达成15%关税协议",
+          "url": "https://wallstreetcn.com/livenews/2947251",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         }
@@ -189,9 +195,26 @@
           "url": "https://wallstreetcn.com/livenews/2947242",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            17
           ],
           "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧元兑美元EUR/USD短线上扬30余点，最高报1.1758，美元指数DXY短线下挫20点，最低至97.27。",
+          "url": "https://flash.jin10.com/detail/20250724000023261800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         }
