@@ -1,29 +1,18 @@
 {
-  "generated_at": "2025-07-24T16:39:16.784866+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-07-24T17:13:11.812032+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "税率下限提高？特朗普：将对大部分国家征收15%至50%关税",
-          "url": "https://www.cls.cn/detail/2094479",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
         {
           "title": "20年来首度总统“亲自登门”！特朗普今日将访问美联储",
           "url": "https://www.cls.cn/detail/2094924",
           "source": "财联社热门",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -34,7 +23,7 @@
           "url": "https://wallstreetcn.com/articles/3751762",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -50,90 +39,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
-        },
-        {
-          "title": "特朗普：英伟达是什么鬼",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%98%AF%E4%BB%80%E4%B9%88%E9%AC%BC",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "为何说特朗普想早点结束关税战",
-          "url": "https://www.toutiao.com/trending/7530510958804864555/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌母公司二季度业绩超预期，提高全年资本支出至850亿美元，盘后一度涨3.4% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3751755",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "谷歌美股盘前涨2.5%，母公司二季度业绩超预期，提高全年资本支出至850亿美元。特斯拉盘前重挫6%，公司Q2业绩惨淡、创十年最大销售下滑。IBM盘前跌5.1%，公司第二季度软件销售额未达预期。Opendoor盘前上涨10%，柯尔百货下跌2.2%。名创优品美股盘前涨超6%，MINISO LAND全球壹号店销售突破1亿元。",
-          "url": "https://wallstreetcn.com/livenews/2947722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "摩根大通：将谷歌母公司Alphabet目标价从200美元上调至232美元。",
-          "url": "https://flash.jin10.com/detail/20250724160651046800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价大涨 有人预计变现470万",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E5%A4%A7%E6%B6%A8+%E6%9C%89%E4%BA%BA%E9%A2%84%E8%AE%A1%E5%8F%98%E7%8E%B0470%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "贸易消息引爆风险偏好，美股新高，小盘股领涨，焦煤夜盘一度涨超7%，黄金美债跌",
@@ -145,21 +56,49 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
+        },
+        {
+          "title": "美联储降息就能省下万亿美债利息？德银：特朗普“太想当然”了！",
+          "url": "https://www.cls.cn/detail/2094540",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
         }
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "IBM(IBM.N)美股盘前跌5.1%，公司第二季度软件销售额未达预期。",
-          "url": "https://flash.jin10.com/detail/20250724160600520800",
-          "source": "金十数据",
+          "title": "谷歌母公司二季度业绩超预期，提高全年资本支出至850亿美元，盘后一度涨3.4% | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3751755",
+          "source": "华尔街见闻",
           "ranks": [
-            28
+            7
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗真的会跟美西方撕破脸吗",
+          "url": "https://www.toutiao.com/trending/7530524484353134119/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         }
