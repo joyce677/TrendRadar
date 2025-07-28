@@ -1,0 +1,98 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>频率词统计报告</title>
+            <style>
+                body { font-family: Arial, sans-serif; margin: 20px; }
+                h1, h2 { color: #333; }
+                table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+                th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+                th { background-color: #f2f2f2; }
+                tr:nth-child(even) { background-color: #f9f9f9; }
+                .word { font-weight: bold; }
+                .count { text-align: center; }
+                .percentage { text-align: center; }
+                .titles { max-width: 500px; }
+                .source { color: #666; font-style: italic; }
+                .error { color: #d9534f; }
+                .news-link { 
+                    color: #007bff; 
+                    text-decoration: none; 
+                    border-bottom: 1px dotted #007bff;
+                }
+                .news-link:hover { 
+                    color: #0056b3; 
+                    text-decoration: underline; 
+                }
+                .news-link:visited { 
+                    color: #6f42c1; 
+                }
+                .no-link { 
+                    color: #333; 
+                }
+                .new-title {
+                    background-color: #fff3cd;
+                    border: 1px solid #ffc107;
+                    border-radius: 3px;
+                    padding: 2px 6px;
+                    margin: 2px 0;
+                }
+                .new-section {
+                    background-color: #d1ecf1;
+                    border: 1px solid #bee5eb;
+                    border-radius: 5px;
+                    padding: 10px;
+                    margin-top: 10px;
+                }
+                .new-section h3 {
+                    color: #0c5460;
+                    margin-top: 0;
+                }
+            </style>
+        </head>
+        <body>
+            <h1>频率词统计报告</h1>
+        <p>总标题数: 315</p><p>生成时间: 2025-07-29 07:31:23</p>
+            <table>
+                <tr>
+                    <th>排名</th>
+                    <th>频率词</th>
+                    <th>出现次数</th>
+                    <th>占比</th>
+                    <th>相关标题</th>
+                </tr>
+        
+                <tr>
+                    <td>1</td>
+                    <td class="word">特朗普</td>
+                    <td class="count">17</td>
+                    <td class="percentage">5.4%</td>
+                    <td class="titles">[华尔街见闻] <a href="https://wallstreetcn.com/articles/3752017" target="_blank" class="news-link">被特朗普“吃干抹净”，欧洲最大的遗憾是“4月没有和中国一起反抗”</a> <font color='red'><strong>[3]</strong></font> <font color='grey'>- 07时31分</font><br><div class='new-title'>🆕 [凤凰网] <a href="https://news.ifeng.com/c/8lNCSroewdq" target="_blank" class="news-link">白宫：特朗普愿与金正恩对话</a> <font color='red'><strong>[5]</strong></font> <font color='grey'>- 07时31分</font></div><br><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250729063953617800" target="_blank" class="news-link">白宫：特朗普愿与金正恩对话</a> [6] <font color='grey'>- 07时31分</font></div><br><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250729063100660800" target="_blank" class="news-link">消息人士：特朗普政府听取了有关缅甸政策转变的不同建议，特朗普团队审查了对缅甸的政策思路，重点关注贸易、关键矿产等问题。</a> [7] <font color='grey'>- 07时31分</font></div><br><div class='new-title'>🆕 [华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2949797" target="_blank" class="news-link">巴西财长Haddad：无论特朗普做何选择，巴西都将推动与美国的对话。</a> [7] <font color='grey'>- 07时31分</font></div><br>[凤凰网] <a href="https://news.ifeng.com/c/8lMbguhPTyX" target="_blank" class="news-link">特朗普再次表示：对普京非常失望</a> [8] <font color='grey'>- 07时31分</font><br><div class='new-title'>🆕 [华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2949793" target="_blank" class="news-link">白宫：特朗普愿与金正恩对话</a> [10] <font color='grey'>- 07时31分</font></div><br>[金十数据] <a href="https://flash.jin10.com/detail/20250729061412584800" target="_blank" class="news-link">美国商务部长卢特尼克：特朗普本周将考虑几项协议，然后确定税率。</a> [11] <font color='grey'>- 07时31分</font><br>[今日头条] <a href="https://www.toutiao.com/trending/7532081432647175723/" target="_blank" class="news-link">为何特朗普一发话泰柬就停战了</a> [12] <font color='grey'>- 07时31分</font><br>[金十数据] <a href="https://flash.jin10.com/detail/20250729061347750800" target="_blank" class="news-link">美国商务部长卢特尼克：特朗普本周将对其他国家做出关税决定。</a> [12] <font color='grey'>- 07时31分</font><br>[金十数据] <a href="https://flash.jin10.com/detail/20250729061346117800" target="_blank" class="news-link">美国商务部长卢特尼克：特朗普将在本周末之前对其他国家征收关税。</a> [13] <font color='grey'>- 07时31分</font><br>[金十数据] <a href="https://flash.jin10.com/detail/20250729060308940800" target="_blank" class="news-link">特朗普接受卡塔尔捐赠的豪华客机作为“空军一号”使用</a> [18] <font color='grey'>- 07时31分</font><br>[贴吧] <a href="https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28343806&amp;amp;topic_name=%E6%AC%A7%E7%9B%9F%E8%B7%AA%E7%AD%BE%E5%8D%96%E8%BA%AB%E5%A5%91%EF%BC%81%E7%89%B9%E6%9C%97%E6%99%AE%E5%90%B8%E8%A1%806000%E4%BA%BF" target="_blank" class="news-link">欧盟跪签卖身契！特朗普吸血6000亿</a> [18] <font color='grey'>- 07时31分</font><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2949782" target="_blank" class="news-link">美国三大股指期货和小盘股指期货至多涨约0.1%。 美国商务部长卢特尼克称，欧盟将支付15%的关税，“一些小东西”除外。 为了会见卢特尼克和贸易办公室（USTR）代表，韩国官员们飞到英国苏格兰。 总统特朗普到本周末将制定针对剩余国家的关税。 特朗普将在本周考虑另外几份协议，然后将制定关税税率。 对于那些提议对美国开放市场的国家，美国的谈判桌准备好了。</a> [19] <font color='grey'>- 07时31分</font><br>[今日头条] <a href="https://www.toutiao.com/trending/7532037410159332914/" target="_blank" class="news-link">美代表团访华名单无特朗普意味啥</a> [21] <font color='grey'>- 07时31分</font><br>[百度热搜] <a href="https://www.baidu.com/s?wd=%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%86%AF%E5%BE%B7%E8%8E%B1%E6%81%A9%E5%BD%93%E6%97%A9%E9%A4%90%E5%90%83%E6%8E%89%E4%BA%86%E2%80%9D" target="_blank" class="news-link">“特朗普将冯德莱恩当早餐吃掉了”</a> [21] <font color='grey'>- 07时31分</font><br>[金十数据] <a href="https://flash.jin10.com/detail/20250729055112466800" target="_blank" class="news-link">据ABC新闻：特朗普政府接受了卡塔尔“无条件捐赠”的一架豪华飞机。</a> [21] <font color='grey'>- 07时31分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>2</td>
+                    <td class="word">美股</td>
+                    <td class="count">3</td>
+                    <td class="percentage">0.95%</td>
+                    <td class="titles"><div class='new-title'>🆕 [华尔街见闻] <a href="https://wallstreetcn.com/articles/3751982" target="_blank" class="news-link">美股窄幅收高，美元大涨，黄金四连跌，国内双焦夜盘再挫</a> <font color='red'><strong>[2]</strong></font> <font color='grey'>- 07时31分</font></div><br><div class='new-title'>🆕 [华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2949800" target="_blank" class="news-link">医学研究和药物开发公司Sarepta Therapeutics Inc.（SRPT）美股盘后涨超47.8%，美国食品药品管理局（FDA）宣布，调查结果表明八岁男童的死亡与该公司基因疗法Elevidys无关，该基因疗法可以继续向某些病患提供。</a> <font color='red'><strong>[4]</strong></font> <font color='grey'>- 07时31分</font></div><br>[财联社热门] <a href="https://www.cls.cn/detail/2098825" target="_blank" class="news-link">美股收盘：市场谨慎看待美欧协议 三大指数涨跌不一 标普、纳指续创新高</a> [6] <font color='grey'>- 07时31分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>3</td>
+                    <td class="word">美元</td>
+                    <td class="count">1</td>
+                    <td class="percentage">0.32%</td>
+                    <td class="titles">[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2949771" target="_blank" class="news-link">巴西圣保罗证交所指数收跌1.04%，报13.2万点。 巴西雷亚尔兑美元跌0.44%，报5.5886雷亚尔，7月9日重挫以来，持续纠缠于5.58雷亚尔附近。 巴西副总统Geraldo Alckmin表示，针对美国关税威胁的回应计划准备就绪。</a> [26] <font color='grey'>- 07时31分</font></td>
+                </tr>
+            
+            </table>
+        
+            <div class="new-section">
+                <h3>🆕 本次新增热点新闻 (共 7 条)</h3>
+            <h4>华尔街见闻 (1 条)</h4><ul><li><a href="https://wallstreetcn.com/articles/3751982" target="_blank" class="news-link">美股窄幅收高，美元大涨，黄金四连跌，国内双焦夜盘再挫</a> <font color='red'><strong>[2]</strong></font></li></ul><h4>凤凰网 (1 条)</h4><ul><li><a href="https://news.ifeng.com/c/8lNCSroewdq" target="_blank" class="news-link">白宫：特朗普愿与金正恩对话</a> <font color='red'><strong>[5]</strong></font></li></ul><h4>金十数据 (2 条)</h4><ul><li><a href="https://flash.jin10.com/detail/20250729063953617800" target="_blank" class="news-link">白宫：特朗普愿与金正恩对话</a> [6]</li><li><a href="https://flash.jin10.com/detail/20250729063100660800" target="_blank" class="news-link">消息人士：特朗普政府听取了有关缅甸政策转变的不同建议，特朗普团队审查了对缅甸的政策思路，重点关注贸易、关键矿产等问题。</a> [7]</li></ul><h4>华尔街见闻-快讯 (3 条)</h4><ul><li><a href="https://wallstreetcn.com/livenews/2949800" target="_blank" class="news-link">医学研究和药物开发公司Sarepta Therapeutics Inc.（SRPT）美股盘后涨超47.8%，美国食品药品管理局（FDA）宣布，调查结果表明八岁男童的死亡与该公司基因疗法Elevidys无关，该基因疗法可以继续向某些病患提供。</a> <font color='red'><strong>[4]</strong></font></li><li><a href="https://wallstreetcn.com/livenews/2949797" target="_blank" class="news-link">巴西财长Haddad：无论特朗普做何选择，巴西都将推动与美国的对话。</a> [7]</li><li><a href="https://wallstreetcn.com/livenews/2949793" target="_blank" class="news-link">白宫：特朗普愿与金正恩对话</a> [10]</li></ul></div>
+        </body>
+        </html>
+        
