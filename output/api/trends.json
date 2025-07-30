@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-07-31T00:37:35.233821+08:00",
+  "generated_at": "2025-07-31T01:10:03.415974+08:00",
   "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 9,
       "titles": [
         {
           "title": "美高官炫上了：欧盟已向特朗普屈服，连我都没想到",
@@ -67,7 +67,7 @@
           "url": "https://www.cls.cn/detail/2101010",
           "source": "财联社热门",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -89,7 +89,7 @@
           "url": "https://www.toutiao.com/trending/7531985351200915498/",
           "source": "今日头条",
           "ranks": [
-            15
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -100,29 +100,7 @@
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B0%86%E5%AF%B9%E5%8D%B0%E5%BA%A6%E5%95%86%E5%93%81%E5%BE%81%E6%94%B625%25%E5%85%B3%E7%A8%8E",
           "source": "百度热搜",
           "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "知情人士称，美国联邦调查局（FBI）局长帕特尔在局内的一个秘密房间里发现了大量与特朗普-俄罗斯调查起源有关的敏感文件，这些文件被埋在多个“燃烧袋”里。",
-          "url": "https://flash.jin10.com/detail/20250730235253855800",
-          "source": "金十数据",
-          "ranks": [
             21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "印度：政府已经收到美国总统特朗普的声明。 印方将采取必要行动，来确保自身的国家利益。 正研究特朗普宣布的美国关税对于印度的影响。",
-          "url": "https://wallstreetcn.com/livenews/2951031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -132,14 +110,36 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "市场消息：苹果(AAPL.O)、谷歌和OpenAI与联邦政府合作制定健康数据计划。",
+          "url": "https://flash.jin10.com/detail/20250731010020711800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "亚马逊、苹果、Alphabet旗下谷歌公司、OpenAI等美国科技公司帮助特朗普政府打造（新版）健康系统。",
+          "url": "https://wallstreetcn.com/livenews/2951069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
         {
           "title": "谷歌公司将开始在美国向部分用户推出“年龄验证”功能。",
           "url": "https://wallstreetcn.com/livenews/2951056",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -150,7 +150,7 @@
           "url": "https://flash.jin10.com/detail/20250731000346506800",
           "source": "金十数据",
           "ranks": [
-            12
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -160,25 +160,36 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "金十图示：2025年07月30日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20250731003032675800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
         {
           "title": "美股暴跌近22%！诺和诺德减肥药Wegovy销售不及预期，任命新CEO并下调全年指引",
           "url": "https://wallstreetcn.com/articles/3752152",
           "source": "华尔街见闻",
           "ranks": [
             6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "金十图示：2025年07月30日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20250731003120540800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "金十图示：2025年07月30日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20250731003032675800",
+          "source": "金十数据",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
