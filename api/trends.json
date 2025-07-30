@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-07-31T02:43:33.340634+08:00",
+  "generated_at": "2025-07-31T03:09:34.805992+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -58,7 +58,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -80,7 +80,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -102,7 +102,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -124,7 +124,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -135,6 +135,17 @@
           "ranks": [
             16
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "美联储主席鲍威尔：（谈特朗普施压）拥有独立的中央银行对公众有益，只要有利于公众利益，独立性就应得到尊重并继续下去。",
+          "url": "https://flash.jin10.com/detail/20250731030406333800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
           "is_new": true,
           "appearance_count": 1,
           "time_info": ""
@@ -144,7 +155,7 @@
           "url": "https://www.toutiao.com/trending/7531985351200915498/",
           "source": "今日头条",
           "ranks": [
-            18
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -162,11 +173,11 @@
           "time_info": ""
         },
         {
-          "title": "特朗普将精炼铜等排除在关税之外 美铜暴跌18%",
-          "url": "https://flash.jin10.com/detail/20250731022759904800",
+          "title": "美国白宫：特朗普将评估是否从2027年1月1日起对精炼铜征收15%的分阶段普遍进口关税。",
+          "url": "https://flash.jin10.com/detail/20250731030304636800",
           "source": "金十数据",
           "ranks": [
-            24
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
@@ -179,7 +190,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -193,24 +204,24 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
-        },
-        {
-          "title": "美国总统特朗普：应该对佩洛西进行调查。",
-          "url": "https://flash.jin10.com/detail/20250731022444067800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "鲍威尔避免给出9月利率指引，美债收益率上涨",
+          "url": "https://flash.jin10.com/detail/20250731030756567800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
         {
           "title": "标普终结六连涨，美元美债涨，原油大涨3%，双焦夜盘大涨",
           "url": "https://wallstreetcn.com/articles/3752129",
@@ -264,6 +275,40 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY日内大涨1.00%，现报99.86。美元兑瑞郎USD/CHF日内涨幅达1.00%，现报0.8137。",
+          "url": "https://flash.jin10.com/detail/20250731030557567800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国财政部：美国针对伊朗的相关制裁措施涉及15家航运公司、52艘船只、12名个人以及53个在17个国家参与规避制裁活动的实体。",
+          "url": "https://flash.jin10.com/detail/20250731030347426800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         }
