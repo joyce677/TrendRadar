@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-07-31T21:01:16.299630+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2025-07-31T22:02:43.342376+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "巴西副总统：特朗普将我们出口到美国的45%的产品排除在50%的关税之外。",
+          "url": "https://flash.jin10.com/detail/20250731215324835800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
         {
           "title": "纽铜暴跌20%！特朗普对进口半成品铜等征50%关税，但原矿不征税",
           "url": "https://wallstreetcn.com/articles/3752279",
@@ -34,7 +45,18 @@
           "url": "https://wallstreetcn.com/articles/3752291",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特朗普“连捅三刀”！印度人的怒火，正在熊熊燃烧",
+          "url": "https://wallstreetcn.com/articles/3752303",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -52,13 +74,13 @@
           "time_info": ""
         },
         {
-          "title": "特朗普“连捅三刀”！印度人的怒火，正在熊熊燃烧",
-          "url": "https://wallstreetcn.com/articles/3752303",
-          "source": "华尔街见闻",
+          "title": "特朗普和墨西哥总统辛鲍姆今天将讨论关税问题。",
+          "url": "https://flash.jin10.com/detail/20250731214212366800",
+          "source": "金十数据",
           "ranks": [
-            10
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -72,43 +94,98 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
+        },
+        {
+          "title": "特朗普为何对铜征收关税",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E5%AF%B9%E9%93%9C%E5%BE%81%E6%94%B6%E5%85%B3%E7%A8%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
-          "title": "金十数据整理：每日美股市场要闻速递（2025-07-31）",
-          "url": "https://flash.jin10.com/detail/20250731205440199800",
+          "title": "美股盘初，主要行业ETF涨跌不一，网络股指数ETF涨超2%，生物科技指数ETF涨近1%，半导体ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/2951795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "金十图示：2025年07月31日（周四）美股热门股票行情一览（美股盘初）",
+          "url": "https://flash.jin10.com/detail/20250731214447384800",
           "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "美股盘初：微软涨约8%，成为第二家“四万亿美元公司”",
+          "url": "https://wallstreetcn.com/livenews/2951786",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
         {
-          "title": "Roblox美股盘前涨幅扩大至逾20%，公司此前提高了业绩指引。",
-          "url": "https://wallstreetcn.com/livenews/2951747",
+          "title": "金十图示：2025年07月31日（周四）热门中概股行情一览（美股盘初）",
+          "url": "https://flash.jin10.com/detail/20250731214346235800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "美股三大指数集体高开 Meta涨超11%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E9%AB%98%E5%BC%80+Meta%E6%B6%A8%E8%B6%8511%25",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "周四美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/2951776",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "美股多只科技股高开",
+          "url": "https://flash.jin10.com/detail/20250731213036711800",
+          "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "Roblox二季度营收10.8亿美元，预估11.5亿美元。 第二季度预订额为14.4亿美元，预期为12.6亿美元。 Roblox预计三季度营收11.1亿美元-11.6亿美元，市场预估11.5亿美元。 Roblox预计三季度预定额为15.9亿美元-16.4亿美元，市场预估13.4亿美元。 Roblox预计全财年营收43.9亿美元-44.9亿美元，此前预期为42.9亿美元-43.7亿美元。 Roblox美股盘前涨超13%。",
-          "url": "https://wallstreetcn.com/livenews/2951744",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         }
@@ -119,22 +196,22 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "美国6月PCE物价指数公布后，美元指数短线波动不大",
-          "url": "https://wallstreetcn.com/livenews/2951767",
+          "title": "美元指数向上触及100，为5月底以来首次。",
+          "url": "https://wallstreetcn.com/livenews/2951782",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
         {
-          "title": "美国系列数据公布后，现货黄金短线波动暂不大，报3305美元/盎司；美元指数DXY短线小幅走高，报99.81。",
-          "url": "https://flash.jin10.com/detail/20250731203112141800",
-          "source": "金十数据",
+          "title": "美国6月PCE物价指数公布后，美元指数短线波动不大",
+          "url": "https://wallstreetcn.com/livenews/2951767",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -151,7 +228,7 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%A2%ABOpenAI%E7%82%B9%E5%90%8D%E7%9A%84%E5%9B%BD%E4%BA%A7AI%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3",
           "source": "bilibili 热搜",
           "ranks": [
-            18
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
