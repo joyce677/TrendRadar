@@ -1,0 +1,106 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>频率词统计报告</title>
+            <style>
+                body { font-family: Arial, sans-serif; margin: 20px; }
+                h1, h2 { color: #333; }
+                table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+                th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+                th { background-color: #f2f2f2; }
+                tr:nth-child(even) { background-color: #f9f9f9; }
+                .word { font-weight: bold; }
+                .count { text-align: center; }
+                .percentage { text-align: center; }
+                .titles { max-width: 500px; }
+                .source { color: #666; font-style: italic; }
+                .error { color: #d9534f; }
+                .news-link { 
+                    color: #007bff; 
+                    text-decoration: none; 
+                    border-bottom: 1px dotted #007bff;
+                }
+                .news-link:hover { 
+                    color: #0056b3; 
+                    text-decoration: underline; 
+                }
+                .news-link:visited { 
+                    color: #6f42c1; 
+                }
+                .no-link { 
+                    color: #333; 
+                }
+                .new-title {
+                    background-color: #fff3cd;
+                    border: 1px solid #ffc107;
+                    border-radius: 3px;
+                    padding: 2px 6px;
+                    margin: 2px 0;
+                }
+                .new-section {
+                    background-color: #d1ecf1;
+                    border: 1px solid #bee5eb;
+                    border-radius: 5px;
+                    padding: 10px;
+                    margin-top: 10px;
+                }
+                .new-section h3 {
+                    color: #0c5460;
+                    margin-top: 0;
+                }
+            </style>
+        </head>
+        <body>
+            <h1>频率词统计报告</h1>
+        <p>总标题数: 315</p><p>生成时间: 2025-08-01 05:57:34</p>
+            <table>
+                <tr>
+                    <th>排名</th>
+                    <th>频率词</th>
+                    <th>出现次数</th>
+                    <th>占比</th>
+                    <th>相关标题</th>
+                </tr>
+        
+                <tr>
+                    <td>1</td>
+                    <td class="word">特朗普</td>
+                    <td class="count">26</td>
+                    <td class="percentage">8.25%</td>
+                    <td class="titles"><div class='new-title'>🆕 [华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2951935" target="_blank" class="news-link">要求降息未果 特朗普再指鲍威尔是“糟糕的美联储主席”</a> <font color='red'><strong>[1]</strong></font> <font color='grey'>- 05时57分</font></div><br><div class='new-title'>🆕 [bilibili 热搜] <a href="https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E5%AF%B9%E9%93%9C%E5%BE%81%E6%94%B6%E5%85%B3%E7%A8%8E" target="_blank" class="news-link">特朗普为何对铜征收关税</a> <font color='red'><strong>[2]</strong></font> <font color='grey'>- 05时57分</font></div><br>[华尔街见闻] <a href="https://wallstreetcn.com/articles/3752291" target="_blank" class="news-link">特朗普宣布与韩国达成贸易协议：15%关税和3500亿美元投资</a> <font color='red'><strong>[4]</strong></font> <font color='grey'>- 05时57分</font><br>[凤凰网] <a href="https://news.ifeng.com/c/8lRbBTBsiWb" target="_blank" class="news-link">特朗普提醒梅德韦杰夫“小心言辞”，后者回应：说明俄方做对了</a> <font color='red'><strong>[4]</strong></font> <font color='grey'>- 05时57分</font><br>[华尔街见闻] <a href="https://wallstreetcn.com/articles/3752303" target="_blank" class="news-link">特朗普“连捅三刀”！印度人的怒火，正在熊熊燃烧</a> [8] <font color='grey'>- 05时57分</font><br>[凤凰网] <a href="https://news.ifeng.com/c/8lRJzS9NA4M" target="_blank" class="news-link">加拿大准备承认巴勒斯坦国遭特朗普威胁，以色列：不会屈服</a> [9] <font color='grey'>- 05时57分</font><br><div class='new-title'>🆕 [华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2951925" target="_blank" class="news-link">特朗普：加拿大对巴勒斯坦的立场不会影响关税协议达成</a> [9] <font color='grey'>- 05时57分</font></div><br><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250801051328792800" target="_blank" class="news-link">特朗普：加拿大对巴勒斯坦的立场不会影响关税协议达成</a> [12] <font color='grey'>- 05时57分</font></div><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2951916" target="_blank" class="news-link">美国总统特朗普：将对俄罗斯实施制裁。 不知道制裁手段能否对俄罗斯总统普京产生影响。</a> [18] <font color='grey'>- 05时57分</font><br>[今日头条] <a href="https://www.toutiao.com/trending/7533222462280961577/" target="_blank" class="news-link">特朗普为何对印度“下死手”</a> [19] <font color='grey'>- 05时57分</font><br>[贴吧] <a href="https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28343912&amp;amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%88%91%E5%8F%AA%E7%BB%99%E4%BF%84%E7%BD%97%E6%96%AF10%E5%A4%A9" target="_blank" class="news-link">特朗普：我只给俄罗斯10天</a> [19] <font color='grey'>- 05时57分</font><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2951914" target="_blank" class="news-link">美国总统特朗普：鲍威尔是一位“糟糕的”美联储主席。 他是一个“政治仆从”。 让鲍威尔担任美联储主席是一个错误。</a> [20] <font color='grey'>- 05时57分</font><br>[今日头条] <a href="https://www.toutiao.com/trending/7533191897360109075/" target="_blank" class="news-link">特朗普最后通牒为何换来俄空袭基辅</a> [21] <font color='grey'>- 05时57分</font><br><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250801045840566800" target="_blank" class="news-link">美国总统特朗普：中东问题特使威特科夫在访问以色列后将前往俄罗斯。</a> [21] <font color='grey'>- 05时57分</font></div><br>[金十数据] <a href="https://flash.jin10.com/detail/20250801045536087800" target="_blank" class="news-link">美国总统特朗普：（谈及加沙）情况很糟糕。</a> [22] <font color='grey'>- 05时57分</font><br>[金十数据] <a href="https://flash.jin10.com/detail/20250801045455679800" target="_blank" class="news-link">美国总统特朗普：（谈及俄罗斯）我们将实施制裁。</a> [23] <font color='grey'>- 05时57分</font><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2951911" target="_blank" class="news-link">美国总统特朗普：今天还没有与加拿大总理卡尼通电话。 我不喜欢加拿大关于巴勒斯坦国的言论。 加拿大在这方面的看法不会成为破坏（美加贸易）协议的因素。</a> [23] <font color='grey'>- 05时57分</font><br>[金十数据] <a href="https://flash.jin10.com/detail/20250801045359677800" target="_blank" class="news-link">美国总统特朗普：俄罗斯所做的一切令人作呕。</a> [24] <font color='grey'>- 05时57分</font><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2951909" target="_blank" class="news-link">美国联邦上诉法院提出尖锐质疑，特朗普大部分关税面临严峻法律考验</a> [25] <font color='grey'>- 05时57分</font><br>[金十数据] <a href="https://flash.jin10.com/detail/20250801044946125800" target="_blank" class="news-link">美国总统特朗普：伊朗一直没有说正确的话，也没有表现得很好。</a> [27] <font color='grey'>- 05时57分</font><br>[今日头条] <a href="https://www.toutiao.com/trending/7533033495468183081/" target="_blank" class="news-link">牛弹琴：特朗普“连捅3刀” 印度气炸</a> [28] <font color='grey'>- 05时57分</font><br>[金十数据] <a href="https://flash.jin10.com/detail/20250801044910190800" target="_blank" class="news-link">美国总统特朗普：任命鲍威尔为美联储主席是个错误。</a> [28] <font color='grey'>- 05时57分</font><br>[金十数据] <a href="https://flash.jin10.com/detail/20250801044849850800" target="_blank" class="news-link">美国总统特朗普：（谈及鲍威尔）他是个糟糕的美联储主席。</a> [29] <font color='grey'>- 05时57分</font><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2951904" target="_blank" class="news-link">周四（7月31日），“特朗普关税输家”指数跌0.90%，报103.77点，7月份累计上涨5.31%。</a> [29] <font color='grey'>- 05时57分</font><br>[金十数据] <a href="https://flash.jin10.com/detail/20250801044744918800" target="_blank" class="news-link">美国总统特朗普：（谈及伊朗）他们表现得非常糟糕。</a> [30] <font color='grey'>- 05时57分</font><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2951903" target="_blank" class="news-link">美国总统特朗普：正在敲定大量协议。</a> [30] <font color='grey'>- 05时57分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>2</td>
+                    <td class="word">美股</td>
+                    <td class="count">5</td>
+                    <td class="percentage">1.59%</td>
+                    <td class="titles"><div class='new-title'>🆕 [华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2951934" target="_blank" class="news-link">亚马逊美股盘后跌7.08%。</a> <font color='red'><strong>[2]</strong></font> <font color='grey'>- 05时57分</font></div><br><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250801052620219800" target="_blank" class="news-link">苹果(AAPL.O)美股盘后直线拉升涨超3%，公司预计三季度营收将实现中高个位数增长。</a> [6] <font color='grey'>- 05时57分</font></div><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2951913" target="_blank" class="news-link">Reddit美股盘后涨幅扩大至20%。</a> [21] <font color='grey'>- 05时57分</font><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2951910" target="_blank" class="news-link">布油基金收跌约1.7%，和地产ETF领地美股大类资产类ETF</a> [24] <font color='grey'>- 05时57分</font><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2951908" target="_blank" class="news-link">医疗业ETF收跌2.8%，和半导体ETF领地美股行业ETF</a> [26] <font color='grey'>- 05时57分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>3</td>
+                    <td class="word">chatgpt openai</td>
+                    <td class="count">1</td>
+                    <td class="percentage">0.32%</td>
+                    <td class="titles">[bilibili 热搜] <a href="https://search.bilibili.com/all?keyword=%E8%A2%ABOpenAI%E7%82%B9%E5%90%8D%E7%9A%84%E5%9B%BD%E4%BA%A7AI%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3" target="_blank" class="news-link">被OpenAI点名的国产AI什么水平</a> <font color='red'><strong>[5]</strong></font> <font color='grey'>- 05时57分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>4</td>
+                    <td class="word">金价</td>
+                    <td class="count">1</td>
+                    <td class="percentage">0.32%</td>
+                    <td class="titles">[今日头条] <a href="https://www.toutiao.com/trending/7533038314275209226/" target="_blank" class="news-link">半年来金价涨了多少</a> [14] <font color='grey'>- 05时57分</font></td>
+                </tr>
+            
+            </table>
+        
+            <div class="new-section">
+                <h3>🆕 本次新增热点新闻 (共 7 条)</h3>
+            <h4>bilibili 热搜 (1 条)</h4><ul><li><a href="https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E5%AF%B9%E9%93%9C%E5%BE%81%E6%94%B6%E5%85%B3%E7%A8%8E" target="_blank" class="news-link">特朗普为何对铜征收关税</a> <font color='red'><strong>[2]</strong></font></li></ul><h4>金十数据 (3 条)</h4><ul><li><a href="https://flash.jin10.com/detail/20250801052620219800" target="_blank" class="news-link">苹果(AAPL.O)美股盘后直线拉升涨超3%，公司预计三季度营收将实现中高个位数增长。</a> [6]</li><li><a href="https://flash.jin10.com/detail/20250801051328792800" target="_blank" class="news-link">特朗普：加拿大对巴勒斯坦的立场不会影响关税协议达成</a> [12]</li><li><a href="https://flash.jin10.com/detail/20250801045840566800" target="_blank" class="news-link">美国总统特朗普：中东问题特使威特科夫在访问以色列后将前往俄罗斯。</a> [21]</li></ul><h4>华尔街见闻-快讯 (3 条)</h4><ul><li><a href="https://wallstreetcn.com/livenews/2951935" target="_blank" class="news-link">要求降息未果 特朗普再指鲍威尔是“糟糕的美联储主席”</a> <font color='red'><strong>[1]</strong></font></li><li><a href="https://wallstreetcn.com/livenews/2951934" target="_blank" class="news-link">亚马逊美股盘后跌7.08%。</a> <font color='red'><strong>[2]</strong></font></li><li><a href="https://wallstreetcn.com/livenews/2951925" target="_blank" class="news-link">特朗普：加拿大对巴勒斯坦的立场不会影响关税协议达成</a> [9]</li></ul></div>
+        </body>
+        </html>
+        
