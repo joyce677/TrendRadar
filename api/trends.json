@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-07-31T10:28:22.193058+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2025-07-31T11:56:56.224333+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
-        {
-          "title": "特朗普为何“暴击”莫迪",
-          "url": "https://www.toutiao.com/trending/7533026225850158633/",
-          "source": "今日头条",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        },
         {
           "title": "特朗普威胁印度",
           "url": "https://news.ifeng.com/c/8lQhTLxF4rp",
@@ -25,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -35,17 +24,6 @@
           "source": "凤凰网",
           "ranks": [
             3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "明查｜“特朗普爱上白宫保洁”短剧风靡海外？查无此剧",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31259127",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -58,7 +36,18 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "明查｜“特朗普爱上白宫保洁”短剧风靡海外？查无此剧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31259127",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -67,18 +56,95 @@
           "url": "https://www.cls.cn/detail/2101614",
           "source": "财联社热门",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
         {
-          "title": "美国第二季度GDP远超预期 特朗普再催降息",
-          "url": "https://www.cls.cn/detail/2101492",
+          "title": "牛弹琴：特朗普“连捅3刀” 印度气炸",
+          "url": "https://www.toutiao.com/trending/7533033495468183081/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特朗普关税动作频频：将对韩征收15%关税 巴西则面临50%税率",
+          "url": "https://www.cls.cn/detail/2101749",
           "source": "财联社热门",
           "ranks": [
-            9
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "印度卢比兑美元日内跌0.3%。此前特朗普称，自8月1日起印度将支付25%的关税，外加惩罚。",
+          "url": "https://wallstreetcn.com/livenews/2951400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特朗普宣布与韩国达成贸易协议：15%关税和3500亿美元投资",
+          "url": "https://wallstreetcn.com/articles/3752291",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特朗普为何对铜征收关税",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E5%AF%B9%E9%93%9C%E5%BE%81%E6%94%B6%E5%85%B3%E7%A8%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特朗普再掀关税风暴 鲍威尔称未就9月会议做出决定 | 环球市场",
+          "url": "https://www.cls.cn/detail/2101678",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特朗普：将对韩国征收15%关税",
+          "url": "https://www.toutiao.com/trending/7533027176091012618/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特朗普称将对印度商品征收 25% 关税，将产生哪些影响？印度会如何回应？",
+          "url": "https://www.zhihu.com/question/1933990159927476635",
+          "source": "知乎",
+          "ranks": [
+            16
           ],
           "is_new": true,
           "appearance_count": 1,
@@ -89,40 +155,24 @@
           "url": "https://www.toutiao.com/trending/7531985351200915498/",
           "source": "今日头条",
           "ranks": [
-            15
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "特朗普：将对韩国征收15%关税",
-          "url": "https://www.toutiao.com/trending/7533027176091012618/",
-          "source": "今日头条",
+          "title": "被OpenAI点名的国产AI什么水平",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A2%ABOpenAI%E7%82%B9%E5%90%8D%E7%9A%84%E5%9B%BD%E4%BA%A7AI%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3",
+          "source": "bilibili 热搜",
           "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "短剧“特朗普爱上白宫保洁”存在吗",
-          "url": "https://www.toutiao.com/trending/7532763347582914057/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "为何说特朗普关税大棒成果仍存疑问",
-          "url": "https://www.toutiao.com/trending/7532773202913660462/",
-          "source": "今日头条",
-          "ranks": [
-            30
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
@@ -131,37 +181,15 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "keyword_group": "金价",
+      "match_count": 1,
       "titles": [
         {
-          "title": "被OpenAI点名的大模型什么水平",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A2%ABOpenAI%E7%82%B9%E5%90%8D%E7%9A%84%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "报道：ChatGPT周活跃用户达7亿",
-          "url": "https://wallstreetcn.com/livenews/2951311",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "据The Information：OpenAI年营收达120亿美元，每周活跃用户突破7亿。",
-          "url": "https://flash.jin10.com/detail/20250731095215534800",
+          "title": "金十图示：2025年07月31日（周四）上海金早盘价为765.5元/克，较国际金价(763.03元/克)，高2.47元/克",
+          "url": "https://flash.jin10.com/detail/20250731110122088800",
           "source": "金十数据",
           "ranks": [
-            19
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
@@ -178,7 +206,7 @@
           "url": "https://www.cls.cn/detail/2101662",
           "source": "财联社热门",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -197,7 +225,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         }
