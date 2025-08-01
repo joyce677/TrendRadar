@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-08-01T17:59:45.954042+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2025-08-01T18:35:47.085820+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普签令对大多数国家实施关税，外交部回应",
@@ -56,7 +56,7 @@
           "url": "https://www.zhihu.com/question/1934535187850589339",
           "source": "知乎",
           "ranks": [
-            5
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -78,9 +78,53 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31276915",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "柬埔寨副首相：柬埔寨提名美国总统特朗普为诺贝尔和平奖候选人。",
+          "url": "https://flash.jin10.com/detail/20250801175626760800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特朗普对中国台湾地区征税20%",
+          "url": "https://www.toutiao.com/trending/7533413542536416778/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特朗普新“对等关税”税率10%至41%",
+          "url": "https://www.toutiao.com/trending/7533399797861158410/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特朗普和梅德韦杰夫打起了口水战",
+          "url": "https://www.toutiao.com/trending/7533454967558901258/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -89,7 +133,7 @@
           "url": "https://www.douyin.com/hot/2188493",
           "source": "抖音",
           "ranks": [
-            22
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -103,6 +147,17 @@
             25
           ],
           "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特朗普再提制裁俄 但称不确定效果",
+          "url": "https://www.toutiao.com/trending/7533013651566657545/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -158,24 +213,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美元指数升至两个月高点100.171。",
-          "url": "https://flash.jin10.com/detail/20250801170854997800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         }
