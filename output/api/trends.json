@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-08-04T15:19:13.949514+08:00",
-  "total_titles_processed": 302,
+  "generated_at": "2025-08-04T15:59:24.270167+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普：核潜艇已部署到位，美特使本周访俄",
@@ -13,6 +13,17 @@
           "source": "凤凰网",
           "ranks": [
             1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "解雇劳工统计局局长引多方指责 特朗普再次炮轰：他在“制造骗局”！",
+          "url": "https://www.cls.cn/detail/2104736",
+          "source": "财联社热门",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -34,18 +45,7 @@
           "url": "https://wallstreetcn.com/articles/3752549",
           "source": "华尔街见闻",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "解雇劳工统计局局长引多方指责 特朗普再次炮轰：他在“制造骗局”！",
-          "url": "https://www.cls.cn/detail/2104736",
-          "source": "财联社热门",
-          "ranks": [
-            8
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -56,7 +56,7 @@
           "url": "https://www.cls.cn/detail/2104910",
           "source": "财联社热门",
           "ranks": [
-            9
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -67,20 +67,53 @@
           "url": "https://www.cls.cn/detail/2104746",
           "source": "财联社热门",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
         {
-          "title": "评论员：特朗普给全球制造“谜语”",
-          "url": "https://www.toutiao.com/trending/7534555094038089258/",
+          "title": "美国总统特朗普表示，美国中东问题特使威特科夫将于8月6日或7日访问俄罗斯。",
+          "url": "https://flash.jin10.com/detail/20250804151207038800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特朗普4记“重拳”对印度有何影响",
+          "url": "https://www.toutiao.com/trending/7534566638381698598/",
           "source": "今日头条",
           "ranks": [
-            20
+            18
           ],
-          "is_new": false,
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "石破茂暗示将与特朗普谈判 以尽早削减汽车关税",
+          "url": "https://flash.jin10.com/detail/20250804150901787800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "评论员：特朗普关税由美国民众买单",
+          "url": "https://www.toutiao.com/trending/7534566053628612135/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         }
@@ -95,9 +128,43 @@
           "url": "https://www.cls.cn/detail/2104957",
           "source": "财联社热门",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年08月04日（周一）上海金午盘价为777.29元/克，较国际金价(775.66元/克)，高1.63元/克",
+          "url": "https://flash.jin10.com/detail/20250804150326990800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "学者：伊朗改革派总统等来天赐良机",
+          "url": "https://www.toutiao.com/trending/7534577493068484147/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         }
