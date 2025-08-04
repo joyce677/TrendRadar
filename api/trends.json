@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-08-05T03:58:11.060835+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-08-05T04:33:51.725327+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -52,6 +52,17 @@
           "time_info": ""
         },
         {
+          "title": "巴西股指涨幅扩大至0.36%，巴西雷亚尔兑美元涨0.6%。 巴西副总统称，贸易商会批准世贸组织关于美国关税的意见。 特朗普政府对巴西航空工业Embraer加征10%的关税仍然显得太高。 是否征求世贸组织的意见是总统卢拉的决定。 我们需要向美方表明，特朗普的关税缺乏经济方面的合理性。 我们正针对美国关税完成应急计划的制定工作，预计不会对巴西财政政策构成影响。",
+          "url": "https://wallstreetcn.com/livenews/2953328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
           "title": "美特使或本周访俄，特朗普：周五前不停火就制裁俄罗斯",
           "url": "https://m.thepaper.cn/newsDetail_forward_31293820",
           "source": "澎湃新闻",
@@ -78,7 +89,7 @@
           "url": "https://www.toutiao.com/trending/7534566638381698598/",
           "source": "今日头条",
           "ranks": [
-            21
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -89,18 +100,7 @@
           "url": "https://www.toutiao.com/trending/7534219566155907115/",
           "source": "今日头条",
           "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "印度回应特朗普威胁",
-          "url": "https://flash.jin10.com/detail/20250805014414356800",
-          "source": "金十数据",
-          "ranks": [
-            27
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -110,7 +110,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 4,
       "titles": [
         {
           "title": "美联储降息预期升温，美股三大指数开盘齐升，欧股涨幅扩大，油价盘中跌超2%",
@@ -122,21 +122,65 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
+        },
+        {
+          "title": "金十图示：2025年08月04日（周一）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20250805041238134800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "金十图示：2025年08月04日（周一）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20250805041235427800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "美股收盘：纳指涨近2% 英伟达涨3.6%",
+          "url": "https://flash.jin10.com/detail/20250805040123091800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
         }
       ]
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "周一（8月4日）纽约尾盘，ICE美元指数跌0.38%，报98.766点，日内交投区间为98.980-98.92点。 彭博美元指数跌0.37%，报1210.47点，日内交投区间为1212.14-1207.88点。",
           "url": "https://wallstreetcn.com/livenews/2953325",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            14
           ],
           "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "美元指数4日下跌",
+          "url": "https://flash.jin10.com/detail/20250805034608629800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         }
