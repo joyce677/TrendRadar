@@ -1,0 +1,90 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>频率词统计报告</title>
+            <style>
+                body { font-family: Arial, sans-serif; margin: 20px; }
+                h1, h2 { color: #333; }
+                table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+                th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+                th { background-color: #f2f2f2; }
+                tr:nth-child(even) { background-color: #f9f9f9; }
+                .word { font-weight: bold; }
+                .count { text-align: center; }
+                .percentage { text-align: center; }
+                .titles { max-width: 500px; }
+                .source { color: #666; font-style: italic; }
+                .error { color: #d9534f; }
+                .news-link { 
+                    color: #007bff; 
+                    text-decoration: none; 
+                    border-bottom: 1px dotted #007bff;
+                }
+                .news-link:hover { 
+                    color: #0056b3; 
+                    text-decoration: underline; 
+                }
+                .news-link:visited { 
+                    color: #6f42c1; 
+                }
+                .no-link { 
+                    color: #333; 
+                }
+                .new-title {
+                    background-color: #fff3cd;
+                    border: 1px solid #ffc107;
+                    border-radius: 3px;
+                    padding: 2px 6px;
+                    margin: 2px 0;
+                }
+                .new-section {
+                    background-color: #d1ecf1;
+                    border: 1px solid #bee5eb;
+                    border-radius: 5px;
+                    padding: 10px;
+                    margin-top: 10px;
+                }
+                .new-section h3 {
+                    color: #0c5460;
+                    margin-top: 0;
+                }
+            </style>
+        </head>
+        <body>
+            <h1>频率词统计报告</h1>
+        <p>总标题数: 303</p><p>生成时间: 2025-08-05 19:57:51</p>
+            <table>
+                <tr>
+                    <th>排名</th>
+                    <th>频率词</th>
+                    <th>出现次数</th>
+                    <th>占比</th>
+                    <th>相关标题</th>
+                </tr>
+        
+                <tr>
+                    <td>1</td>
+                    <td class="word">特朗普</td>
+                    <td class="count">11</td>
+                    <td class="percentage">3.63%</td>
+                    <td class="titles">[华尔街见闻] <a href="https://wallstreetcn.com/articles/3752618" target="_blank" class="news-link">因“大量购买俄原油，还转卖牟取暴利”，特朗普威胁“大幅对印度加税”，印度反击“美国当时积极鼓励的”</a> <font color='red'><strong>[3]</strong></font> <font color='grey'>- 19时57分</font><br>[凤凰网] <a href="https://news.ifeng.com/c/8lZY7smMbkQ" target="_blank" class="news-link">调查正式启动，特朗普要把奥巴马送进监狱？</a> <font color='red'><strong>[4]</strong></font> <font color='grey'>- 19时57分</font><br>[凤凰网] <a href="https://news.ifeng.com/c/8lZVV5CNYvF" target="_blank" class="news-link">特朗普没爱上白宫保洁，但短剧出海平台真摊上了事</a> <font color='red'><strong>[5]</strong></font> <font color='grey'>- 19时57分</font><br>[凤凰网] <a href="https://news.ifeng.com/c/8lZVrAg7o3N" target="_blank" class="news-link">面对特朗普的指责与威胁，印度这次真急了</a> [6] <font color='grey'>- 19时57分</font><br>[今日头条] <a href="https://www.toutiao.com/trending/7534639378158010394/" target="_blank" class="news-link">专家：“9·3阅兵”特朗普不会来</a> [8] <font color='grey'>- 19时57分</font><br>[澎湃新闻] <a href="https://m.thepaper.cn/newsDetail_forward_31300631" target="_blank" class="news-link">向“朋友”挥起大棒，特朗普对印度态度缘何急剧转变？</a> [9] <font color='grey'>- 19时57分</font><br>[贴吧] <a href="https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28344013&amp;amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%96%A5%E5%8D%B0%E5%BA%A6%3A%E4%BF%84%E6%B2%B9%E8%B4%A9%E5%AD%90%E5%90%83%E6%88%91%E5%85%B3%E7%A8%8E" target="_blank" class="news-link">特朗普怒斥印度:俄油贩子吃我关税</a> [11] <font color='grey'>- 19时57分</font><br>[bilibili 热搜] <a href="https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%A4%A7%E5%B9%85%E6%8F%90%E9%AB%98%E5%AF%B9%E5%8D%B0%E5%BA%A6%E5%85%B3%E7%A8%8E" target="_blank" class="news-link">特朗普称将大幅提高对印度关税</a> [19] <font color='grey'>- 19时57分</font><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2953812" target="_blank" class="news-link">特朗普借俄石油贸易威胁大幅提高对印关税，印度、克宫回应</a> [20] <font color='grey'>- 19时57分</font><br><div class='new-title'>🆕 [今日头条] <a href="https://www.toutiao.com/trending/7534450071488954422/" target="_blank" class="news-link">特朗普问白宫实习生有人想当总统吗</a> [24] <font color='grey'>- 19时57分</font></div><br>[bilibili 热搜] <a href="https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E5%A4%A7%E5%B9%85%E6%8F%90%E9%AB%98%E5%AF%B9%E5%8D%B0%E5%BA%A6%E5%85%B3%E7%A8%8E" target="_blank" class="news-link">特朗普为何提高对印关税</a> [28] <font color='grey'>- 19时57分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>2</td>
+                    <td class="word">美股</td>
+                    <td class="count">4</td>
+                    <td class="percentage">1.32%</td>
+                    <td class="titles">[华尔街见闻] <a href="https://wallstreetcn.com/articles/3752581" target="_blank" class="news-link">逢低买盘提振美股，人民币三连涨，Palantir、英伟达大涨，Figma重挫27%</a> <font color='red'><strong>[1]</strong></font> <font color='grey'>- 19时57分</font><br>[华尔街见闻] <a href="https://wallstreetcn.com/articles/3752640" target="_blank" class="news-link">“股神”特朗普又放话了：今天美股涨的很好，未来会有更多这样的日子</a> <font color='red'><strong>[4]</strong></font> <font color='grey'>- 19时57分</font><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2953815" target="_blank" class="news-link">卡特彼勒第二季度调整后每股收益4.72美元，预估4.88美元。 第二季度营收165.7亿美元，预估163.3亿美元。 第二季度每股收益4.62美元，上年同期5.48美元。 第二季度调整后运营收益29.2亿美元，预估29.8亿美元。 卡特彼勒美股盘前跌近1%。</a> [18] <font color='grey'>- 19时57分</font><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2953803" target="_blank" class="news-link">Jefferies：美联储或使美股格局发生变化 小盘股有望跑赢大盘科技股</a> [26] <font color='grey'>- 19时57分</font></td>
+                </tr>
+            
+            </table>
+        
+            <div class="new-section">
+                <h3>🆕 本次新增热点新闻 (共 1 条)</h3>
+            <h4>今日头条 (1 条)</h4><ul><li><a href="https://www.toutiao.com/trending/7534450071488954422/" target="_blank" class="news-link">特朗普问白宫实习生有人想当总统吗</a> [24]</li></ul></div>
+        </body>
+        </html>
+        
