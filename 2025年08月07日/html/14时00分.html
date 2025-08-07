@@ -1,0 +1,106 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>频率词统计报告</title>
+            <style>
+                body { font-family: Arial, sans-serif; margin: 20px; }
+                h1, h2 { color: #333; }
+                table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+                th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+                th { background-color: #f2f2f2; }
+                tr:nth-child(even) { background-color: #f9f9f9; }
+                .word { font-weight: bold; }
+                .count { text-align: center; }
+                .percentage { text-align: center; }
+                .titles { max-width: 500px; }
+                .source { color: #666; font-style: italic; }
+                .error { color: #d9534f; }
+                .news-link { 
+                    color: #007bff; 
+                    text-decoration: none; 
+                    border-bottom: 1px dotted #007bff;
+                }
+                .news-link:hover { 
+                    color: #0056b3; 
+                    text-decoration: underline; 
+                }
+                .news-link:visited { 
+                    color: #6f42c1; 
+                }
+                .no-link { 
+                    color: #333; 
+                }
+                .new-title {
+                    background-color: #fff3cd;
+                    border: 1px solid #ffc107;
+                    border-radius: 3px;
+                    padding: 2px 6px;
+                    margin: 2px 0;
+                }
+                .new-section {
+                    background-color: #d1ecf1;
+                    border: 1px solid #bee5eb;
+                    border-radius: 5px;
+                    padding: 10px;
+                    margin-top: 10px;
+                }
+                .new-section h3 {
+                    color: #0c5460;
+                    margin-top: 0;
+                }
+            </style>
+        </head>
+        <body>
+            <h1>频率词统计报告</h1>
+        <p>总标题数: 309</p><p>生成时间: 2025-08-07 14:00:39</p>
+            <table>
+                <tr>
+                    <th>排名</th>
+                    <th>频率词</th>
+                    <th>出现次数</th>
+                    <th>占比</th>
+                    <th>相关标题</th>
+                </tr>
+        
+                <tr>
+                    <td>1</td>
+                    <td class="word">特朗普</td>
+                    <td class="count">19</td>
+                    <td class="percentage">6.15%</td>
+                    <td class="titles">[华尔街见闻] <a href="https://wallstreetcn.com/articles/3752803" target="_blank" class="news-link">特朗普拟对芯片产品征100%关税，苹果等在美建厂企业可豁免，苹果、台积电盘后涨</a> <font color='red'><strong>[2]</strong></font> <font color='grey'>- 14时00分</font><br>[财联社热门] <a href="https://www.cls.cn/detail/2108278" target="_blank" class="news-link">特朗普：将对芯片和半导体征收100%关税，“美国制造”除外！</a> <font color='red'><strong>[2]</strong></font> <font color='grey'>- 14时00分</font><br>[财联社热门] <a href="https://www.cls.cn/detail/2108255" target="_blank" class="news-link">特朗普称美将对芯片和半导体征收约100%的关税</a> <font color='red'><strong>[3]</strong></font> <font color='grey'>- 14时00分</font><br>[华尔街见闻] <a href="https://wallstreetcn.com/articles/3752795" target="_blank" class="news-link">打击俄油大买家，特朗普下令对印度额外加征25%关税，苹果不受影响、追加在美投资</a> <font color='red'><strong>[4]</strong></font> <font color='grey'>- 14时00分</font><br>[凤凰网] <a href="https://news.ifeng.com/c/8lcQD4ojrzo" target="_blank" class="news-link">卢拉：我要给中印打电话，讨论金砖联手应对特朗普</a> <font color='red'><strong>[4]</strong></font> <font color='grey'>- 14时00分</font><br><div class='new-title'>🆕 [凤凰网] <a href="https://v.ifeng.com/c/8lcbp9CCXSu" target="_blank" class="news-link">库克给特朗普送礼：康宁玻璃+纯金底座，刻着特朗普的名字(图)</a> <font color='red'><strong>[5]</strong></font> <font color='grey'>- 14时00分</font></div><br>[凤凰网] <a href="https://news.ifeng.com/c/8lcX3f9dePw" target="_blank" class="news-link">特朗普签令，对印度关税翻倍升至50%，印度：将捍卫利益</a> [6] <font color='grey'>- 14时00分</font><br>[知乎] <a href="https://www.zhihu.com/question/1936688473336668485" target="_blank" class="news-link">特朗普称美将对芯片和半导体征收约 100% 的关税，有哪些意图？将带来哪些影响？</a> [6] <font color='grey'>- 14时00分</font><br>[凤凰网] <a href="https://news.ifeng.com/c/8lcHVXV4aSS" target="_blank" class="news-link">对俄“最后期限”将至，特朗普亮出两个绝招</a> [7] <font color='grey'>- 14时00分</font><br>[今日头条] <a href="https://www.toutiao.com/trending/7535612710063459882/" target="_blank" class="news-link">特朗普：对芯片和半导体征100%关税</a> [8] <font color='grey'>- 14时00分</font><br>[财联社热门] <a href="https://www.cls.cn/detail/2108268" target="_blank" class="news-link">特朗普称将对俄罗斯实施更多二级制裁 | 环球市场</a> [8] <font color='grey'>- 14时00分</font><br>[凤凰网] <a href="https://news.ifeng.com/c/8lcUPTIRsIR" target="_blank" class="news-link">特朗普被曝正筹划与俄乌总统会晤，会谈不包括欧洲代表</a> [8] <font color='grey'>- 14时00分</font><br>[知乎] <a href="https://www.zhihu.com/question/1936691965442888328" target="_blank" class="news-link">特朗普拟对非美制芯片征收 100% 关税，苹果承诺在美投资增至六千亿美元，这将对全球经济产生多大影响？</a> [11] <font color='grey'>- 14时00分</font><br>[财联社热门] <a href="https://www.cls.cn/detail/2108253" target="_blank" class="news-link">特朗普政府叫停拜登批准的巨型风电项目</a> [12] <font color='grey'>- 14时00分</font><br>[财联社热门] <a href="https://www.cls.cn/detail/2108212" target="_blank" class="news-link">消息人士称特朗普计划最早下周与普京和泽连斯基会面</a> [13] <font color='grey'>- 14时00分</font><br>[澎湃新闻] <a href="https://m.thepaper.cn/newsDetail_forward_31323497" target="_blank" class="news-link">特朗普称美将对芯片和半导体征收约100%的关税</a> [17] <font color='grey'>- 14时00分</font><br>[bilibili 热搜] <a href="https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E7%A1%AC%E5%88%9A%E7%89%B9%E6%9C%97%E6%99%AE%E5%BA%95%E6%B0%94%E4%BB%8E%E4%BD%95%E6%9D%A5" target="_blank" class="news-link">印度硬刚特朗普底气从何来</a> [20] <font color='grey'>- 14时00分</font><br>[贴吧] <a href="https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28344013&amp;amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E6%96%A5%E5%8D%B0%E5%BA%A6%3A%E4%BF%84%E6%B2%B9%E8%B4%A9%E5%AD%90%E5%90%83%E6%88%91%E5%85%B3%E7%A8%8E" target="_blank" class="news-link">特朗普怒斥印度:俄油贩子吃我关税</a> [28] <font color='grey'>- 14时00分</font><br><div class='new-title'>🆕 [今日头条] <a href="https://www.toutiao.com/trending/7535678537030700583/" target="_blank" class="news-link">评论员：两大因素致特朗普对印变脸</a> [30] <font color='grey'>- 14时00分</font></div></td>
+                </tr>
+            
+                <tr>
+                    <td>2</td>
+                    <td class="word">美股</td>
+                    <td class="count">4</td>
+                    <td class="percentage">1.29%</td>
+                    <td class="titles">[华尔街见闻] <a href="https://wallstreetcn.com/articles/3752759" target="_blank" class="news-link">科技巨头力撑美股大盘，苹果大涨5%，美元下挫，油价承压</a> <font color='red'><strong>[3]</strong></font> <font color='grey'>- 14时00分</font><br>[财联社热门] <a href="https://www.cls.cn/detail/2108223" target="_blank" class="news-link">美股收盘：三大指数集体收高 苹果股价单日暴涨5%</a> <font color='red'><strong>[4]</strong></font> <font color='grey'>- 14时00分</font><br>[华尔街见闻] <a href="https://wallstreetcn.com/articles/3752751" target="_blank" class="news-link">“散户歇了，机构满了”，美股9月风暴将至？</a> <font color='red'><strong>[5]</strong></font> <font color='grey'>- 14时00分</font><br>[华尔街见闻] <a href="https://wallstreetcn.com/articles/3752789" target="_blank" class="news-link">所有历史趋势都不再有效！美股散户让华尔街投资者措手不及</a> [6] <font color='grey'>- 14时00分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>3</td>
+                    <td class="word">chatgpt openai</td>
+                    <td class="count">1</td>
+                    <td class="percentage">0.32%</td>
+                    <td class="titles">[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2954844" target="_blank" class="news-link">苹果公司 AI 团队员工正流向竞争对手，包括OpenAI。（英国金融时报）</a> [30] <font color='grey'>- 14时00分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>4</td>
+                    <td class="word">伊朗</td>
+                    <td class="count">1</td>
+                    <td class="percentage">0.32%</td>
+                    <td class="titles">[凤凰网] <a href="https://news.ifeng.com/c/8lcXd607ena" target="_blank" class="news-link">伊朗处决提供核科学家信息间谍</a> <font color='red'><strong>[2]</strong></font> <font color='grey'>- 14时00分</font></td>
+                </tr>
+            
+            </table>
+        
+            <div class="new-section">
+                <h3>🆕 本次新增热点新闻 (共 2 条)</h3>
+            <h4>今日头条 (1 条)</h4><ul><li><a href="https://www.toutiao.com/trending/7535678537030700583/" target="_blank" class="news-link">评论员：两大因素致特朗普对印变脸</a> [30]</li></ul><h4>凤凰网 (1 条)</h4><ul><li><a href="https://v.ifeng.com/c/8lcbp9CCXSu" target="_blank" class="news-link">库克给特朗普送礼：康宁玻璃+纯金底座，刻着特朗普的名字(图)</a> <font color='red'><strong>[5]</strong></font></li></ul></div>
+        </body>
+        </html>
+        
