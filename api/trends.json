@@ -1,16 +1,38 @@
 {
-  "generated_at": "2025-08-09T05:58:15.852674+08:00",
+  "generated_at": "2025-08-09T06:29:09.291914+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普称可能会因中国购买俄石油对华征收次级关税，外交部回应",
           "url": "https://www.cls.cn/detail/2110385",
           "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特朗普：美俄在乌克兰问题上已“非常接近”达成协议",
+          "url": "https://news.ifeng.com/c/8lfQILR1PbG",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特朗普：下周五将在阿拉斯加会见普京",
+          "url": "https://wallstreetcn.com/livenews/2955853",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
@@ -34,7 +56,18 @@
           "url": "https://news.ifeng.com/c/8leebzAPyP5",
           "source": "凤凰网",
           "ranks": [
-            2
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "比特币目前涨0.05%，暂报11.7万美元。 据媒体报道，美国、乌克兰和欧洲将在特朗普与普京峰会前举行会晤。",
+          "url": "https://wallstreetcn.com/livenews/2955849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -85,33 +118,22 @@
           "time_info": ""
         },
         {
-          "title": "特朗普：普京无需同意和泽连斯基会面",
-          "url": "https://www.toutiao.com/trending/7535989647877393947/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
           "title": "一箭双雕！特朗普提名Miran，既安插亲信又拖延换帅",
           "url": "https://wallstreetcn.com/articles/3752939",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
         {
-          "title": "特朗普：美俄在乌克兰问题上已“非常接近”达成协议",
-          "url": "https://wallstreetcn.com/livenews/2955837",
-          "source": "华尔街见闻-快讯",
+          "title": "印度总理莫迪内外交困，“不忍了，开始反击特朗普”",
+          "url": "https://news.ifeng.com/c/8lf14Ino9aV",
+          "source": "凤凰网",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -121,17 +143,6 @@
           "title": "特朗普称亚美尼亚与阿塞拜疆承诺“永远”停止战斗",
           "url": "https://flash.jin10.com/detail/20250809042801744800",
           "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "WTI原油期货跌0.7%，报63.44美元。 美国总统特朗普表示，将宣布与俄罗斯会晤的地点。 将很快与俄罗斯总统普京会面。 （乌克兰总统）泽连斯基得准备好签署些东西。 印度可能会产生影响。",
-          "url": "https://wallstreetcn.com/livenews/2955834",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             11
           ],
@@ -162,9 +173,42 @@
           "time_info": ""
         },
         {
+          "title": "特朗普：美俄在乌克兰问题上已“非常接近”达成协议",
+          "url": "https://wallstreetcn.com/livenews/2955837",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特朗普：普京无需同意和泽连斯基会面",
+          "url": "https://www.toutiao.com/trending/7535989647877393947/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
           "title": "特朗普：我将很快与普京会面，普京希望尽快会面。",
           "url": "https://flash.jin10.com/detail/20250809041945875800",
           "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "WTI原油期货跌0.7%，报63.44美元。 美国总统特朗普表示，将宣布与俄罗斯会晤的地点。 将很快与俄罗斯总统普京会面。 （乌克兰总统）泽连斯基得准备好签署些东西。 印度可能会产生影响。",
+          "url": "https://wallstreetcn.com/livenews/2955834",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
@@ -210,7 +254,7 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%B1%E7%BE%8E%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E8%A1%A8%E6%80%81",
           "source": "bilibili 热搜",
           "ranks": [
-            23
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -221,7 +265,7 @@
           "url": "https://www.toutiao.com/trending/7535273763622535206/",
           "source": "今日头条",
           "ranks": [
-            24
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -232,7 +276,7 @@
           "url": "https://wallstreetcn.com/livenews/2955816",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -282,7 +326,7 @@
           "url": "https://wallstreetcn.com/livenews/2955832",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -293,7 +337,7 @@
           "url": "https://wallstreetcn.com/livenews/2955830",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -317,9 +361,9 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "纽约铜期货周五涨超1.9%，本周金价涨1%，费城金银指数累涨超11.5%",
-          "url": "https://wallstreetcn.com/livenews/2955838",
-          "source": "华尔街见闻-快讯",
+          "title": "美国开征“黄金税”，目标瞄准瑞士1公斤金条，短期刺激纽约金价？",
+          "url": "https://wallstreetcn.com/articles/3752928",
+          "source": "华尔街见闻",
           "ranks": [
             8
           ],
@@ -328,11 +372,11 @@
           "time_info": ""
         },
         {
-          "title": "美国开征“黄金税”，目标瞄准瑞士1公斤金条，短期刺激纽约金价？",
-          "url": "https://wallstreetcn.com/articles/3752928",
-          "source": "华尔街见闻",
+          "title": "纽约铜期货周五涨超1.9%，本周金价涨1%，费城金银指数累涨超11.5%",
+          "url": "https://wallstreetcn.com/livenews/2955838",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -345,22 +389,22 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "周五（8月8日）纽约尾盘，美国10年期基准国债收益率上涨3.29个基点，报4.2829%，本周累计上涨6.70个基点。 两年期美债收益率涨3.45个基点，报3.7624%，本周累计上涨8.07个基点，整体交投于3.6550%-3.7624%区间。",
-          "url": "https://wallstreetcn.com/livenews/2955845",
-          "source": "华尔街见闻-快讯",
+          "title": "美债标售疲软打压美股，纳指惊险收涨，苹果再涨3%，数字货币走强，原油受挫",
+          "url": "https://wallstreetcn.com/articles/3752845",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
         {
-          "title": "美债标售疲软打压美股，纳指惊险收涨，苹果再涨3%，数字货币走强，原油受挫",
-          "url": "https://wallstreetcn.com/articles/3752845",
-          "source": "华尔街见闻",
+          "title": "2/10年期美债收益率本周至多涨约8.1个基点",
+          "url": "https://wallstreetcn.com/livenews/2955845",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -394,7 +438,7 @@
           "url": "https://wallstreetcn.com/livenews/2955817",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
