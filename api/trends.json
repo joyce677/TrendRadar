@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-08-08T13:33:32.606306+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2025-08-08T14:00:48.743945+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 9,
       "titles": [
         {
           "title": "历史性时刻！特朗普签署行政令，允许401K账户投资加密货币、私募基金等其他另类投资",
@@ -13,6 +13,17 @@
           "source": "华尔街见闻",
           "ranks": [
             2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "降息稳了？特朗普提名“他”出任美联储临时理事，或能赶上9月议息会议！",
+          "url": "https://www.cls.cn/detail/2109540",
+          "source": "财联社热门",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -30,28 +41,6 @@
           "time_info": ""
         },
         {
-          "title": "特朗普：普京无需同意和泽连斯基会面",
-          "url": "https://www.toutiao.com/trending/7535989647877393947/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "降息稳了？特朗普提名“他”出任美联储临时理事，或能赶上9月议息会议！",
-          "url": "https://www.cls.cn/detail/2109540",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
           "title": "特朗普提名斯蒂芬·米兰担任美联储理事，任期至明年1月底",
           "url": "https://wallstreetcn.com/articles/3752899",
           "source": "华尔街见闻",
@@ -63,22 +52,11 @@
           "time_info": ""
         },
         {
-          "title": "特朗普问金正恩好吗 韩方傻眼",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%AE%E9%87%91%E6%AD%A3%E6%81%A9%E5%A5%BD%E5%90%97+%E9%9F%A9%E6%96%B9%E5%82%BB%E7%9C%BC",
-          "source": "百度热搜",
+          "title": "特朗普：普京无需同意和泽连斯基会面",
+          "url": "https://www.toutiao.com/trending/7535989647877393947/",
+          "source": "今日头条",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "特朗普提名斯蒂芬·米兰担任美联储理事",
-          "url": "https://www.cls.cn/detail/2109484",
-          "source": "财联社热门",
-          "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -89,7 +67,18 @@
           "url": "https://wallstreetcn.com/articles/3752887",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特朗普问金正恩好吗 韩方傻眼",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%97%AE%E9%87%91%E6%AD%A3%E6%81%A9%E5%A5%BD%E5%90%97+%E9%9F%A9%E6%96%B9%E5%82%BB%E7%9C%BC",
+          "source": "百度热搜",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -111,7 +100,7 @@
           "url": "https://wallstreetcn.com/livenews/2955449",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -135,20 +124,20 @@
           "time_info": ""
         },
         {
-          "title": "OpenAI 官宣 GPT-5 8 月 8 日凌晨一点发布，有什么信息值得关注？",
-          "url": "https://www.zhihu.com/question/1936723434760568978",
-          "source": "知乎",
+          "title": "GPT-5登场，有三大亮点！OpenAI奥特曼：已从大学生变博士级专家",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31335762",
+          "source": "澎湃新闻",
           "ranks": [
-            11
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
         {
-          "title": "GPT-5登场，有三大亮点！OpenAI奥特曼：已从大学生变博士级专家",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31335762",
-          "source": "澎湃新闻",
+          "title": "OpenAI 官宣 GPT-5 8 月 8 日凌晨一点发布，有什么信息值得关注？",
+          "url": "https://www.zhihu.com/question/1936723434760568978",
+          "source": "知乎",
           "ranks": [
             14
           ],
@@ -159,8 +148,47 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
+      "keyword_group": "美股",
       "match_count": 3,
+      "titles": [
+        {
+          "title": "美股收盘：三大指数涨跌不一 苹果续升3%英伟达再收新高",
+          "url": "https://www.cls.cn/detail/2109481",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "台积电7月销售额3,231.7亿元台币，同比增长25.8%。 台积电1-7月累计销售额2.10万亿元台币，同比增长37.6%。 台积电美股夜盘涨0.3%。",
+          "url": "https://wallstreetcn.com/livenews/2955482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "台积电(TSM.N)美股夜盘涨约0.4%。",
+          "url": "https://flash.jin10.com/detail/20250808133710236800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
       "titles": [
         {
           "title": "伊朗总统计划访华",
@@ -178,20 +206,9 @@
           "url": "https://wallstreetcn.com/livenews/2955467",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "伊朗军方警告美国无法逃脱报复",
-          "url": "https://flash.jin10.com/detail/20250808124500115800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         }
@@ -207,23 +224,6 @@
           "source": "华尔街见闻",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：三大指数涨跌不一 苹果续升3%英伟达再收新高",
-          "url": "https://www.cls.cn/detail/2109481",
-          "source": "财联社热门",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 1,
