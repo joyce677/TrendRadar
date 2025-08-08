@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-08-08T18:34:40.791535+08:00",
-  "total_titles_processed": 299,
+  "generated_at": "2025-08-08T18:59:39.646007+08:00",
+  "total_titles_processed": 298,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "特朗普称可能会因中国购买俄石油对华征收次级关税，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/2955653",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
         {
           "title": "菲律宾叫苦：特朗普100%关税，要玩完",
           "url": "https://news.ifeng.com/c/8leebzAPyP5",
@@ -41,13 +52,13 @@
           "time_info": ""
         },
         {
-          "title": "特朗普政府悬赏5000万抓捕马杜罗",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%82%AC%E8%B5%8F5000%E4%B8%87%E6%8A%93%E6%8D%95%E9%A9%AC%E6%9D%9C%E7%BD%97",
-          "source": "百度热搜",
+          "title": "特朗普关税“神助攻” 反让国际股市再次伟大",
+          "url": "https://wallstreetcn.com/livenews/2955646",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -85,6 +96,17 @@
           "time_info": ""
         },
         {
+          "title": "特朗普政府悬赏5000万抓捕马杜罗",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E6%82%AC%E8%B5%8F5000%E4%B8%87%E6%8A%93%E6%8D%95%E9%A9%AC%E6%9D%9C%E7%BD%97",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
           "title": "美联储理事沃勒被特朗普团队视作美联储主席的优先人选之一",
           "url": "https://wallstreetcn.com/articles/3752887",
           "source": "华尔街见闻",
@@ -96,24 +118,24 @@
           "time_info": ""
         },
         {
-          "title": "尽管特朗普加征关税，但央行不太可能将利率降至零以下",
-          "url": "https://flash.jin10.com/detail/20250808175323763800",
-          "source": "金十数据",
+          "title": "特朗普就美俄元首会晤表态",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%B1%E7%BE%8E%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E8%A1%A8%E6%80%81",
+          "source": "bilibili 热搜",
           "ranks": [
-            12
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
         {
-          "title": "特朗普就美俄元首会晤表态",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%B1%E7%BE%8E%E4%BF%84%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%E8%A1%A8%E6%80%81",
-          "source": "bilibili 热搜",
+          "title": "制裁最后期限前普京同意见特朗普",
+          "url": "https://www.toutiao.com/trending/7536129742060129818/",
+          "source": "今日头条",
           "ranks": [
-            19
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         }
@@ -121,7 +143,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI最强模型GPT-5来了！免费可用，Altman高呼迈向AGI一大步，微软抢先接入",
@@ -139,26 +161,20 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31335762",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
+        },
         {
-          "title": "韩国推迟决定是否允许谷歌将地图数据转移出境。（韩国媒体YTN）",
-          "url": "https://wallstreetcn.com/livenews/2955582",
-          "source": "华尔街见闻-快讯",
+          "title": "如何评价 OpenAI 2025 年 8 月 7 日发布的 GPT-5？",
+          "url": "https://www.zhihu.com/question/1936975185833096194",
+          "source": "知乎",
           "ranks": [
-            20
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         }
@@ -174,23 +190,6 @@
           "source": "华尔街见闻",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股盘前，中概股涨跌不一，小鹏汽车涨近2%，蔚来涨1.5%，阿里巴巴跌近2%，京东跌超1%。",
-          "url": "https://wallstreetcn.com/livenews/2955561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
           ],
           "is_new": false,
           "appearance_count": 1,
