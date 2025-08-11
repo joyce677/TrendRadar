@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-08-11T17:13:52.598404+08:00",
-  "total_titles_processed": 293,
+  "generated_at": "2025-08-11T17:58:30.880753+08:00",
+  "total_titles_processed": 295,
   "failed_sources": [],
   "trends": [
     {
@@ -8,11 +8,33 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "为“夺回首都”，特朗普被曝或动用军队，FBI特工也用上了",
+          "url": "https://news.ifeng.com/c/8ljUHqzaWpF",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "波兰总理图斯克：对特朗普与普京的会晤存在很多担忧，也抱有很多希望。",
+          "url": "https://flash.jin10.com/detail/20250811171616512800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
           "title": "报道称：英伟达和AMD上缴15%的中国AI芯片收入，换取特朗普“放行”",
           "url": "https://wallstreetcn.com/articles/3753047",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -30,35 +52,13 @@
           "time_info": ""
         },
         {
-          "title": "加州名校被特朗普政府开10亿美元罚单，州长纽森誓言“硬刚”",
-          "url": "https://news.ifeng.com/c/8liszI3XxYU",
+          "title": "暗示“领土交易”？普京特朗普为何选在美国阿拉斯加会面",
+          "url": "https://news.ifeng.com/c/8ljZPqyZ5zY",
           "source": "凤凰网",
           "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "美媒：特朗普政府要求多国买美军火",
-          "url": "https://www.toutiao.com/trending/7536410404554244147/",
-          "source": "今日头条",
-          "ranks": [
-            25
+            6
           ],
           "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "特朗普称流浪汉必须从首都搬走",
-          "url": "https://www.toutiao.com/trending/7536454206824562742/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         }
@@ -66,25 +66,14 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "比特币一度升破12.2万美元/枚，美股加密货币概念股集体上扬，Strategy(MSTR.O)、Coinbase(COIN.O)涨超4%。",
-          "url": "https://flash.jin10.com/detail/20250811161947144800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
         {
           "title": "C3.ai美股盘前跌近30%，公司将其营收展望削减33%，重组全球销售团队。",
           "url": "https://wallstreetcn.com/livenews/2956404",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -95,20 +84,26 @@
           "url": "https://wallstreetcn.com/livenews/2956408",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "美股盘前，特斯拉涨超1%，AMD跌超2%，英伟达跌0.88%。",
-          "url": "https://wallstreetcn.com/livenews/2956393",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI的GPT-5会否开启人工智能界的价格大战？",
+          "url": "https://www.cls.cn/detail/2111611",
+          "source": "财联社热门",
           "ranks": [
-            30
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         }
