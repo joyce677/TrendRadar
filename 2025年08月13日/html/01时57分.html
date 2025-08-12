@@ -1,0 +1,106 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>频率词统计报告</title>
+            <style>
+                body { font-family: Arial, sans-serif; margin: 20px; }
+                h1, h2 { color: #333; }
+                table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+                th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+                th { background-color: #f2f2f2; }
+                tr:nth-child(even) { background-color: #f9f9f9; }
+                .word { font-weight: bold; }
+                .count { text-align: center; }
+                .percentage { text-align: center; }
+                .titles { max-width: 500px; }
+                .source { color: #666; font-style: italic; }
+                .error { color: #d9534f; }
+                .news-link { 
+                    color: #007bff; 
+                    text-decoration: none; 
+                    border-bottom: 1px dotted #007bff;
+                }
+                .news-link:hover { 
+                    color: #0056b3; 
+                    text-decoration: underline; 
+                }
+                .news-link:visited { 
+                    color: #6f42c1; 
+                }
+                .no-link { 
+                    color: #333; 
+                }
+                .new-title {
+                    background-color: #fff3cd;
+                    border: 1px solid #ffc107;
+                    border-radius: 3px;
+                    padding: 2px 6px;
+                    margin: 2px 0;
+                }
+                .new-section {
+                    background-color: #d1ecf1;
+                    border: 1px solid #bee5eb;
+                    border-radius: 5px;
+                    padding: 10px;
+                    margin-top: 10px;
+                }
+                .new-section h3 {
+                    color: #0c5460;
+                    margin-top: 0;
+                }
+            </style>
+        </head>
+        <body>
+            <h1>频率词统计报告</h1>
+        <p>总标题数: 315</p><p>生成时间: 2025-08-13 01:57:36</p>
+            <table>
+                <tr>
+                    <th>排名</th>
+                    <th>频率词</th>
+                    <th>出现次数</th>
+                    <th>占比</th>
+                    <th>相关标题</th>
+                </tr>
+        
+                <tr>
+                    <td>1</td>
+                    <td class="word">特朗普</td>
+                    <td class="count">18</td>
+                    <td class="percentage">5.71%</td>
+                    <td class="titles">[凤凰网] <a href="https://news.ifeng.com/c/8llLXazWAJk" target="_blank" class="news-link">特朗普希望中国能将大豆订单增加三倍，外交部回应</a> <font color='red'><strong>[1]</strong></font> <font color='grey'>- 01时57分</font><br>[财联社热门] <a href="https://www.cls.cn/detail/2113085" target="_blank" class="news-link">特朗普称可能会允许英伟达在华销售“特供版”芯片，外交部回应</a> <font color='red'><strong>[2]</strong></font> <font color='grey'>- 01时57分</font><br><div class='new-title'>🆕 [华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2957240" target="_blank" class="news-link">白宫新闻秘书Leavitt：美国总统特朗普考虑起诉美联储主席鲍威尔。</a> <font color='red'><strong>[2]</strong></font> <font color='grey'>- 01时57分</font></div><br>[澎湃新闻] <a href="https://m.thepaper.cn/newsDetail_forward_31372366" target="_blank" class="news-link">释新闻｜特朗普宣布华盛顿进入公共安全紧急状态，怎么回事？</a> <font color='red'><strong>[3]</strong></font> <font color='grey'>- 01时57分</font><br><div class='new-title'>🆕 [华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2957239" target="_blank" class="news-link">白宫新闻秘书Leavitt：（美国总统特朗普的）计划是让劳工统计局（BLS）继续发布就业报告。</a> <font color='red'><strong>[3]</strong></font> <font color='grey'>- 01时57分</font></div><br><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250813012626729800" target="_blank" class="news-link">白宫：特朗普正考虑起诉美联储主席鲍威尔。</a> <font color='red'><strong>[5]</strong></font> <font color='grey'>- 01时57分</font></div><br>[抖音] <a href="https://www.douyin.com/hot/2201411" target="_blank" class="news-link">泽连斯基：将与普京和特朗普会晤</a> <font color='red'><strong>[5]</strong></font> <font color='grey'>- 01时57分</font><br>[百度热搜] <a href="https://www.baidu.com/s?wd=%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A7%B0%E5%B0%86%E4%B8%8E%E6%99%AE%E4%BA%AC%E5%92%8C%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E6%99%A4" target="_blank" class="news-link">泽连斯基称将与普京和特朗普会晤</a> [6] <font color='grey'>- 01时57分</font><br><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250813012430466800" target="_blank" class="news-link">据 CNN：美国总统特朗普将参加周三的乌克兰问题线上会谈。</a> [7] <font color='grey'>- 01时57分</font></div><br>[华尔街见闻] <a href="https://wallstreetcn.com/articles/3753110" target="_blank" class="news-link">特朗普给本周五“普特会”“降热度”：是“试探性会晤”、可能直接退出</a> [8] <font color='grey'>- 01时57分</font><br><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250813012201928800" target="_blank" class="news-link">白宫：特朗普未来或有访俄计划。</a> [8] <font color='grey'>- 01时57分</font></div><br><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250813010812902800" target="_blank" class="news-link">白宫：特朗普与普京周五将在阿拉斯加安克雷奇会晤。</a> [10] <font color='grey'>- 01时57分</font></div><br>[财联社热门] <a href="https://www.cls.cn/detail/2113078" target="_blank" class="news-link">特朗普称希望中国能将大豆订单增加三倍，外交部回应</a> [11] <font color='grey'>- 01时57分</font><br>[澎湃新闻] <a href="https://m.thepaper.cn/newsDetail_forward_31373692" target="_blank" class="news-link">特朗普“冠名”战略走廊背后：阿塞拜疆崛起改变南高加索地缘政治格局</a> [13] <font color='grey'>- 01时57分</font><br><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250813010159868800" target="_blank" class="news-link">乌克兰总统泽连斯基：领土问题应在停火后讨论，并与乌克兰的安全保障一起讨论；俄罗斯目前在乌克兰东部的推进，时间上与特朗普与普京的会谈相吻合。</a> [13] <font color='grey'>- 01时57分</font></div><br>[澎湃新闻] <a href="https://m.thepaper.cn/newsDetail_forward_31379066" target="_blank" class="news-link">“不要麦当劳不要iPhone”：特朗普关税激起印度民间抵制美货情绪</a> [18] <font color='grey'>- 01时57分</font><br><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250813004224719800" target="_blank" class="news-link">据塔斯社援引俄罗斯外交部：拉夫罗夫与鲁比奥讨论特朗普与普京在阿拉斯加会晤的准备工作。</a> [22] <font color='grey'>- 01时57分</font></div><br><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250813003357728800" target="_blank" class="news-link">据华尔街日报：哈佛大学与特朗普政府接近达成5亿美元和解协议。</a> [24] <font color='grey'>- 01时57分</font></div></td>
+                </tr>
+            
+                <tr>
+                    <td>2</td>
+                    <td class="word">美股</td>
+                    <td class="count">5</td>
+                    <td class="percentage">1.59%</td>
+                    <td class="titles">[华尔街见闻] <a href="https://wallstreetcn.com/articles/3753127" target="_blank" class="news-link">贸易战缓和+CPI低于预期，美股三大指数集体高开，欧股涨幅回落，以太坊站上4400美元关口</a> [7] <font color='grey'>- 01时57分</font><br>[财联社热门] <a href="https://www.cls.cn/detail/2113257" target="_blank" class="news-link">美国7月CPI同比上升2.7% 美股三大期指集体走高 | 今夜看点</a> [12] <font color='grey'>- 01时57分</font><br><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250813005402608800" target="_blank" class="news-link">美股股指涨幅扩大，三大股指均涨超1%，纳指涨1.2%。</a> [19] <font color='grey'>- 01时57分</font></div><br><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250813003137358800" target="_blank" class="news-link">金十图示：2025年08月12日（周二）美股热门股票行情一览（美股盘中）</a> [25] <font color='grey'>- 01时57分</font></div><br>[金十数据] <a href="https://flash.jin10.com/detail/20250813003135383800" target="_blank" class="news-link">金十图示：2025年08月12日（周二）热门中概股行情一览（美股盘中）</a> [26] <font color='grey'>- 01时57分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>3</td>
+                    <td class="word">谷歌 google gemini</td>
+                    <td class="count">1</td>
+                    <td class="percentage">0.32%</td>
+                    <td class="titles">[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2957206" target="_blank" class="news-link">人工智能（AI）初创公司Perplexity宣布：8月12日向谷歌公司（旗下浏览器Chrome业务）发出主动收购要约。 已经有多家投资者同意为这笔（潜在）交易提供融资。</a> [27] <font color='grey'>- 01时57分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>4</td>
+                    <td class="word">美元</td>
+                    <td class="count">1</td>
+                    <td class="percentage">0.32%</td>
+                    <td class="titles"><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250813012739278800" target="_blank" class="news-link">美元指数DXY短线波动不大。</a> <font color='red'><strong>[2]</strong></font> <font color='grey'>- 01时57分</font></div></td>
+                </tr>
+            
+            </table>
+        
+            <div class="new-section">
+                <h3>🆕 本次新增热点新闻 (共 12 条)</h3>
+            <h4>金十数据 (10 条)</h4><ul><li><a href="https://flash.jin10.com/detail/20250813012739278800" target="_blank" class="news-link">美元指数DXY短线波动不大。</a> <font color='red'><strong>[2]</strong></font></li><li><a href="https://flash.jin10.com/detail/20250813012626729800" target="_blank" class="news-link">白宫：特朗普正考虑起诉美联储主席鲍威尔。</a> <font color='red'><strong>[5]</strong></font></li><li><a href="https://flash.jin10.com/detail/20250813012430466800" target="_blank" class="news-link">据 CNN：美国总统特朗普将参加周三的乌克兰问题线上会谈。</a> [7]</li><li><a href="https://flash.jin10.com/detail/20250813012201928800" target="_blank" class="news-link">白宫：特朗普未来或有访俄计划。</a> [8]</li><li><a href="https://flash.jin10.com/detail/20250813010812902800" target="_blank" class="news-link">白宫：特朗普与普京周五将在阿拉斯加安克雷奇会晤。</a> [10]</li><li><a href="https://flash.jin10.com/detail/20250813010159868800" target="_blank" class="news-link">乌克兰总统泽连斯基：领土问题应在停火后讨论，并与乌克兰的安全保障一起讨论；俄罗斯目前在乌克兰东部的推进，时间上与特朗普与普京的会谈相吻合。</a> [13]</li><li><a href="https://flash.jin10.com/detail/20250813005402608800" target="_blank" class="news-link">美股股指涨幅扩大，三大股指均涨超1%，纳指涨1.2%。</a> [19]</li><li><a href="https://flash.jin10.com/detail/20250813004224719800" target="_blank" class="news-link">据塔斯社援引俄罗斯外交部：拉夫罗夫与鲁比奥讨论特朗普与普京在阿拉斯加会晤的准备工作。</a> [22]</li><li><a href="https://flash.jin10.com/detail/20250813003357728800" target="_blank" class="news-link">据华尔街日报：哈佛大学与特朗普政府接近达成5亿美元和解协议。</a> [24]</li><li><a href="https://flash.jin10.com/detail/20250813003137358800" target="_blank" class="news-link">金十图示：2025年08月12日（周二）美股热门股票行情一览（美股盘中）</a> [25]</li></ul><h4>华尔街见闻-快讯 (2 条)</h4><ul><li><a href="https://wallstreetcn.com/livenews/2957240" target="_blank" class="news-link">白宫新闻秘书Leavitt：美国总统特朗普考虑起诉美联储主席鲍威尔。</a> <font color='red'><strong>[2]</strong></font></li><li><a href="https://wallstreetcn.com/livenews/2957239" target="_blank" class="news-link">白宫新闻秘书Leavitt：（美国总统特朗普的）计划是让劳工统计局（BLS）继续发布就业报告。</a> <font color='red'><strong>[3]</strong></font></li></ul></div>
+        </body>
+        </html>
+        
