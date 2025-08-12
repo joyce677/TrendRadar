@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-08-13T04:58:03.597025+08:00",
+  "generated_at": "2025-08-13T05:26:48.817169+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普称可能会允许英伟达在华销售“特供版”芯片，外交部回应",
@@ -15,6 +15,17 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "美财长：特朗普广泛物色美联储理事人选，包括前主席耶伦",
+          "url": "https://flash.jin10.com/detail/20250813045252568800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -30,13 +41,13 @@
           "time_info": ""
         },
         {
-          "title": "美国财长贝森特：鉴于（关税）收入增加，最高法院越来越难对特朗普政府的关税作出不利裁决。",
-          "url": "https://flash.jin10.com/detail/20250813042140074800",
-          "source": "金十数据",
+          "title": "美国财长贝森特：总统特朗普甚至考虑过，提名前美联储主席耶伦（再次）出任美联储主席。（福克斯商业新闻）",
+          "url": "https://wallstreetcn.com/livenews/2957296",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -85,17 +96,6 @@
           "time_info": ""
         },
         {
-          "title": "美国财长贝森特：正在为美联储主席职位广纳贤才，特朗普态度非常开放。",
-          "url": "https://flash.jin10.com/detail/20250813041155732800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
           "title": "特朗普“冠名”战略走廊背后：阿塞拜疆崛起改变南高加索地缘政治格局",
           "url": "https://m.thepaper.cn/newsDetail_forward_31373692",
           "source": "澎湃新闻",
@@ -116,27 +116,60 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 8,
-      "titles": [
+        },
         {
-          "title": "小盘股指ETF收涨将近3%，和大豆基金领跑美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/2957291",
-          "source": "华尔街见闻-快讯",
+          "title": "美国财长贝森特：鉴于（关税）收入增加，最高法院越来越难对特朗普政府的关税作出不利裁决。",
+          "url": "https://flash.jin10.com/detail/20250813042140074800",
+          "source": "金十数据",
           "ranks": [
-            3
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
         {
-          "title": "航空业ETF收涨超7.3%，和银行业ETF领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/2957290",
+          "title": "中方回应特朗普让中国增加大豆订单",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%A2%9E%E5%8A%A0%E5%A4%A7%E8%B1%86%E8%AE%A2%E5%8D%95%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26stream_entry_id%3D31%26realpos%3D25%26band_rank%3D25%26q%3D%2523%25E4%25B8%25AD%25E6%2596%25B9%25E5%259B%259E%25E5%25BA%2594%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E8%25AE%25A9%25E4%25B8%25AD%25E5%259B%25BD%25E5%25A2%259E%25E5%258A%25A0%25E5%25A4%25A7%25E8%25B1%2586%25E8%25AE%25A2%25E5%258D%2595%2523%26dgr%3D0%26filter_type%3Drealtimehot%26pos%3D25%26c_type%3D31%26flag%3D0%26lcate%3D5001%26display_time%3D1755032870%26pre_seqid%3D1755032870595056488737",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "美国财长贝森特：正在为美联储空缺职位广纳贤才，特朗普态度非常开放。",
+          "url": "https://flash.jin10.com/detail/20250813041155732800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美股小盘股指期货周二涨超3.1%",
+          "url": "https://wallstreetcn.com/livenews/2957299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "周二（8月12日）纽约尾盘，现货黄金涨0.18%，报3348.25美元/盎司。 COMEX黄金期货跌0.15%，报3399.60美元/盎司，北京时间22:19（美国CPI通胀数据发布后，美股开盘之后）跌至3379.10美元刷新日低，随后快速反弹，在23:29涨至3410.80美元刷新日高。",
+          "url": "https://wallstreetcn.com/livenews/2957297",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
@@ -157,11 +190,22 @@
           "time_info": ""
         },
         {
-          "title": "美股七巨头收盘播报｜Meta涨超3%，创收盘历史新高",
-          "url": "https://wallstreetcn.com/livenews/2957283",
+          "title": "小盘股指ETF收涨将近3%，和大豆基金领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/2957291",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "航空业ETF收涨超7.3%，和银行业ETF领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/2957290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -179,33 +223,11 @@
           "time_info": ""
         },
         {
-          "title": "金十图示：2025年08月12日（周二）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20250813040550722800",
-          "source": "金十数据",
+          "title": "美股七巨头收盘播报｜Meta涨超3%，创收盘历史新高",
+          "url": "https://wallstreetcn.com/livenews/2957283",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "金十图示：2025年08月12日（周二）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20250813040543941800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "美股收盘：三大股指均收涨超1%",
-          "url": "https://flash.jin10.com/detail/20250813040055481800",
-          "source": "金十数据",
-          "ranks": [
-            19
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -215,14 +237,14 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
           "title": "周二（8月12日），“特朗普关税输家”指数涨3.25%，报106.19点。 成分股昂跑ONON收涨8.95%，Aptiv涨7.37%，e.l.f. Beauty涨4.55%，美元树则收跌0.2%，安德玛跌1.76%，Fluence Energy跌19.37%。",
           "url": "https://wallstreetcn.com/livenews/2957284",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -233,18 +255,7 @@
           "url": "https://wallstreetcn.com/livenews/2957267",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "美元指数12日下跌",
-          "url": "https://flash.jin10.com/detail/20250813033321016800",
-          "source": "金十数据",
-          "ranks": [
-            24
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -261,7 +272,7 @@
           "url": "https://wallstreetcn.com/livenews/2957270",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
