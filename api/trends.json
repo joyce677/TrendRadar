@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-08-13T10:18:18.135596+08:00",
-  "total_titles_processed": 297,
+  "generated_at": "2025-08-13T11:43:37.316404+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 9,
       "titles": [
-        {
-          "title": "日本首席谈判代表、经济再生大臣赤泽亮正：如果特朗普在9月中旬前下达有关美日贸易协议的行政命令，情况还不错。",
-          "url": "https://wallstreetcn.com/livenews/2957415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        },
         {
           "title": "特朗普：正在考虑允许对美联储主席鲍威尔提起重大诉讼",
           "url": "https://wallstreetcn.com/articles/3753181",
@@ -30,13 +19,13 @@
           "time_info": ""
         },
         {
-          "title": "中方回应特朗普让中国增加大豆订单",
-          "url": "https://www.toutiao.com/trending/7537225976271405095/",
-          "source": "今日头条",
+          "title": "史上首次！美国国债规模突破37万亿美元 特朗普又要坐不住了？",
+          "url": "https://www.cls.cn/detail/2113495",
+          "source": "财联社热门",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -47,18 +36,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "史上首次！美国国债规模突破37万亿美元 特朗普又要坐不住了？",
-          "url": "https://www.cls.cn/detail/2113495",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -67,29 +45,40 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31379066",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
         {
-          "title": "泽连斯基：将与普京和特朗普会晤",
-          "url": "https://www.douyin.com/hot/2201411",
+          "title": "中方回应特朗普希望中国增购大豆",
+          "url": "https://www.douyin.com/hot/2201183",
           "source": "抖音",
           "ranks": [
-            17
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
         {
-          "title": "白宫：特朗普将于周三下午4点（当地时间）签署行政令。",
-          "url": "https://wallstreetcn.com/livenews/2957373",
-          "source": "华尔街见闻-快讯",
+          "title": "释疑｜当了总统还想兼市长？特朗普有权接管美国首都吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31379988",
+          "source": "澎湃新闻",
           "ranks": [
-            26
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "UFC CEO：将于明年首次在白宫举办比赛 已与特朗普讨论相关计划",
+          "url": "https://flash.jin10.com/detail/20250813105149684800",
+          "source": "金十数据",
+          "ranks": [
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
@@ -100,7 +89,63 @@
           "url": "https://www.douyin.com/hot/2201490",
           "source": "抖音",
           "ranks": [
-            27
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "中方回应特朗普让中国增加大豆订单",
+          "url": "https://www.toutiao.com/trending/7537225976271405095/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "通胀数据巩固降息预期，纳指标普创新高，美股小盘股指数涨3%，以太坊大涨9%",
+          "url": "https://wallstreetcn.com/articles/3753127",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "美股收盘：三大指数均涨超1% 标普、纳指再创历史新高",
+          "url": "https://www.cls.cn/detail/2113434",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "接近DeepSeek人士确认：DeepSeek-R2在8月内并无发布计划",
+          "url": "https://wallstreetcn.com/livenews/2957464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
@@ -110,92 +155,14 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "OpenAI CEO奥特曼在社交平台发文称，GPT-5现在可以选择“自动”、“快速”和“思考”模式。我们正在更新GPT-5的个性，它应该会比现在的个性更让人感到温暖，但不会像gpt - 40那样烦人（对大多数用户来说）。",
-          "url": "https://wallstreetcn.com/livenews/2957405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        },
         {
           "title": "OpenAI被曝准备投资脑机公司 BitMine巨幅加码以太坊押注 | 环球市场",
           "url": "https://www.cls.cn/detail/2113471",
           "source": "财联社热门",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "马斯克指控苹果应用商店偏袒OpenAI，苹果发文否认",
-          "url": "https://wallstreetcn.com/livenews/2957374",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "通胀数据巩固降息预期，纳指标普创新高，美股小盘股指数涨3%，以太坊大涨9%",
-          "url": "https://wallstreetcn.com/articles/3753127",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "美股收盘：三大指数均涨超1% 标普、纳指再创历史新高",
-          "url": "https://www.cls.cn/detail/2113434",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "美国7月CPI同比上升2.7% 美股三大期指集体走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2113257",
-          "source": "财联社热门",
-          "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "台湾证交所加权股价指数高开0.3%，报24,232.04点。 新台币兑美元上涨0.3%至29.925。",
-          "url": "https://wallstreetcn.com/livenews/2957370",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
           ],
           "is_new": false,
           "appearance_count": 1,
