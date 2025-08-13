@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-08-13T15:57:49.354615+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-08-13T16:38:03.080998+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "特朗普：欧尔班告诉我，中国在贸易上打败我，俄在战争上打败我",
+          "url": "https://news.ifeng.com/c/8lmqS2WGSIF",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
         {
           "title": "史上首次！美国国债规模突破37万亿美元 特朗普又要坐不住了？",
           "url": "https://www.cls.cn/detail/2113495",
@@ -23,20 +34,9 @@
           "url": "https://wallstreetcn.com/articles/3753181",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "调查：特朗普加征关税致印度从亚洲最受捧股市沦为“最不受青睐”",
-          "url": "https://wallstreetcn.com/livenews/2957578",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -45,18 +45,29 @@
           "url": "https://wallstreetcn.com/articles/3753184",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
         {
-          "title": "“不要麦当劳不要iPhone”：特朗普关税激起印度民间抵制美货情绪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31379066",
-          "source": "澎湃新闻",
+          "title": "特朗普炮轰高盛关税预测错误：换个首席经济学家，CEO去当DJ算了",
+          "url": "https://wallstreetcn.com/articles/3753187",
+          "source": "华尔街见闻",
           "ranks": [
-            15
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "会晤普京是特朗普最后的试探吗",
+          "url": "https://www.toutiao.com/trending/7537949393920462363/",
+          "source": "今日头条",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -67,82 +78,20 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31379988",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
         {
-          "title": "特朗普有权接管美国首都吗",
-          "url": "https://www.toutiao.com/trending/7537073779202244662/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美元指数DXY跌至两周低点97.8。",
-          "url": "https://flash.jin10.com/detail/20250813151725507800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "美元指数跌至两周低点97.8。",
-          "url": "https://wallstreetcn.com/livenews/2957566",
+          "title": "调查：特朗普加征关税致印度从亚洲最受捧股市沦为“最不受青睐”",
+          "url": "https://wallstreetcn.com/livenews/2957578",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI被曝准备投资脑机公司 BitMine巨幅加码以太坊押注 | 环球市场",
-          "url": "https://www.cls.cn/detail/2113471",
-          "source": "财联社热门",
-          "ranks": [
-            5
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2025年08月13日（周三）上海金午盘价为774.2元/克，较国际金价(774.55元/克)，低0.35元/克",
-          "url": "https://flash.jin10.com/detail/20250813150307407800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         }
@@ -150,14 +99,53 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "通胀数据巩固降息预期，纳指标普创新高，美股小盘股指数涨3%，以太坊大涨9%",
           "url": "https://wallstreetcn.com/articles/3753127",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "美股盘前，热门中概股多数上涨，阿里巴巴涨超2.5%，理想汽车涨超3%，拼多多涨超2%。腾讯音乐涨超1%。",
+          "url": "https://wallstreetcn.com/livenews/2957600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "IEA月报：尽管美国施加压力，伊朗石油出口仍未出现显著减少。",
+          "url": "https://flash.jin10.com/detail/20250813160503299800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "IEA月报：伊朗6月份供应量从较低水平回升。7月份俄罗斯石油出口流量环比增长了约1%。",
+          "url": "https://flash.jin10.com/detail/20250813160336816800",
+          "source": "金十数据",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
