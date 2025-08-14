@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-08-14T10:19:24.340182+08:00",
+  "generated_at": "2025-08-14T11:44:09.326433+08:00",
   "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 6,
       "titles": [
         {
           "title": "特朗普：若“特普会”顺利，将进行美俄乌三方会晤",
@@ -41,17 +41,6 @@
           "time_info": ""
         },
         {
-          "title": "联想CEO：关税对业务的当前影响有限。对特朗普100%芯片关税尚不明确，但公司不会处于不利地位。对2026财年展望的信心比上一季度有所增强。尽管存在地缘政治不确定性，人工智能PC出货量仍在轨道上。",
-          "url": "https://flash.jin10.com/detail/20250814094907690800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
           "title": "高志凯：特朗普想削减对华贸易逆差，除了关税还有个办法",
           "url": "https://news.ifeng.com/c/8lmfjIUJuxS",
           "source": "凤凰网",
@@ -59,17 +48,6 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "巴西总统卢拉称已邀请特朗普出席COP30气候大会",
-          "url": "https://wallstreetcn.com/livenews/2958033",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -83,12 +61,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
+        },
+        {
+          "title": "特朗普撤销拜登促进经济竞争行政令 曾获美国民众广泛支持",
+          "url": "https://flash.jin10.com/detail/20250814110223033800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股收盘：标普、纳指再创历史新高 腾讯大涨点燃中概股交易激情",
@@ -117,15 +106,21 @@
           "url": "https://www.cls.cn/detail/2114638",
           "source": "财联社热门",
           "ranks": [
-            10
+            11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "白宫官员再催降息 美股三大期指小幅上涨 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2114421",
+          "title": "国际象棋赛OpenAI o3碾压夺冠，马斯克Grok决赛遭零封",
+          "url": "https://www.cls.cn/detail/2114560",
           "source": "财联社热门",
           "ranks": [
             13
@@ -137,17 +132,34 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "美债",
       "match_count": 1,
       "titles": [
         {
-          "title": "Gemini",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DGemini&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26flag%3D0%26band_rank%3D8%26dgr%3D0%26realpos%3D8%26c_type%3D31%26cate%3D5001%26filter_type%3Drealtimehot%26q%3DGemini%26pos%3D7%26stream_entry_id%3D31%26display_time%3D1755137947%26pre_seqid%3D1755137947880054379874",
-          "source": "微博",
+          "title": "美债总额超37万亿 美元还能撑多久",
+          "url": "https://www.toutiao.com/trending/7538232079000047146/",
+          "source": "今日头条",
           "ranks": [
-            8
+            18
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "南非军方高层访问伊朗，双方承诺深化军事合作",
+          "url": "https://wallstreetcn.com/livenews/2958072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         }
