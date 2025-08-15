@@ -1,0 +1,114 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>频率词统计报告</title>
+            <style>
+                body { font-family: Arial, sans-serif; margin: 20px; }
+                h1, h2 { color: #333; }
+                table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+                th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+                th { background-color: #f2f2f2; }
+                tr:nth-child(even) { background-color: #f9f9f9; }
+                .word { font-weight: bold; }
+                .count { text-align: center; }
+                .percentage { text-align: center; }
+                .titles { max-width: 500px; }
+                .source { color: #666; font-style: italic; }
+                .error { color: #d9534f; }
+                .news-link { 
+                    color: #007bff; 
+                    text-decoration: none; 
+                    border-bottom: 1px dotted #007bff;
+                }
+                .news-link:hover { 
+                    color: #0056b3; 
+                    text-decoration: underline; 
+                }
+                .news-link:visited { 
+                    color: #6f42c1; 
+                }
+                .no-link { 
+                    color: #333; 
+                }
+                .new-title {
+                    background-color: #fff3cd;
+                    border: 1px solid #ffc107;
+                    border-radius: 3px;
+                    padding: 2px 6px;
+                    margin: 2px 0;
+                }
+                .new-section {
+                    background-color: #d1ecf1;
+                    border: 1px solid #bee5eb;
+                    border-radius: 5px;
+                    padding: 10px;
+                    margin-top: 10px;
+                }
+                .new-section h3 {
+                    color: #0c5460;
+                    margin-top: 0;
+                }
+            </style>
+        </head>
+        <body>
+            <h1>频率词统计报告</h1>
+        <p>总标题数: 315</p><p>生成时间: 2025-08-15 22:27:58</p>
+            <table>
+                <tr>
+                    <th>排名</th>
+                    <th>频率词</th>
+                    <th>出现次数</th>
+                    <th>占比</th>
+                    <th>相关标题</th>
+                </tr>
+        
+                <tr>
+                    <td>1</td>
+                    <td class="word">特朗普</td>
+                    <td class="count">24</td>
+                    <td class="percentage">7.62%</td>
+                    <td class="titles">[今日头条] <a href="https://www.toutiao.com/trending/7538307998842916394/" target="_blank" class="news-link">特朗普将以最高礼仪亲自迎接普京</a> <font color='red'><strong>[1]</strong></font> <font color='grey'>- 22时27分</font><br><div class='new-title'>🆕 [华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2959079" target="_blank" class="news-link">佩斯科夫：特朗普将迎接普京，俄美经济合作项目被纳入谈判议程</a> <font color='red'><strong>[1]</strong></font> <font color='grey'>- 22时27分</font></div><br>[百度热搜] <a href="https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E4%BB%A5%E6%9C%80%E9%AB%98%E7%A4%BC%E4%BB%AA%E4%BA%B2%E8%87%AA%E8%BF%8E%E6%8E%A5%E6%99%AE%E4%BA%AC" target="_blank" class="news-link">特朗普将以最高礼仪亲自迎接普京</a> <font color='red'><strong>[2]</strong></font> <font color='grey'>- 22时27分</font><br><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250815221245453800" target="_blank" class="news-link">特朗普政敌希拉里：若特朗普促成俄乌和平，将助他冲诺奖</a> <font color='red'><strong>[2]</strong></font> <font color='grey'>- 22时27分</font></div><br><div class='new-title'>🆕 [华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2959077" target="_blank" class="news-link">渣打集团伦敦股价跌幅扩大至5%，美国共和党议员Stefanik要求特朗普的司法部zhangBondi调查该公司。</a> <font color='red'><strong>[3]</strong></font> <font color='grey'>- 22时27分</font></div><br><div class='new-title'>🆕 [华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2959076" target="_blank" class="news-link">特朗普：乌克兰将自行决定是否与俄罗斯交换领土</a> <font color='red'><strong>[4]</strong></font> <font color='grey'>- 22时27分</font></div><br><div class='new-title'>🆕 [微博] <a href="https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%99%AE%E4%BA%AC%E4%BC%9A%E6%99%A4%E5%89%8D%E5%86%8D%E5%8F%91%E5%A8%81%E8%83%81%23&amp;stream_entry_id=31&amp;isnewpage=1&amp;extparam=seat%3D1%26cate%3D5001%26realpos%3D5%26stream_entry_id%3D31%26flag%3D1%26lcate%3D5001%26c_type%3D31%26filter_type%3Drealtimehot%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E4%25B8%258E%25E6%2599%25AE%25E4%25BA%25AC%25E4%25BC%259A%25E6%2599%25A4%25E5%2589%258D%25E5%2586%258D%25E5%258F%2591%25E5%25A8%2581%25E8%2583%2581%2523%26dgr%3D0%26pos%3D5%26band_rank%3D5%26display_time%3D1755268014%26pre_seqid%3D17552680146310492913143" target="_blank" class="news-link">特朗普与普京会晤前再发威胁</a> <font color='red'><strong>[5]</strong></font> <font color='grey'>- 22时27分</font></div><br>[抖音] <a href="https://www.douyin.com/hot/2204535" target="_blank" class="news-link">美媒：特朗普将亲自迎接普京</a> <font color='red'><strong>[5]</strong></font> <font color='grey'>- 22时27分</font><br><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250815220146257800" target="_blank" class="news-link">特朗普：与卢卡申科进行了交谈 讨论了释放囚犯以及与普京会晤的事宜</a> [6] <font color='grey'>- 22时27分</font></div><br>[澎湃新闻] <a href="https://m.thepaper.cn/newsDetail_forward_31403319" target="_blank" class="news-link">特朗普连说两遍：如果我不是总统，普京早就占领整个乌克兰了</a> [7] <font color='grey'>- 22时27分</font><br>[抖音] <a href="https://www.douyin.com/hot/2204574" target="_blank" class="news-link">特朗普普京将会晤</a> [8] <font color='grey'>- 22时27分</font><br><div class='new-title'>🆕 [华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2959069" target="_blank" class="news-link">特朗普：我与白俄罗斯总统进行了一次精彩的谈话。</a> [9] <font color='grey'>- 22时27分</font></div><br>[华尔街见闻] <a href="https://wallstreetcn.com/articles/3753350" target="_blank" class="news-link">&quot;特普会&quot;倒计时，特朗普预计失败概率25%，美临时豁免部分制裁，白宫威胁手中工具很多</a> [10] <font color='grey'>- 22时27分</font><br><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250815215821934800" target="_blank" class="news-link">英特尔(INTC.O)短线走高，现涨2.5%，消息称特朗普政府考虑利用芯片法案资金入股英特尔。</a> [14] <font color='grey'>- 22时27分</font></div><br><div class='new-title'>🆕 [百度热搜] <a href="https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B7%B2%E5%87%BA%E5%8F%91+%E5%B8%A6%E4%BA%86%E8%BF%99%E4%BA%9B%E4%BA%BA" target="_blank" class="news-link">特朗普已出发 带了这些人</a> [15] <font color='grey'>- 22时27分</font></div><br><div class='new-title'>🆕 [金十数据] <a href="https://flash.jin10.com/detail/20250815215732889800" target="_blank" class="news-link">据白俄罗斯国家通讯社：白俄罗斯总统卢卡申科与美国总统特朗普通话。</a> [15] <font color='grey'>- 22时27分</font></div><br>[金十数据] <a href="https://flash.jin10.com/detail/20250815215600779800" target="_blank" class="news-link">市场消息：特朗普政府考虑利用芯片法案资金入股英特尔。</a> [17] <font color='grey'>- 22时27分</font><br><div class='new-title'>🆕 [华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2959060" target="_blank" class="news-link">特朗普政府考虑利用芯片法案资金入股英特尔</a> [17] <font color='grey'>- 22时27分</font></div><br>[今日头条] <a href="https://www.toutiao.com/trending/7538661696978570803/" target="_blank" class="news-link">特朗普：要不是我普京早就吞并乌克兰</a> [18] <font color='grey'>- 22时27分</font><br>[金十数据] <a href="https://flash.jin10.com/detail/20250815215053344800" target="_blank" class="news-link">克里姆林宫：特朗普将在他的飞机上与普京会面。</a> [18] <font color='grey'>- 22时27分</font><br>[百度热搜] <a href="https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%99%AE%E4%BA%AC%E4%BC%9A%E6%99%A4%E5%89%8D%E5%86%8D%E5%8F%91%E5%A8%81%E8%83%81" target="_blank" class="news-link">特朗普与普京会晤前再发威胁</a> [19] <font color='grey'>- 22时27分</font><br>[金十数据] <a href="https://flash.jin10.com/detail/20250815215031223800" target="_blank" class="news-link">克里姆林宫：普京的飞机预计将于当地时间上午11点（北京时间次日凌晨3点）抵达阿拉斯加，届时特朗普将迎接他。</a> [19] <font color='grey'>- 22时27分</font><br>[百度热搜] <a href="https://www.baidu.com/s?wd=%23%E6%99%AE%E4%BA%AC%E6%83%B3%E4%BB%8E%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%8B%E4%B8%8A%E5%BE%97%E5%88%B0%E4%BB%80%E4%B9%88%23" target="_blank" class="news-link">#普京想从特朗普手上得到什么#</a> [20] <font color='grey'>- 22时27分</font><br>[百度热搜] <a href="https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E8%B0%88%E5%9C%B0%E6%95%B0%E7%99%BE%E7%89%B9%E5%B7%A5%E5%85%A5%E9%A9%BB" target="_blank" class="news-link">普京特朗普会谈地数百特工入驻</a> [21] <font color='grey'>- 22时27分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>2</td>
+                    <td class="word">美股</td>
+                    <td class="count">4</td>
+                    <td class="percentage">1.27%</td>
+                    <td class="titles">[财联社热门] <a href="https://www.cls.cn/detail/2116584" target="_blank" class="news-link">中国顶流私募“美股成绩单”：李录罕见重仓拼多多 高毅大举清仓中概股</a> [9] <font color='grey'>- 22时27分</font><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2959053" target="_blank" class="news-link">美股开盘涨跌不一，道指涨0.6%，标普500指数涨0.1%，纳指跌0.01%。联合健康涨10%，英特尔涨4%。应用材料暴跌14%，创2020年3月以来最大跌幅，因公司预测第四季度收入和利润低于预期。Coreweave跌4.4%，连续第三天走低。</a> [23] <font color='grey'>- 22时27分</font><br>[金十数据] <a href="https://flash.jin10.com/detail/20250815214551262800" target="_blank" class="news-link">金十图示：2025年08月15日（周五）美股热门股票行情一览（美股盘初）</a> [24] <font color='grey'>- 22时27分</font><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2959045" target="_blank" class="news-link">周五美股盘前你需要了解的全球要闻</a> [30] <font color='grey'>- 22时27分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>3</td>
+                    <td class="word">美债</td>
+                    <td class="count">2</td>
+                    <td class="percentage">0.63%</td>
+                    <td class="titles">[华尔街见闻] <a href="https://wallstreetcn.com/articles/3753312" target="_blank" class="news-link">PPI意外强劲打压降息预期，美股涨势消退，美债黄金回落，比特币跳水，英特尔大涨超7%</a> <font color='red'><strong>[1]</strong></font> <font color='grey'>- 22时27分</font><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2959058" target="_blank" class="news-link">30年期美债收益率较5年期收益率高出109个基点，为2021年以来最宽。</a> [19] <font color='grey'>- 22时27分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>4</td>
+                    <td class="word">谷歌 google gemini</td>
+                    <td class="count">1</td>
+                    <td class="percentage">0.32%</td>
+                    <td class="titles">[华尔街见闻] <a href="https://wallstreetcn.com/articles/3753372" target="_blank" class="news-link">段永平Q2豪赌AI：谷歌持仓暴增75%，英伟达加仓近50%，同时加仓苹果、拼多多</a> <font color='red'><strong>[5]</strong></font> <font color='grey'>- 22时27分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>5</td>
+                    <td class="word">chatgpt openai</td>
+                    <td class="count">1</td>
+                    <td class="percentage">0.32%</td>
+                    <td class="titles"><div class='new-title'>🆕 [华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2959078" target="_blank" class="news-link">【Altman希望在AI基础设施领域投资“数万亿美元”】OpenAI的CEO Sam Altman希望，为开发和运营AI服务而在基础设施领域投资（至少）数万亿美元。Altman认为，长期而言，AI将是最重要的事，社会作为一个整体是不可能对大举投资AI感到后悔的。</a> <font color='red'><strong>[2]</strong></font> <font color='grey'>- 22时27分</font></div></td>
+                </tr>
+            
+            </table>
+        
+            <div class="new-section">
+                <h3>🆕 本次新增热点新闻 (共 12 条)</h3>
+            <h4>百度热搜 (1 条)</h4><ul><li><a href="https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B7%B2%E5%87%BA%E5%8F%91+%E5%B8%A6%E4%BA%86%E8%BF%99%E4%BA%9B%E4%BA%BA" target="_blank" class="news-link">特朗普已出发 带了这些人</a> [15]</li></ul><h4>金十数据 (4 条)</h4><ul><li><a href="https://flash.jin10.com/detail/20250815221245453800" target="_blank" class="news-link">特朗普政敌希拉里：若特朗普促成俄乌和平，将助他冲诺奖</a> <font color='red'><strong>[2]</strong></font></li><li><a href="https://flash.jin10.com/detail/20250815220146257800" target="_blank" class="news-link">特朗普：与卢卡申科进行了交谈 讨论了释放囚犯以及与普京会晤的事宜</a> [6]</li><li><a href="https://flash.jin10.com/detail/20250815215821934800" target="_blank" class="news-link">英特尔(INTC.O)短线走高，现涨2.5%，消息称特朗普政府考虑利用芯片法案资金入股英特尔。</a> [14]</li><li><a href="https://flash.jin10.com/detail/20250815215732889800" target="_blank" class="news-link">据白俄罗斯国家通讯社：白俄罗斯总统卢卡申科与美国总统特朗普通话。</a> [15]</li></ul><h4>华尔街见闻-快讯 (6 条)</h4><ul><li><a href="https://wallstreetcn.com/livenews/2959079" target="_blank" class="news-link">佩斯科夫：特朗普将迎接普京，俄美经济合作项目被纳入谈判议程</a> <font color='red'><strong>[1]</strong></font></li><li><a href="https://wallstreetcn.com/livenews/2959078" target="_blank" class="news-link">【Altman希望在AI基础设施领域投资“数万亿美元”】OpenAI的CEO Sam Altman希望，为开发和运营AI服务而在基础设施领域投资（至少）数万亿美元。Altman认为，长期而言，AI将是最重要的事，社会作为一个整体是不可能对大举投资AI感到后悔的。</a> <font color='red'><strong>[2]</strong></font></li><li><a href="https://wallstreetcn.com/livenews/2959077" target="_blank" class="news-link">渣打集团伦敦股价跌幅扩大至5%，美国共和党议员Stefanik要求特朗普的司法部zhangBondi调查该公司。</a> <font color='red'><strong>[3]</strong></font></li><li><a href="https://wallstreetcn.com/livenews/2959076" target="_blank" class="news-link">特朗普：乌克兰将自行决定是否与俄罗斯交换领土</a> <font color='red'><strong>[4]</strong></font></li><li><a href="https://wallstreetcn.com/livenews/2959069" target="_blank" class="news-link">特朗普：我与白俄罗斯总统进行了一次精彩的谈话。</a> [9]</li><li><a href="https://wallstreetcn.com/livenews/2959060" target="_blank" class="news-link">特朗普政府考虑利用芯片法案资金入股英特尔</a> [17]</li></ul><h4>微博 (1 条)</h4><ul><li><a href="https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E6%99%AE%E4%BA%AC%E4%BC%9A%E6%99%A4%E5%89%8D%E5%86%8D%E5%8F%91%E5%A8%81%E8%83%81%23&amp;stream_entry_id=31&amp;isnewpage=1&amp;extparam=seat%3D1%26cate%3D5001%26realpos%3D5%26stream_entry_id%3D31%26flag%3D1%26lcate%3D5001%26c_type%3D31%26filter_type%3Drealtimehot%26q%3D%2523%25E7%2589%25B9%25E6%259C%2597%25E6%2599%25AE%25E4%25B8%258E%25E6%2599%25AE%25E4%25BA%25AC%25E4%25BC%259A%25E6%2599%25A4%25E5%2589%258D%25E5%2586%258D%25E5%258F%2591%25E5%25A8%2581%25E8%2583%2581%2523%26dgr%3D0%26pos%3D5%26band_rank%3D5%26display_time%3D1755268014%26pre_seqid%3D17552680146310492913143" target="_blank" class="news-link">特朗普与普京会晤前再发威胁</a> <font color='red'><strong>[5]</strong></font></li></ul></div>
+        </body>
+        </html>
+        
