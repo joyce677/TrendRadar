@@ -1,0 +1,111 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>频率词统计报告</title>
+            <style>
+                body { font-family: Arial, sans-serif; margin: 20px; }
+                h1, h2 { color: #333; }
+                table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+                th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+                th { background-color: #f2f2f2; }
+                tr:nth-child(even) { background-color: #f9f9f9; }
+                .word { font-weight: bold; }
+                .count { text-align: center; }
+                .percentage { text-align: center; }
+                .titles { max-width: 500px; }
+                .source { color: #666; font-style: italic; }
+                .error { color: #d9534f; }
+                .news-link { 
+                    color: #007bff; 
+                    text-decoration: none; 
+                    border-bottom: 1px dotted #007bff;
+                }
+                .news-link:hover { 
+                    color: #0056b3; 
+                    text-decoration: underline; 
+                }
+                .news-link:visited { 
+                    color: #6f42c1; 
+                }
+                .no-link { 
+                    color: #333; 
+                }
+                .new-title {
+                    background-color: #fff3cd;
+                    border: 1px solid #ffc107;
+                    border-radius: 3px;
+                    padding: 2px 6px;
+                    margin: 2px 0;
+                }
+                .new-section {
+                    background-color: #d1ecf1;
+                    border: 1px solid #bee5eb;
+                    border-radius: 5px;
+                    padding: 10px;
+                    margin-top: 10px;
+                }
+                .new-section h3 {
+                    color: #0c5460;
+                    margin-top: 0;
+                }
+            </style>
+        </head>
+        <body>
+            <h1>频率词统计报告</h1>
+        <p>总标题数: 308</p><p>生成时间: 2025-08-15 16:59:53</p>
+            <table>
+                <tr>
+                    <th>排名</th>
+                    <th>频率词</th>
+                    <th>出现次数</th>
+                    <th>占比</th>
+                    <th>相关标题</th>
+                </tr>
+        
+                <tr>
+                    <td>1</td>
+                    <td class="word">特朗普</td>
+                    <td class="count">9</td>
+                    <td class="percentage">2.92%</td>
+                    <td class="titles">[凤凰网] <a href="https://news.ifeng.com/c/8lpVCElobTJ" target="_blank" class="news-link">普京称美方积极努力，特朗普给出谈崩概率</a> <font color='red'><strong>[2]</strong></font> <font color='grey'>- 16时59分</font><br>[凤凰网] <a href="https://news.ifeng.com/c/8lpouNNVDUS" target="_blank" class="news-link">特朗普据称正制定令各方满意的协议，克宫：任何预测都是错误</a> <font color='red'><strong>[3]</strong></font> <font color='grey'>- 16时59分</font><br>[凤凰网] <a href="https://news.ifeng.com/c/8lpmKTs10Xl" target="_blank" class="news-link">挪威财政大臣街头突然接到特朗普电话，谈到诺贝尔和平奖</a> <font color='red'><strong>[4]</strong></font> <font color='grey'>- 16时59分</font><br>[今日头条] <a href="https://www.toutiao.com/trending/7538660054187118122/" target="_blank" class="news-link">为何说普京已经接受了特朗普的设计</a> <font color='red'><strong>[5]</strong></font> <font color='grey'>- 16时59分</font><br>[财联社热门] <a href="https://www.cls.cn/detail/2116205" target="_blank" class="news-link">白宫公布美俄会晤特朗普最新行程安排</a> <font color='red'><strong>[5]</strong></font> <font color='grey'>- 16时59分</font><br>[知乎] <a href="https://www.zhihu.com/question/1939617359045333542" target="_blank" class="news-link">特朗普政府欲入股英特尔，一边是英伟达等的「特许经营」抽成，一边是芯片国企化的可能，对此你怎么看？</a> <font color='red'><strong>[5]</strong></font> <font color='grey'>- 16时59分</font><br>[百度热搜] <a href="https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%A6%81%E4%B8%8D%E6%98%AF%E6%88%91%E6%99%AE%E4%BA%AC%E6%97%A9%E5%8D%A0%E9%A2%86%E4%B9%8C%E5%85%8B%E5%85%B0%E4%BA%86" target="_blank" class="news-link">特朗普：要不是我普京早占领乌克兰了</a> [14] <font color='grey'>- 16时59分</font><br>[澎湃新闻] <a href="https://m.thepaper.cn/newsDetail_forward_31403319" target="_blank" class="news-link">特朗普连说两遍：如果我不是总统，普京早就占领整个乌克兰了</a> [18] <font color='grey'>- 16时59分</font><br>[今日头条] <a href="https://www.toutiao.com/trending/7538661696978570803/" target="_blank" class="news-link">特朗普：要不是我普京早就吞并乌克兰</a> [20] <font color='grey'>- 16时59分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>2</td>
+                    <td class="word">伊朗</td>
+                    <td class="count">4</td>
+                    <td class="percentage">1.3%</td>
+                    <td class="titles">[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2958908" target="_blank" class="news-link">俄罗斯与伊朗就建设小型核电站进行磋商。（塔斯社）</a> [7] <font color='grey'>- 16时59分</font><br>[金十数据] <a href="https://flash.jin10.com/detail/20250815162446516800" target="_blank" class="news-link">据塔斯社：俄罗斯和伊朗正在讨论建造小型核电站。</a> [8] <font color='grey'>- 16时59分</font><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2958880" target="_blank" class="news-link">乌称突袭俄海军港口 目标锁定伊朗无人机运输船</a> [17] <font color='grey'>- 16时59分</font><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2958860" target="_blank" class="news-link">外交部亚洲司司长刘劲松会见伊朗新任驻华大使法兹里</a> [22] <font color='grey'>- 16时59分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>3</td>
+                    <td class="word">美股</td>
+                    <td class="count">2</td>
+                    <td class="percentage">0.65%</td>
+                    <td class="titles">[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2958886" target="_blank" class="news-link">联合健康美股盘前涨超12%，13F报告显示，巴菲特旗下伯克希尔哈撒韦对该公司股票建仓，对冲基金巨头文艺复兴、对冲基金经理David Tepper旗下Appaloosa基金也在二季度大举增持。</a> [14] <font color='grey'>- 16时59分</font><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2958884" target="_blank" class="news-link">英特尔美股盘前涨超4%，特朗普政府讨论对英特尔实施国家持股。</a> [16] <font color='grey'>- 16时59分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>4</td>
+                    <td class="word">谷歌 google gemini</td>
+                    <td class="count">1</td>
+                    <td class="percentage">0.32%</td>
+                    <td class="titles">[华尔街见闻] <a href="https://wallstreetcn.com/articles/3753372" target="_blank" class="news-link">段永平Q2豪赌AI：谷歌持仓暴增75%，英伟达加仓近50%，同时加仓苹果、拼多多</a> [7] <font color='grey'>- 16时59分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>5</td>
+                    <td class="word">美债</td>
+                    <td class="count">1</td>
+                    <td class="percentage">0.32%</td>
+                    <td class="titles">[华尔街见闻] <a href="https://wallstreetcn.com/articles/3753312" target="_blank" class="news-link">PPI意外强劲打压降息预期，美股涨势消退，美债黄金回落，比特币跳水，英特尔大涨超7%</a> <font color='red'><strong>[2]</strong></font> <font color='grey'>- 16时59分</font></td>
+                </tr>
+            
+            </table>
+        
+        </body>
+        </html>
+        
