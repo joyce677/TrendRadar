@@ -1,16 +1,27 @@
 {
-  "generated_at": "2025-08-16T23:26:24.300687+08:00",
+  "generated_at": "2025-08-16T23:57:47.332157+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 27,
       "titles": [
         {
           "title": "“特普会”顺利：普京称俄真诚希望冲突结束，特朗普称暂未达成协议，给这次会晤打10分",
           "url": "https://wallstreetcn.com/articles/3753445",
           "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "美俄举行联合新闻发布会，特朗普：双方暂未达成协议、但接近",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31410843",
+          "source": "澎湃新闻",
           "ranks": [
             1
           ],
@@ -30,9 +41,9 @@
           "time_info": ""
         },
         {
-          "title": "美俄举行联合新闻发布会，特朗普：双方暂未达成协议、但接近",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31410843",
-          "source": "澎湃新闻",
+          "title": "特朗普普京记者会全文实录",
+          "url": "https://news.ifeng.com/c/8lrDZJmDGEz",
+          "source": "凤凰网",
           "ranks": [
             2
           ],
@@ -41,13 +52,13 @@
           "time_info": ""
         },
         {
-          "title": "特朗普普京记者会全文实录",
-          "url": "https://news.ifeng.com/c/8lrDZJmDGEz",
-          "source": "凤凰网",
+          "title": "俄罗斯总统普京：访问阿拉斯加很有用且及时，与特朗普的对话真诚且有实质内容。",
+          "url": "https://flash.jin10.com/detail/20250816231445819800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -118,17 +129,6 @@
           "time_info": ""
         },
         {
-          "title": "特朗普：暂不针对中国购买俄油加征关税",
-          "url": "https://flash.jin10.com/detail/20250816215452951800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
           "title": "专家：普京最想要的特朗普给了一半",
           "url": "https://www.toutiao.com/trending/7539155639746956842/",
           "source": "今日头条",
@@ -184,11 +184,22 @@
           "time_info": ""
         },
         {
-          "title": "特朗普普京同车离开机场“不寻常”",
-          "url": "https://www.toutiao.com/trending/7538684974858272810/",
-          "source": "今日头条",
+          "title": "美前高官：普京大获全胜 特朗普累惨",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%89%8D%E9%AB%98%E5%AE%98%EF%BC%9A%E6%99%AE%E4%BA%AC%E5%A4%A7%E8%8E%B7%E5%85%A8%E8%83%9C+%E7%89%B9%E6%9C%97%E6%99%AE%E7%B4%AF%E6%83%A8",
+          "source": "百度热搜",
           "ranks": [
-            12
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特朗普：暂不针对中国购买俄油加征关税",
+          "url": "https://flash.jin10.com/detail/20250816215452951800",
+          "source": "金十数据",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -206,11 +217,22 @@
           "time_info": ""
         },
         {
-          "title": "美前高官：普京大获全胜 特朗普累惨",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%89%8D%E9%AB%98%E5%AE%98%EF%BC%9A%E6%99%AE%E4%BA%AC%E5%A4%A7%E8%8E%B7%E5%85%A8%E8%83%9C+%E7%89%B9%E6%9C%97%E6%99%AE%E7%B4%AF%E6%83%A8",
-          "source": "百度热搜",
+          "title": "特朗普普京同车离开机场“不寻常”",
+          "url": "https://www.toutiao.com/trending/7538684974858272810/",
+          "source": "今日头条",
           "ranks": [
-            14
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "普京用英文回答特朗普：莫斯科见",
+          "url": "https://www.toutiao.com/trending/7538982493236579867/",
+          "source": "今日头条",
+          "ranks": [
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -228,22 +250,22 @@
           "time_info": ""
         },
         {
-          "title": "普京用英文回答特朗普：莫斯科见",
-          "url": "https://www.toutiao.com/trending/7538982493236579867/",
-          "source": "今日头条",
+          "title": "特朗普：泽连斯基18日访美，若一切顺利之后将安排同普京的会谈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31413192",
+          "source": "澎湃新闻",
           "ranks": [
-            19
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
         {
-          "title": "特朗普：泽连斯基18日访美，若一切顺利之后将安排同普京的会谈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31413192",
-          "source": "澎湃新闻",
+          "title": "特朗普机场迎接普京",
+          "url": "https://www.toutiao.com/trending/7538895685798858291/",
+          "source": "今日头条",
           "ranks": [
-            19
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -254,29 +276,7 @@
           "url": "https://www.toutiao.com/trending/7538992087144992302/",
           "source": "今日头条",
           "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "乌克兰总统泽连斯基：我们需要真正的和平，而不是停火协议，向特朗普强调应加大对俄罗斯的压力。",
-          "url": "https://flash.jin10.com/detail/20250816183238794800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "知情人士：特朗普与欧洲领导人曾讨论为乌克兰提供非北约框架下、但等效于第五条的安全保障。",
-          "url": "https://flash.jin10.com/detail/20250816181742286800",
-          "source": "金十数据",
-          "ranks": [
-            26
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -287,26 +287,15 @@
           "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E6%8F%90%E8%AE%AE%E4%B8%8B%E6%AC%A1%E8%8E%AB%E6%96%AF%E7%A7%91%E8%A7%81+%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E6%9C%89%E8%B6%A3",
           "source": "百度热搜",
           "ranks": [
-            27
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
         {
-          "title": "英国首相斯塔默：特朗普的努力使我们比以往任何时候都更接近结束俄罗斯在乌克兰的战争，下一步必须是与泽连斯基总统进行进一步的会谈。",
-          "url": "https://flash.jin10.com/detail/20250816175723725800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "乌克兰议员：特朗普拒绝停火，此举与普京立场一致。",
-          "url": "https://flash.jin10.com/detail/20250816174821043800",
+          "title": "乌克兰总统泽连斯基：我们需要真正的和平，而不是停火协议，向特朗普强调应加大对俄罗斯的压力。",
+          "url": "https://flash.jin10.com/detail/20250816183238794800",
           "source": "金十数据",
           "ranks": [
             30
@@ -354,7 +343,7 @@
           "url": "https://flash.jin10.com/detail/20250816194613762800",
           "source": "金十数据",
           "ranks": [
-            18
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
