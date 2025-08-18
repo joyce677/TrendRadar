@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-18T13:57:51.927207+08:00",
+  "generated_at": "2025-08-18T14:46:11.528098+08:00",
   "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
@@ -7,17 +7,6 @@
       "keyword_group": "特朗普",
       "match_count": 6,
       "titles": [
-        {
-          "title": "“特泽会”锁定明日凌晨，特朗普的“棋局”该怎么走",
-          "url": "https://news.ifeng.com/c/8lurbXsHflE",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        },
         {
           "title": "特朗普：乌放弃两件事可结束冲突",
           "url": "https://www.toutiao.com/trending/7538807351686135862/",
@@ -34,6 +23,17 @@
           "url": "https://www.cls.cn/detail/2117513",
           "source": "财联社热门",
           "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特朗普转发贴文，支持乌放弃部分领土",
+          "url": "https://news.ifeng.com/c/8luly1WEZ8X",
+          "source": "凤凰网",
+          "ranks": [
             4
           ],
           "is_new": false,
@@ -41,8 +41,8 @@
           "time_info": ""
         },
         {
-          "title": "马克龙：要问问特朗普，准备为乌克兰安全出多少力",
-          "url": "https://news.ifeng.com/c/8luZHwuwRx9",
+          "title": "泽连斯基穿啥见特朗普？乌克兰设计师：应该还是军装，不会穿西装",
+          "url": "https://news.ifeng.com/c/8luvO6OCiux",
           "source": "凤凰网",
           "ranks": [
             5
@@ -56,7 +56,7 @@
           "url": "https://www.cls.cn/detail/2117442",
           "source": "财联社热门",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -67,7 +67,7 @@
           "url": "https://www.cls.cn/detail/2117746",
           "source": "财联社热门",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -77,7 +77,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "【早报】事关货币政策、物价，央行报告释放重要信号；OpenAI将豪掷数万亿美元，AI基建迎利好",
@@ -85,6 +85,34 @@
           "source": "财联社热门",
           "ranks": [
             1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "OpenAI CEO Altman 表示希望 AGI 能提高生育率，你认为可行吗？",
+          "url": "https://www.zhihu.com/question/1940707431190590463",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "盯盘神器·现货黄金：金价触及最强阻力位，短线留意回调风险",
+          "url": "https://flash.jin10.com/detail/20250818141723741800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
