@@ -1,0 +1,103 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>频率词统计报告</title>
+            <style>
+                body { font-family: Arial, sans-serif; margin: 20px; }
+                h1, h2 { color: #333; }
+                table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+                th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+                th { background-color: #f2f2f2; }
+                tr:nth-child(even) { background-color: #f9f9f9; }
+                .word { font-weight: bold; }
+                .count { text-align: center; }
+                .percentage { text-align: center; }
+                .titles { max-width: 500px; }
+                .source { color: #666; font-style: italic; }
+                .error { color: #d9534f; }
+                .news-link { 
+                    color: #007bff; 
+                    text-decoration: none; 
+                    border-bottom: 1px dotted #007bff;
+                }
+                .news-link:hover { 
+                    color: #0056b3; 
+                    text-decoration: underline; 
+                }
+                .news-link:visited { 
+                    color: #6f42c1; 
+                }
+                .no-link { 
+                    color: #333; 
+                }
+                .new-title {
+                    background-color: #fff3cd;
+                    border: 1px solid #ffc107;
+                    border-radius: 3px;
+                    padding: 2px 6px;
+                    margin: 2px 0;
+                }
+                .new-section {
+                    background-color: #d1ecf1;
+                    border: 1px solid #bee5eb;
+                    border-radius: 5px;
+                    padding: 10px;
+                    margin-top: 10px;
+                }
+                .new-section h3 {
+                    color: #0c5460;
+                    margin-top: 0;
+                }
+            </style>
+        </head>
+        <body>
+            <h1>频率词统计报告</h1>
+        <p>总标题数: 314</p><p>生成时间: 2025-08-20 00:33:57</p>
+            <table>
+                <tr>
+                    <th>排名</th>
+                    <th>频率词</th>
+                    <th>出现次数</th>
+                    <th>占比</th>
+                    <th>相关标题</th>
+                </tr>
+        
+                <tr>
+                    <td>1</td>
+                    <td class="word">特朗普</td>
+                    <td class="count">13</td>
+                    <td class="percentage">4.14%</td>
+                    <td class="titles">[澎湃新闻] <a href="https://m.thepaper.cn/newsDetail_forward_31424632" target="_blank" class="news-link">视频丨泽连斯基时隔半年再入白宫会晤特朗普</a> <font color='red'><strong>[1]</strong></font> <font color='grey'>- 00时33分</font><br>[华尔街见闻] <a href="https://wallstreetcn.com/articles/3753576" target="_blank" class="news-link">“特泽会”后特朗普致电普京，称开始安排三方会晤，俄美均支持俄乌直接谈判</a> <font color='red'><strong>[2]</strong></font> <font color='grey'>- 00时33分</font><br>[华尔街见闻] <a href="https://wallstreetcn.com/articles/3753574" target="_blank" class="news-link">特朗普政府考虑入股英特尔10%，或成最大股东，软银“卡位”先投20亿美元</a> <font color='red'><strong>[5]</strong></font> <font color='grey'>- 00时33分</font><br>[凤凰网] <a href="https://news.ifeng.com/c/8lwuiUc8nf1" target="_blank" class="news-link">与特朗普会晤后，泽连斯基：已着手制定具体安保方案</a> <font color='red'><strong>[5]</strong></font> <font color='grey'>- 00时33分</font><br>[凤凰网] <a href="https://news.ifeng.com/c/8lxAbMKeejw" target="_blank" class="news-link">特朗普：将在未来几周内了解普京的意向</a> [6] <font color='grey'>- 00时33分</font><br>[华尔街见闻] <a href="https://wallstreetcn.com/articles/3753588" target="_blank" class="news-link">白宫版智斗，特朗普果然大杀四方</a> [9] <font color='grey'>- 00时33分</font><br>[今日头条] <a href="https://www.toutiao.com/trending/7540179349396278810/" target="_blank" class="news-link">特朗普马克龙说悄悄话没关麦</a> [11] <font color='grey'>- 00时33分</font><br>[今日头条] <a href="https://www.toutiao.com/trending/7539480426034004007/" target="_blank" class="news-link">德国总理企图“上桌” 特朗普回怼</a> [14] <font color='grey'>- 00时33分</font><br>[金十数据] <a href="https://flash.jin10.com/detail/20250819234204090800" target="_blank" class="news-link">据AXIOS：美国国务卿鲁比奥将牵头乌克兰安全保障会谈，美国总统特朗普承诺提供空中支援。</a> [14] <font color='grey'>- 00时33分</font><br>[今日头条] <a href="https://www.toutiao.com/trending/7539342253525844031/" target="_blank" class="news-link">特朗普开导泽连斯基：可以边打边谈</a> [17] <font color='grey'>- 00时33分</font><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2960638" target="_blank" class="news-link">即使特朗普关税豁免，美国铜业公司仍上调价格</a> [21] <font color='grey'>- 00时33分</font><br>[今日头条] <a href="https://www.toutiao.com/trending/7539999778853929003/" target="_blank" class="news-link">特朗普：美国开战我就能连任</a> [28] <font color='grey'>- 00时33分</font><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2960627" target="_blank" class="news-link">美媒：特朗普透露俄乌领导人会晤计划细节，称已“大致安排好”双方会晤</a> [30] <font color='grey'>- 00时33分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>2</td>
+                    <td class="word">美股</td>
+                    <td class="count">2</td>
+                    <td class="percentage">0.64%</td>
+                    <td class="titles">[华尔街见闻] <a href="https://wallstreetcn.com/articles/3753529" target="_blank" class="news-link">重磅央行年会前美股小幅波动，诺和诺德欧股涨近7%，“特泽会”举行原油仍反弹</a> [6] <font color='grey'>- 00时33分</font><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2960634" target="_blank" class="news-link">小鹏在美股盘初呈现出V形走势，目前涨超3.1%，刷新日高至20.57美元。</a> [24] <font color='grey'>- 00时33分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>3</td>
+                    <td class="word">黄金</td>
+                    <td class="count">1</td>
+                    <td class="percentage">0.32%</td>
+                    <td class="titles">[财联社热门] <a href="https://www.cls.cn/detail/2119823" target="_blank" class="news-link">高盛：黄金更像曼哈顿房产而非石油 坚定买家主导价格走势</a> [13] <font color='grey'>- 00时33分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>4</td>
+                    <td class="word">美元</td>
+                    <td class="count">1</td>
+                    <td class="percentage">0.32%</td>
+                    <td class="titles">[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2960644" target="_blank" class="news-link">恒天然：8月19日全球乳品贸易（GDT）拍卖价格指数下降0.3%，奶粉各合同期FAS拍卖均价4,291美元/吨。 批发奶粉价格指数上升0.3%，报4,036美元/吨。</a> [16] <font color='grey'>- 00时33分</font></td>
+                </tr>
+            
+            </table>
+        
+        </body>
+        </html>
+        
