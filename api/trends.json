@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-08-20T15:28:06.038883+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-08-20T15:57:53.295183+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 6,
       "titles": [
+        {
+          "title": "特朗普致电欧尔班劝其支持乌克兰加入欧盟，欧尔班：没必要且危险",
+          "url": "https://wallstreetcn.com/livenews/2961076",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
         {
           "title": "特朗普再谈见普京：我们之间有一种“温暖”的感觉",
           "url": "https://news.ifeng.com/c/8lxwR38JYUw",
@@ -24,6 +35,17 @@
           "source": "凤凰网",
           "ranks": [
             5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "“全球央妈年会”召开在即，特朗普再度炮轰鲍威尔：简直是灾难！",
+          "url": "https://www.cls.cn/detail/2120018",
+          "source": "财联社热门",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -50,34 +72,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
-        },
-        {
-          "title": "特朗普透露俄乌领导人会晤计划细节 美国将407类钢铝衍生产品纳入关税清单 | 环球市场",
-          "url": "https://www.cls.cn/detail/2119964",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "“全球央妈年会”召开在即，特朗普再度炮轰鲍威尔：简直是灾难！",
-          "url": "https://www.cls.cn/detail/2120018",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
           "title": "科技股冲击美股，英伟达跌3.5%，道指盘中新高，加密货币跳水，俄乌会晤筹备，金油齐跌",
@@ -85,17 +85,6 @@
           "source": "华尔街见闻",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "美股收盘：全球央行年会前市场进入避险模式 纳指跌近1.5% 英特尔逆势收涨近7%",
-          "url": "https://www.cls.cn/detail/2119952",
-          "source": "财联社热门",
-          "ranks": [
-            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -115,34 +104,45 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 1,
+      "keyword_group": "伊朗",
+      "match_count": 2,
       "titles": [
         {
-          "title": "金十图示：2025年08月20日（周三）上海金午盘价为769.54元/克，较国际金价(767.65元/克)，高1.89元/克",
-          "url": "https://flash.jin10.com/detail/20250820150212935800",
+          "title": "白俄总统卢卡申科会见来访的伊朗总统佩泽希齐扬",
+          "url": "https://flash.jin10.com/detail/20250820152401141800",
           "source": "金十数据",
           "ranks": [
-            4
+            20
           ],
-          "is_new": false,
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "白俄总统卢卡申科会见来访的伊朗总统佩泽希齐扬",
+          "url": "https://wallstreetcn.com/livenews/2961050",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "据伊朗Press TV：伊朗国防部长表示，若敌人继续恶意行为，伊方回应将是毁灭性且出人意料的。",
-          "url": "https://flash.jin10.com/detail/20250820143053329800",
-          "source": "金十数据",
+          "title": "deepseek演都不演了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3Ddeepseek%E6%BC%94%E9%83%BD%E4%B8%8D%E6%BC%94%E4%BA%86&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3Ddeepseek%25E6%25BC%2594%25E9%2583%25BD%25E4%25B8%258D%25E6%25BC%2594%25E4%25BA%2586%26dgr%3D0%26pos%3D1%26realpos%3D2%26flag%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26band_rank%3D2%26stream_entry_id%3D31%26display_time%3D1755676668%26pre_seqid%3D1755676668914053971042",
+          "source": "微博",
           "ranks": [
-            27
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         }
