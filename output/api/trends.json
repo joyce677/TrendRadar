@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-08-21T02:39:01.789363+08:00",
+  "generated_at": "2025-08-21T02:59:26.345678+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "特朗普要求把边境墙涂黑：可把偷渡者“烫走”",
@@ -15,6 +15,17 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "机构：美联储会议纪要突显有关特朗普关税对通胀影响的分歧",
+          "url": "https://flash.jin10.com/detail/20250821023912004800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -56,7 +67,7 @@
           "url": "https://wallstreetcn.com/livenews/2961356",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -134,7 +145,7 @@
           "url": "https://wallstreetcn.com/livenews/2961354",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -145,7 +156,7 @@
           "url": "https://wallstreetcn.com/livenews/2961352",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -155,7 +166,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "芯片股普跌拖累纳指跌超1.9%，欧股跌幅收窄，美元和美债收益率齐跌，现货黄金、原油走高",
@@ -169,13 +180,24 @@
           "time_info": ""
         },
         {
-          "title": "美国10年期国债收益率短线上扬大约1个基点，逼近4.29%，使得日内整体跌幅在美联储会议纪要发布后收窄至不足2.0个基点。 两年期美债收益率短线从3.73%下方回升至3.74%上方，日内整体跌幅收窄至不足0.9个基点。 2/10年期美债收益率利差重新跌穿+54个基点。 会议纪要发布后，标普500指数跌超0.5%，道指转跌，纳指跌超1%。",
+          "title": "美债收益率短线上扬，美联储会议纪要偏鹰派",
           "url": "https://wallstreetcn.com/livenews/2961375",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            8
           ],
-          "is_new": false,
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "美联储会议纪要 ：稳定币可能会增加美债需求",
+          "url": "https://flash.jin10.com/detail/20250821022308913800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         }
@@ -190,7 +212,7 @@
           "url": "https://wallstreetcn.com/livenews/2961362",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -207,7 +229,7 @@
           "url": "https://wallstreetcn.com/livenews/2961363",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
