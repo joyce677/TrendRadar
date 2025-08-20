@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-20T15:00:26.047245+08:00",
+  "generated_at": "2025-08-20T15:28:06.038883+08:00",
   "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
@@ -56,7 +56,7 @@
           "url": "https://www.cls.cn/detail/2119964",
           "source": "财联社热门",
           "ranks": [
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -115,6 +115,23 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2025年08月20日（周三）上海金午盘价为769.54元/克，较国际金价(767.65元/克)，高1.89元/克",
+          "url": "https://flash.jin10.com/detail/20250820150212935800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 1,
       "titles": [
@@ -123,9 +140,9 @@
           "url": "https://flash.jin10.com/detail/20250820143053329800",
           "source": "金十数据",
           "ranks": [
-            7
+            27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         }
