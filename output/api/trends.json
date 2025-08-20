@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-08-21T06:25:55.800920+08:00",
+  "generated_at": "2025-08-21T06:58:08.385618+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "美联储曾发现超过2.2万笔类似特朗普“房管局局长”Pulte提到的抵押贷款问题",
+          "url": "https://wallstreetcn.com/livenews/2961447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
         {
           "title": "特朗普要求把边境墙涂黑：可把偷渡者“烫走”",
           "url": "https://v.ifeng.com/c/8lyEqIVkT1o",
@@ -19,13 +30,35 @@
           "time_info": ""
         },
         {
+          "title": "市场消息：美国得州众议院批准了由特朗普支持的国会选区地图，旨在为共和党人在国会山赢得更多席位，点燃了全美重新划分选区之争。",
+          "url": "https://flash.jin10.com/detail/20250821062259804800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特朗普称斡旋俄乌冲突是想死后上天堂，白宫回应：望每个人都能上天堂",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31434938",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
           "title": "法官驳回特朗普政府对移民核查工具限制的上诉 批其论点荒谬",
           "url": "https://flash.jin10.com/detail/20250821055644039800",
           "source": "金十数据",
           "ranks": [
-            6
+            17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -34,7 +67,7 @@
           "url": "https://wallstreetcn.com/livenews/2961429",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -45,7 +78,7 @@
           "url": "https://wallstreetcn.com/livenews/2961428",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -56,18 +89,7 @@
           "url": "https://flash.jin10.com/detail/20250821054714029800",
           "source": "金十数据",
           "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "特朗普称斡旋俄乌冲突是想死后上天堂，白宫回应：望每个人都能上天堂",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31434938",
-          "source": "澎湃新闻",
-          "ranks": [
-            13
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -85,22 +107,11 @@
           "time_info": ""
         },
         {
-          "title": "周三（8月20日），“特朗普关税输家”指数跌1.10%，报105.87点。",
-          "url": "https://wallstreetcn.com/livenews/2961407",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
           "title": "特朗普：我担心死后进不了天堂",
           "url": "https://www.toutiao.com/trending/7539878485595652150/",
           "source": "今日头条",
           "ranks": [
-            30
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -139,7 +150,7 @@
           "url": "https://www.cls.cn/detail/2121210",
           "source": "财联社热门",
           "ranks": [
-            7
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -161,7 +172,7 @@
           "url": "https://wallstreetcn.com/livenews/2961417",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -172,35 +183,7 @@
           "url": "https://wallstreetcn.com/livenews/2961414",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美联储会议纪要来袭 谷歌举行新品发布会 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2121037",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "美股七巨头收盘播报｜苹果、亚马逊、特斯拉、谷歌A至多收跌将近2%",
-          "url": "https://wallstreetcn.com/livenews/2961405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -228,7 +211,41 @@
           "url": "https://wallstreetcn.com/livenews/2961419",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美联储会议纪要来袭 谷歌举行新品发布会 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2121037",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全球央行持续购金 为金价提供支撑",
+          "url": "https://www.toutiao.com/trending/7540283421214539827/",
+          "source": "今日头条",
+          "ranks": [
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
