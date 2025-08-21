@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-21T18:30:25.217399+08:00",
+  "generated_at": "2025-08-21T18:58:05.446966+08:00",
   "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
@@ -47,7 +47,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -58,7 +58,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -78,7 +78,7 @@
           "url": "https://www.baidu.com/s?wd=%E5%8E%86%E5%8F%B2%E6%80%A7%E4%B8%80%E5%B9%95+%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E9%A3%8E%E8%BD%A6%E5%AE%A3%E6%88%98%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            22
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -91,6 +91,17 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "DeepSeek最新透露：是针对即将发布的下一代国产芯片设计",
+          "url": "https://www.cls.cn/detail/2121646",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
           "title": "DeepSeek-V3.1正式发布，混合推理架构加持，针对下一代国产芯片设计",
           "url": "https://wallstreetcn.com/articles/3753798",
           "source": "华尔街见闻",
@@ -102,50 +113,11 @@
           "time_info": ""
         },
         {
-          "title": "DeepSeek最新透露：是针对即将发布的下一代国产芯片设计",
-          "url": "https://www.cls.cn/detail/2121646",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
           "title": "DeepSeek-V3.1正式发布",
           "url": "https://www.douyin.com/hot/2210765",
           "source": "抖音",
           "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "霍华德·马克斯：美股处于泡沫的“早期阶段”，尽管回调的关键点尚未到来",
-          "url": "https://wallstreetcn.com/articles/3753779",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "名创优品第二季度营收49.7亿元人民币，预估48.4亿元人民币。 第二季度调整后净利润6.915亿元人民币，预估5.682亿元人民币。 第二季度经调整EBITDA利润率23.1％，经调整利润率13.9％。 公司已批准派发2025年上半年中期现金股息总额约人民币6.395亿元。 名创优品美股盘前涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/2961766",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -180,6 +152,23 @@
           "source": "华尔街见闻",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "霍华德·马克斯：美股处于泡沫的“早期阶段”，尽管回调的关键点尚未到来",
+          "url": "https://wallstreetcn.com/articles/3753779",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
