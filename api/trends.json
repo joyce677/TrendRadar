@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-08-21T22:28:46.848945+08:00",
+  "generated_at": "2025-08-21T22:57:53.388287+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 5,
       "titles": [
         {
           "title": "“逐步蚕食”美联储！特朗普要求理事Lisa Cook辞职，Cook拒绝",
@@ -30,11 +30,11 @@
           "time_info": ""
         },
         {
-          "title": "美国联邦住房金融局(FHFA)局长：特朗普尚未就由哪家银行主导房利美和房地美重返公开市场事宜作出决定。",
-          "url": "https://wallstreetcn.com/livenews/2961946",
-          "source": "华尔街见闻-快讯",
+          "title": "消息人士：预计特朗普政府最早将于下周发布关于重新分配免税燃油的补充规则，其中将包括多种选项。",
+          "url": "https://flash.jin10.com/detail/20250821221138068800",
+          "source": "金十数据",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
@@ -52,35 +52,13 @@
           "time_info": ""
         },
         {
-          "title": "特朗普要和杜特尔特家族翻脸了吗",
-          "url": "https://www.toutiao.com/trending/7540175071835340842/",
-          "source": "今日头条",
+          "title": "美国联邦住房金融局(FHFA)局长：特朗普尚未就由哪家银行主导房利美和房地美重返公开市场事宜作出决定。",
+          "url": "https://wallstreetcn.com/livenews/2961946",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "学者：特朗普民调新低 内外交迫不断",
-          "url": "https://www.toutiao.com/trending/7541000651027779108/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "专家：特朗普的俄乌停战目标“没谱”",
-          "url": "https://www.toutiao.com/trending/7540980688762179113/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         }
@@ -88,14 +66,14 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
         {
           "title": "霍华德·马克斯：美股处于泡沫的“早期阶段”，尽管回调的关键点尚未到来",
           "url": "https://wallstreetcn.com/articles/3753779",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -106,9 +84,9 @@
           "url": "https://wallstreetcn.com/articles/3753806",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -117,31 +95,37 @@
           "url": "https://wallstreetcn.com/livenews/2961945",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "新兴市场外汇在美股PMI数据公布后触及盘中低点。",
-          "url": "https://flash.jin10.com/detail/20250821214926721800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "美国失业金申请增加，沃尔玛业绩不及预期，美股三大股指开盘走低",
-          "url": "https://wallstreetcn.com/livenews/2961926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
+            22
           ],
           "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek-V3.1正式发布，混合推理架构加持，针对下一代国产芯片设计",
+          "url": "https://wallstreetcn.com/articles/3753798",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "DeepSeek宣布涨价",
+          "url": "https://www.toutiao.com/trending/7540096989527146538/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         }
@@ -152,67 +136,22 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "标普全球与谷歌云合作，拓展面向大宗商品行业的AI就绪数据访问服务。",
-          "url": "https://flash.jin10.com/detail/20250821220751136800",
-          "source": "金十数据",
+          "title": "美国政府宣布：与谷歌公司达成“Gemini for Government”协议。 谷歌将提供人工智能（AI）和云服务，加速政府部门对AI技术的应用。",
+          "url": "https://wallstreetcn.com/livenews/2961967",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "谷歌年度硬件盛会组合拳：Pixel 10全面融入Gemini AI，手表和耳机也“进化”",
-          "url": "https://wallstreetcn.com/articles/3753760",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国8月PMI数据公布后，美元指数短线走高，触及日内新高，现涨0.22%；美国两年期和五年期国债收益率升至日内高点。",
-          "url": "https://wallstreetcn.com/livenews/2961938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
         },
         {
-          "title": "美元指数DXY短线走高10余点，现货黄金下挫9美元。",
-          "url": "https://flash.jin10.com/detail/20250821214548167800",
+          "title": "标普全球与谷歌云合作，拓展面向大宗商品行业的AI就绪数据访问服务。",
+          "url": "https://flash.jin10.com/detail/20250821220751136800",
           "source": "金十数据",
           "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek-V3.1正式发布，混合推理架构加持，针对下一代国产芯片设计",
-          "url": "https://wallstreetcn.com/articles/3753798",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -238,6 +177,23 @@
       ]
     },
     {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国8月PMI数据公布后，美元指数短线走高，触及日内新高，现涨0.22%；美国两年期和五年期国债收益率升至日内高点。",
+          "url": "https://wallstreetcn.com/livenews/2961938",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 1,
       "titles": [
@@ -246,7 +202,7 @@
           "url": "https://www.toutiao.com/trending/7540883172720905738/",
           "source": "今日头条",
           "ranks": [
-            27
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
