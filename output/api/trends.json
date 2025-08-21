@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-08-21T19:58:10.759972+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2025-08-21T20:55:31.935384+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 4,
       "titles": [
         {
           "title": "7大理事+12位地区联储主席！特朗普真能“一统”美联储？",
@@ -50,15 +50,82 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Invesco：美债吸引力超过欧债",
+          "url": "https://flash.jin10.com/detail/20250821203728070800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
         },
         {
-          "title": "特朗普：若加州学校回避跨性别政策，将削减其资金。",
-          "url": "https://wallstreetcn.com/livenews/2961834",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储7月会议纪要：多数人认为通胀比就业风险高，担心美债市场脆弱，关注稳定币影响",
+          "url": "https://wallstreetcn.com/articles/3753761",
+          "source": "华尔街见闻",
           "ranks": [
-            17
+            3
           ],
           "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "美国失业金申请人数增加，美债抹去跌幅。",
+          "url": "https://flash.jin10.com/detail/20250821203222182800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "霍华德·马克斯：美股处于泡沫的“早期阶段”，尽管回调的关键点尚未到来",
+          "url": "https://wallstreetcn.com/articles/3753779",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "小鹏汽车美股盘前涨3%，何小鹏增持310万股港股。",
+          "url": "https://wallstreetcn.com/livenews/2961889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-08-21）",
+          "url": "https://flash.jin10.com/detail/20250821202431504800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         }
@@ -73,7 +140,7 @@
           "url": "https://www.cls.cn/detail/2121646",
           "source": "财联社热门",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -85,62 +152,6 @@
           "source": "华尔街见闻",
           "ranks": [
             5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "霍华德·马克斯：美股处于泡沫的“早期阶段”，尽管回调的关键点尚未到来",
-          "url": "https://wallstreetcn.com/articles/3753779",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "波音美股盘前拉升，一度涨近4%。",
-          "url": "https://wallstreetcn.com/livenews/2961840",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗突然逼以色列二选一有何目的",
-          "url": "https://www.toutiao.com/trending/7540883172720905738/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "英国将5个与伊朗相关实体列入制裁名单。",
-          "url": "https://flash.jin10.com/detail/20250821190721658800",
-          "source": "金十数据",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -166,15 +177,15 @@
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "伊朗",
       "match_count": 1,
       "titles": [
         {
-          "title": "美联储7月会议纪要：多数人认为通胀比就业风险高，担心美债市场脆弱，关注稳定币影响",
-          "url": "https://wallstreetcn.com/articles/3753761",
-          "source": "华尔街见闻",
+          "title": "伊朗突然逼以色列二选一有何目的",
+          "url": "https://www.toutiao.com/trending/7540883172720905738/",
+          "source": "今日头条",
           "ranks": [
-            3
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
