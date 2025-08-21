@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-08-21T17:58:18.335977+08:00",
-  "total_titles_processed": 295,
+  "generated_at": "2025-08-21T18:30:25.217399+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "7大理事+12位地区联储主席！特朗普真能“一统”美联储？",
@@ -35,6 +35,28 @@
           "source": "凤凰网",
           "ranks": [
             10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "俄罗斯外长拉夫罗夫：乌克兰的立场表明，基辅想要破坏特朗普为解决冲突所做的努力。",
+          "url": "https://flash.jin10.com/detail/20250821181826061800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-08-21）",
+          "url": "https://flash.jin10.com/detail/20250821181401312800",
+          "source": "金十数据",
+          "ranks": [
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
@@ -80,13 +102,13 @@
           "time_info": ""
         },
         {
-          "title": "DeepSeek-V3.1正式发布",
+          "title": "DeepSeek最新透露：是针对即将发布的下一代国产芯片设计",
           "url": "https://www.cls.cn/detail/2121646",
           "source": "财联社热门",
           "ranks": [
-            8
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -95,7 +117,7 @@
           "url": "https://www.douyin.com/hot/2210765",
           "source": "抖音",
           "ranks": [
-            19
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -108,13 +130,13 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "财报公布后，名创优品(MNSO.N)美股盘前涨超6%。",
-          "url": "https://flash.jin10.com/detail/20250821171025361800",
-          "source": "金十数据",
+          "title": "霍华德·马克斯：美股处于泡沫的“早期阶段”，尽管回调的关键点尚未到来",
+          "url": "https://wallstreetcn.com/articles/3753779",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -123,7 +145,7 @@
           "url": "https://wallstreetcn.com/livenews/2961766",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -132,26 +154,15 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 2,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "据CGTN欧洲：伊朗在与以色列的战争中损失惨重后举行军事演习。",
-          "url": "https://flash.jin10.com/detail/20250821172134046800",
-          "source": "金十数据",
+          "title": "谷歌年度硬件盛会组合拳：Pixel 10全面融入Gemini AI，手表和耳机也“进化”",
+          "url": "https://wallstreetcn.com/articles/3753760",
+          "source": "华尔街见闻",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "伊朗突然逼以色列二选一有何目的",
-          "url": "https://www.toutiao.com/trending/7540883172720905738/",
-          "source": "今日头条",
-          "ranks": [
-            17
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -169,6 +180,23 @@
           "source": "华尔街见闻",
           "ranks": [
             3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伊朗突然逼以色列二选一有何目的",
+          "url": "https://www.toutiao.com/trending/7540883172720905738/",
+          "source": "今日头条",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
