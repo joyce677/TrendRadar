@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-08-22T14:39:41.854542+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2025-08-22T14:59:56.534440+08:00",
+  "total_titles_processed": 302,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普又变脸了？",
@@ -63,24 +63,13 @@
           "time_info": ""
         },
         {
-          "title": "评论员：特朗普赢了关税却输掉世界",
-          "url": "https://www.toutiao.com/trending/7541235911493684779/",
+          "title": "唐驳虎：特朗普对普京态度大变",
+          "url": "https://www.toutiao.com/trending/7541259957807615507/",
           "source": "今日头条",
           "ranks": [
-            22
+            13
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "特朗普怒斥纽约州总检察长，称其应被勒令辞职",
-          "url": "https://flash.jin10.com/detail/20250822134301845800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -91,7 +80,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         }
@@ -99,7 +88,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "【早报】美国与欧盟已就贸易协定框架达成一致；DeepSeek-V3.1正式发布",
@@ -124,6 +113,28 @@
           "time_info": ""
         },
         {
+          "title": "DeepSeekV3.1支持国产芯片",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeekV3.1%E6%94%AF%E6%8C%81%E5%9B%BD%E4%BA%A7%E8%8A%AF%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特斯拉接入豆包和DeepSeek",
+          "url": "https://wallstreetcn.com/livenews/2962311",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
           "title": "DeepSeek-V3.1正式发布 UE8M0 FP8技术助力国产芯片加速追赶",
           "url": "https://www.cls.cn/detail/2122457",
           "source": "财联社热门",
@@ -133,30 +144,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
+        },
         {
-          "title": "美股收盘：标普指数连跌五天 鲍威尔讲话前投资者保持谨慎",
-          "url": "https://www.cls.cn/detail/2122416",
+          "title": "券商晨会精华：DeepSeek-V3.1发布，国产算力板块迎催化",
+          "url": "https://www.cls.cn/detail/2122450",
           "source": "财联社热门",
           "ranks": [
-            2
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "聚焦今晚10点！鲍威尔重磅演讲来袭，三种情景如何搅动美股市场？",
-          "url": "https://www.cls.cn/detail/2122749",
-          "source": "财联社热门",
+          "title": "土耳其竞争监管机构对谷歌启动调查",
+          "url": "https://flash.jin10.com/detail/20250822142502897800",
+          "source": "金十数据",
           "ranks": [
-            12
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
@@ -182,17 +193,17 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
+      "keyword_group": "美股",
       "match_count": 1,
       "titles": [
         {
-          "title": "伊朗与欧洲大国周五将讨论核谈判和制裁问题",
-          "url": "https://flash.jin10.com/detail/20250822140002682800",
-          "source": "金十数据",
+          "title": "聚焦今晚10点！鲍威尔重磅演讲来袭，三种情景如何搅动美股市场？",
+          "url": "https://www.cls.cn/detail/2122749",
+          "source": "财联社热门",
           "ranks": [
-            10
+            9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         }
