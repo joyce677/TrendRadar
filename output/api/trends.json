@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-08-22T21:32:49.013931+08:00",
+  "generated_at": "2025-08-22T21:57:55.565823+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -34,7 +34,7 @@
           "url": "https://news.ifeng.com/c/8m271wriZKv",
           "source": "凤凰网",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -45,7 +45,7 @@
           "url": "https://wallstreetcn.com/articles/3753842",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -69,7 +69,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -98,8 +98,47 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "法国外交部长：留给伊朗核问题谈判的时间已不多了。",
+          "url": "https://flash.jin10.com/detail/20250822211927897800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "法国外交部长：确认下周将与伊朗就其核计划举行新一轮会谈。",
+          "url": "https://flash.jin10.com/detail/20250822211807072800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "法国外交部长：已与伊朗外长以及欧盟外交与安全政策高级代表卡拉斯、英国外交大臣拉米和德国外交部长进行了新的电话会谈。",
+          "url": "https://flash.jin10.com/detail/20250822211709050800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
           "title": "DeepSeekV3.1支持国产芯片",
@@ -117,70 +156,9 @@
           "url": "https://www.cls.cn/detail/2123025",
           "source": "财联社热门",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "DeepSeek上线两天后再回看：一次“小更新”，一场架构“豪赌”",
-          "url": "https://wallstreetcn.com/articles/3753850",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "DeepSeekV3.1 提到的 UE8M0 FP8 Scale 是什么？有什么妙用？",
-          "url": "https://www.zhihu.com/question/1941882763503473149",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "法国外交部长：留给伊朗核问题谈判的时间已不多了。",
-          "url": "https://flash.jin10.com/detail/20250822211927897800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "法国外交部长：确认下周将与伊朗就其核计划举行新一轮会谈。",
-          "url": "https://flash.jin10.com/detail/20250822211807072800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "法国外交部长：已与伊朗外长以及欧盟外交与安全政策高级代表卡拉斯、英国外交大臣拉米和德国外交部长进行了新的电话会谈。",
-          "url": "https://flash.jin10.com/detail/20250822211709050800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         }
@@ -197,7 +175,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -208,7 +186,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         }
@@ -242,7 +220,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         }
