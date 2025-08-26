@@ -1,0 +1,98 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>频率词统计报告</title>
+            <style>
+                body { font-family: Arial, sans-serif; margin: 20px; }
+                h1, h2 { color: #333; }
+                table { border-collapse: collapse; width: 100%; margin-top: 20px; }
+                th, td { border: 1px solid #ddd; padding: 8px; text-align: left; }
+                th { background-color: #f2f2f2; }
+                tr:nth-child(even) { background-color: #f9f9f9; }
+                .word { font-weight: bold; }
+                .count { text-align: center; }
+                .percentage { text-align: center; }
+                .titles { max-width: 500px; }
+                .source { color: #666; font-style: italic; }
+                .error { color: #d9534f; }
+                .news-link { 
+                    color: #007bff; 
+                    text-decoration: none; 
+                    border-bottom: 1px dotted #007bff;
+                }
+                .news-link:hover { 
+                    color: #0056b3; 
+                    text-decoration: underline; 
+                }
+                .news-link:visited { 
+                    color: #6f42c1; 
+                }
+                .no-link { 
+                    color: #333; 
+                }
+                .new-title {
+                    background-color: #fff3cd;
+                    border: 1px solid #ffc107;
+                    border-radius: 3px;
+                    padding: 2px 6px;
+                    margin: 2px 0;
+                }
+                .new-section {
+                    background-color: #d1ecf1;
+                    border: 1px solid #bee5eb;
+                    border-radius: 5px;
+                    padding: 10px;
+                    margin-top: 10px;
+                }
+                .new-section h3 {
+                    color: #0c5460;
+                    margin-top: 0;
+                }
+            </style>
+        </head>
+        <body>
+            <h1>频率词统计报告</h1>
+        <p>总标题数: 314</p><p>生成时间: 2025-08-27 07:57:38</p>
+            <table>
+                <tr>
+                    <th>排名</th>
+                    <th>频率词</th>
+                    <th>出现次数</th>
+                    <th>占比</th>
+                    <th>相关标题</th>
+                </tr>
+        
+                <tr>
+                    <td>1</td>
+                    <td class="word">特朗普</td>
+                    <td class="count">24</td>
+                    <td class="percentage">7.64%</td>
+                    <td class="titles">[华尔街见闻] <a href="https://wallstreetcn.com/articles/3754118" target="_blank" class="news-link">历史第一次！特朗普“开除”现任美联储理事，“掌控美联储”计划迈出又一步</a> <font color='red'><strong>[1]</strong></font> <font color='grey'>- 07时57分</font><br>[澎湃新闻] <a href="https://m.thepaper.cn/newsDetail_forward_31471469" target="_blank" class="news-link">特朗普称今年年内或尽快访问中国，外交部回应</a> <font color='red'><strong>[1]</strong></font> <font color='grey'>- 07时57分</font><br>[今日头条] <a href="https://www.toutiao.com/trending/7541771399947567123/" target="_blank" class="news-link">中方回应特朗普称希望年内尽快访华</a> <font color='red'><strong>[2]</strong></font> <font color='grey'>- 07时57分</font><br>[凤凰网] <a href="https://news.ifeng.com/c/8m8OETt6j4w" target="_blank" class="news-link">特朗普就稀土磁铁供应威胁对华征收约200%关税，外交部回应</a> <font color='red'><strong>[2]</strong></font> <font color='grey'>- 07时57分</font><br>[凤凰网] <a href="https://news.ifeng.com/c/8m8WKiUG820" target="_blank" class="news-link">李在明提议“在朝鲜建特朗普大厦”，是何信号？</a> <font color='red'><strong>[3]</strong></font> <font color='grey'>- 07时57分</font><br><div class='new-title'>🆕 [百度热搜] <a href="https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B0%86%E4%B8%8D%E5%86%8D%E7%9B%B4%E6%8E%A5%E8%B5%84%E5%8A%A9%E4%B9%8C%E5%85%8B%E5%85%B0" target="_blank" class="news-link">特朗普：美国将不再直接资助乌克兰</a> <font color='red'><strong>[4]</strong></font> <font color='grey'>- 07时57分</font></div><br>[凤凰网] <a href="https://news.ifeng.com/c/8m8q1bf8zyi" target="_blank" class="news-link">德媒爆料：特朗普近期至少4次致电莫迪均被拒</a> <font color='red'><strong>[5]</strong></font> <font color='grey'>- 07时57分</font><br>[华尔街见闻] <a href="https://wallstreetcn.com/articles/3754114" target="_blank" class="news-link">特朗普对韩国提了一个非分要求</a> [8] <font color='grey'>- 07时57分</font><br>[凤凰网] <a href="https://news.ifeng.com/c/8m8fijRwzf0" target="_blank" class="news-link">“111年来首次”，特朗普宣布解雇美联储理事库克</a> [8] <font color='grey'>- 07时57分</font><br>[知乎] <a href="https://www.zhihu.com/question/1943604414125408942" target="_blank" class="news-link">特朗普希望韩方把「驻韩美军基地土地所有权」交给美方，有何意图？韩方会如何回应？</a> [9] <font color='grey'>- 07时57分</font><br>[澎湃新闻] <a href="https://m.thepaper.cn/newsDetail_forward_31477470" target="_blank" class="news-link">继续“争夺”美联储！特朗普宣布解雇美联储理事库克，库克称将继续履职</a> [13] <font color='grey'>- 07时57分</font><br>[财联社热门] <a href="https://www.cls.cn/detail/2126811" target="_blank" class="news-link">遭特朗普解雇 美联储理事库克将提起诉讼 案件或上诉至美最高法院</a> [13] <font color='grey'>- 07时57分</font><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2964292" target="_blank" class="news-link">据Politico报道，美国参议院银行委员会下周将针对总统特朗普的美联储（临时）理事提名人Miran举行听证会。</a> [13] <font color='grey'>- 07时57分</font><br>[抖音] <a href="https://www.douyin.com/hot/2216194" target="_blank" class="news-link">中方回应特朗普关税威胁</a> [13] <font color='grey'>- 07时57分</font><br>[金十数据] <a href="https://flash.jin10.com/detail/20250827063431459800" target="_blank" class="news-link">市场消息：特朗普政府请求美国最高法院允许美国国务院停止对外援助款项的支付。</a> [14] <font color='grey'>- 07时57分</font><br>[金十数据] <a href="https://flash.jin10.com/detail/20250827062528407800" target="_blank" class="news-link">据NBC新闻：美国总统特朗普计划与微软联合创始人比尔·盖茨会面。</a> [17] <font color='grey'>- 07时57分</font><br>[抖音] <a href="https://www.douyin.com/hot/2216096" target="_blank" class="news-link">外交部回应“特朗普预计将访华”</a> [22] <font color='grey'>- 07时57分</font><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2964281" target="_blank" class="news-link">现货黄金跌0.13%，暂报3389美元；WTI原油期货涨0.11%，暂报63.37美元。 特朗普特使Witkoff预计2025年年底之前将解决哈马斯问题。 8月27日将针对加沙问题在白宫开会。 本周将在纽约会见乌克兰方面的官员。 可能需要美国总统特朗普出现在与俄罗斯总统普京与乌克兰总统泽连斯基相关的谈判桌上。</a> [23] <font color='grey'>- 07时57分</font><br>[抖音] <a href="https://www.douyin.com/hot/2215596" target="_blank" class="news-link">特朗普在白宫会晤李在明</a> [25] <font color='grey'>- 07时57分</font><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2964277" target="_blank" class="news-link">道明证券策略师Jayati Bharadwaj：特朗普政府持续干预美联储和劳工统计局等机构的运作，正在挑战这些机构的公信力。 这进一步削弱了美元的避险地位。</a> [27] <font color='grey'>- 07时57分</font><br><div class='new-title'>🆕 [今日头条] <a href="https://www.toutiao.com/trending/7542328266934288403/" target="_blank" class="news-link">曝特朗普近期至少4次致电莫迪均被拒</a> [28] <font color='grey'>- 07时57分</font></div><br>[百度热搜] <a href="https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%9B%AF%E4%B8%8A%E9%A9%BB%E9%9F%A9%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E5%9C%9F%E5%9C%B0%E6%89%80%E6%9C%89%E6%9D%83" target="_blank" class="news-link">特朗普盯上驻韩美军基地土地所有权</a> [28] <font color='grey'>- 07时57分</font><br>[百度热搜] <a href="https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E6%92%A4%E9%94%80%E7%BE%8E%E8%81%94%E5%82%A8%E7%90%86%E4%BA%8B%E5%BA%93%E5%85%8B%E8%81%8C%E5%8A%A1" target="_blank" class="news-link">特朗普宣布撤销美联储理事库克职务</a> [29] <font color='grey'>- 07时57分</font><br>[bilibili 热搜] <a href="https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%B4%A2%E8%A6%81%E9%A9%BB%E9%9F%A9%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0%E6%89%80%E6%9C%89%E6%9D%83" target="_blank" class="news-link">特朗普索要驻韩美军基地所有权</a> [29] <font color='grey'>- 07时57分</font></td>
+                </tr>
+            
+                <tr>
+                    <td>2</td>
+                    <td class="word">美股</td>
+                    <td class="count">4</td>
+                    <td class="percentage">1.27%</td>
+                    <td class="titles"><div class='new-title'>🆕 [华尔街见闻] <a href="https://wallstreetcn.com/articles/3754149" target="_blank" class="news-link">美股顶住冲击收涨，英伟达财报前三连涨，中概指数五连阳，人民币再度逼近7.15</a> <font color='red'><strong>[2]</strong></font> <font color='grey'>- 07时57分</font></div><br>[财联社热门] <a href="https://www.cls.cn/detail/2126835" target="_blank" class="news-link">美股收盘：投资者静待英伟达财报 三大指数集体收涨</a> <font color='red'><strong>[5]</strong></font> <font color='grey'>- 07时57分</font><br>[财联社热门] <a href="https://www.cls.cn/detail/2126561" target="_blank" class="news-link">美股三大期指集体走低 特朗普风暴再扰美联储 | 今夜看点</a> [7] <font color='grey'>- 07时57分</font><br><div class='new-title'>🆕 [华尔街见闻] <a href="https://wallstreetcn.com/premium/articles/3754109?layout=wscn-layout" target="_blank" class="news-link">对话付鹏：美股“爆金币”何时再现？加仓VIX波动率指数的时机到了吗？【付鹏说特别篇】</a> [10] <font color='grey'>- 07时57分</font></div></td>
+                </tr>
+            
+                <tr>
+                    <td>3</td>
+                    <td class="word">谷歌 google gemini</td>
+                    <td class="count">2</td>
+                    <td class="percentage">0.64%</td>
+                    <td class="titles">[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2964284" target="_blank" class="news-link">谷歌母公司Alphabet旗下Verily裁员，砍掉设备项目。（Business Insider）</a> [21] <font color='grey'>- 07时57分</font><br>[华尔街见闻-快讯] <a href="https://wallstreetcn.com/livenews/2964275" target="_blank" class="news-link">谷歌正式发布nano-banana图像模型，官方名称：Gemini 2.5 Flash Image。 这个模型创造力非常强，这个模型在图像编辑、角色一致性维持和多图像融合方面展现了惊人的能力，提供了前所未有的创作自由度。（AI寒武纪）</a> [29] <font color='grey'>- 07时57分</font></td>
+                </tr>
+            
+            </table>
+        
+            <div class="new-section">
+                <h3>🆕 本次新增热点新闻 (共 5 条)</h3>
+            <h4>今日头条 (1 条)</h4><ul><li><a href="https://www.toutiao.com/trending/7542328266934288403/" target="_blank" class="news-link">曝特朗普近期至少4次致电莫迪均被拒</a> [28]</li></ul><h4>百度热搜 (1 条)</h4><ul><li><a href="https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%BE%8E%E5%9B%BD%E5%B0%86%E4%B8%8D%E5%86%8D%E7%9B%B4%E6%8E%A5%E8%B5%84%E5%8A%A9%E4%B9%8C%E5%85%8B%E5%85%B0" target="_blank" class="news-link">特朗普：美国将不再直接资助乌克兰</a> <font color='red'><strong>[4]</strong></font></li></ul><h4>华尔街见闻 (2 条)</h4><ul><li><a href="https://wallstreetcn.com/articles/3754149" target="_blank" class="news-link">美股顶住冲击收涨，英伟达财报前三连涨，中概指数五连阳，人民币再度逼近7.15</a> <font color='red'><strong>[2]</strong></font></li><li><a href="https://wallstreetcn.com/premium/articles/3754109?layout=wscn-layout" target="_blank" class="news-link">对话付鹏：美股“爆金币”何时再现？加仓VIX波动率指数的时机到了吗？【付鹏说特别篇】</a> [10]</li></ul><h4>华尔街见闻-快讯 (1 条)</h4><ul><li><a href="https://wallstreetcn.com/livenews/2964275" target="_blank" class="news-link">谷歌正式发布nano-banana图像模型，官方名称：Gemini 2.5 Flash Image。 这个模型创造力非常强，这个模型在图像编辑、角色一致性维持和多图像融合方面展现了惊人的能力，提供了前所未有的创作自由度。（AI寒武纪）</a> [29]</li></ul></div>
+        </body>
+        </html>
+        
