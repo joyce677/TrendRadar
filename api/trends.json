@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-08-27T23:58:06.002170+08:00",
+  "generated_at": "2025-08-28T00:33:43.416699+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普称希望中国参与削减核武库，中方回应",
@@ -45,7 +45,18 @@
           "url": "https://www.toutiao.com/trending/7543252712092077609/",
           "source": "今日头条",
           "ranks": [
-            9
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "据CNN：特朗普与明尼苏达州州长通了电话。",
+          "url": "https://flash.jin10.com/detail/20250827235134887800",
+          "source": "金十数据",
+          "ranks": [
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -67,7 +78,7 @@
           "url": "https://wallstreetcn.com/livenews/2964836",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -78,7 +89,7 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31487087",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -96,33 +107,50 @@
           "time_info": ""
         },
         {
-          "title": "美国总统特朗普：已全面了解明尼阿波利斯发生的枪击事件，白宫将继续密切关注局势。",
-          "url": "https://flash.jin10.com/detail/20250827224910373800",
-          "source": "金十数据",
+          "title": "特朗普为何突然改口欢迎中国留学生",
+          "url": "https://www.toutiao.com/trending/7543171587374059044/",
+          "source": "今日头条",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "特朗普为何突然改口欢迎中国留学生",
-          "url": "https://www.toutiao.com/trending/7543171587374059044/",
-          "source": "今日头条",
+          "title": "美股顶住冲击收涨，英伟达财报前三连涨，中概指数五连阳，人民币再度逼近7.15",
+          "url": "https://wallstreetcn.com/articles/3754149",
+          "source": "华尔街见闻",
           "ranks": [
-            30
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
         },
         {
-          "title": "特朗普回应霉霉订婚",
-          "url": "https://www.douyin.com/hot/2216722",
-          "source": "抖音",
+          "title": "市场聚焦英伟达财报，美股三大指数盘中转涨，30年期法债收益率创14年新高，美元指数走高",
+          "url": "https://wallstreetcn.com/articles/3754267",
+          "source": "华尔街见闻",
           "ranks": [
-            30
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF涨0.95%，区域银行ETF涨0.4%，半导体ETF跌0.5%，全球科技股指数ETF跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/2964814",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -139,7 +167,7 @@
           "url": "https://www.cls.cn/detail/2127626",
           "source": "财联社热门",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -151,34 +179,6 @@
           "source": "财联社热门",
           "ranks": [
             13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": ""
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股顶住冲击收涨，英伟达财报前三连涨，中概指数五连阳，人民币再度逼近7.15",
-          "url": "https://wallstreetcn.com/articles/3754149",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF涨0.95%，区域银行ETF涨0.4%，半导体ETF跌0.5%，全球科技股指数ETF跌0.4%。",
-          "url": "https://wallstreetcn.com/livenews/2964814",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 1,
