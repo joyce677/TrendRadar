@@ -1,16 +1,16 @@
 {
-  "generated_at": "2025-08-27T22:27:09.737892+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2025-08-27T22:58:28.350948+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
-          "title": "特朗普称希望中国参与削减核武库，外交部：不合理也不现实",
-          "url": "https://www.cls.cn/detail/2127435",
-          "source": "财联社热门",
+          "title": "特朗普称希望中国参与削减核武库，中方回应",
+          "url": "https://news.ifeng.com/c/8mA1h3Gkni7",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
@@ -19,11 +19,22 @@
           "time_info": ""
         },
         {
-          "title": "特朗普称希望中国参与削减核武库，中方回应",
-          "url": "https://news.ifeng.com/c/8mA1h3Gkni7",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：已全面了解明尼阿波利斯发生的枪击事件，白宫将继续密切关注局势。",
+          "url": "https://flash.jin10.com/detail/20250827224910373800",
+          "source": "金十数据",
           "ranks": [
             1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特朗普称希望中国参与削减核武库，外交部：不合理也不现实",
+          "url": "https://www.cls.cn/detail/2127435",
+          "source": "财联社热门",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -37,6 +48,17 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "特朗普释放访华诚意有何目的",
+          "url": "https://www.toutiao.com/trending/7543252712092077609/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -67,7 +89,7 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31487087",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -89,7 +111,7 @@
           "url": "https://www.toutiao.com/trending/7543171587374059044/",
           "source": "今日头条",
           "ranks": [
-            24
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -110,7 +132,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
         {
           "title": "美股顶住冲击收涨，英伟达财报前三连涨，中概指数五连阳，人民币再度逼近7.15",
@@ -128,96 +150,18 @@
           "url": "https://wallstreetcn.com/livenews/2964814",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "美股开盘：热门中概股多数下跌",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%EF%BC%9A%E7%83%AD%E9%97%A8%E4%B8%AD%E6%A6%82%E8%82%A1%E5%A4%9A%E6%95%B0%E4%B8%8B%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "金十图示：2025年08月27日（周三）美股热门股票行情一览（美股盘初）",
-          "url": "https://flash.jin10.com/detail/20250827214934003800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "周三美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/2964778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "金十图示：2025年08月27日（周三）热门中概股行情一览（美股盘初）",
-          "url": "https://flash.jin10.com/detail/20250827213610541800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI重组计划继续受挫！与微软存在多项重要分歧",
-          "url": "https://www.cls.cn/detail/2127626",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "OpenAI将改进ChatGPT，旨在更好地识别用户的心理和情绪困扰，并作出更适当的回应。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/2964788",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
+        },
         {
-          "title": "AXIOS网站记者表示，一位参与伊朗谈判的欧洲高级外交官透露，欧洲领导人即将就启动针对伊朗的“快速恢复机制”（snapback）进程做出决定。只有外交奇迹才能阻止这种情况的发生。",
-          "url": "https://flash.jin10.com/detail/20250827215452154800",
-          "source": "金十数据",
+          "title": "美股盘初：三大股指小幅下跌，中概股普跌",
+          "url": "https://wallstreetcn.com/livenews/2964799",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
