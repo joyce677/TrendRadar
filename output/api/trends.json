@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-08-27T18:58:05.177972+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2025-08-27T19:22:11.214150+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普称希望中国参与削减核武库，中方回应",
@@ -23,9 +23,20 @@
           "url": "https://www.cls.cn/detail/2127435",
           "source": "财联社热门",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "美联储理事丽莎·库克最早将于今天（就特朗普解雇一事）提起诉讼。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/2964727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
           "time_info": ""
         },
@@ -35,17 +46,6 @@
           "source": "凤凰网",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "中方回应特朗普要中国参与削减核武库",
-          "url": "https://www.toutiao.com/trending/7542486367419301897/",
-          "source": "今日头条",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -74,6 +74,17 @@
           "time_info": ""
         },
         {
+          "title": "中方回应特朗普要中国参与削减核武库",
+          "url": "https://www.toutiao.com/trending/7542486367419301897/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
           "title": "特朗普将掀罢免潮？前美联储副主席警告：多位地区联储主席或遭撤换",
           "url": "https://www.cls.cn/detail/2127130",
           "source": "财联社热门",
@@ -96,28 +107,6 @@
           "time_info": ""
         },
         {
-          "title": "特朗普为何突然改口欢迎中国留学生",
-          "url": "https://www.toutiao.com/trending/7543171587374059044/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
-          "title": "中方回应特朗普欢迎中国留学生赴美",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%AC%A2%E8%BF%8E%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E8%B5%B4%E7%BE%8E",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        },
-        {
           "title": "特朗普称希望中国参与削减核武库，外交部：不合理也不现实",
           "url": "https://m.thepaper.cn/newsDetail_forward_31487087",
           "source": "澎湃新闻",
@@ -129,11 +118,55 @@
           "time_info": ""
         },
         {
+          "title": "特朗普为何突然改口欢迎中国留学生",
+          "url": "https://www.toutiao.com/trending/7543171587374059044/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "据CNBC：消息人士透露，美联储理事丽莎·库克最早将于今天（就特朗普解雇一事）提起诉讼。",
+          "url": "https://flash.jin10.com/detail/20250827185928621800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "中方回应特朗普欢迎中国留学生赴美",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%AC%A2%E8%BF%8E%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E8%B5%B4%E7%BE%8E",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-08-27）",
+          "url": "https://flash.jin10.com/detail/20250827185212567800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        },
+        {
           "title": "特朗普再次对俄发出制裁威胁",
           "url": "https://www.toutiao.com/trending/7542856839512457226/",
           "source": "今日头条",
           "ranks": [
-            24
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -153,8 +186,25 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价谷歌将对开发者强制身份认证，否则 APK 无法被侧载安装？",
+          "url": "https://www.zhihu.com/question/1943682334009320841",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": ""
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "美股顶住冲击收涨，英伟达财报前三连涨，中概指数五连阳，人民币再度逼近7.15",
@@ -166,47 +216,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": ""
-        },
-        {
-          "title": "Paypal(PYPL.O)美股盘前跌幅扩大至3%。",
-          "url": "https://flash.jin10.com/detail/20250827183826603800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "伊朗",
       "match_count": 1,
       "titles": [
         {
-          "title": "如何评价谷歌将对开发者强制身份认证，否则 APK 无法被侧载安装？",
-          "url": "https://www.zhihu.com/question/1943682334009320841",
-          "source": "知乎",
+          "title": "伊朗外长证实国际原子能机构核查员返伊",
+          "url": "https://wallstreetcn.com/livenews/2964702",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": ""
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "盯盘神器·现货黄金：价格夹在收窄区间内，压力偏向下行",
-          "url": "https://flash.jin10.com/detail/20250827183541759800",
-          "source": "金十数据",
-          "ranks": [
-            4
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
