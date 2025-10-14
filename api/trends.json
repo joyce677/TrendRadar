@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-14T22:03:32.625588+08:00",
-  "total_titles_processed": 1911,
+  "generated_at": "2025-10-14T22:43:56.427942+08:00",
+  "total_titles_processed": 1997,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[11时07分 ~ 22时03分]"
+          "appearance_count": 21,
+          "time_info": "[11时07分 ~ 22时43分]"
         },
         {
           "title": "OpenAI再签重磅协议：计划未来四年与博通合作部署10千兆瓦定制化芯片和网络设备",
@@ -69,11 +69,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            7
+            7,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时45分 ~ 22时03分]"
+          "appearance_count": 3,
+          "time_info": "[21时45分 ~ 22时43分]"
         },
         {
           "title": "OpenAI下订博通10GW定制芯片 AI巨头放言“这才是九牛一毛”",
@@ -113,6 +114,19 @@
           "time_info": "[04时29分 ~ 06时25分]"
         },
         {
+          "title": "沃尔玛美股盘前涨超3%，据彭博，沃尔玛与OpenAI合作，在ChatGPT平台上提供购物服务。",
+          "url": "https://wallstreetcn.com/livenews/2987569",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时45分 ~ 22时43分]"
+        },
+        {
           "title": "电力供应商Genneia签署一份备忘录，将向OpenAI参与的阿根廷数据中心供电。",
           "url": "https://wallstreetcn.com/livenews/2986906",
           "source": "华尔街见闻-快讯",
@@ -124,18 +138,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时34分 ~ 02时35分]"
-        },
-        {
-          "title": "沃尔玛美股盘前涨超3%，据彭博，沃尔玛与OpenAI合作，在ChatGPT平台上提供购物服务。",
-          "url": "https://wallstreetcn.com/livenews/2987569",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时45分 ~ 22时03分]"
         },
         {
           "title": "甲骨文CEO：OpenAI有能力承担每年600亿美元的云基础设施服务费用",
@@ -197,7 +199,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "谷歌公司将与印度Andhra Pradesh签署1 GW数据中心协议。",
@@ -293,6 +295,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时34分"
+        },
+        {
+          "title": "谷歌与世界银行构建合作伙伴关系。 双方将围绕新兴市场数字基础设施展开合作。",
+          "url": "https://wallstreetcn.com/livenews/2987586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         },
         {
           "title": "谷歌(GOOG.O)：Nano Banana即将登陆谷歌搜索、NotebookLM和照片功能。",
