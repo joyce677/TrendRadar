@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T08:43:09.346359+08:00",
-  "total_titles_processed": 322,
+  "generated_at": "2025-10-15T10:21:10.550322+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "1万亿订单再加3500-5000亿美元！OpenAI“停不下来”，“当你欠每家数千亿美元，钱的问题自己会解决”？",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时42分 ~ 08时43分]"
+        },
+        {
+          "title": "OpenAI将在阿根廷投资250亿美元，打造拉美首个“星际之门”项目",
+          "url": "https://www.cls.cn/detail/2169533",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时20分 ~ 10时21分]"
         }
       ]
     },
@@ -29,11 +40,29 @@
           "url": "https://www.zhihu.com/question/1961010617587561780",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时42分 ~ 10时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抖音",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "整个时尚圈都来看抖音大秀",
+          "url": "https://www.douyin.com/hot/2269916",
+          "source": "抖音",
+          "ranks": [
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时42分 ~ 08时43分]"
+          "time_info": "[10时20分 ~ 10时21分]"
         }
       ]
     }
