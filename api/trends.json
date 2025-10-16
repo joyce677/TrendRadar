@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-16T19:35:15.276627+08:00",
-  "total_titles_processed": 1497,
+  "generated_at": "2025-10-16T20:20:45.202991+08:00",
+  "total_titles_processed": 1592,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-10-16）",
@@ -102,6 +102,17 @@
           "time_info": "14时49分"
         },
         {
+          "title": "美联储理事沃勒：对人工智能的担忧在于，这是否是劳动力需求的结构性变化，而美联储的周期性工具无法应对。",
+          "url": "https://flash.jin10.com/detail/20251016194557021800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
           "title": "台积电(TSM.N)：人工智能需求持续强劲，比我们3个月前预期的还要强劲。",
           "url": "https://flash.jin10.com/detail/20251016142532888800",
           "source": "金十数据",
@@ -111,6 +122,73 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
+        },
+        {
+          "title": "美联储理事沃勒：许多人工智能支出涉及行业重新配置。",
+          "url": "https://flash.jin10.com/detail/20251016194142520800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "硬刚sora2谷歌发布Veo3.1",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A1%AC%E5%88%9Asora2%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Veo3.1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            7,
+            9,
+            10,
+            11,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[12时42分 ~ 19时35分]"
+        },
+        {
+          "title": "市场消息：赛富时与谷歌扩大合作。",
+          "url": "https://flash.jin10.com/detail/20251016200048549800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
+        },
+        {
+          "title": "谷歌Veo 3.1迎来重大更新硬刚Sora 2",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8CVeo+3.1%E8%BF%8E%E6%9D%A5%E9%87%8D%E5%A4%A7%E6%9B%B4%E6%96%B0%E7%A1%AC%E5%88%9ASora+2",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时41分 ~ 14时49分]"
+        },
+        {
+          "title": "Salesforce与谷歌扩大合作，将Gemini模型引入Agentforce 360平台。",
+          "url": "https://wallstreetcn.com/livenews/2988983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         }
       ]
     },
@@ -155,40 +233,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "硬刚sora2谷歌发布Veo3.1",
-          "url": "https://search.bilibili.com/all?keyword=%E7%A1%AC%E5%88%9Asora2%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Veo3.1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            7,
-            9,
-            10,
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[12时42分 ~ 19时35分]"
-        },
-        {
-          "title": "谷歌Veo 3.1迎来重大更新硬刚Sora 2",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8CVeo+3.1%E8%BF%8E%E6%9D%A5%E9%87%8D%E5%A4%A7%E6%9B%B4%E6%96%B0%E7%A1%AC%E5%88%9ASora+2",
-          "source": "百度热搜",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时41分 ~ 14时49分]"
         }
       ]
     },
@@ -272,6 +316,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美联储理事沃勒：关税不确定性以及对AI对生产力可能影响的疑问，使得企业CEO招聘意愿不强。 企业投资主要集中在AI领域，并未广泛分布。 一旦扣掉AI，企业固定投资是下降的。 大量AI相关支出实际上是行业间的资源重新分配。 美国抵押贷款和汽车贷款利率很高，条件并不宽松。 如果美联储继续下调政策利率，抵押贷款应会面临下行压力。 如果宽松的金融环境将引发景气繁荣，那么劳动力市场应该会出现这种现象。 但目前为止，情况并非如此。",
+          "url": "https://wallstreetcn.com/livenews/2988974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         }
       ]
     }
