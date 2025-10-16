@@ -1,8 +1,37 @@
 {
-  "generated_at": "2025-10-16T13:04:24.162422+08:00",
-  "total_titles_processed": 701,
+  "generated_at": "2025-10-16T13:42:18.537361+08:00",
+  "total_titles_processed": 770,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "硬刚sora2谷歌发布Veo3.1",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A1%AC%E5%88%9Asora2%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Veo3.1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时42分 ~ 13时42分]"
+        },
+        {
+          "title": "谷歌Veo 3.1迎来重大更新硬刚Sora 2",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8CVeo+3.1%E8%BF%8E%E6%9D%A5%E9%87%8D%E5%A4%A7%E6%9B%B4%E6%96%B0%E7%A1%AC%E5%88%9ASora+2",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 13时42分]"
+        }
+      ]
+    },
     {
       "keyword_group": "抖音",
       "match_count": 2,
@@ -31,23 +60,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "硬刚sora2谷歌发布Veo3.1",
-          "url": "https://search.bilibili.com/all?keyword=%E7%A1%AC%E5%88%9Asora2%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Veo3.1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 13时04分]"
         }
       ]
     },
@@ -101,8 +113,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时22分 ~ 13时04分]"
+          "appearance_count": 8,
+          "time_info": "[10时22分 ~ 13时42分]"
         }
       ]
     }
