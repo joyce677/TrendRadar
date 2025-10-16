@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-16T10:22:25.696954+08:00",
-  "total_titles_processed": 452,
+  "generated_at": "2025-10-16T11:16:59.935515+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             20,
-            24
+            24,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时41分 ~ 10时22分]"
+          "appearance_count": 3,
+          "time_info": "[08时41分 ~ 11时16分]"
         },
         {
           "title": "整个时尚圈都来看抖音大秀",
@@ -29,6 +30,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI：所有用户现在可在SORA应用和网页端生成最长15秒的视频，专业用户最长可达25秒。",
+          "url": "https://flash.jin10.com/detail/20251016105501420800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时16分"
         }
       ]
     },
@@ -58,11 +76,12 @@
           "url": "https://www.cls.cn/detail/2170822",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 11时16分]"
         }
       ]
     }
