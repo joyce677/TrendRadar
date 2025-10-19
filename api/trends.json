@@ -1,25 +1,12 @@
 {
-  "generated_at": "2025-10-19T11:36:12.130134+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2025-10-19T12:15:30.971217+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
       "match_count": 2,
       "titles": [
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：计划一到两周内做关于人工智能的演讲。特朗普仍然希望政府关门问题得到友好解决。政府关门将导致几乎除了国防之外的任何事情停摆。",
-          "url": "https://flash.jin10.com/detail/20251018223232047800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            24,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时47分 ~ 11时36分]"
-        },
         {
           "title": "美国白宫经济顾问Hassett：计划一到两周内做一个关于人工智能的演讲。 特朗普仍然希望政府关门问题得到友好解决。 政府关门几乎可能导致除了国防之外的任何事情停摆。",
           "url": "https://wallstreetcn.com/livenews/2990084",
@@ -28,6 +15,19 @@
             21,
             22,
             26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时47分 ~ 12时15分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：计划一到两周内做关于人工智能的演讲。特朗普仍然希望政府关门问题得到友好解决。政府关门将导致几乎除了国防之外的任何事情停摆。",
+          "url": "https://flash.jin10.com/detail/20251018223232047800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            24,
+            30
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -46,11 +46,12 @@
           "ranks": [
             15,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时46分 ~ 11时36分]"
+          "appearance_count": 6,
+          "time_info": "[08时46分 ~ 12时15分]"
         }
       ]
     },
@@ -63,11 +64,12 @@
           "url": "https://flash.jin10.com/detail/20251019102338888800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时36分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时36分 ~ 12时15分]"
         }
       ]
     },
@@ -85,6 +87,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特朗普发AI视频挑衅抗议者",
+          "url": "https://flash.jin10.com/detail/20251019112407399800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
         }
       ]
     }
