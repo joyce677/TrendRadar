@@ -1,201 +1,67 @@
 {
-  "generated_at": "2025-10-18T22:36:42.254243+08:00",
-  "total_titles_processed": 1270,
+  "generated_at": "2025-10-19T08:47:24.888965+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "国家知识产权局：持续完善人工智能领域知识产权制度规则",
-          "url": "https://wallstreetcn.com/livenews/2990064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            6,
-            11,
-            15,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时04分 ~ 22时36分]"
-        },
-        {
-          "title": "肖远企：人工智能作为重大科技进步，推动金融最大生产可能性边界向外移动也是完全可以期待的",
-          "url": "https://wallstreetcn.com/livenews/2990007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            8,
-            14,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时03分 ~ 16时13分]"
-        },
-        {
-          "title": "我国生成式人工智能用户规模超5亿",
-          "url": "https://wallstreetcn.com/livenews/2989973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            17,
-            19,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时14分 ~ 12时40分]"
-        },
-        {
-          "title": "据AXIOS网站：英伟达(NVDA.O)和台积电(TSM.N)将于周五宣布，他们在美国完成的首枚晶圆，这枚晶圆未来将被制成用于人工智能的Blackwell芯片。",
-          "url": "https://flash.jin10.com/detail/20251018035857235800",
+          "title": "美国白宫国家经济委员会主任哈塞特：计划一到两周内做关于人工智能的演讲。特朗普仍然希望政府关门问题得到友好解决。政府关门将导致几乎除了国防之外的任何事情停摆。",
+          "url": "https://flash.jin10.com/detail/20251018223232047800",
           "source": "金十数据",
           "ranks": [
-            30
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时39分"
+          "time_info": "08时47分"
+        },
+        {
+          "title": "美国白宫经济顾问Hassett：计划一到两周内做一个关于人工智能的演讲。 特朗普仍然希望政府关门问题得到友好解决。 政府关门几乎可能导致除了国防之外的任何事情停摆。",
+          "url": "https://wallstreetcn.com/livenews/2990084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
       "titles": [
         {
-          "title": "gemini 毒奶",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3Dgemini+%E6%AF%92%E5%A5%B6&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26cate%3D5001%26realpos%3D10%26pos%3D10%26stream_entry_id%3D31%26q%3Dgemini%2520%25E6%25AF%2592%25E5%25A5%25B6%26dgr%3D0%26lcate%3D5001%26band_rank%3D10%26filter_type%3Drealtimehot%26flag%3D1%26display_time%3D1760792206%26pre_seqid%3D17607922064690357858254",
-          "source": "微博",
+          "title": "deepseek 本地部署能做到阅读几百万字文本吗？",
+          "url": "https://www.zhihu.com/question/11521332735",
+          "source": "知乎",
           "ranks": [
-            10,
-            9,
-            5
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[20时58分 ~ 22时36分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜特斯拉收涨超2.4%，本周和谷歌、特斯拉、台积电涨超5%",
-          "url": "https://wallstreetcn.com/livenews/2989928",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时39分"
+          "appearance_count": 2,
+          "time_info": "[08时46分 ~ 08时47分]"
         }
       ]
     },
     {
       "keyword_group": "grok",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "马斯克表示，Grok 5将是通用人工智能（AGI），或者是与AGI难以区分的东西。",
-          "url": "https://wallstreetcn.com/livenews/2990073",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时58分 ~ 22时36分]"
-        },
         {
           "title": "马斯克：GROK 5 将会是AGI，或者与AGI 已经无法区分的东西。",
           "url": "https://flash.jin10.com/detail/20251018203430382800",
           "source": "金十数据",
           "ranks": [
-            3,
-            5,
-            8,
-            12
+            22
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时19分 ~ 22时36分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "AI的危险信号：ChatGPT的欧洲付费用户增长或已停滞！",
-          "url": "https://wallstreetcn.com/articles/3757376",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时39分 ~ 13时37分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "抖音",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "余生有涯抖音追剧团",
-          "url": "https://www.douyin.com/hot/2273314",
-          "source": "抖音",
-          "ranks": [
-            27,
-            29,
-            12,
-            8,
-            9,
-            18,
-            15,
-            16,
-            23,
-            25,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[08时39分 ~ 22时04分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "苹果CEO库克：中国年轻AI开发者的创造力令人惊叹",
-          "url": "https://wallstreetcn.com/livenews/2990020",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8,
-            17,
-            20,
-            25,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时45分 ~ 18时04分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时47分"
         }
       ]
     }
