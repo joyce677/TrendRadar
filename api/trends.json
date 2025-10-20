@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-10-20T18:45:08.659272+08:00",
-  "total_titles_processed": 1323,
+  "generated_at": "2025-10-20T19:03:22.869829+08:00",
+  "total_titles_processed": 1367,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI：所有受影响的服务现已完全恢复。",
           "url": "https://flash.jin10.com/detail/20251020181236971800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时03分]"
         },
         {
           "title": "OpenAI：我们已发现用户在使用受影响的服务时遇到登录问题。",
@@ -30,6 +31,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时15分 ~ 18时04分]"
+        },
+        {
+          "title": "OpenAI联合创始人“泼冷水”：AI智能体真正发挥作用还需十年！",
+          "url": "https://www.cls.cn/detail/2174516",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "OpenAI：我们正面临“单点登录”（SSO）问题。",
@@ -60,7 +72,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         }
@@ -75,11 +87,24 @@
           "url": "https://wallstreetcn.com/livenews/2990615",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时03分]"
+        },
+        {
+          "title": "IBM(IBM.N)：IBM与GROQ合作，助力企业人工智能部署实现速度与规模的双重提升。",
+          "url": "https://flash.jin10.com/detail/20251020181126040800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时03分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-10-20）",
@@ -92,17 +117,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时45分 ~ 13时03分]"
-        },
-        {
-          "title": "IBM(IBM.N)：IBM与GROQ合作，助力企业人工智能部署实现速度与规模的双重提升。",
-          "url": "https://flash.jin10.com/detail/20251020181126040800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
         }
       ]
     },
@@ -158,11 +172,29 @@
           "url": "https://wallstreetcn.com/livenews/2990621",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 19时03分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国银行：将谷歌(GOOG.O)目标股价从252美元上调至280美元。",
+          "url": "https://flash.jin10.com/detail/20251020183823789800",
+          "source": "金十数据",
+          "ranks": [
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时45分"
+          "time_info": "19时03分"
         }
       ]
     },
@@ -197,8 +229,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时42分 ~ 18时45分]"
+          "appearance_count": 6,
+          "time_info": "[17时42分 ~ 19时03分]"
         }
       ]
     },
