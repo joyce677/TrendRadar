@@ -1,8 +1,38 @@
 {
-  "generated_at": "2025-10-20T12:45:19.234166+08:00",
-  "total_titles_processed": 681,
+  "generated_at": "2025-10-20T13:03:16.434519+08:00",
+  "total_titles_processed": 702,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "AI",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据美国科技资讯网站Tom's Hardware：微软(MSFT.O)已向英特尔下达其下一代AI芯片Maia2的晶圆代工订单，计划采用18A或18A-P制程。该芯片将用于微软Azure数据中心等AI基础设施。",
+          "url": "https://flash.jin10.com/detail/20251020124013040800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时03分"
+        },
+        {
+          "title": "AI过去一年给美国家庭创造了多少财富？小摩：5万亿美元！",
+          "url": "https://www.cls.cn/detail/2173698",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时47分 ~ 11时37分]"
+        }
+      ]
+    },
     {
       "keyword_group": "人工智能",
       "match_count": 1,
@@ -12,11 +42,12 @@
           "url": "https://flash.jin10.com/detail/20251020115503116800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 13时03分]"
         }
       ]
     },
@@ -52,8 +83,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时47分 ~ 12时45分]"
+          "appearance_count": 8,
+          "time_info": "[08时47分 ~ 13时03分]"
         }
       ]
     },
@@ -73,27 +104,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时47分 ~ 12时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "AI过去一年给美国家庭创造了多少财富？小摩：5万亿美元！",
-          "url": "https://www.cls.cn/detail/2173698",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时47分 ~ 11时37分]"
+          "appearance_count": 8,
+          "time_info": "[08时47分 ~ 13时03分]"
         }
       ]
     }
