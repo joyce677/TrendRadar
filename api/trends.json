@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T21:07:12.297209+08:00",
-  "total_titles_processed": 1627,
+  "generated_at": "2025-10-21T21:51:07.246707+08:00",
+  "total_titles_processed": 1703,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[16时14分 ~ 21时07分]"
+          "appearance_count": 18,
+          "time_info": "[16时14分 ~ 21时51分]"
         },
         {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
@@ -33,8 +33,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[11时28分 ~ 21时07分]"
+          "appearance_count": 36,
+          "time_info": "[11时28分 ~ 21时51分]"
         },
         {
           "title": "DeepSeek新模型深度解读",
@@ -49,11 +49,23 @@
             10,
             9,
             12,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[10时22分 ~ 21时07分]"
+          "appearance_count": 32,
+          "time_info": "[10时22分 ~ 21时51分]"
+        },
+        {
+          "title": "DeepSeek暂列AI炒币大赛榜首",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9A%82%E5%88%97AI%E7%82%92%E5%B8%81%E5%A4%A7%E8%B5%9B%E6%A6%9C%E9%A6%96",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时06分 ~ 21时51分]"
         },
         {
           "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
@@ -78,17 +90,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[18时42分 ~ 21时07分]"
-        },
-        {
-          "title": "DeepSeek暂列AI炒币大赛榜首",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%9A%82%E5%88%97AI%E7%82%92%E5%B8%81%E5%A4%A7%E8%B5%9B%E6%A6%9C%E9%A6%96",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时06分 ~ 21时07分]"
         },
         {
           "title": "DeepSeek开源新模型DeepSeek-OCR",
@@ -288,6 +289,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时28分 ~ 12时05分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克转发浏阳无人机烟花秀新闻",
+          "url": "https://www.toutiao.com/trending/7563531261148168255/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时50分 ~ 21时51分]"
         }
       ]
     }
