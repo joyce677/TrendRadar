@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T08:43:56.076408+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-10-21T10:23:02.581736+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
@@ -15,8 +15,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时43分"
+          "appearance_count": 3,
+          "time_info": "[08时43分 ~ 10时23分]"
+        },
+        {
+          "title": "DeepSeek新模型深度解读",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
         },
         {
           "title": "六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王",
@@ -39,6 +50,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国政府继续停摆 OpenAI收紧Sora监管｜环球市场",
+          "url": "https://www.cls.cn/detail/2175118",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时22分 ~ 10时23分]"
         }
       ]
     },
