@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-21T15:39:12.855902+08:00",
-  "total_titles_processed": 1007,
+  "generated_at": "2025-10-21T16:15:03.345048+08:00",
+  "total_titles_processed": 1084,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek新模型深度解读",
@@ -18,8 +18,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时22分 ~ 15时39分]"
+          "appearance_count": 16,
+          "time_info": "[10时22分 ~ 16时15分]"
         },
         {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
@@ -32,8 +32,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时28分 ~ 15时39分]"
+          "appearance_count": 20,
+          "time_info": "[11时28分 ~ 16时15分]"
         },
         {
           "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
@@ -60,6 +60,29 @@
           "time_info": "[08时43分 ~ 11时29分]"
         },
         {
+          "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
+          "url": "https://wallstreetcn.com/articles/3757552",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时14分 ~ 16时15分]"
+        },
+        {
+          "title": "DeepSeek-OCR上线超算互联网 免费在线推理",
+          "url": "https://wallstreetcn.com/livenews/2991082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时39分 ~ 16时15分]"
+        },
+        {
           "title": "六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王",
           "url": "https://www.cls.cn/detail/2174661",
           "source": "财联社热门",
@@ -69,17 +92,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
-        },
-        {
-          "title": "DeepSeek-OCR上线超算互联网 免费在线推理",
-          "url": "https://wallstreetcn.com/livenews/2991082",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时39分"
         }
       ]
     },
@@ -129,7 +141,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日美联储举行支付创新会议，讨论稳定币、人工智能和代币化，日本举行首相指名选举。",
@@ -153,6 +165,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时43分 ~ 13时03分]"
+        },
+        {
+          "title": "外交部：愿人工智能技术及更多现代化成果惠及各国民众",
+          "url": "https://wallstreetcn.com/livenews/2991107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         }
       ]
     },
