@@ -1,342 +1,61 @@
 {
-  "generated_at": "2025-10-20T22:42:02.469967+08:00",
-  "total_titles_processed": 1786,
+  "generated_at": "2025-10-21T08:43:56.076408+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "OpenAI联合创始人“泼冷水”：AI智能体真正发挥作用还需十年！",
-          "url": "https://www.cls.cn/detail/2174516",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时03分 ~ 21时04分]"
-        },
-        {
-          "title": "OpenAI：所有受影响的服务现已完全恢复。",
-          "url": "https://flash.jin10.com/detail/20251020181236971800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时03分]"
-        },
-        {
-          "title": "OpenAI：我们已发现用户在使用受影响的服务时遇到登录问题。",
-          "url": "https://wallstreetcn.com/livenews/2990557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            19,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时15分 ~ 18时04分]"
-        },
-        {
-          "title": "OpenAI：我们正面临“单点登录”（SSO）问题。",
-          "url": "https://flash.jin10.com/detail/20251020164600924800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
-          "title": "OpenAI：我们已发现用户在使用受影响的服务时遇到登录问题。",
-          "url": "https://flash.jin10.com/detail/20251020164457909800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时42分"
-        },
-        {
-          "title": "OpenAI：正在观察受影响服务的恢复情况，我们正在密切关注。",
-          "url": "https://flash.jin10.com/detail/20251020174853570800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "财政部原副部长朱光耀：未来几年中国经济增速有望保持4.5%~5%，可再生能源、人工智能等领域将成重要推动力",
-          "url": "https://wallstreetcn.com/livenews/2990723",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时47分 ~ 22时42分]"
-        },
-        {
-          "title": "IBM与美国人工智能公司Groq合作，加速企业AI部署",
-          "url": "https://wallstreetcn.com/livenews/2990615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时45分 ~ 19时35分]"
-        },
-        {
-          "title": "Adobe（奥多比）推出企业级生成式人工智能（AI）模型。",
-          "url": "https://wallstreetcn.com/livenews/2990732",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时02分 ~ 22时42分]"
-        },
-        {
-          "title": "IBM(IBM.N)：IBM与GROQ合作，助力企业人工智能部署实现速度与规模的双重提升。",
-          "url": "https://flash.jin10.com/detail/20251020181126040800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时45分 ~ 19时03分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-10-20）",
-          "url": "https://flash.jin10.com/detail/20251020115503116800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时45分 ~ 13时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "马斯克转发浏阳无人机烟花秀",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%BD%AC%E5%8F%91%E6%B5%8F%E9%98%B3%E6%97%A0%E4%BA%BA%E6%9C%BA%E7%83%9F%E8%8A%B1%E7%A7%80",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时41分 ~ 22时42分]"
-        },
-        {
-          "title": "马斯克 SPACEX 的星链卫星在轨数量超 10000 颗，对此，你有何评价和想法？",
-          "url": "https://www.zhihu.com/question/1963524355679056543",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时36分 ~ 11时37分]"
-        },
-        {
-          "title": "第二家代理顾问敦促否决 马斯克万亿美元薪酬方案再遇阻",
-          "url": "https://flash.jin10.com/detail/20251020215224699800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "市场消息：代理顾问Glass Lewis建议投票反对马斯克的薪酬计划。",
-          "url": "https://flash.jin10.com/detail/20251020212842521800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        }
-      ]
-    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "titles": [
         {
-          "title": "DeepSeek团队开源新模型DeepSeek-OCR：少量视觉token完成海量文本压缩",
-          "url": "https://wallstreetcn.com/livenews/2990621",
-          "source": "华尔街见闻-快讯",
+          "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
+          "url": "https://www.zhihu.com/question/1963642369963426172",
+          "source": "知乎",
           "ranks": [
-            2,
-            14,
-            23
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时45分 ~ 19时35分]"
-        },
-        {
-          "title": "DeepSeek开源新模型DeepSeek-OCR",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E6%BA%90%E6%96%B0%E6%A8%A1%E5%9E%8BDeepSeek-OCR",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时17分 ~ 20时18分]"
+          "appearance_count": 1,
+          "time_info": "08时43分"
         },
         {
           "title": "六大AI模型被扔进加密市场厮杀，DeepSeek暂为交易之王",
           "url": "https://www.cls.cn/detail/2174661",
           "source": "财联社热门",
           "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "据美国科技资讯网站Tom's Hardware：微软(MSFT.O)已向英特尔下达其下一代AI芯片Maia2的晶圆代工订单，计划采用18A或18A-P制程。该芯片将用于微软Azure数据中心等AI基础设施。",
-          "url": "https://flash.jin10.com/detail/20251020124013040800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时03分 ~ 13时41分]"
-        },
-        {
-          "title": "AI过去一年给美国家庭创造了多少财富？小摩：5万亿美元！",
-          "url": "https://www.cls.cn/detail/2173698",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时47分 ~ 11时37分]"
-        },
-        {
-          "title": "美国女子AI生成号码中10万美元彩票",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90AI%E7%94%9F%E6%88%90%E5%8F%B7%E7%A0%81%E4%B8%AD10%E4%B8%87%E7%BE%8E%E5%85%83%E5%BD%A9%E7%A5%A8",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时08分 ~ 16时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国银行：将谷歌(GOOG.O)目标股价从252美元上调至280美元。",
-          "url": "https://flash.jin10.com/detail/20251020183823789800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时03分 ~ 19时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看 Anthropic 最新发布的 Claude Skills？会替代 MCP 吗？",
-          "url": "https://www.zhihu.com/question/1962512846630941008",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时42分 ~ 19时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31806849",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            11,
-            10,
             12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时47分 ~ 15时08分]"
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        },
+        {
+          "title": "DeepSeek开源新模型DeepSeek-OCR",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欢迎进入链接网页右侧下载本周财经数据与事件精美周历壁纸：今日美联储举行支付创新会议，讨论稳定币、人工智能和代币化，日本举行首相指名选举。",
+          "url": "https://flash.jin10.com/detail/20251021082618664800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时43分"
         }
       ]
     }
