@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-22T13:42:21.665799+08:00",
-  "total_titles_processed": 794,
+  "generated_at": "2025-10-22T14:15:59.805153+08:00",
+  "total_titles_processed": 867,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时32分 ~ 13时42分]"
+          "appearance_count": 8,
+          "time_info": "[11时32分 ~ 14时15分]"
         },
         {
           "title": "广东省国资委：力争到2027年人工智能相关投资超200亿元",
@@ -26,11 +27,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            10
+            10,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时04分 ~ 13时42分]"
+          "appearance_count": 3,
+          "time_info": "[13时04分 ~ 14时15分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-10-22）",
@@ -96,8 +98,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时44分 ~ 13时42分]"
+          "appearance_count": 10,
+          "time_info": "[08时44分 ~ 14时15分]"
         },
         {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
@@ -115,11 +117,12 @@
           "url": "https://www.zhihu.com/question/1963713236953203912",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时44分 ~ 13时42分]"
+          "appearance_count": 4,
+          "time_info": "[12时44分 ~ 14时15分]"
         },
         {
           "title": "DeepSeek暂列AI炒币大赛榜首",
@@ -197,6 +200,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
+          "url": "https://wallstreetcn.com/articles/3757591",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时26分 ~ 14时15分]"
+        },
+        {
           "title": "OpenAI推出AI浏览器Atlas 与谷歌Chrome正面竞争",
           "url": "https://www.cls.cn/detail/2176315",
           "source": "财联社热门",
@@ -208,18 +223,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[08时44分 ~ 13时04分]"
-        },
-        {
-          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
-          "url": "https://wallstreetcn.com/articles/3757591",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时26分 ~ 13时42分]"
         }
       ]
     },
@@ -234,7 +237,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时42分"
         }
