@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T20:20:01.374510+08:00",
-  "total_titles_processed": 1617,
+  "generated_at": "2025-10-22T21:07:51.575199+08:00",
+  "total_titles_processed": 1699,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "GDP增长5.5%！人工智能、半导体等产业快速增长 上海经济实现奋力一跳",
@@ -120,6 +120,28 @@
           "time_info": "[16时15分 ~ 16时48分]"
         },
         {
+          "title": "美国商业人工智能公司Uniphore完成2.6亿美元F轮融资，英伟达、AMD等参投",
+          "url": "https://wallstreetcn.com/livenews/2991928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
+          "title": "全球IT市场研究和咨询公司Gartner：人工智能基础设施与终端设备将继续推动需求。",
+          "url": "https://flash.jin10.com/detail/20251022203204664800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
           "title": "上海前三季度三大先导产业制造业产值同比增长8.5% 其中人工智能制造业增长12.8%",
           "url": "https://wallstreetcn.com/livenews/2991539",
           "source": "华尔街见闻-快讯",
@@ -200,6 +222,72 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
+          "url": "https://wallstreetcn.com/articles/3757591",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 25,
+          "time_info": "[10时26分 ~ 21时07分]"
+        },
+        {
+          "title": "OpenAI推出AI浏览器Atlas 与谷歌Chrome正面竞争",
+          "url": "https://www.cls.cn/detail/2176315",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时44分 ~ 13时04分]"
+        },
+        {
+          "title": "谷歌(GOOG.O)：如果英国数字市场监管制度要实现其促进增长和创新的承诺，下一步措施将至关重要。",
+          "url": "https://flash.jin10.com/detail/20251022210215322800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：（就英国竞争和市场管理局的决定）这是令人失望的、不成比例的、毫无根据的。",
+          "url": "https://flash.jin10.com/detail/20251022210144301800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)股价盘前上涨1.3%，此前一交易日下跌2.4%；有报道称，Anthropic正在与谷歌就价值数百亿美元的云服务协议进行谈判。",
+          "url": "https://flash.jin10.com/detail/20251022161302634800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时48分 ~ 17时13分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 5,
       "titles": [
@@ -268,50 +356,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
-          "url": "https://wallstreetcn.com/articles/3757591",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[10时26分 ~ 20时20分]"
-        },
-        {
-          "title": "OpenAI推出AI浏览器Atlas 与谷歌Chrome正面竞争",
-          "url": "https://www.cls.cn/detail/2176315",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时44分 ~ 13时04分]"
-        },
-        {
-          "title": "Alphabet(GOOG.O)股价盘前上涨1.3%，此前一交易日下跌2.4%；有报道称，Anthropic正在与谷歌就价值数百亿美元的云服务协议进行谈判。",
-          "url": "https://flash.jin10.com/detail/20251022161302634800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时48分 ~ 17时13分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "马斯克",
       "match_count": 2,
       "titles": [
@@ -324,8 +368,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时13分 ~ 20时20分]"
+          "appearance_count": 10,
+          "time_info": "[17时13分 ~ 21时07分]"
         },
         {
           "title": "NASA代理局长指认SpaceX登月进度落后，马斯克反击",
