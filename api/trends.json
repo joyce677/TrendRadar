@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T16:14:18.058701+08:00",
-  "total_titles_processed": 1147,
+  "generated_at": "2025-10-23T16:46:57.986652+08:00",
+  "total_titles_processed": 1223,
   "failed_sources": [],
   "trends": [
     {
@@ -119,7 +119,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "特斯拉电话会让市场失望，马斯克下调机器人和Robotaxi目标，称“特斯拉处于关键时刻”",
@@ -129,11 +129,12 @@
             9,
             8,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时04分 ~ 16时14分]"
+          "appearance_count": 9,
+          "time_info": "[13时04分 ~ 16时46分]"
         },
         {
           "title": "美股盘前，特斯拉延续跌势，现跌超3%，马斯克下调机器人和Robotaxi目标。量子计算概念股普涨，Quantum Computing上涨13%。美股中概股盘前多数上涨，理想汽车、百度涨2%，京东、蔚来、阿里巴巴涨1%，拼多多涨0.7%，小鹏汽车跌0.2%，携程跌0.4%。",
@@ -142,9 +143,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
+        },
+        {
+          "title": "美股盘前，特斯拉延续跌势，现跌超3%，马斯克下调机器人和Robotaxi目标。量子计算概念股普涨，Quantum Computing上涨13%。Moderna下跌超4%，此前公司因试验受挫而暂停开发预防出生缺陷的疫苗。美股中概股盘前多数上涨，理想汽车、百度涨2%，京东、蔚来、阿里巴巴涨1%，拼多多涨0.7%，小鹏汽车跌0.2%，携程跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/2992436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         },
         {
           "title": "马斯克恳求批准万亿美元薪酬包 猛烈抨击反对的咨询公司",
@@ -171,11 +183,12 @@
             13,
             10,
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时49分 ~ 16时14分]"
+          "appearance_count": 12,
+          "time_info": "[11时49分 ~ 16时46分]"
         },
         {
           "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
@@ -188,8 +201,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时21分 ~ 16时14分]"
+          "appearance_count": 15,
+          "time_info": "[10时21分 ~ 16时46分]"
         }
       ]
     }
