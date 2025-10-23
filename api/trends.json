@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-23T21:06:42.740352+08:00",
-  "total_titles_processed": 1723,
+  "generated_at": "2025-10-23T21:49:24.110140+08:00",
+  "total_titles_processed": 1795,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "麦肯锡：如果银行不调整自己的商业模式，以应对客户转向人工智能来优化财务状况的情况，恐将面临高达1700亿美元的利润损失。",
@@ -141,6 +141,17 @@
           "time_info": "08时42分"
         },
         {
+          "title": "市场消息：亚马逊(AMZN.O)推出全新人工智能购物工具，帮助犹豫不决的买家。“帮我决策”功能将在搜索过程中（仅）推荐一种产品。",
+          "url": "https://flash.jin10.com/detail/20251023210146850800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "德媒：美“豪赌人工智能”或后果严重",
           "url": "https://www.toutiao.com/trending/7563364673547632681/",
           "source": "今日头条",
@@ -155,7 +166,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "特斯拉电话会让市场失望，马斯克下调机器人和Robotaxi目标，称“特斯拉处于关键时刻”",
@@ -169,8 +180,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[13时04分 ~ 21时06分]"
+          "appearance_count": 19,
+          "time_info": "[13时04分 ~ 21时49分]"
         },
         {
           "title": "美国纽约州审计长Dinapoli：我会对马斯克薪酬方案中的衡量标准提出质疑。",
@@ -207,6 +218,17 @@
           "time_info": "16时14分"
         },
         {
+          "title": "美股开盘，道指跌0.04%，标普500指数涨0.1%，纳指平开。特斯拉跌超4%，马斯克下调机器人和Robotaxi目标。能源股普遍上涨，埃克森美孚石油涨超1.8%，康菲石油涨近3%。美国航空涨超4%，此前该公司上调了2025年盈利预期。IBM股价开盘下跌8.3%，为7月以来最大跌幅。",
+          "url": "https://wallstreetcn.com/livenews/2992629",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
           "title": "马斯克恳求批准万亿美元薪酬包 猛烈抨击反对的咨询公司",
           "url": "https://flash.jin10.com/detail/20251023073344905800",
           "source": "金十数据",
@@ -220,55 +242,20 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "比超级计算机快1.3万倍！谷歌量子计算再现突破 诺奖得主送上关键助攻",
-          "url": "https://www.cls.cn/detail/2177879",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时49分 ~ 17时40分]"
-        },
-        {
-          "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
-          "url": "https://wallstreetcn.com/articles/3757674",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[10时21分 ~ 21时06分]"
-        },
-        {
-          "title": "据天空新闻：谷歌(GOOG.O)已同意投资一项金融工具，该工具可转换为对THG Ingenuity的股权，估值达7.5亿英镑或更高。",
-          "url": "https://flash.jin10.com/detail/20251023170528085800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "阿里巴巴美股盘初涨超2%，阿里自研AI眼镜开启预售、补贴后最低3699元，新聊天机器人挑战ChatGPT。",
+          "url": "https://wallstreetcn.com/livenews/2992635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
         {
           "title": "英国政府与OpenAI达成协议，以扩大数据托管范围。（彭博）",
           "url": "https://wallstreetcn.com/livenews/2992543",
@@ -302,6 +289,52 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "比超级计算机快1.3万倍！谷歌量子计算再现突破 诺奖得主送上关键助攻",
+          "url": "https://www.cls.cn/detail/2177879",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[11时49分 ~ 17时40分]"
+        },
+        {
+          "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
+          "url": "https://wallstreetcn.com/articles/3757674",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 25,
+          "time_info": "[10时21分 ~ 21时49分]"
+        },
+        {
+          "title": "据天空新闻：谷歌(GOOG.O)已同意投资一项金融工具，该工具可转换为对THG Ingenuity的股权，估值达7.5亿英镑或更高。",
+          "url": "https://flash.jin10.com/detail/20251023170528085800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时40分"
         }
       ]
     }
