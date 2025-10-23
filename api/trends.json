@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T22:03:26.674904+08:00",
-  "total_titles_processed": 1855,
+  "generated_at": "2025-10-23T22:45:31.703717+08:00",
+  "total_titles_processed": 1921,
   "failed_sources": [],
   "trends": [
     {
@@ -165,6 +165,85 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "比超级计算机快1.3万倍！谷歌量子计算再现突破 诺奖得主送上关键助攻",
+          "url": "https://www.cls.cn/detail/2177879",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[11时49分 ~ 17时40分]"
+        },
+        {
+          "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
+          "url": "https://wallstreetcn.com/articles/3757674",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 27,
+          "time_info": "[10时21分 ~ 22时45分]"
+        },
+        {
+          "title": "据天空新闻：谷歌(GOOG.O)已同意投资一项金融工具，该工具可转换为对THG Ingenuity的股权，估值达7.5亿英镑或更高。",
+          "url": "https://flash.jin10.com/detail/20251023170528085800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时40分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：在伊利诺伊州的工厂将捕获并储存约90%的二氧化碳排放。",
+          "url": "https://flash.jin10.com/detail/20251023220842849800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "市场消息：谷歌(GOOG.O)签署企业协议，以支持一家采用碳捕捉与封存技术的天然气发电厂。",
+          "url": "https://flash.jin10.com/detail/20251023220802219800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：谷歌威胁情报小组正在追踪一群来自越南、出于经济利益实施攻击的威胁行为者。",
+          "url": "https://flash.jin10.com/detail/20251023220726565800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克",
       "match_count": 6,
       "titles": [
@@ -180,8 +259,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[13时04分 ~ 22时03分]"
+          "appearance_count": 21,
+          "time_info": "[13时04分 ~ 22时45分]"
         },
         {
           "title": "美国纽约州审计长Dinapoli：我会对马斯克薪酬方案中的衡量标准提出质疑。",
@@ -200,11 +279,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            16
+            16,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时49分 ~ 22时03分]"
+          "appearance_count": 3,
+          "time_info": "[21时49分 ~ 22时45分]"
         },
         {
           "title": "美股盘前，特斯拉延续跌势，现跌超3%，马斯克下调机器人和Robotaxi目标。量子计算概念股普涨，Quantum Computing上涨13%。Moderna下跌超4%，此前公司因试验受挫而暂停开发预防出生缺陷的疫苗。美股中概股盘前多数上涨，理想汽车、百度涨2%，京东、蔚来、阿里巴巴涨1%，拼多多涨0.7%，小鹏汽车跌0.2%，携程跌0.4%。",
@@ -252,11 +332,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            11
+            11,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时49分 ~ 22时03分]"
+          "appearance_count": 3,
+          "time_info": "[21时49分 ~ 22时45分]"
         },
         {
           "title": "英国政府与OpenAI达成协议，以扩大数据托管范围。（彭博）",
@@ -291,52 +372,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "比超级计算机快1.3万倍！谷歌量子计算再现突破 诺奖得主送上关键助攻",
-          "url": "https://www.cls.cn/detail/2177879",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时49分 ~ 17时40分]"
-        },
-        {
-          "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
-          "url": "https://wallstreetcn.com/articles/3757674",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[10时21分 ~ 22时03分]"
-        },
-        {
-          "title": "据天空新闻：谷歌(GOOG.O)已同意投资一项金融工具，该工具可转换为对THG Ingenuity的股权，估值达7.5亿英镑或更高。",
-          "url": "https://flash.jin10.com/detail/20251023170528085800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时40分"
         }
       ]
     }
