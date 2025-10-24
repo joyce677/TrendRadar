@@ -1,8 +1,58 @@
 {
-  "generated_at": "2025-10-24T10:17:25.739256+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2025-10-24T11:14:35.453824+08:00",
+  "total_titles_processed": 565,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "科技部部长阴和俊：全面实施人工智能+行动",
+          "url": "https://wallstreetcn.com/livenews/2992984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "三星电子周五表示，已与软银公司签署谅解备忘录，共同研究和开发下一代通信技术，包括6G和基于人工智能的无线接入网络（AI-RAN）创新。",
+          "url": "https://flash.jin10.com/detail/20251024094102994800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时17分"
+        },
+        {
+          "title": "苹果公司已经开始从美国得州休斯敦工厂发货人工智能（AI）高级服务器。 这是该公司在美国市场开支6000亿美元计划的一部分。",
+          "url": "https://wallstreetcn.com/livenews/2992835",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时39分"
+        },
+        {
+          "title": "韩国防务企业现代罗特姆（Hyundai Rotem）表示，已与美国人工智能解决方案提供商Shield AI签署谅解备忘录，以开发基于人工智能的国防技术。",
+          "url": "https://flash.jin10.com/detail/20251024103324178800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        }
+      ]
+    },
     {
       "keyword_group": "马斯克",
       "match_count": 3,
@@ -25,7 +75,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时17分"
         },
@@ -36,7 +86,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时17分"
         }
@@ -53,9 +103,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时17分 ~ 11时14分]"
         },
         {
           "title": "谷歌将向Anthropic供应最高100万枚专用AI芯片",
@@ -63,34 +113,6 @@
           "source": "金十数据",
           "ranks": [
             16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "三星电子周五表示，已与软银公司签署谅解备忘录，共同研究和开发下一代通信技术，包括6G和基于人工智能的无线接入网络（AI-RAN）创新。",
-          "url": "https://flash.jin10.com/detail/20251024094102994800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时17分"
-        },
-        {
-          "title": "苹果公司已经开始从美国得州休斯敦工厂发货人工智能（AI）高级服务器。 这是该公司在美国市场开支6000亿美元计划的一部分。",
-          "url": "https://wallstreetcn.com/livenews/2992835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
           ],
           "is_new": false,
           "appearance_count": 1,
