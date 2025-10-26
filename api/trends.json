@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-26T19:03:13.275548+08:00",
-  "total_titles_processed": 1010,
+  "generated_at": "2025-10-26T19:33:31.583031+08:00",
+  "total_titles_processed": 1046,
   "failed_sources": [],
   "trends": [
     {
@@ -60,8 +60,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[10时26分 ~ 19时03分]"
+          "appearance_count": 25,
+          "time_info": "[10时26分 ~ 19时33分]"
         },
         {
           "title": "市场消息：苹果(AAPL.O)正在与马斯克的太空探索技术公司进行洽谈，计划将星链卫星服务整合到未来的iPhone产品中，首部搭载该服务的 iPhone将于2026年推出，型号为iPhone 18 Pro。",
@@ -91,6 +91,36 @@
       ]
     },
     {
+      "keyword_group": "AI",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "AI把薯片误判为枪惊动八辆美国警车",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23AI%E6%8A%8A%E8%96%AF%E7%89%87%E8%AF%AF%E5%88%A4%E4%B8%BA%E6%9E%AA%E6%83%8A%E5%8A%A8%E5%85%AB%E8%BE%86%E7%BE%8E%E5%9B%BD%E8%AD%A6%E8%BD%A6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523AI%25E6%258A%258A%25E8%2596%25AF%25E7%2589%2587%25E8%25AF%25AF%25E5%2588%25A4%25E4%25B8%25BA%25E6%259E%25AA%25E6%2583%258A%25E5%258A%25A8%25E5%2585%25AB%25E8%25BE%2586%25E7%25BE%258E%25E5%259B%25BD%25E8%25AD%25A6%25E8%25BD%25A6%2523%26pos%3D0%26flag%3D1%26band_rank%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26realpos%3D1%26dgr%3D0%26display_time%3D1761471005%26pre_seqid%3D176147100568503688447118",
+          "source": "微博",
+          "ranks": [
+            1,
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时35分 ~ 19时33分]"
+        },
+        {
+          "title": "AI把玉米片判为枪惊动八辆美国警车",
+          "url": "https://www.baidu.com/s?wd=AI%E6%8A%8A%E7%8E%89%E7%B1%B3%E7%89%87%E5%88%A4%E4%B8%BA%E6%9E%AA%E6%83%8A%E5%8A%A8%E5%85%AB%E8%BE%86%E7%BE%8E%E5%9B%BD%E8%AD%A6%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时33分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -101,11 +131,12 @@
           "ranks": [
             13,
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时35分 ~ 19时03分]"
+          "appearance_count": 8,
+          "time_info": "[17时35分 ~ 19时33分]"
         }
       ]
     },
@@ -122,26 +153,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[12时40分 ~ 19时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "AI把薯片误判为枪惊动八辆美国警车",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23AI%E6%8A%8A%E8%96%AF%E7%89%87%E8%AF%AF%E5%88%A4%E4%B8%BA%E6%9E%AA%E6%83%8A%E5%8A%A8%E5%85%AB%E8%BE%86%E7%BE%8E%E5%9B%BD%E8%AD%A6%E8%BD%A6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26q%3D%2523AI%25E6%258A%258A%25E8%2596%25AF%25E7%2589%2587%25E8%25AF%25AF%25E5%2588%25A4%25E4%25B8%25BA%25E6%259E%25AA%25E6%2583%258A%25E5%258A%25A8%25E5%2585%25AB%25E8%25BE%2586%25E7%25BE%258E%25E5%259B%25BD%25E8%25AD%25A6%25E8%25BD%25A6%2523%26pos%3D0%26flag%3D1%26band_rank%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26realpos%3D1%26dgr%3D0%26display_time%3D1761471005%26pre_seqid%3D176147100568503688447118",
-          "source": "微博",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时35分 ~ 19时03分]"
+          "appearance_count": 17,
+          "time_info": "[12时40分 ~ 19时33分]"
         }
       ]
     }
