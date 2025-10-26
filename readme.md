@@ -7,7 +7,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/sansan0/TrendRadar?style=flat-square&logo=github&color=yellow)](https://github.com/sansan0/TrendRadar/stargazers)
 [![GitHub Forks](https://img.shields.io/github/forks/sansan0/TrendRadar?style=flat-square&logo=github&color=blue)](https://github.com/sansan0/TrendRadar/network/members)
 [![License](https://img.shields.io/badge/license-GPL--3.0-blue.svg?style=flat-square)](LICENSE)
-[![Version](https://img.shields.io/badge/version-v2.1.0-green.svg?style=flat-square)](https://github.com/sansan0/TrendRadar)
+[![Version](https://img.shields.io/badge/version-v2.2.0-green.svg?style=flat-square)](https://github.com/sansan0/TrendRadar)
 
 [![企业微信通知](https://img.shields.io/badge/企业微信-通知支持-00D4AA?style=flat-square)](https://work.weixin.qq.com/)
 [![Telegram通知](https://img.shields.io/badge/Telegram-通知支持-00D4AA?style=flat-square)](https://telegram.org/)
@@ -196,6 +196,16 @@ GitHub 一键 Fork 即可使用，无需编程基础。
 - **大版本升级**：从 v1.x 升级到 v2.0 建议删除现有 fork 后重新 fork，这样更省力且避免配置冲突
 - **或者**：根据更新日志的特别说明升级
 
+### 2025/10/22 - v2.2.0
+
+**核心更新**：
+- **版本更新提醒**：GitHub Actions 环境会自动检测远程版本，并在各类推送/HTML 中追加“发现新版本”提示。
+- **提示开关可控**：新增 `config/config.yaml` → `app.show_version_update` 配置项，可自由关闭提醒，不影响个人 webhook 等设置。
+- **运行模式增强**：命令行新增 `--serve-api`、`--generate-json` 两种模式，便于本地调试 API 或只生成静态文件。
+
+**升级提示**：
+- 若从旧版本升级，请同步更新 `main.py` 与 `config/config.yaml`，并确认新增配置项已合并到你的自定义配置中。
+
 ### 2025/08/30 - v2.1.0
 
 > 感谢各位朋友的支持与厚爱，特别感谢：
@@ -288,7 +298,7 @@ https://github.com/sansan0/TrendRadar/blob/master/.github/workflows/crawler.yml
 
 ### 2025/06/16 - v1.0.0
 
-1. 增加了一个项目新版本更新提示，默认打开，如要关掉，可以在 main.py 中把 "FEISHU_SHOW_VERSION_UPDATE": True 中的 True 改成 False 即可
+1. 增加了一个项目新版本更新提示，默认打开。如需关闭，在 `config/config.yaml` 的 `app.show_version_update` 设置为 `false` 即可
 
 ### 2025/06/13+14
 
