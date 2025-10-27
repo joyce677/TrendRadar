@@ -1,8 +1,82 @@
 {
-  "generated_at": "2025-10-27T22:04:57.922196+08:00",
-  "total_titles_processed": 1676,
+  "generated_at": "2025-10-27T22:41:07.440260+08:00",
+  "total_titles_processed": 1728,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "高通（QCOM）股价短线拉升，日内整体涨幅迅速扩大至将近7%。高通发布两款AI芯片，旨在挑战英伟达在人工智能加速器市场的地位。",
+          "url": "https://wallstreetcn.com/livenews/2994414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-10-27）",
+          "url": "https://flash.jin10.com/detail/20251027114944856800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时22分 ~ 13时04分]"
+        },
+        {
+          "title": "为什么现在计算机所有专业的研究生基本都搞机器学习和深度学习，国内真的需要这么多会人工智能的人才吗？",
+          "url": "https://www.zhihu.com/question/553637124",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 21时06分]"
+        },
+        {
+          "title": "高通发布两款AI芯片，旨在挑战英伟达在人工智能加速器市场的地位",
+          "url": "https://wallstreetcn.com/livenews/2994412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "高通(QCOM.O)涨幅扩大至7%，此前推出人工智能芯片AI200和AI250，在数据中心市场与英伟达展开竞争。",
+          "url": "https://flash.jin10.com/detail/20251027220754914800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "据华尔街日报：人工智能模型训练初创公司Mercor计划以100亿美元估值融资3.5亿美元。",
+          "url": "https://flash.jin10.com/detail/20251027191140719800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        }
+      ]
+    },
     {
       "keyword_group": "马斯克",
       "match_count": 4,
@@ -52,47 +126,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-10-27）",
-          "url": "https://flash.jin10.com/detail/20251027114944856800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时22分 ~ 13时04分]"
-        },
-        {
-          "title": "为什么现在计算机所有专业的研究生基本都搞机器学习和深度学习，国内真的需要这么多会人工智能的人才吗？",
-          "url": "https://www.zhihu.com/question/553637124",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时05分 ~ 21时06分]"
-        },
-        {
-          "title": "据华尔街日报：人工智能模型训练初创公司Mercor计划以100亿美元估值融资3.5亿美元。",
-          "url": "https://flash.jin10.com/detail/20251027191140719800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时36分"
         }
       ]
     },
