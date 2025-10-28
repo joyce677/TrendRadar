@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T21:06:58.584251+08:00",
-  "total_titles_processed": 1685,
+  "generated_at": "2025-10-28T21:47:46.423734+08:00",
+  "total_titles_processed": 1760,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[10时23分 ~ 21时06分]"
+          "appearance_count": 29,
+          "time_info": "[10时23分 ~ 21时47分]"
         },
         {
           "title": "“十五五”规划建议全文：采取超常规措施，全链条推动重点领域关键核心技术攻关取得决定性突破、全面实施“人工智能+”行动、大力提振消费",
@@ -30,8 +31,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时02分 ~ 21时06分]"
+          "appearance_count": 7,
+          "time_info": "[19时02分 ~ 21时47分]"
         },
         {
           "title": "道富银行首席执行官：人工智能在银行对账方面存在巨大机遇。",
@@ -326,6 +327,17 @@
           "time_info": "20时19分"
         },
         {
+          "title": "微软(MSFT.O)：微软保留知识产权和ArzureAPI独占权，直到实现AGI（通用人工智能）。",
+          "url": "https://flash.jin10.com/detail/20251028210622482800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
           "title": "【上交所理事长邱勇：支持人工智能等更多前沿科技领域适用第五套标准】10月28日，在科创板科创成长层首批新注册企业上市仪式上，上交所理事长邱勇在致辞中表示，下一步，上交所将进一步发挥科创板“试验田”作用，把好准入关，更好识别优质科创企业，支持人工智能、商业航天、低空经济等更多前沿科技领域适用第五套标准，支持具有参与全球竞争潜力的硬科技企业上市。",
           "url": "https://wallstreetcn.com/livenews/2994650",
           "source": "华尔街见闻-快讯",
@@ -351,19 +363,8 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 19,
       "titles": [
-        {
-          "title": "市场消息：微软(MSFT.O)支持OpenAI推进公共利益公司（PBC）形式的成立。微软在OpenAI公共利益公司中的投资估值约为1350亿美元。",
-          "url": "https://flash.jin10.com/detail/20251028210205594800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时06分"
-        },
         {
           "title": "据AXIOS网站：OpenAI的新浏览器Atlas引发隐私和安全担忧。隐私保护人士表示，该浏览器收集的数据量远远超过市场上任何其他浏览器。",
           "url": "https://flash.jin10.com/detail/20251028172154979800",
@@ -382,9 +383,32 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时06分"
+        },
+        {
+          "title": "美股开盘，道指涨0.4%，标普500指数涨0.29%，纳指涨0.5%。微软(MSFT.O)与OpenAI签署新协议后上涨3.7%，市值突破4万亿美元。Paypal(PYPL.O)涨7.5%，公司达成协议将数字钱包嵌入ChatGPT。联合健康(UNH.N)涨3.6%，第三季度盈利超出预期并上调全年业绩预期。联合包裹(UPS.N)涨10%，公司上调2025年全年盈利展望。",
+          "url": "https://flash.jin10.com/detail/20251028213032383800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
+          "title": "市场消息：微软(MSFT.O)支持OpenAI推进公共利益公司（PBC）形式的成立。微软在OpenAI公共利益公司中的投资估值约为1350亿美元。",
+          "url": "https://flash.jin10.com/detail/20251028210205594800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时06分 ~ 21时47分]"
         },
         {
           "title": "OpenAI公司正为印度用户提供为期一年的免费ChatGPT Go服务",
@@ -444,6 +468,39 @@
           "time_info": "[18时44分 ~ 19时03分]"
         },
         {
+          "title": "微软将持有OpenAI 27%股权，并获得AI模型使用权",
+          "url": "https://flash.jin10.com/detail/20251028212425533800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
+          "title": "微软美股盘前涨近5%！微软与OpenAI签署新协议，微软将获得OpenAI 27%的股权",
+          "url": "https://wallstreetcn.com/livenews/2995172",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
+          "title": "OpenAI：OpenAI基金会初期将重点投入250亿美元资金，用于健康与疾病治疗领域，以及提升人工智能韧性的技术解决方案。",
+          "url": "https://flash.jin10.com/detail/20251028211735940800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
           "title": "特朗普东京晚宴聚焦日对美投资，OpenAI与Salesforce高管出席",
           "url": "https://flash.jin10.com/detail/20251028173857141800",
           "source": "金十数据",
@@ -455,6 +512,50 @@
           "time_info": "18时03分"
         },
         {
+          "title": "微软(MSFT.O)：OpenAI现在可以向美国政府国家安全领域的客户提供API访问，无论客户使用的是哪个云服务提供商。OpenAI现在能够发布符合必要能力标准的开放权重模型。",
+          "url": "https://flash.jin10.com/detail/20251028210837192800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
+          "title": "微软(MSFT.O)：OpenAI仍是微软前沿模型合作伙伴。",
+          "url": "https://flash.jin10.com/detail/20251028210642738800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
+          "title": "微软(MSFT.O)：OpenAI现在可以与第三方共同开发某些产品。",
+          "url": "https://flash.jin10.com/detail/20251028210522761800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
+          "title": "微软(MSFT.O)盘前拉升上涨4.6%，公司与OpenAI签署新协议，OpenAI签约购买额外2500亿美元的Azure服务，微软将持有约1350亿美元或27%的OpenAI股份。",
+          "url": "https://flash.jin10.com/detail/20251028210449052800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
+        },
+        {
           "title": "PayPal美股盘前涨超15%，公司与OpenAI达成支付合作",
           "url": "https://wallstreetcn.com/livenews/2995062",
           "source": "华尔街见闻-快讯",
@@ -464,6 +565,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时33分"
+        },
+        {
+          "title": "微软(MSFT.O)：OpenAI签约购买额外2500亿美元的Azure服务。",
+          "url": "https://flash.jin10.com/detail/20251028210328212800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时47分"
         }
       ]
     },
