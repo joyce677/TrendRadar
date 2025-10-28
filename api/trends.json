@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-28T12:42:26.080119+08:00",
-  "total_titles_processed": 703,
+  "generated_at": "2025-10-28T13:11:37.633370+08:00",
+  "total_titles_processed": 739,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时23分 ~ 12时42分]"
+          "appearance_count": 7,
+          "time_info": "[10时23分 ~ 13时11分]"
         },
         {
           "title": "高通暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -30,6 +30,18 @@
           "time_info": "08时43分"
         },
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-10-28）",
+          "url": "https://flash.jin10.com/detail/20251028120453645800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 13时11分]"
+        },
+        {
           "title": "人工智能解决方案提供商滴普科技在香港首日挂牌交易，开盘价报56.50港元，较IPO价格26.66港元高出112%；现报54.50港元，涨幅104.4%。",
           "url": "https://wallstreetcn.com/livenews/2994678",
           "source": "华尔街见闻-快讯",
@@ -39,17 +51,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-10-28）",
-          "url": "https://flash.jin10.com/detail/20251028120453645800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
         },
         {
           "title": "【上交所理事长邱勇：支持人工智能等更多前沿科技领域适用第五套标准】10月28日，在科创板科创成长层首批新注册企业上市仪式上，上交所理事长邱勇在致辞中表示，下一步，上交所将进一步发挥科创板“试验田”作用，把好准入关，更好识别优质科创企业，支持人工智能、商业航天、低空经济等更多前沿科技领域适用第五套标准，支持具有参与全球竞争潜力的硬科技企业上市。",
@@ -65,6 +66,40 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌宣布重启一核电站为AI基础设施供电",
+          "url": "https://flash.jin10.com/detail/20251028124839536800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI：每周有超过100万的ChatGPT用户讨论自杀问题。公司正在努力改善AI对心理健康危机的反应，但面临着诉讼和安全审查。",
+          "url": "https://flash.jin10.com/detail/20251028123906600800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "grok",
       "match_count": 1,
       "titles": [
@@ -74,11 +109,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时13分 ~ 12时42分]"
+          "appearance_count": 3,
+          "time_info": "[12时13分 ~ 13时11分]"
         }
       ]
     },
@@ -97,8 +133,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时43分 ~ 12时42分]"
+          "appearance_count": 8,
+          "time_info": "[08时43分 ~ 13时11分]"
         }
       ]
     },
