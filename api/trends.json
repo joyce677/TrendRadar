@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T14:17:22.101155+08:00",
-  "total_titles_processed": 860,
+  "generated_at": "2025-10-29T14:50:49.399564+08:00",
+  "total_titles_processed": 916,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI达成重磅协议向营利组织转型，微软持股27%，AI模型授权延至2032年，Azure获2500亿订单",
@@ -16,8 +16,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时29分 ~ 14时17分]"
+          "appearance_count": 10,
+          "time_info": "[10时29分 ~ 14时50分]"
+        },
+        {
+          "title": "OpenAI首席财务官：周二与微软达成的协议使我们能够以一种复杂程度低得多的方式继续筹集资金。",
+          "url": "https://flash.jin10.com/detail/20251029144001597800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         },
         {
           "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
@@ -46,7 +57,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "“十五五”规划建议全文：采取超常规措施，全链条推动重点领域关键核心技术攻关取得决定性突破、全面实施“人工智能+”行动、大力提振消费",
@@ -56,19 +67,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时45分 ~ 14时17分]"
+          "appearance_count": 11,
+          "time_info": "[08时45分 ~ 14时50分]"
         },
         {
           "title": "商务部等5部门：完善智能导引、精准营销、云上购物、沉浸体验等智慧商业新模式，推广一批“人工智能+消费”场景",
           "url": "https://wallstreetcn.com/livenews/2995646",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 14时50分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-10-29）",
@@ -81,6 +93,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时17分 ~ 13时03分]"
+        },
+        {
+          "title": "沙特阿美战略执行副总裁：天然气正定位为推动与人工智能相关需求增长的关键助力。",
+          "url": "https://flash.jin10.com/detail/20251029141540666800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时50分"
         }
       ]
     },
@@ -100,19 +123,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时45分 ~ 14时17分]"
+          "appearance_count": 11,
+          "time_info": "[08时45分 ~ 14时50分]"
         },
         {
           "title": "马斯克为何称中国火箭5年追平SpaceX",
           "url": "https://www.toutiao.com/trending/7566461338692619782/",
           "source": "今日头条",
           "ranks": [
-            29
+            29,
+            22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时43分"
+          "appearance_count": 2,
+          "time_info": "[13时43分 ~ 14时50分]"
         }
       ]
     }
