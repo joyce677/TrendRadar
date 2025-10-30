@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T22:04:49.422416+08:00",
-  "total_titles_processed": 1843,
+  "generated_at": "2025-10-30T22:45:42.807127+08:00",
+  "total_titles_processed": 1927,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "510亿！央企战新基金来了 重点支持人工智能、航空航天等未来产业",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
+        },
+        {
+          "title": "壳牌(SHEL.N)CEO：人工智能正在提升上游业务表现。",
+          "url": "https://flash.jin10.com/detail/20251030224331616800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-10-30）",
@@ -99,6 +110,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时35分"
+        },
+        {
+          "title": "欧洲央行行长拉加德：将留意人工智能（AI）对（欧元区）劳动力市场的影响。",
+          "url": "https://wallstreetcn.com/livenews/2996996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         }
       ]
     },
@@ -153,11 +175,12 @@
           "ranks": [
             12,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时05分 ~ 22时04分]"
+          "appearance_count": 6,
+          "time_info": "[21时05分 ~ 22时45分]"
         },
         {
           "title": "OpenAI 宣布完成资本重组，如何看待这个精心设计的「新架构」？能否真正确立其非营利的使命？",
@@ -221,8 +244,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时46分 ~ 22时04分]"
+          "appearance_count": 4,
+          "time_info": "[21时46分 ~ 22时45分]"
         },
         {
           "title": "美股盘前：谷歌A涨约7%，Meta跌约7%",
@@ -246,6 +269,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "若万亿美元薪酬被拒，马斯克可能离开特斯拉，马斯克不缺钱，为什么一定要万亿美元薪酬？",
+          "url": "https://www.zhihu.com/question/1966813234586678079",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "马斯克万亿美元特斯拉薪酬方案遭美国加州公务员退休基金反对",
+          "url": "https://wallstreetcn.com/livenews/2997000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时45分"
         }
       ]
     },
@@ -275,23 +326,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "若万亿美元薪酬被拒，马斯克可能离开特斯拉，马斯克不缺钱，为什么一定要万亿美元薪酬？",
-          "url": "https://www.zhihu.com/question/1966813234586678079",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
         }
       ]
     }
