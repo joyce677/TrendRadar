@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T08:43:54.265212+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-10-30T10:28:50.751652+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "510亿！央企战新基金来了 重点支持人工智能、航空航天等未来产业",
@@ -30,6 +30,17 @@
           "time_info": "08时43分"
         },
         {
+          "title": "“2025年中国人工智能行业创新力企业百强”发布 10家深企入围百强榜单",
+          "url": "https://wallstreetcn.com/livenews/2996393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
           "title": "三星电子：第三季度芯片业务营业利润达7万亿韩元。 2026年将重点研发HBM4处理器。 受第四季度人工智能投资持续增长推动，半导体市场预计将保持强劲。 2025年第四季度，晶圆代工业务将力争持续提升盈利能力。 向所有客户销售HBM3E芯片。 在美国的泰勒晶圆工厂将于2026年开始运营。",
           "url": "https://wallstreetcn.com/livenews/2996306",
           "source": "华尔街见闻-快讯",
@@ -44,8 +55,20 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "OpenAI计划于2027年上市",
+          "url": "https://www.douyin.com/hot/2288033",
+          "source": "抖音",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时43分 ~ 10时28分]"
+        },
         {
           "title": "OpenAI回应筹备IPO",
           "url": "https://flash.jin10.com/detail/20251030082103049800",
@@ -58,15 +81,32 @@
           "time_info": "08时43分"
         },
         {
-          "title": "OpenAI计划于2027年上市",
-          "url": "https://www.douyin.com/hot/2288033",
-          "source": "抖音",
+          "title": "OpenAI据悉计划最早明年下半年提交上市申请 | 环球市场",
+          "url": "https://www.cls.cn/detail/2185569",
+          "source": "财联社热门",
           "ranks": [
-            20
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时43分"
+          "time_info": "10时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "若万亿美元薪酬被拒，马斯克可能离开特斯拉，马斯克不缺钱，为什么一定要万亿美元薪酬？",
+          "url": "https://www.zhihu.com/question/1966813234586678079",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时28分"
         }
       ]
     },
