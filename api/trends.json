@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T17:39:51.958024+08:00",
-  "total_titles_processed": 1245,
+  "generated_at": "2025-10-31T18:04:49.876882+08:00",
+  "total_titles_processed": 1304,
   "failed_sources": [],
   "trends": [
     {
@@ -156,7 +156,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         },
@@ -189,7 +189,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时39分"
         },
@@ -218,6 +218,47 @@
       ]
     },
     {
+      "keyword_group": "马斯克",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
+          "url": "https://wallstreetcn.com/articles/3758353",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[08时41分 ~ 18时04分]"
+        },
+        {
+          "title": "马斯克旗下SpaceX有望赢得五角大楼20亿美元卫星合同",
+          "url": "https://flash.jin10.com/detail/20251031173855441800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
+          "title": "据华尔街日报：马斯克的SpaceX有望赢得五角大楼价值20亿美元的卫星项目。",
+          "url": "https://flash.jin10.com/detail/20251031173146894800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -240,8 +281,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时44分 ~ 17时39分]"
+          "appearance_count": 5,
+          "time_info": "[16时44分 ~ 18时04分]"
         }
       ]
     },
@@ -288,27 +329,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[11时31分 ~ 17时39分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
-          "url": "https://wallstreetcn.com/articles/3758353",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时41分 ~ 17时39分]"
+          "appearance_count": 21,
+          "time_info": "[11时31分 ~ 18时04分]"
         }
       ]
     }
