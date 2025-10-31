@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T16:15:07.201479+08:00",
-  "total_titles_processed": 1051,
+  "generated_at": "2025-10-31T16:44:55.782559+08:00",
+  "total_titles_processed": 1109,
   "failed_sources": [],
   "trends": [
     {
@@ -174,6 +174,62 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2186836",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
+          "title": "谷歌前CEO：当年李鸿章访美被震了，如今外国人来华被惊了",
+          "url": "https://news.ifeng.com/c/8ntxAfWGS8b",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "reddit",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "摩根大通：将Reddit(RDDT.N)目标股价从190美元上调至227美元。",
+          "url": "https://flash.jin10.com/detail/20251031162220732800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        },
+        {
+          "title": "Reddit(RDDT.N)盘前上涨12%，此前该公司预计第四季度收入将高于预期。",
+          "url": "https://flash.jin10.com/detail/20251031161048239800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -188,25 +244,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时31分 ~ 16时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2186836",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时41分"
+          "appearance_count": 17,
+          "time_info": "[11时31分 ~ 16时44分]"
         }
       ]
     },
@@ -223,8 +262,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时41分 ~ 16时15分]"
+          "appearance_count": 9,
+          "time_info": "[08时41分 ~ 16时44分]"
         }
       ]
     }
