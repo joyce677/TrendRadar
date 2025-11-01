@@ -1,387 +1,8 @@
 {
-  "generated_at": "2025-10-31T22:42:57.341282+08:00",
-  "total_titles_processed": 1837,
+  "generated_at": "2025-11-01T08:47:11.088354+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "人工智能",
-      "match_count": 22,
-      "titles": [
-        {
-          "title": "据《福布斯》报道，人工智能公司Humans&正在洽谈以50亿美元估值筹集10亿美元资金。",
-          "url": "https://flash.jin10.com/detail/20251031213350598800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时45分 ~ 22时04分]"
-        },
-        {
-          "title": "东京电子：人工智能服务器将推动芯片需求增长。",
-          "url": "https://flash.jin10.com/detail/20251031152100090800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时35分"
-        },
-        {
-          "title": "埃克森美孚：人工智能（AI）在提高（石油天然气）生产方面有巨大的机会。",
-          "url": "https://wallstreetcn.com/livenews/2997794",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "韩国总统办公室：英伟达(NVDA.O)与现代汽车将成立人工智能合资企业。",
-          "url": "https://flash.jin10.com/detail/20251031151914390800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时35分"
-        },
-        {
-          "title": "英伟达与韩国企业达成人工智能协议",
-          "url": "https://flash.jin10.com/detail/20251031142918336800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时49分 ~ 15时05分]"
-        },
-        {
-          "title": "国家发展改革委：新型政策性金融工具5000亿元资金已全部投放完毕，重点投向数字经济、人工智能等领域",
-          "url": "https://wallstreetcn.com/livenews/2997319",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时25分 ~ 11时31分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-10-31）",
-          "url": "https://flash.jin10.com/detail/20251031115715805800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时16分 ~ 12时46分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)与LG合作进行物理人工智能开发，支持创业公司。",
-          "url": "https://flash.jin10.com/detail/20251031142729217800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时49分 ~ 15时05分]"
-        },
-        {
-          "title": "中国信通院人工智能所联合发布《大模型一体机应用研究报告（2025年）》",
-          "url": "https://wallstreetcn.com/livenews/2997385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 13时11分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)：Naver Cloud正在扩展英伟达人工智能基础设施，配备超过6万块GPU。",
-          "url": "https://flash.jin10.com/detail/20251031142423435800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时49分 ~ 15时05分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)：与现代汽车集团及韩国政府合作打造人工智能工厂。",
-          "url": "https://flash.jin10.com/detail/20251031141930569800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时49分 ~ 15时05分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)：SK集团正在建设配备超5万块英伟达GPU的人工智能工厂，打造亚洲首个工业级人工智能云。",
-          "url": "https://flash.jin10.com/detail/20251031141649618800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时49分 ~ 15时05分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)：将有超过5万台英伟达GPU部署于韩国主权云和人工智能工厂。",
-          "url": "https://flash.jin10.com/detail/20251031141537780800",
-          "source": "金十数据",
-          "ranks": [
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时49分 ~ 15时05分]"
-        },
-        {
-          "title": "英伟达(NVDA.O)：正与韩国合作，以扩展该国人工智能基础设施。",
-          "url": "https://flash.jin10.com/detail/20251031141420413800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时49分 ~ 15时05分]"
-        },
-        {
-          "title": "埃克森美孚石油(XOM.N)CEO：人工智能在提升生产方面拥有巨大机遇。",
-          "url": "https://flash.jin10.com/detail/20251031222512027800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：100万亿美元的产业将受益于物理人工智能。",
-          "url": "https://flash.jin10.com/detail/20251031170936382800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：中国是一个非常庞大且重要的市场，中国的人工智能研究如此之多，中国根本无可替代。",
-          "url": "https://flash.jin10.com/detail/20251031163933365800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：韩国必须抓住机遇，成为全球主要的人工智能中心之一。",
-          "url": "https://flash.jin10.com/detail/20251031163314573800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时03分"
-        },
-        {
-          "title": "欧洲央行：就业前景依然相对低迷，工资增长趋于温和。机械设备投资趋于平稳，但数字化和人工智能方面的支出强劲。",
-          "url": "https://flash.jin10.com/detail/20251031170147798800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时39分"
-        },
-        {
-          "title": "现代汽车：投资约30亿美元，推动韩国人工智能发展。",
-          "url": "https://flash.jin10.com/detail/20251031221639821800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        },
-        {
-          "title": "三星电子今天宣布，计划与英伟达(NVDA.O)合作创建一个新的人工智能超级工厂。通过部署5万多个英伟达GPU，加速下一代半导体、移动设备和机器人的开发和生产。",
-          "url": "https://flash.jin10.com/detail/20251031141053549800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时49分"
-        },
-        {
-          "title": "国家发改委：打造数字赋能文旅、体育、数字消费等新型数字生活场景，推动人工智能在消费场景应用",
-          "url": "https://wallstreetcn.com/livenews/2997328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "谷歌前CEO：当年李鸿章访美被震了，如今外国人来华被惊了",
-          "url": "https://news.ifeng.com/c/8ntxAfWGS8b",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[16时44分 ~ 22时42分]"
-        },
-        {
-          "title": "美股三大期指集体走低 谷歌盘前大涨8% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2186836",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时41分"
-        },
-        {
-          "title": "据华尔街日报：谷歌推出首支完全由人工智能生成的广告片，将于今日起在电视上播出。",
-          "url": "https://flash.jin10.com/detail/20251031180309112800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时42分"
-        },
-        {
-          "title": "共和党参议员称谷歌人工智能模型针对保守派",
-          "url": "https://wallstreetcn.com/livenews/2997771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "特斯拉给马斯克的万亿美元薪酬方案遭重要股东反对",
-          "url": "https://wallstreetcn.com/articles/3758353",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[08时41分 ~ 22时42分]"
-        },
-        {
-          "title": "马斯克旗下SpaceX有望赢得五角大楼20亿美元卫星合同",
-          "url": "https://flash.jin10.com/detail/20251031173855441800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时04分"
-        },
-        {
-          "title": "据华尔街日报：马斯克的SpaceX有望赢得五角大楼价值20亿美元的卫星项目。",
-          "url": "https://flash.jin10.com/detail/20251031173146894800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "reddit",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "摩根大通：将Reddit(RDDT.N)目标股价从190美元上调至227美元。",
-          "url": "https://flash.jin10.com/detail/20251031162220732800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时44分"
-        },
-        {
-          "title": "Reddit(RDDT.N)盘前上涨12%，此前该公司预计第四季度收入将高于预期。",
-          "url": "https://flash.jin10.com/detail/20251031161048239800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时44分"
-        }
-      ]
-    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
@@ -391,33 +12,62 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
           "source": "澎湃新闻",
           "ranks": [
-            13,
-            12,
-            10,
-            9,
-            7,
-            6
+            10
           ],
           "is_new": false,
-          "appearance_count": 31,
-          "time_info": "[11时31分 ~ 22时42分]"
+          "appearance_count": 2,
+          "time_info": "[08时46分 ~ 08时47分]"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "空降 OpenAI 智能体榜单第一名的 FM Agent 什么来头，有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1967183428639266693",
-          "source": "知乎",
+          "title": "美股七巨头收盘播报｜亚马逊收涨约9.6%，10月谷歌A涨约15.7%连涨七个月、Meta累跌11.7%",
+          "url": "https://wallstreetcn.com/livenews/2997895",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时42分"
+          "time_info": "08时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克再画“天上大饼”：特斯拉或年内发布飞行汽车原型",
+          "url": "https://www.cls.cn/detail/2188470",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时46分 ~ 08时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美银Hartnett：标普AI泡沫太大，黄金与中国股票或是最佳对冲工具",
+          "url": "https://wallstreetcn.com/articles/3758449",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时46分 ~ 08时47分]"
         }
       ]
     }
