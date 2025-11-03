@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-03T17:44:58.832031+08:00",
-  "total_titles_processed": 1163,
+  "generated_at": "2025-11-03T18:04:16.575129+08:00",
+  "total_titles_processed": 1207,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "李乐成：加快推进人工智能赋能新型工业化",
@@ -21,8 +21,30 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[12时20分 ~ 17时44分]"
+          "appearance_count": 20,
+          "time_info": "[12时20分 ~ 18时04分]"
+        },
+        {
+          "title": "道达尔能源首席执行官：凭借炼油厂现有的数据，人工智能可以帮助产量提高1%，这将带来巨额收入。",
+          "url": "https://flash.jin10.com/detail/20251103174622626800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        },
+        {
+          "title": "英国石油公司首席执行官：未来5到10年，受人工智能增长的推动，能源需求占全球经济的比例将从1%增长到10%。",
+          "url": "https://flash.jin10.com/detail/20251103174218589800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
         },
         {
           "title": "上海新增8款已完成备案的生成式人工智能服务",
@@ -30,11 +52,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时14分 ~ 17时44分]"
+          "appearance_count": 3,
+          "time_info": "[17时14分 ~ 18时04分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-03）",
@@ -99,8 +122,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时40分 ~ 17时44分]"
+          "appearance_count": 16,
+          "time_info": "[13时40分 ~ 18时04分]"
         },
         {
           "title": "人类首次机械飞升！马斯克豪言Neuralink击败全人类",
@@ -137,8 +160,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时47分 ~ 17时44分]"
+          "appearance_count": 6,
+          "time_info": "[16时47分 ~ 18时04分]"
         },
         {
           "title": "马斯克万亿美元薪酬方案下周表决",
@@ -197,6 +220,34 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "摩根大通：将谷歌母公司Alphabet添加到了“美国分析师关注名单”中。",
+          "url": "https://flash.jin10.com/detail/20251103151938770800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时37分 ~ 16时03分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet拟发行至少30亿欧元债券 为AI扩张计划融资",
+          "url": "https://flash.jin10.com/detail/20251103173115660800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -211,23 +262,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时02分 ~ 16时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "摩根大通：将谷歌母公司Alphabet添加到了“美国分析师关注名单”中。",
-          "url": "https://flash.jin10.com/detail/20251103151938770800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时37分 ~ 16时03分]"
         }
       ]
     },
@@ -248,8 +282,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[10时29分 ~ 17时44分]"
+          "appearance_count": 23,
+          "time_info": "[10时29分 ~ 18时04分]"
         }
       ]
     }
