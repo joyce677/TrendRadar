@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T08:46:26.792185+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2025-11-03T10:30:25.824088+08:00",
+  "total_titles_processed": 431,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3758497",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时46分"
+          "appearance_count": 3,
+          "time_info": "[08时46分 ~ 10时30分]"
         },
         {
           "title": "马斯克万亿美元薪酬方案下周表决",
@@ -45,6 +46,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "数据中心冲击消费？AI影响美国中选格局，原因是：电价！",
+          "url": "https://wallstreetcn.com/articles/3758501",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时29分 ~ 10时30分]"
         }
       ]
     }
