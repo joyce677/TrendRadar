@@ -1,467 +1,73 @@
 {
-  "generated_at": "2025-11-03T22:43:22.225940+08:00",
-  "total_titles_processed": 1649,
+  "generated_at": "2025-11-04T08:44:49.363499+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "人工智能",
-      "match_count": 11,
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
       "titles": [
         {
-          "title": "李乐成：加快推进人工智能赋能新型工业化",
-          "url": "https://www.cls.cn/detail/2189189",
-          "source": "财联社热门",
+          "title": "亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片",
+          "url": "https://wallstreetcn.com/articles/3758580",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            8,
-            7,
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[12时20分 ~ 20时20分]"
-        },
-        {
-          "title": "道达尔能源首席执行官：凭借炼油厂现有的数据，人工智能可以帮助产量提高1%，这将带来巨额收入。",
-          "url": "https://flash.jin10.com/detail/20251103174622626800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时04分"
-        },
+          "time_info": "08时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "据英国金融时报：美国首次允许微软(MSFT.O)向阿联酋出口英伟达人工智能芯片。",
-          "url": "https://flash.jin10.com/detail/20251103200352841800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时20分"
-        },
-        {
-          "title": "上海新增8款已完成备案的生成式人工智能服务",
-          "url": "https://wallstreetcn.com/livenews/2998495",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8,
-            11,
-            22,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时14分 ~ 19时02分]"
-        },
-        {
-          "title": "英国石油公司首席执行官：未来5到10年，受人工智能增长的推动，能源需求占全球经济的比例将从1%增长到10%。",
-          "url": "https://flash.jin10.com/detail/20251103174218589800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时04分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-11-03）",
-          "url": "https://flash.jin10.com/detail/20251103120317405800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时21分 ~ 13时02分]"
-        },
-        {
-          "title": "阿联酋能源部长：随着人工智能和数据中心的发展，我们肯定需要更多能源。",
-          "url": "https://flash.jin10.com/detail/20251103141136470800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时52分 ~ 15时12分]"
-        },
-        {
-          "title": "工信部部长李乐成：加快推进人工智能赋能新型工业化",
-          "url": "https://wallstreetcn.com/livenews/2998305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时38分 ~ 12时21分]"
-        },
-        {
-          "title": "IREN(IREN.O)涨超20%，戴尔(DELL.N)涨超3%，IREN与微软达成价值97亿美元的人工智能云合同，并将斥资58亿美元从戴尔公司采购GPU及相关设备。",
-          "url": "https://flash.jin10.com/detail/20251103223129230800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "道达尔能源首席执行官：现有供应量不足以满足人工智能的需求。",
-          "url": "https://flash.jin10.com/detail/20251103164118481800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时14分"
-        },
-        {
-          "title": "IREN(IREN.O)股价盘前上涨18%，此前该公司与微软(MSFT.O)达成了一项价值97亿美元的人工智能云合同。",
-          "url": "https://flash.jin10.com/detail/20251103190845834800",
+          "title": "市场消息：纽约要求驳回马斯克旗下X公司就仇恨言论法提起的诉讼。",
+          "url": "https://flash.jin10.com/detail/20251104073132043800",
           "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时33分"
+          "time_info": "08时44分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "keyword_group": "增长",
+      "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI多模态视频生成模型Sora近日宣布推出限时开放，在美国、加拿大、日本和韩国的用户无需邀请码即可进入Sora应用。",
-          "url": "https://wallstreetcn.com/livenews/2998342",
+          "title": "“AI+国风”推动新型玩具出口订单大幅增长",
+          "url": "https://wallstreetcn.com/livenews/2998807",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时21分 ~ 13时41分]"
-        },
-        {
-          "title": "市场消息：OpenAI多模态视频生成模型Sora近日宣布推出限时开放，在美国、加拿大、日本和韩国的用户无需邀请码即可进入Sora应用。",
-          "url": "https://flash.jin10.com/detail/20251103120231849800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时21分 ~ 13时02分]"
-        },
-        {
-          "title": "亚马逊与OpenAI签订价值380亿美元的协议，将供应英伟达芯片提供的算力",
-          "url": "https://wallstreetcn.com/livenews/2998620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "奥尔特曼称OpenAI年收入远超130亿美元",
-          "url": "https://flash.jin10.com/detail/20251103081100518800",
-          "source": "金十数据",
-          "ranks": [
-            14
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时46分"
-        },
-        {
-          "title": "亚马逊与OpenAI签署380亿美元协议 为其提供英伟达芯片算力支持",
-          "url": "https://flash.jin10.com/detail/20251103221140014800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "OpenAI：亚马逊云服务（AWS）算力容量可继续扩容至2027年及后续阶段。",
-          "url": "https://flash.jin10.com/detail/20251103220523576800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "OpenAI：将立即启用亚马逊云服务（AWS）算力服务作为战略合作首阶段部署，计划于2026年底前完成全部算力资源投产。",
-          "url": "https://flash.jin10.com/detail/20251103220458471800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "OpenAI：将接入配备数十万颗英伟达(NVDA.O)先进GPU的AWS算力集群。",
-          "url": "https://flash.jin10.com/detail/20251103220427835800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "OpenAI：此次合作涉及380亿美元投资承诺，OpenAI将借助亚马逊云服务（AWS）的价格优势、卓越性能、扩展能力与安全保障大幅提升算力规模。",
-          "url": "https://flash.jin10.com/detail/20251103220348095800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "据报道，谷歌母公司Alphabet寻求通过美元债发行筹集150亿美元。",
-          "url": "https://wallstreetcn.com/livenews/2998610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时46分 ~ 22时03分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet将发行至少30亿欧元债券以支持AI扩张",
-          "url": "https://wallstreetcn.com/livenews/2998517",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            14,
-            22,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时45分 ~ 20时20分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet(GOOG.O)启动八部分美元债券发行。",
-          "url": "https://flash.jin10.com/detail/20251103205814111800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时05分 ~ 22时03分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet启动分八部分美元债券发行。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2998596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时46分 ~ 22时43分]"
-        },
-        {
-          "title": "摩根大通：将谷歌母公司Alphabet添加到了“美国分析师关注名单”中。",
-          "url": "https://flash.jin10.com/detail/20251103151938770800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时37分 ~ 16时03分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet拟发行至少30亿欧元债券 为AI扩张计划融资",
-          "url": "https://flash.jin10.com/detail/20251103173115660800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时04分"
-        },
-        {
-          "title": "报道：谷歌母公司Alphabet寻求通过美元债发行筹集150亿美元",
-          "url": "https://wallstreetcn.com/livenews/2998610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "人类首次机械飞升！马斯克豪言Neuralink击败全人类",
-          "url": "https://wallstreetcn.com/articles/3758497",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时46分 ~ 14时17分]"
-        },
-        {
-          "title": "马斯克称 5 年后不再有传统的手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
-          "url": "https://www.zhihu.com/question/1968223817403954668",
-          "source": "知乎",
-          "ranks": [
-            3,
-            2,
-            1,
-            7,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[13时40分 ~ 22时43分]"
-        },
-        {
-          "title": "马斯克：我承诺在播客节目公布“外星人证据”",
-          "url": "https://news.ifeng.com/c/8nywSREDnvu",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[16时47分 ~ 22时43分]"
-        },
-        {
-          "title": "马斯克称 5 年后不再有手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
-          "url": "https://www.zhihu.com/question/1968223817403954668",
-          "source": "知乎",
-          "ranks": [
-            10,
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时38分 ~ 13时02分]"
-        },
-        {
-          "title": "马斯克万亿美元薪酬方案下周表决",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E8%96%AA%E9%85%AC%E6%96%B9%E6%A1%88%E4%B8%8B%E5%91%A8%E8%A1%A8%E5%86%B3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26pos%3D5%26stream_entry_id%3D31%26q%3D%2523%25E9%25A9%25AC%25E6%2596%25AF%25E5%2585%258B%25E4%25B8%2587%25E4%25BA%25BF%25E7%25BE%258E%25E5%2585%2583%25E8%2596%25AA%25E9%2585%25AC%25E6%2596%25B9%25E6%25A1%2588%25E4%25B8%258B%25E5%2591%25A8%25E8%25A1%25A8%25E5%2586%25B3%2523%26dgr%3D0%26band_rank%3D6%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26realpos%3D6%26lcate%3D5001%26flag%3D1%26display_time%3D1762130010%26pre_seqid%3D17621300101070168875093&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时46分"
+          "time_info": "08时44分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "数据中心冲击消费？AI影响美国中选格局，原因是：电价！",
-          "url": "https://wallstreetcn.com/articles/3758501",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[10时29分 ~ 18时45分]"
-        },
-        {
-          "title": "美国允许微软运输英伟达AI芯片以在阿联酋使用。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/2998577",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时05分 ~ 22时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek崩了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3DDeepSeek%E5%B4%A9%E4%BA%86&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26realpos%3D18%26cate%3D5001%26dgr%3D0%26pos%3D18%26stream_entry_id%3D31%26lcate%3D5001%26band_rank%3D18%26q%3DDeepSeek%25E5%25B4%25A9%25E4%25BA%2586%26filter_type%3Drealtimehot%26flag%3D1%26display_time%3D1762156786%26pre_seqid%3D176215678643703350838143&launchid=10000360-page_H5",
-          "source": "微博",
+          "title": "从“芯”到“电”，美银：中国AI基础设施非IT投资规模将达8000亿元",
+          "url": "https://wallstreetcn.com/articles/3758569",
+          "source": "华尔街见闻",
           "ranks": [
-            18,
-            24
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时02分 ~ 16时03分]"
+          "appearance_count": 1,
+          "time_info": "08时44分"
         }
       ]
     }
