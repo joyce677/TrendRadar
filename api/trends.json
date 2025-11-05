@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T15:03:09.216210+08:00",
-  "total_titles_processed": 916,
+  "generated_at": "2025-11-05T15:37:11.465573+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            5
+            5,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 15时03分]"
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 15时37分]"
         },
         {
           "title": "软银与OpenAI于11月5日成立合资公司。（彭博）",
@@ -83,28 +84,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "亚马逊清仓AMD 谷歌将测试太空数据中心构想 | 环球市场",
-          "url": "https://www.cls.cn/detail/2191270",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            12,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时44分 ~ 15时03分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能",
-      "match_count": 1,
+      "match_count": 6,
       "titles": [
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-05）",
@@ -118,6 +99,93 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时15分 ~ 13时03分]"
+        },
+        {
+          "title": "日本最高外汇事务官员三村淳：如果人工智能泡沫破裂，可能会看见更多不良贷款。",
+          "url": "https://wallstreetcn.com/livenews/2999722",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "日本最高外汇事务官员三村淳：如果人工智能泡沫破裂，可能会看见更多不良贷款。",
+          "url": "https://flash.jin10.com/detail/20251105152726204800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "日本最高外汇事务官员三村淳：近期日元走势偏离基本面。 日元多头头寸在夏季后一直在减少。 投机、地缘政治、贸易都在影响市场。 货币政策掌握在日本央行手中。 美国财长贝森特同意货币政策掌握在日本央行手中。 美日贸易协议是我们所能期望的最好结果。 贸易协定中的投资协议将使日本企业受益。 15%的关税是日本企业能够承受的限度。 股票上涨可能反映出对人工智能相关的预期。 日本企业的投资将保持强劲。",
+          "url": "https://wallstreetcn.com/livenews/2999710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "日本最高外汇事务官员三村淳：目前投资人工智能是明智之举，但其中许多人工智能生态系统最终可能会被迫退出市场。",
+          "url": "https://flash.jin10.com/detail/20251105152441844800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        },
+        {
+          "title": "日本最高外汇事务官员三村淳：股票上涨可能反映出对人工智能相关的预期。",
+          "url": "https://flash.jin10.com/detail/20251105152420028800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "亚马逊清仓AMD 谷歌将测试太空数据中心构想 | 环球市场",
+          "url": "https://www.cls.cn/detail/2191270",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            12,
+            13,
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 18,
+          "time_info": "[08时44分 ~ 15时37分]"
+        },
+        {
+          "title": "市场消息：谷歌已扫清美国司法部的反垄断障碍，得以推进其320亿美元的收购网络安全公司Wiz交易。",
+          "url": "https://flash.jin10.com/detail/20251105153256493800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时37分"
         }
       ]
     },
@@ -147,11 +215,12 @@
           "url": "https://wallstreetcn.com/livenews/2999699",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时03分 ~ 15时37分]"
         }
       ]
     }
