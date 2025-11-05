@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T11:56:53.290373+08:00",
-  "total_titles_processed": 610,
+  "generated_at": "2025-11-05T12:15:07.796020+08:00",
+  "total_titles_processed": 640,
   "failed_sources": [],
   "trends": [
     {
@@ -26,8 +26,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时26分 ~ 11时56分]"
+          "appearance_count": 6,
+          "time_info": "[10时26分 ~ 12时15分]"
         },
         {
           "title": "软银和OpenAI将于11月成立新公司。（日经新闻）",
@@ -35,11 +35,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时32分 ~ 11时56分]"
+          "appearance_count": 3,
+          "time_info": "[11时32分 ~ 12时15分]"
         },
         {
           "title": "日媒：软银和OpenAI将于11月成立新公司",
@@ -69,8 +70,25 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时44分 ~ 11时56分]"
+          "appearance_count": 8,
+          "time_info": "[08时44分 ~ 12时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-11-05）",
+          "url": "https://flash.jin10.com/detail/20251105115714525800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
         }
       ]
     },
