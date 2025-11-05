@@ -1,319 +1,56 @@
 {
-  "generated_at": "2025-11-04T22:45:36.993115+08:00",
-  "total_titles_processed": 1730,
+  "generated_at": "2025-11-05T08:45:08.928814+08:00",
+  "total_titles_processed": 319,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "人工智能",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-11-04）",
-          "url": "https://flash.jin10.com/detail/20251104120350694800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 13时02分]"
-        },
-        {
-          "title": "西班牙桑坦德银行首席执行官：我认为人工智能的实施不会摧毁大量工作岗位，而是会促使工人进行技能再培训。",
-          "url": "https://flash.jin10.com/detail/20251104180444058800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时46分 ~ 19时03分]"
-        },
-        {
-          "title": "李在明提出“AI时代第一份预算” 韩国将三倍增投人工智能",
-          "url": "https://flash.jin10.com/detail/20251104104549357800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时30分"
-        },
-        {
-          "title": "Shopify(SHOP.N)高管：人工智能助手“正在迅速成为商家完成工作的默认方式”。",
-          "url": "https://flash.jin10.com/detail/20251104214127199800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
-          "title": "德国电信首席执行官：人工智能数据中心将于慕尼黑开业。",
-          "url": "https://flash.jin10.com/detail/20251104185501842800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时37分"
-        },
-        {
-          "title": "英伟达(NVDA.O)与德国电信达成10亿欧元人工智能云合作伙伴关系。",
-          "url": "https://flash.jin10.com/detail/20251104185124582800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时37分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：德国将成为全球最大人工智能市场之一，期待进一步加大投资力度。",
-          "url": "https://flash.jin10.com/detail/20251104201754992800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "马斯克：体力劳动更难被AI取代",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E4%BD%93%E5%8A%9B%E5%8A%B3%E5%8A%A8%E6%9B%B4%E9%9A%BE%E8%A2%ABAI%E5%8F%96%E4%BB%A3",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            25,
-            20,
-            22,
-            18,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[13时02分 ~ 19时37分]"
-        },
-        {
-          "title": "马斯克：我永远不会自杀",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E6%88%91%E6%B0%B8%E8%BF%9C%E4%B8%8D%E4%BC%9A%E8%87%AA%E6%9D%80",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            26,
-            25,
-            27,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时03分 ~ 19时03分]"
-        },
-        {
-          "title": "美财长回应与马斯克在白宫打架",
-          "url": "https://www.toutiao.com/trending/7568305525287436294/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时10分 ~ 22时04分]"
-        },
-        {
-          "title": "挪威主权财富基金反对特斯拉授予马斯克1万亿美元薪酬方案",
-          "url": "https://wallstreetcn.com/livenews/2999214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时11分 ~ 22时04分]"
-        },
-        {
-          "title": "市场消息：纽约要求驳回马斯克旗下X公司就仇恨言论法提起的诉讼。",
-          "url": "https://flash.jin10.com/detail/20251104073132043800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "谷歌(GOOG.O)：实时车道导航功能将拓展至更多道路类型及合作车企车型。",
-          "url": "https://flash.jin10.com/detail/20251104210818012800",
-          "source": "金十数据",
+          "title": "亚马逊清仓AMD 谷歌将测试太空数据中心构想 | 环球市场",
+          "url": "https://www.cls.cn/detail/2191270",
+          "source": "财联社热门",
           "ranks": [
-            20
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：谷歌地图为内置谷歌系统的汽车推出基于人工智能的实时车道指引功能，首发车型为极星4。",
-          "url": "https://flash.jin10.com/detail/20251104210638002800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时49分"
+          "appearance_count": 2,
+          "time_info": "[08时44分 ~ 08时45分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片",
-          "url": "https://wallstreetcn.com/articles/3758580",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 34,
-          "time_info": "[08时44分 ~ 22时45分]"
-        },
-        {
-          "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
-          "url": "https://www.cls.cn/detail/2190043",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时24分 ~ 15时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Anthropic",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Anthropic PBC在9月份从多家投资者融资130亿美元。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/2999268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
-          "title": "据The Information：Anthropic PBC于9月从多家投资者融资130亿美元。",
-          "url": "https://flash.jin10.com/detail/20251104223713783800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "增长",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Palantir电话会：AI带来“非凡增长”、“40法则”罕见破百，CEO炮轰华尔街“我们交出软件公司史上最佳业绩，而你们一直看错”！",
-          "url": "https://wallstreetcn.com/articles/3758602",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时02分 ~ 16时47分]"
-        },
-        {
-          "title": "“AI+国风”推动新型玩具出口订单大幅增长",
-          "url": "https://wallstreetcn.com/livenews/2998807",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "AI投资大赛落下帷幕，阿里千问Qwen夺冠，DeepSeek亚军",
-          "url": "https://wallstreetcn.com/livenews/2998954",
+          "title": "OpenAI 禁止 ChatGPT 提供专业医疗、法律、金融建议，这背后的原因是什么？",
+          "url": "https://www.zhihu.com/question/1968690991750967598",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时44分 ~ 08时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克称特斯拉AI5芯片2027年才能量产，AI6要到2028年",
+          "url": "https://wallstreetcn.com/livenews/2999464",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            11,
-            12,
             25
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时30分 ~ 12时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "从“芯”到“电”，美银：中国AI基础设施非IT投资规模将达8000亿元",
-          "url": "https://wallstreetcn.com/articles/3758569",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[08时44分 ~ 20时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时45分"
         }
       ]
     }
