@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T21:05:53.254360+08:00",
-  "total_titles_processed": 1590,
+  "generated_at": "2025-11-06T21:48:32.381157+08:00",
+  "total_titles_processed": 1684,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "报道：谷歌下周将宣布其在德国的历来最大投资计划",
@@ -102,6 +102,17 @@
           "time_info": "[14时50分 ~ 15时03分]"
         },
         {
+          "title": "谷歌正在推出其最强大的AI芯片Ironwood，未来几周将全面上市。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3000596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
           "title": "知情人士：谷歌正进行初步洽谈，拟加大对Anthropic投资。",
           "url": "https://flash.jin10.com/detail/20251106104149768800",
           "source": "金十数据",
@@ -127,7 +138,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "英伟达(NVDA.O)投资的Vast Data公司与CoreWeave签署11.7亿美元人工智能合作协议。",
@@ -189,6 +200,17 @@
           "time_info": "[18时44分 ~ 19时04分]"
         },
         {
+          "title": "英国央行行长贝利：看到就业低迷，公司招聘减少。 我们可能会出现人工智能泡沫。 关注对金融稳定的影响。 泡沫破裂将收紧金融环境。 我希望看到更多证据表明通胀已过峰值。",
+          "url": "https://wallstreetcn.com/livenews/3000587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
+        },
+        {
           "title": "日本自民党议员関芳弘：力争每年获得1万亿日元预算，用于芯片和人工智能领域。",
           "url": "https://wallstreetcn.com/livenews/3000232",
           "source": "华尔街见闻-快讯",
@@ -248,6 +270,18 @@
           "time_info": "[19时04分 ~ 20时24分]"
         },
         {
+          "title": "AI革命加速裁员潮！美国10月挑战者企业裁员人数同比暴增175.3%，创二十年同期最高纪录",
+          "url": "https://wallstreetcn.com/articles/3758820",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时05分 ~ 21时48分]"
+        },
+        {
           "title": "受AI推动，美国10月挑战者企业裁员人数创逾20年同期新高",
           "url": "https://wallstreetcn.com/livenews/3000470",
           "source": "华尔街见闻-快讯",
@@ -270,17 +304,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时50分 ~ 15时03分]"
-        },
-        {
-          "title": "AI革命加速裁员潮！美国10月挑战者企业裁员人数同比暴增175.3%，创二十年同期最高纪录",
-          "url": "https://wallstreetcn.com/articles/3758820",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时05分"
         }
       ]
     },
@@ -335,11 +358,12 @@
           "url": "https://www.cls.cn/detail/2193135",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时23分 ~ 21时05分]"
+          "appearance_count": 4,
+          "time_info": "[20时23分 ~ 21时48分]"
         },
         {
           "title": "马斯克提议建设「太空遮阳伞」应对全球变暖，从专业角度看，这种构想可行吗？可能面临哪些难点？",
@@ -348,7 +372,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时05分"
         }
