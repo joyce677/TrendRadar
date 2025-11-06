@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-06T12:16:45.945962+08:00",
-  "total_titles_processed": 614,
+  "generated_at": "2025-11-06T12:46:16.499070+08:00",
+  "total_titles_processed": 665,
   "failed_sources": [],
   "trends": [
     {
@@ -37,7 +37,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         }
@@ -45,8 +45,19 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-11-06）",
+          "url": "https://flash.jin10.com/detail/20251106120017709800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时46分"
+        },
         {
           "title": "日本执政党：希望每年投入1万亿日元用于芯片和人工智能",
           "url": "https://flash.jin10.com/detail/20251106102034608800",
@@ -73,25 +84,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "深度解析OpenAI产业链布局",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90OpenAI%E4%BA%A7%E4%B8%9A%E9%93%BE%E5%B8%83%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "马斯克",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "马斯克万亿薪酬背后的对赌棋局",
@@ -104,6 +98,46 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时42分 ~ 11时34分]"
+        },
+        {
+          "title": "事关机器人、自动驾驶板块！马斯克“万亿薪酬”提案将表决 通过概率几何？",
+          "url": "https://www.cls.cn/detail/2192690",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 12时46分]"
+        },
+        {
+          "title": "马斯克万亿薪酬背后的权力博弈",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E4%B8%87%E4%BA%BF%E8%96%AA%E9%85%AC%E8%83%8C%E5%90%8E%E7%9A%84%E6%9D%83%E5%8A%9B%E5%8D%9A%E5%BC%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时45分 ~ 12时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "深度解析OpenAI产业链布局",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90OpenAI%E4%BA%A7%E4%B8%9A%E9%93%BE%E5%B8%83%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 12时46分]"
         }
       ]
     },
@@ -136,7 +170,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时16分"
         }
@@ -151,11 +185,12 @@
           "url": "https://www.cls.cn/detail/2192687",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时16分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时16分 ~ 12时46分]"
         }
       ]
     }
