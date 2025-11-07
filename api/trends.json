@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T05:11:02.287544+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2025-11-08T06:14:26.224603+08:00",
+  "total_titles_processed": 578,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 33,
       "titles": [
         {
           "title": "美科学家：有人调侃，特朗普干一辈子，对中国科研是大好事",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 05时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 06时14分]"
         },
         {
           "title": "特朗普痛骂佩洛西",
@@ -24,11 +24,12 @@
           "source": "抖音",
           "ranks": [
             2,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时12分 ~ 05时11分]"
+          "appearance_count": 8,
+          "time_info": "[01时12分 ~ 06时14分]"
         },
         {
           "title": "特朗普真想对委内瑞拉开战吗？",
@@ -38,8 +39,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 05时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 06时14分]"
         },
         {
           "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
@@ -49,8 +50,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时16分 ~ 05时11分]"
+          "appearance_count": 9,
+          "time_info": "[00时16分 ~ 06时14分]"
         },
         {
           "title": "特朗普称佩洛西在股市“非法敛财”",
@@ -62,17 +63,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        },
-        {
-          "title": "美国总统特朗普要求司法部调查众多肉联厂（肉类包装公司）。",
-          "url": "https://wallstreetcn.com/livenews/3001393",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时11分"
         },
         {
           "title": "美国总统特朗普：没有哪个国家在经济方面能接近美国。",
@@ -99,6 +89,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时21分 ~ 04时14分]"
+        },
+        {
+          "title": "美国总统特朗普要求司法部调查众多肉联厂（肉类包装公司）。",
+          "url": "https://wallstreetcn.com/livenews/3001393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时11分 ~ 06时14分]"
         },
         {
           "title": "美国总统特朗普：谈及会见俄罗斯总统普京的事宜。 若有可能，我愿意在匈牙利布达佩斯会见普京。",
@@ -295,6 +297,17 @@
           "time_info": "01时12分"
         },
         {
+          "title": "美国总统特朗普：在达成临时开支立法草案之前，参议院成员们都不应该离开华盛顿特区（国会山所在地）。",
+          "url": "https://wallstreetcn.com/livenews/3001408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        },
+        {
           "title": "美国总统特朗普：如果共和党废除阻挠议事（冗长辩论）规则，他们将在未来多年赢得胜利；如果他们不这样做，灾难将不可避免！",
           "url": "https://flash.jin10.com/detail/20251108001852404800",
           "source": "金十数据",
@@ -385,6 +398,35 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
+          "url": "https://wallstreetcn.com/articles/3758853",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时16分 ~ 04时14分]"
+        },
+        {
+          "title": "OpenAI呼吁特朗普政府改革《芯片法案》税收抵免，以支持AI基础设施建设",
+          "url": "https://wallstreetcn.com/livenews/3001405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时14分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 2,
       "titles": [
@@ -409,24 +451,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
-          "url": "https://wallstreetcn.com/articles/3758853",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时16分 ~ 04时14分]"
         }
       ]
     }
