@@ -1,183 +1,128 @@
 {
-  "generated_at": "2025-11-08T10:24:13.195666+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2025-11-09T10:45:36.221910+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "SNAP福利60年来首次中断！美最高法院批准特朗普暂扣40亿美元食品援助",
+          "url": "https://wallstreetcn.com/articles/3758973",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "塞尔维亚吵翻了：拆北约轰炸遗址给特朗普家酒店让路",
+          "url": "https://news.ifeng.com/c/8o7TfqD4rXd",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "南非政府发表声明驳斥特朗普言论",
+          "url": "https://news.ifeng.com/c/8o7E8T6RYDN",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        },
+        {
+          "title": "欧尔班当场挖特朗普“墙脚”",
+          "url": "https://www.toutiao.com/trending/7569946456040292378/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
         {
           "title": "美股收盘：国会消息刺激V型反转 纳指仍创4月以来最大单周跌幅",
           "url": "https://www.cls.cn/detail/2194839",
           "source": "财联社热门",
           "ranks": [
-            2
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 10时24分]"
+          "appearance_count": 1,
+          "time_info": "10时45分"
         },
         {
-          "title": "市场情绪依然疲弱 美股三大期指继续走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2194710",
-          "source": "财联社热门",
+          "title": "左手黄金右手美股就能对冲风险吗？原中金首席风险官李祥林教你用衍生品辨别应对“黑天鹅”",
+          "url": "https://wallstreetcn.com/articles/3758046",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 10时24分]"
-        },
-        {
-          "title": "中信证券：基本面支撑美股韧性 短期扰动难逆上行趋势",
-          "url": "https://wallstreetcn.com/livenews/3001463",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "金十图示：2025年11月07日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251108080807908800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "金十图示：2025年11月07日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251108080805463800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "美股周线结束三连涨，纳指本周累跌3%",
-          "url": "https://flash.jin10.com/detail/20251108080758770800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "星展：美股AI股票的高估值问题非常值得担忧，尤其是所谓的美股“科技七巨头”",
-          "url": "https://wallstreetcn.com/livenews/3001443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "死对头要走了，特朗普开心坏了",
-          "url": "https://news.ifeng.com/c/8o6hZy3wipk",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 10时24分]"
-        },
-        {
-          "title": "最高法院暂准特朗普政府官员限制补充营养援助计划（SNAP）的食品援助。",
-          "url": "https://wallstreetcn.com/livenews/3001469",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "美国法官裁定，特朗普下令国民警卫队前往俄勒冈州波特兰市属非法。",
-          "url": "https://flash.jin10.com/detail/20251108090128912800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "85岁佩洛西将退休，回顾她与特朗普交锋历史：夸张鼓掌、手撕演讲稿...",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31914607",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时23分 ~ 10时24分]"
-        },
-        {
-          "title": "美国总统特朗普：现在是共和党参议员停止与激进左派民主党人玩弄把戏的时候了，立即终止阻挠议事，立即开放政府，并通过一些具有常识的伟大立法！",
-          "url": "https://flash.jin10.com/detail/20251108084855810800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周大福、周大生足金价格均为1268元/克，涨幅约0.71%",
-          "url": "https://wallstreetcn.com/livenews/3001457",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时24分"
+          "time_info": "10时45分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "美以称“伊朗曾试图密谋暗杀以色列驻墨西哥大使”，伊方驳斥：弥天大谎",
-          "url": "https://wallstreetcn.com/livenews/3001468",
+          "title": "形势“极其危急”！伊朗总统：若持续不降雨，将被迫从德黑兰撤离",
+          "url": "https://wallstreetcn.com/livenews/3001631",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时24分"
+          "time_info": "10时45分"
+        },
+        {
+          "title": "伊媒：伊朗宪法监护委员会批准从国家货币里亚尔中“去掉4个零”的计划",
+          "url": "https://wallstreetcn.com/livenews/3001630",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
+          "url": "https://wallstreetcn.com/articles/3758970",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时45分"
         }
       ]
     }
