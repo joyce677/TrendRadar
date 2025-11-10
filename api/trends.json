@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T17:42:49.327236+08:00",
-  "total_titles_processed": 1112,
+  "generated_at": "2025-11-10T18:12:35.932428+08:00",
+  "total_titles_processed": 1159,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-10）",
@@ -24,11 +24,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时02分 ~ 17时42分]"
+          "appearance_count": 3,
+          "time_info": "[17时02分 ~ 18时12分]"
         },
         {
           "title": "日本央行审议委员中川顺子：我关注的风险包括美国经济前景，例如关税对经济和物价的影响可能大于预期，以及人工智能驱动的投资增长预期可能发生改变。",
@@ -54,6 +55,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时19分 ~ 17时02分]"
+        },
+        {
+          "title": "人工智能替代人工作之后，人们去干什么？",
+          "url": "https://www.zhihu.com/question/1969381221114048758",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         }
       ]
     },
