@@ -1,12 +1,27 @@
 {
-  "generated_at": "2025-11-10T20:19:02.770519+08:00",
-  "total_titles_processed": 1383,
+  "generated_at": "2025-11-10T21:06:38.989709+08:00",
+  "total_titles_processed": 1439,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
       "match_count": 6,
       "titles": [
+        {
+          "title": "人工智能替代人工作之后，人们去干什么？",
+          "url": "https://www.zhihu.com/question/1969381221114048758",
+          "source": "知乎",
+          "ranks": [
+            14,
+            17,
+            18,
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时12分 ~ 21时06分]"
+        },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-10）",
           "url": "https://flash.jin10.com/detail/20251110120705247800",
@@ -17,20 +32,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时47分 ~ 13时03分]"
-        },
-        {
-          "title": "人工智能替代人工作之后，人们去干什么？",
-          "url": "https://www.zhihu.com/question/1969381221114048758",
-          "source": "知乎",
-          "ranks": [
-            14,
-            17,
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时12分 ~ 20时19分]"
         },
         {
           "title": "分析师：人工智能热潮给判断宏观经济形势出了个大难题",
@@ -134,11 +135,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时34分 ~ 20时19分]"
+          "appearance_count": 3,
+          "time_info": "[19时34分 ~ 21时06分]"
         },
         {
           "title": "特斯拉(TSLA.O)为CEO马斯克的薪酬方案注册股票。",
@@ -150,6 +152,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "增长",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "瑞银：AI生产力增长驱动科技股上行是合理的",
+          "url": "https://flash.jin10.com/detail/20251110202419439800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时06分"
         }
       ]
     },
