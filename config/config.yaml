@@ -53,7 +53,7 @@ notification:
     dingtalk_url: "" # 钉钉机器人的 webhook URL
     wework_url: "" # 企业微信机器人的 webhook URL
     telegram_bot_token: "" # Telegram Bot Token
-    telegram_chat_id: "" # Telegram Chat ID
+    telegram_chat_id: "@outai" # Telegram Chat ID
 
 # 用于让关注度更高的新闻在更前面显示，合起来是 1 就行
 weight:
