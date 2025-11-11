@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-11T18:03:14.011876+08:00",
-  "total_titles_processed": 1260,
+  "generated_at": "2025-11-11T18:46:03.775146+08:00",
+  "total_titles_processed": 1350,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "软银集团CFO：我们对OpenAI的投资非常巨大，因此我们必须利用现有资产为投资提供资金。",
@@ -43,6 +43,17 @@
           "time_info": "[10时27分 ~ 11时34分]"
         },
         {
+          "title": "AI热潮驱动，软银Q3净利润翻番，愿景基金收益190亿美元，清仓英伟达、追投OpenAI",
+          "url": "https://wallstreetcn.com/articles/3759120",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
+        },
+        {
           "title": "OpenAI挖走英特尔印度大将",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%8C%96%E8%B5%B0%E8%8B%B1%E7%89%B9%E5%B0%94%E5%8D%B0%E5%BA%A6%E5%A4%A7%E5%B0%86",
           "source": "bilibili 热搜",
@@ -71,7 +82,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -90,7 +101,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "“把算力送入太空！” 中国企业卡位“太空AI”前沿赛道｜聚焦",
@@ -103,8 +114,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时15分 ~ 18时03分]"
+          "appearance_count": 14,
+          "time_info": "[14时15分 ~ 18时46分]"
         },
         {
           "title": "美国AI被电力卡了脖子？大量数据中心面临闲置风险 电力设备行业或迎机遇",
@@ -145,6 +156,69 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时40分 ~ 18时03分]"
+        },
+        {
+          "title": "美国家庭电费上涨，左翼参议员桑德斯致信白宫：别让老百姓为科技巨头的AI梦买单",
+          "url": "https://wallstreetcn.com/articles/3759084",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时45分 ~ 18时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "韩国相关部门表示，韩国方面暂未就谷歌(GOOG.O)提出的地图数据传输请求作出决定。",
+          "url": "https://flash.jin10.com/detail/20251111115436400800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 13时03分]"
+        },
+        {
+          "title": "韩国相关部门表示，韩国将待谷歌(GOOG.O)提交补充文件后作出最终决定。",
+          "url": "https://flash.jin10.com/detail/20251111115423827800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时44分 ~ 13时03分]"
+        },
+        {
+          "title": "谷歌：宣布为学习项目提供3000万美元新资金，并发布人工智能对学习影响的最新研究成果。",
+          "url": "https://flash.jin10.com/detail/20251111181704391800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
+        },
+        {
+          "title": "据消息人士称，谷歌计划在德国的基础设施领域投资数亿欧元。",
+          "url": "https://flash.jin10.com/detail/20251111180516272800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时46分"
         }
       ]
     },
@@ -187,36 +261,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时40分 ~ 18时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "韩国相关部门表示，韩国方面暂未就谷歌(GOOG.O)提出的地图数据传输请求作出决定。",
-          "url": "https://flash.jin10.com/detail/20251111115436400800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 13时03分]"
-        },
-        {
-          "title": "韩国相关部门表示，韩国将待谷歌(GOOG.O)提交补充文件后作出最终决定。",
-          "url": "https://flash.jin10.com/detail/20251111115423827800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时44分 ~ 13时03分]"
         }
       ]
     },
