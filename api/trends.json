@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-11T15:14:52.630539+08:00",
-  "total_titles_processed": 1308,
+  "generated_at": "2025-11-11T16:19:37.224325+08:00",
+  "total_titles_processed": 1415,
   "failed_sources": [],
   "trends": [
     {
@@ -70,8 +70,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时43分 ~ 15时14分]"
+          "appearance_count": 7,
+          "time_info": "[11时43分 ~ 16时19分]"
         },
         {
           "title": "特朗普：所有空中交通管制员立即复工",
@@ -228,11 +228,12 @@
           "url": "https://news.ifeng.com/c/8oBpqNUPhuf",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时21分 ~ 15时14分]"
+          "appearance_count": 3,
+          "time_info": "[14时21分 ~ 16时19分]"
         },
         {
           "title": "牛弹琴：特朗普宣布一个大消息",
@@ -678,7 +679,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "参议员向特朗普政府询问数据中心对电价的影响，谈及OpenAI和甲骨文等",
@@ -702,6 +703,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时14分"
+        },
+        {
+          "title": "OpenAI挖走英特尔印度大将",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%8C%96%E8%B5%B0%E8%8B%B1%E7%89%B9%E5%B0%94%E5%8D%B0%E5%BA%A6%E5%A4%A7%E5%B0%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "英特尔CTO跳槽至OpenAI，CEO陈立武将兼任该职",
@@ -732,7 +744,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         },
@@ -743,7 +755,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时14分"
         }
@@ -751,7 +763,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "伊朗货币改革将启动：删除4个0",
@@ -774,6 +786,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时21分"
+        },
+        {
+          "title": "伊朗否认密谋暗杀以驻墨西哥大使",
+          "url": "https://news.ifeng.com/c/8oCBAFytiMm",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时19分"
         },
         {
           "title": "美国财政部：暂停（对叙利亚）制裁，但涉及俄罗斯和伊朗的某些交易除外。",
