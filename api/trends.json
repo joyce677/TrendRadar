@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T06:26:58.196748+08:00",
-  "total_titles_processed": 662,
+  "generated_at": "2025-11-13T07:23:56.514228+08:00",
+  "total_titles_processed": 716,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "美国财长贝森特：特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税",
@@ -15,11 +15,12 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时23分 ~ 06时26分]"
+          "appearance_count": 14,
+          "time_info": "[01时23分 ~ 07时23分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：特朗普政府正在认真考虑美国总统特朗普主张的50年期抵押贷款。",
@@ -57,6 +58,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时26分]"
+        },
+        {
+          "title": "特朗普“最恨的女人”要退休了",
+          "url": "https://www.toutiao.com/trending/7571102416779952154/",
+          "source": "今日头条",
+          "ranks": [
+            29,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时25分 ~ 07时23分]"
         },
         {
           "title": "白宫国家经济委员会主任凯文·哈塞特：美国总统特朗普不会有第三季。",
@@ -131,17 +144,6 @@
           "time_info": "[02时33分 ~ 03时21分]"
         },
         {
-          "title": "特朗普“最恨的女人”要退休了",
-          "url": "https://www.toutiao.com/trending/7571102416779952154/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 06时26分]"
-        },
-        {
           "title": "美国众议院民主党人表示，派拉蒙拒绝回答有关特朗普政府批准CBS合并交易的问题。",
           "url": "https://flash.jin10.com/detail/20251113032506975800",
           "source": "金十数据",
@@ -206,6 +208,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "美国上诉法院暂时阻止了特朗普政府的命令，该命令要求达美航空和墨西哥航空公司于1月1日前终止合资企业。",
+          "url": "https://flash.jin10.com/detail/20251113062840962800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "白宫新闻秘书莱维特：（谈英国广播公司）美国总统特朗普对其演讲被编辑一事深感关切。",
@@ -288,18 +301,19 @@
     },
     {
       "keyword_group": "ai",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "苏姿丰：誓夺AI芯片市场“两位数”份额，预计到2030年AMD营收年增或超35%、利润增超两倍",
           "url": "https://wallstreetcn.com/articles/3759159",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 06时26分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 07时23分]"
         },
         {
           "title": "储能产业将乘上AI东风！瑞银：全球储能需求明年或暴增40%",
@@ -311,8 +325,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 06时26分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 07时23分]"
         },
         {
           "title": "美石油巨头要建巨型AI供电设施 欧洲市场再迎新高时刻 | 今夜看点",
@@ -323,8 +337,30 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 06时26分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 07时23分]"
+        },
+        {
+          "title": "中信证券来了18位新员工！称作“AI数字员工团队”",
+          "url": "https://www.cls.cn/detail/2198606",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时20分 ~ 07时23分]"
+        },
+        {
+          "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
+          "url": "https://www.cls.cn/detail/2198992",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 07时23分]"
         },
         {
           "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
@@ -338,26 +374,15 @@
           "time_info": "05时23分"
         },
         {
-          "title": "中信证券来了18位新员工！称作“AI数字员工团队”",
-          "url": "https://www.cls.cn/detail/2198606",
-          "source": "财联社热门",
+          "title": "深度思维正式推出“数学做题家AI”，其在奥赛中取得相当于银牌的成绩",
+          "url": "https://wallstreetcn.com/livenews/3003674",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时20分 ~ 05时23分]"
-        },
-        {
-          "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
-          "url": "https://flash.jin10.com/detail/20251113060235382800",
-          "source": "金十数据",
-          "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时26分"
+          "time_info": "07时23分"
         },
         {
           "title": "白宫国家经济委员会主任凯文·哈塞特：AI正提高工人和企业的生产力。 AI生产力可能有助于解释高估值。",
@@ -371,6 +396,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时21分 ~ 05时23分]"
+        },
+        {
+          "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
+          "url": "https://flash.jin10.com/detail/20251113060235382800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时23分]"
         },
         {
           "title": "巨头“变着法子”表外融资！这三笔“AI巨额融资”如此“创新”，整个华尔街都盯着",
@@ -388,11 +425,12 @@
           "url": "https://wallstreetcn.com/livenews/3003648",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时23分]"
         },
         {
           "title": "OpenAI：GPT-5系列升级，发布GPT-5.1 INstant和GPT-5.1 Thinking。",
@@ -412,9 +450,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "“纸片人”风生水起，AI撬动，漫剧产业规模狂飙",
+          "url": "https://wallstreetcn.com/livenews/3003654",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "思科(CSCO.O)CEO：第一季度来自超大规模企业的AI基础设施订单总额达13亿美元。",
@@ -423,7 +472,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
         },
@@ -441,81 +490,20 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "金十图示：2025年11月12日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251113050551816800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "金十图示：2025年11月12日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20251113050525386800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "费城金银指数收涨3.42%，报305.08点，北京时间00:00开始高位窄幅震荡。 纽约证交所ARCA金矿开采商指数收涨3.11%，报2218.94点，美股开盘之前大致持平，00:00过后持续高位窄幅震荡。",
-          "url": "https://wallstreetcn.com/livenews/3003643",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "美股收盘：道指创新高 AMD涨9%",
-          "url": "https://flash.jin10.com/detail/20251113050121041800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "航空业ETF收涨约3.1%，领跑美股行业ETF，标普能源板块涨超1.4%",
-          "url": "https://wallstreetcn.com/livenews/3003637",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "美股七巨头收盘播报｜Meta收跌将近2.9%，特斯拉跌超2%",
-          "url": "https://wallstreetcn.com/livenews/3003633",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "全球最大黄金ETF--SPDR Gold Trust持仓较上日增加0.28吨，当前持仓量为1046.64吨。",
+          "url": "https://flash.jin10.com/detail/20251113070609217800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
         {
           "title": "现货黄金站上4200美元/盎司，为10月21日以来首次，目前涨1.8%。",
           "url": "https://wallstreetcn.com/livenews/3003557",
@@ -539,6 +527,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时26分]"
+        },
+        {
+          "title": "渣打银行：继续预计第四季度黄金均价为每盎司4000美元。",
+          "url": "https://flash.jin10.com/detail/20251113063345928800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         },
         {
           "title": "现货黄金日内涨幅达1.5%，报4189.11美元/盎司。 纽约银日内涨幅达4.5%，报53.03美元/盎司。",
@@ -576,6 +575,79 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "金十图示：2025年11月12日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251113050551816800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "费城金银指数收涨3.42%，报305.08点，北京时间00:00开始高位窄幅震荡。 纽约证交所ARCA金矿开采商指数收涨3.11%，报2218.94点，美股开盘之前大致持平，00:00过后持续高位窄幅震荡。",
+          "url": "https://wallstreetcn.com/livenews/3003643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时23分]"
+        },
+        {
+          "title": "金十图示：2025年11月12日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251113050525386800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美股收盘：道指创新高 AMD涨9%",
+          "url": "https://flash.jin10.com/detail/20251113050121041800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "航空业ETF收涨约3.1%，领跑美股行业ETF，标普能源板块涨超1.4%",
+          "url": "https://wallstreetcn.com/livenews/3003637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜Meta收跌将近2.9%，特斯拉跌超2%",
+          "url": "https://wallstreetcn.com/livenews/3003633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人工智能",
       "match_count": 3,
       "titles": [
@@ -609,7 +681,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
         }
@@ -628,8 +700,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 06时26分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 07时23分]"
         },
         {
           "title": "受政府重开预期与科技股强势提振，美股指集体高开，AMD大涨8%，美债上扬，加密货币跳水",
@@ -637,22 +709,24 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 06时26分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 07时23分]"
         },
         {
           "title": "加密货币与加密货币关联指数跌3.19%，报75.21点。 周三（11月12日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌0.88%，报10.2万美元。 CME以太币期货DCR主力合约跌0.20%，报3434美元，北京时间21:50涨至3596.50美元刷新日高，随后快速转跌。",
           "url": "https://wallstreetcn.com/livenews/3003639",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时23分]"
         }
       ]
     },
@@ -696,8 +770,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 06时26分]"
+          "appearance_count": 16,
+          "time_info": "[00时28分 ~ 07时23分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米",
@@ -711,6 +785,34 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时32分 ~ 04时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "渣打银行：维持四季度黄金价格预期均值在4000美元/盎司不变。 预计黄金价格将在2026年一季度面临上行风险的积聚。",
+          "url": "https://wallstreetcn.com/livenews/3003663",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
+        },
+        {
+          "title": "渣打银行：2026年第一季度金价存在上行风险。",
+          "url": "https://flash.jin10.com/detail/20251113063512644800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时23分"
         }
       ]
     },
