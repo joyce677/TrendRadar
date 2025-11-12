@@ -1,22 +1,34 @@
 {
-  "generated_at": "2025-11-12T11:32:04.586081+08:00",
-  "total_titles_processed": 542,
+  "generated_at": "2025-11-12T12:14:40.674047+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "美联储理事Barr：人工智能可能改变经济格局。",
           "url": "https://wallstreetcn.com/livenews/3003138",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 12时14分]"
+        },
+        {
+          "title": "美联储理事巴尔在新加坡就人工智能提前准备的讲话中，未对货币政策和经济前景发表评论。",
+          "url": "https://flash.jin10.com/detail/20251112112600840800",
+          "source": "金十数据",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时32分"
+          "time_info": "12时14分"
         },
         {
           "title": "中信建投人工智能2026年投资策略展望：国产AI芯片迎来高斜率增长期，应用商业化加速",
@@ -30,15 +42,37 @@
           "time_info": "08时43分"
         },
         {
+          "title": "美联储理事巴尔将于十分钟后在新加坡金融科技节前参加“人工智能与创新”讨论会。",
+          "url": "https://flash.jin10.com/detail/20251112111500000800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
+        {
           "title": "马来西亚国家石油公司：加强人工智能集成生态系统与高性能计算领域的全球合作，推动马来西亚上游产业的发展。",
           "url": "https://flash.jin10.com/detail/20251112104223327800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "澳洲联储副主席豪泽：我们不知道是否正处于人工智能泡沫中，目前的中心情形并非市场即将崩盘。",
+          "url": "https://flash.jin10.com/detail/20251112110640547800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         }
       ]
     },
@@ -56,8 +90,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时43分 ~ 11时32分]"
+          "appearance_count": 5,
+          "time_info": "[08时43分 ~ 12时14分]"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
@@ -65,11 +99,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时43分 ~ 11时32分]"
+          "appearance_count": 5,
+          "time_info": "[08时43分 ~ 12时14分]"
         }
       ]
     }
