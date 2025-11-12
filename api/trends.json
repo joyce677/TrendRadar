@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-12T13:15:19.433236+08:00",
-  "total_titles_processed": 1154,
+  "generated_at": "2025-11-12T14:22:18.257111+08:00",
+  "total_titles_processed": 1248,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "特朗普宣布美国不再资助乌克兰",
@@ -53,6 +53,19 @@
           "time_info": "[00时17分 ~ 09时01分]"
         },
         {
+          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
+          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时44分 ~ 14时22分]"
+        },
+        {
           "title": "激怒特朗普，BBC身陷数十年来“最严重危机”",
           "url": "https://news.ifeng.com/c/8oCBMrJmQx8",
           "source": "凤凰网",
@@ -72,11 +85,12 @@
             14,
             17,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时17分 ~ 13时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时17分 ~ 14时22分]"
         },
         {
           "title": "美主播阴阳怪气中国人遭特朗普反驳",
@@ -92,18 +106,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时17分 ~ 09时01分]"
-        },
-        {
-          "title": "MAGA“怀疑人生”，特朗普坚称需要60万中国学生",
-          "url": "https://news.ifeng.com/c/8oDMVpPn2xZ",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时44分 ~ 13时15分]"
         },
         {
           "title": "特朗普回应高市早苗涉台错误言论",
@@ -427,6 +429,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "据英国金融时报：英国国家安全顾问乔纳森·鲍威尔试图打开与俄罗斯总统普京的秘密沟通渠道。英国及其欧洲盟友担心，特朗普政府可能会在乌克兰问题上置它们的利益于不顾。",
+          "url": "https://flash.jin10.com/detail/20251112132543128800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
+        },
+        {
           "title": "美国交通部长Duffy：空管人员将在特朗普政府开门之后24-48（小时）获得以往薪酬的70%。 剩余30%将在那一周之后发放。",
           "url": "https://wallstreetcn.com/livenews/3002977",
           "source": "华尔街见闻-快讯",
@@ -573,7 +586,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "谷歌公司为智能手机产品Pixel推出类似苹果的信息汇总/摘要（Message Summaries）功能。",
@@ -621,6 +634,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时13分 ~ 02时19分]"
+        },
+        {
+          "title": "土耳其电信宣布与谷歌云建立战略合作伙伴关系，并计划在土耳其设立谷歌云区域。",
+          "url": "https://flash.jin10.com/detail/20251112134900756800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         },
         {
           "title": "谷歌高管贾斯图斯：投资将确保在德国创造9000个就业岗位。",
@@ -682,8 +706,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时17分 ~ 13时15分]"
+          "appearance_count": 21,
+          "time_info": "[00时17分 ~ 14时22分]"
         },
         {
           "title": "俄罗斯推出首款国产人形机器人 OpenAI被判侵权 | 环球市场",
@@ -695,8 +719,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时00分 ~ 13时15分]"
+          "appearance_count": 11,
+          "time_info": "[09时00分 ~ 14时22分]"
         },
         {
           "title": "OpenAI挖走英特尔印度大将",
@@ -770,6 +794,36 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
+          "url": "https://wallstreetcn.com/livenews/3003176",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 14时22分]"
+        },
+        {
+          "title": "前DeepSeek研究员罗福莉已加入小米",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E5%2589%258DDeepSeek%25E7%25A0%2594%25E7%25A9%25B6%25E5%2591%2598%25E7%25BD%2597%25E7%25A6%258F%25E8%258E%2589%25E5%25B7%25B2%25E5%258A%25A0%25E5%2585%25A5%25E5%25B0%258F%25E7%25B1%25B3%2523%26dgr%3D0%26realpos%3D8%26flag%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26stream_entry_id%3D31%26pos%3D8%26lcate%3D5001%26band_rank%3D8%26display_time%3D1762928346%26pre_seqid%3D176292834605103471637&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时21分 ~ 14时22分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
       "match_count": 2,
       "titles": [
@@ -794,23 +848,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "前DeepSeek研究员罗福莉已加入小米：全力奔赴心目中的AGI",
-          "url": "https://wallstreetcn.com/livenews/3003176",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时15分"
         }
       ]
     }
