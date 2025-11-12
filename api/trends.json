@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-12T21:01:23.671455+08:00",
-  "total_titles_processed": 568,
+  "generated_at": "2025-11-12T21:42:51.379963+08:00",
+  "total_titles_processed": 672,
   "failed_sources": [],
   "trends": [
     {
@@ -34,11 +34,12 @@
           "url": "https://wallstreetcn.com/livenews/3003428",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时42分]"
         },
         {
           "title": "特朗普将于美国东部时间周三晚上7:30举行私人晚宴。",
@@ -58,7 +59,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -80,7 +81,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -91,7 +92,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         },
@@ -110,7 +111,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美银：机构投资者在美股回调时买入",
@@ -119,9 +120,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-11-12）",
+          "url": "https://flash.jin10.com/detail/20251112211910657800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         },
         {
           "title": "美股收盘：三大股指涨跌不一 市场押注美国政府停摆即将结束",
@@ -139,11 +151,12 @@
           "url": "https://wallstreetcn.com/livenews/3003429",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时01分 ~ 21时42分]"
         },
         {
           "title": "美股释放“不祥之兆” 标普500中创新低股票数量持续增加",
@@ -152,9 +165,37 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "前DeepSeek研究员罗福莉已加入小米",
+          "url": "https://www.baidu.com/s?wd=%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时01分"
+        },
+        {
+          "title": "前DeepSeek研究员罗福莉已加入小米",
+          "url": "https://www.toutiao.com/trending/7571465266493702187/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         }
       ]
     },
@@ -208,24 +249,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "前DeepSeek研究员罗福莉已加入小米",
-          "url": "https://www.baidu.com/s?wd=%E5%89%8DDeepSeek%E7%A0%94%E7%A9%B6%E5%91%98%E7%BD%97%E7%A6%8F%E8%8E%89%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%B0%8F%E7%B1%B3",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时01分"
         }
@@ -233,7 +257,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
@@ -244,8 +268,36 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 21时01分]"
+          "appearance_count": 3,
+          "time_info": "[10时42分 ~ 21时42分]"
+        },
+        {
+          "title": "摩根大通美债客户净多头占比升至4月7日以来最高水平",
+          "url": "https://wallstreetcn.com/livenews/3003444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧佩克月报：二手资料显示，伊朗10月原油产量减少6.6万桶/日，至320.9万桶/日。",
+          "url": "https://flash.jin10.com/detail/20251112210345876800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         }
       ]
     }
