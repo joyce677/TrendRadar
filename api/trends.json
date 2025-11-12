@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T04:16:07.975794+08:00",
-  "total_titles_processed": 552,
+  "generated_at": "2025-11-13T05:13:28.438947+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美国财长贝森特：特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税",
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时14分 ~ 04时16分]"
+          "appearance_count": 7,
+          "time_info": "[01时14分 ~ 05时13分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：特朗普政府正在认真考虑美国总统特朗普主张的50年期抵押贷款。",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            13
+            13,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 04时16分]"
+          "appearance_count": 3,
+          "time_info": "[03时12分 ~ 05时13分]"
         },
         {
           "title": "美国最高法院：将于明年1月21日就美国总统特朗普解雇美联储理事库克的请求举行口头辩论。",
@@ -134,7 +135,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         },
@@ -249,6 +250,17 @@
           "time_info": "01时14分"
         },
         {
+          "title": "G7外长联合声明：重申强烈支持美国总统特朗普结束加沙冲突的计划，强调归还已故人质遗骸的紧迫性。",
+          "url": "https://flash.jin10.com/detail/20251113044517247800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特：我同意特朗普的观点，利率可以低得多。",
           "url": "https://flash.jin10.com/detail/20251113014622086800",
           "source": "金十数据",
@@ -273,8 +285,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 04时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 05时13分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米",
@@ -321,8 +333,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
+          "url": "https://flash.jin10.com/detail/20251113050804559800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时13分"
+        },
         {
           "title": "OpenAI：GPT-5系列升级，发布GPT-5.1 INstant和GPT-5.1 Thinking。",
           "url": "https://flash.jin10.com/detail/20251113031402005800",
@@ -330,7 +353,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
         }
