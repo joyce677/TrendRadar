@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T04:30:47.268756+08:00",
-  "total_titles_processed": 554,
+  "generated_at": "2025-11-13T05:26:03.066437+08:00",
+  "total_titles_processed": 610,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "美国财长贝森特：特朗普谈到向年收入低于10万美元的家庭发放2000美元的退税",
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时26分 ~ 04时30分]"
+          "appearance_count": 7,
+          "time_info": "[01时26分 ~ 05时26分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：特朗普政府正在认真考虑美国总统特朗普主张的50年期抵押贷款。",
@@ -136,7 +137,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
         },
@@ -240,6 +241,17 @@
           "time_info": "00时36分"
         },
         {
+          "title": "G7外长联合声明：重申强烈支持美国总统特朗普结束加沙冲突的计划，强调归还已故人质遗骸的紧迫性。",
+          "url": "https://flash.jin10.com/detail/20251113044517247800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特：我同意特朗普的观点，利率可以低得多。",
           "url": "https://flash.jin10.com/detail/20251113014622086800",
           "source": "金十数据",
@@ -253,8 +265,69 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "航空业ETF收涨约3.1%，领跑美股行业ETF，标普能源板块涨超1.4%",
+          "url": "https://wallstreetcn.com/livenews/3003637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "金十图示：2025年11月12日（周三）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251113050551816800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜Meta收跌将近2.9%，特斯拉跌超2%",
+          "url": "https://wallstreetcn.com/livenews/3003633",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "金十图示：2025年11月12日（周三）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20251113050525386800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
+        {
+          "title": "美股收盘：道指创新高 AMD涨9%",
+          "url": "https://flash.jin10.com/detail/20251113050121041800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美就业疲软提振降息预期，道指涨超1%，科技股回调，美债金银齐涨，加密货币下挫",
@@ -265,8 +338,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 04时30分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 05时26分]"
         },
         {
           "title": "受政府重开预期与科技股强势提振，美股指集体高开，AMD大涨8%，美债上扬，加密货币跳水",
@@ -277,8 +350,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 04时30分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 05时26分]"
         },
         {
           "title": "美国财长贝森特：选民们授权总统特朗普让美国恢复经济承受能力。 巩固国债市场是这个使命的一部分。 在2025年的发达国家市场，美债表现最佳。 美债的日常现金交易大约1万亿美元。 将继续考虑改善美债回购计划。 投资者对美债需求是如此的强烈，将继续监控投资者的需求。 不会改变债务发行的整体协议。 维持债市健康是我的头等大事。",
@@ -290,6 +363,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时36分"
+        },
+        {
+          "title": "中长期美债收益率跌约4个基点",
+          "url": "https://wallstreetcn.com/livenews/3003621",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
         }
       ]
     },
@@ -305,8 +389,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时36分 ~ 04时30分]"
+          "appearance_count": 8,
+          "time_info": "[00时36分 ~ 05时26分]"
         },
         {
           "title": "前DeepSeek研究员罗福莉已加入小米",
@@ -352,8 +436,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
+          "url": "https://flash.jin10.com/detail/20251113050804559800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时26分"
+        },
         {
           "title": "OpenAI：GPT-5系列升级，发布GPT-5.1 INstant和GPT-5.1 Thinking。",
           "url": "https://flash.jin10.com/detail/20251113031402005800",
@@ -361,7 +456,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时30分"
         }
@@ -376,11 +471,12 @@
           "url": "https://wallstreetcn.com/livenews/3003616",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时30分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时30分 ~ 05时26分]"
         }
       ]
     }
