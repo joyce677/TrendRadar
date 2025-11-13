@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T18:45:29.922509+08:00",
-  "total_titles_processed": 1293,
+  "generated_at": "2025-11-13T19:03:15.505303+08:00",
+  "total_titles_processed": 1359,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "阿里股价直线拉升！“通义千问”全面对标ChatGPT，进军C端市场",
@@ -33,6 +33,30 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时28分 ~ 13时03分]"
+        },
+        {
+          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
+          "url": "https://wallstreetcn.com/articles/3759294",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时02分 ~ 19时03分]"
+        },
+        {
+          "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
+          "url": "https://www.cls.cn/detail/2199601",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时42分 ~ 19时03分]"
         },
         {
           "title": "OpenAI 发布 GPT-5.1 模型，主打「更温暖」「说人话」，如何看待这一升级？",
@@ -71,19 +95,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时50分 ~ 15时03分]"
-        },
-        {
-          "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
-          "url": "https://www.cls.cn/detail/2199601",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时42分 ~ 18时45分]"
         },
         {
           "title": "阿里巴巴港股股价小幅拉升，跌幅收窄至0.33%，此前一度跌约1.5%。此前消息称阿里秘密启动“千问”项目，全面对标ChatGPT。",
@@ -134,6 +145,45 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌：欧盟的调查可能会影响搜索结果的质量。",
+          "url": "https://flash.jin10.com/detail/20251113184640966800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
+          "title": "欧盟针对谷歌启动《数字市场法案》下的新调查。欧盟正在评估新闻媒体及其他网站是否在谷歌搜索中被降级。欧盟委员会致力于在12个月内完成调查。",
+          "url": "https://flash.jin10.com/detail/20251113184617045800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
+          "title": "欧盟正在调查谷歌的网站声誉政策是否损害了出版商的利益。",
+          "url": "https://flash.jin10.com/detail/20251113184521825800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "增长",
       "match_count": 3,
       "titles": [
@@ -143,11 +193,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时11分 ~ 18时45分]"
+          "appearance_count": 5,
+          "time_info": "[18时11分 ~ 19时03分]"
         },
         {
           "title": "【腾讯：企业服务收入同比增长十几个百分点，受益于云服务的收入增长】腾讯财报显示，金融科技及企业服务业务二零二五年第三季的收入同比增长10%至人民币582亿元。金融科技服务收入同比以高个位数百分比增长，主要受益于商业支付活动及消费贷款服务的收入增加。企业服务收入同比增长十几个百分点，受益于云服务的收入增长（其中包括企业客户对AI相关服务需求上升带动的增长），以及由于微信小店交易额扩大而带动的商家技术服务费收入增长。",
