@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-13T22:24:38.499188+08:00",
-  "total_titles_processed": 2107,
+  "generated_at": "2025-11-13T23:27:16.454568+08:00",
+  "total_titles_processed": 2198,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 54,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普签署法案，美国史上最长政府“停摆”结束",
@@ -351,6 +351,17 @@
           "time_info": "19时23分"
         },
         {
+          "title": "房利美下跌12%，创8月8日以来盘中新低，美国总统特朗普近日提出50年其抵押贷款假想。",
+          "url": "https://wallstreetcn.com/livenews/3004257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "白宫称特朗普外部团队已起诉BBC",
           "url": "https://wallstreetcn.com/livenews/3003989",
           "source": "华尔街见闻-快讯",
@@ -472,6 +483,17 @@
           "time_info": "09时24分"
         },
         {
+          "title": "特朗普首席经济顾问：美国9月就业报告可能下周公布",
+          "url": "https://wallstreetcn.com/livenews/3004247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "白宫新闻秘书莱维特：（谈英国广播公司）美国总统特朗普对其演讲被编辑一事深感关切。",
           "url": "https://flash.jin10.com/detail/20251113024054748800",
           "source": "金十数据",
@@ -481,6 +503,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "白宫国家经济委员会主任凯文·哈塞特：美国总统特朗普所谓的50年期抵押贷款是正在研究的许多政策方案之一。",
+          "url": "https://wallstreetcn.com/livenews/3004246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "美国财长贝森特：选民授权特朗普让美国再次更有负担能力。",
@@ -640,7 +673,7 @@
     },
     {
       "keyword_group": "ai",
-      "match_count": 47,
+      "match_count": 50,
       "titles": [
         {
           "title": "美股收盘：道指再创历史新高 AI热潮降温AMD逆势飙升9%",
@@ -684,11 +717,12 @@
           "url": "https://search.bilibili.com/all?keyword=AI%E9%80%A0%E4%B8%96%E7%95%8C%E7%9A%84%E6%97%B6%E4%BB%A3%E6%9D%A5%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时42分 ~ 22时24分]"
+          "appearance_count": 8,
+          "time_info": "[20时42分 ~ 23时27分]"
         },
         {
           "title": "美石油巨头要建巨型AI供电设施 欧洲市场再迎新高时刻 | 今夜看点",
@@ -719,6 +753,18 @@
           "time_info": "[12时28分 ~ 18时25分]"
         },
         {
+          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3759306",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[20时42分 ~ 23时27分]"
+        },
+        {
           "title": "OpenAI发布GPT-5.1",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.1",
           "source": "bilibili 热搜",
@@ -744,15 +790,17 @@
           "time_info": "[03时20分 ~ 07时23分]"
         },
         {
-          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3759306",
-          "source": "华尔街见闻",
+          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
+          "source": "澎湃新闻",
           "ranks": [
-            7
+            20,
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时42分 ~ 22时24分]"
+          "appearance_count": 8,
+          "time_info": "[20时42分 ~ 23时27分]"
         },
         {
           "title": "OpenAI：GPT-5.1将于本周向所有用户推出。GPT-5将继续向付费订阅用户开放三个月，GPT-5的停用期不会影响其他旧版模型的可用性。将很快将GPT-5 Pro升级至GPT-5.1 Pro。",
@@ -786,19 +834,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时42分 ~ 22时24分]"
         },
         {
           "title": "OpenAI 发布 GPT-5.1 模型，主打「更温暖」「说人话」，如何看待这一升级？",
@@ -864,6 +899,20 @@
           "time_info": "[11时22分 ~ 12时30分]"
         },
         {
+          "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2200065",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时23分 ~ 23时27分]"
+        },
+        {
           "title": "大空头伯里称 AI 巨头通过延长芯片折旧年限等虚增利润，甲骨文和 Meta 利润或将被高估超 20%，如何解读？",
           "url": "https://www.zhihu.com/question/1971870297541043616",
           "source": "知乎",
@@ -896,6 +945,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[18时26分 ~ 19时23分]"
+        },
+        {
+          "title": "腾讯电话会：2025年全年实际资本支出将低于指引，GPU储备足够内部使用，微信最终将推出一个AI智能体",
+          "url": "https://wallstreetcn.com/articles/3759330",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时25分 ~ 23时27分]"
         },
         {
           "title": "微软将利用OpenAI定制芯片技术助力内部研发工作",
@@ -943,18 +1004,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时43分 ~ 21时38分]"
-        },
-        {
-          "title": "阿里股价因AI叙事走强 现货白银冲击历史新高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2200065",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时23分 ~ 22时24分]"
         },
         {
           "title": "如何看待米哈游《星布谷地》的 AI NPC 技术？",
@@ -1079,6 +1128,17 @@
           "time_info": "06时26分"
         },
         {
+          "title": "据CNBC：xAI本轮融资将于12月12日结束。",
+          "url": "https://flash.jin10.com/detail/20251113223736829800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "“纸片人”风生水起，AI撬动，漫剧产业规模狂飙",
           "url": "https://wallstreetcn.com/livenews/3003654",
           "source": "华尔街见闻-快讯",
@@ -1088,6 +1148,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "据CNBC援引消息人士报道，xAI在E轮融资中筹集150亿美元。",
+          "url": "https://flash.jin10.com/detail/20251113223650627800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
         },
         {
           "title": "思科(CSCO.O)CEO：第一季度来自超大规模企业的AI基础设施订单总额达13亿美元。",
@@ -1202,8 +1273,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[09时23分 ~ 22时24分]"
+          "appearance_count": 28,
+          "time_info": "[09时23分 ~ 23时27分]"
         },
         {
           "title": "中国黄金回应试戴金镯10秒被索赔1000",
@@ -1242,6 +1313,21 @@
           "time_info": "09时24分"
         },
         {
+          "title": "黄金拉升大涨",
+          "url": "https://www.douyin.com/hot/2304388",
+          "source": "抖音",
+          "ranks": [
+            26,
+            21,
+            19,
+            17,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[21时37分 ~ 23时27分]"
+        },
+        {
           "title": "现货黄金日内涨超1%，现报4237美元/盎司。 现货白银日内涨超2%，现报54.33美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3004010",
           "source": "华尔街见闻-快讯",
@@ -1275,19 +1361,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时24分 ~ 02时33分]"
-        },
-        {
-          "title": "黄金拉升大涨",
-          "url": "https://www.douyin.com/hot/2304388",
-          "source": "抖音",
-          "ranks": [
-            26,
-            21,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时37分 ~ 22时24分]"
         },
         {
           "title": "金十图示：2025年11月13日（周四）黄金ETF持仓报告",
@@ -1439,7 +1512,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
         {
           "title": "美股期货收复稍早失地，纳斯达克100指数期货转为上涨0.3%。",
@@ -1510,6 +1583,17 @@
           "time_info": "20时43分"
         },
         {
+          "title": "美股开盘下跌 连涨势头或将终结",
+          "url": "https://flash.jin10.com/detail/20251113230001158800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "哔哩哔哩美股盘前一度涨超6%，公司Q3营收76.9亿元，同比增长5%。",
           "url": "https://wallstreetcn.com/livenews/3004100",
           "source": "华尔街见闻-快讯",
@@ -1532,6 +1616,28 @@
           "time_info": "05时23分"
         },
         {
+          "title": "房利美股价下跌12%，至8月8日以来最低水平；房地美跌超10%。",
+          "url": "https://flash.jin10.com/detail/20251113225044627800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "行业ETF美股盘初普遍下跌，半导体ETF跌1.2%，科技行业ETF跌0.7%，全球科技股指数ETF跌0.66%，能源业ETF涨0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3004250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "航空业ETF收涨约3.1%，领跑美股行业ETF，标普能源板块涨超1.4%",
           "url": "https://wallstreetcn.com/livenews/3003637",
           "source": "华尔街见闻-快讯",
@@ -1549,7 +1655,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -1598,6 +1704,17 @@
           "time_info": "18时26分"
         },
         {
+          "title": "金十图示：2025年11月13日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251113223632726800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
           "title": "美股存储芯片股盘前下跌，美光科技跌近3%，西部数据跌超4%。",
           "url": "https://wallstreetcn.com/livenews/3004069",
           "source": "华尔街见闻-快讯",
@@ -1632,7 +1749,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -1679,7 +1796,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -1690,7 +1807,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时24分"
         },
@@ -1759,6 +1876,18 @@
           "time_info": "[00时28分 ~ 07时23分]"
         },
         {
+          "title": "美国加密货币资产管理公司Grayscale Investments提交IPO申请。",
+          "url": "https://wallstreetcn.com/livenews/3004235",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时24分 ~ 23时27分]"
+        },
+        {
           "title": "加密货币与加密货币关联指数跌3.19%，报75.21点。 周三（11月12日）纽约尾盘，CME比特币期货BTC主力合约较周一纽约尾盘跌0.88%，报10.2万美元。 CME以太币期货DCR主力合约跌0.20%，报3434美元，北京时间21:50涨至3596.50美元刷新日高，随后快速转跌。",
           "url": "https://wallstreetcn.com/livenews/3003639",
           "source": "华尔街见闻-快讯",
@@ -1769,17 +1898,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时23分]"
-        },
-        {
-          "title": "美国加密货币资产管理公司Grayscale Investments提交IPO申请。",
-          "url": "https://wallstreetcn.com/livenews/3004235",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时24分"
         },
         {
           "title": "美国司法部成立“诈骗中心打击小组” 打击东南亚加密货币欺诈",
@@ -1985,8 +2103,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时21分 ~ 22时24分]"
+          "appearance_count": 10,
+          "time_info": "[19时21分 ~ 23时27分]"
         },
         {
           "title": "阿里股价直线拉升！“通义千问”全面对标ChatGPT，进军C端市场",
@@ -2011,8 +2129,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[17时26分 ~ 22时24分]"
+          "appearance_count": 12,
+          "time_info": "[17时26分 ~ 23时25分]"
         },
         {
           "title": "恒生科技指数转涨，阿里巴巴港股直线拉升，现涨1%，消息称阿里秘密启动“千问”项目，全面对标ChatGPT。",
@@ -2068,6 +2186,62 @@
       ]
     },
     {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克旗下xAI融资150亿美元，将于12月12日完成E轮融资。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3004252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时27分"
+        },
+        {
+          "title": "爱尔兰监管机构调查马斯克的“X”是否违反欧盟数字服务法",
+          "url": "https://flash.jin10.com/detail/20251113024027019800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "死亡",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马方确认马泰之间海域沉船事件死亡人数升至25人",
+          "url": "https://flash.jin10.com/detail/20251113031713666800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时26分"
+        },
+        {
+          "title": "父亲脑死亡 女儿含泪帮他完成心愿",
+          "url": "https://www.toutiao.com/trending/7572135942807486506/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek",
       "match_count": 2,
       "titles": [
@@ -2097,40 +2271,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时32分 ~ 04时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "爱尔兰监管机构调查马斯克的“X”是否违反欧盟数字服务法",
-          "url": "https://flash.jin10.com/detail/20251113024027019800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "死亡",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马方确认马泰之间海域沉船事件死亡人数升至25人",
-          "url": "https://flash.jin10.com/detail/20251113031713666800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时26分"
         }
       ]
     },
