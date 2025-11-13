@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-13T19:03:15.505303+08:00",
-  "total_titles_processed": 1359,
+  "generated_at": "2025-11-13T19:35:36.590171+08:00",
+  "total_titles_processed": 1418,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,30 @@
           "time_info": "[15时37分 ~ 18时45分]"
         },
         {
+          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
+          "url": "https://wallstreetcn.com/articles/3759294",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时02分 ~ 19时35分]"
+        },
+        {
+          "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
+          "url": "https://www.cls.cn/detail/2199601",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时42分 ~ 19时35分]"
+        },
+        {
           "title": "OpenAI发布GPT-5.1",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83GPT-5.1",
           "source": "bilibili 热搜",
@@ -33,30 +57,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时28分 ~ 13时03分]"
-        },
-        {
-          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
-          "url": "https://wallstreetcn.com/articles/3759294",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 19时03分]"
-        },
-        {
-          "title": "阿里秘密启动“千问”项目 将推出国际版与ChatGPT竞争",
-          "url": "https://www.cls.cn/detail/2199601",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时42分 ~ 19时03分]"
         },
         {
           "title": "OpenAI 发布 GPT-5.1 模型，主打「更温暖」「说人话」，如何看待这一升级？",
@@ -146,40 +146,76 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "谷歌：欧盟委员会新调查有可能损害欧洲用户利益。",
+          "url": "https://wallstreetcn.com/livenews/3004151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
         {
           "title": "谷歌：欧盟的调查可能会影响搜索结果的质量。",
           "url": "https://flash.jin10.com/detail/20251113184640966800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 19时35分]"
         },
         {
           "title": "欧盟针对谷歌启动《数字市场法案》下的新调查。欧盟正在评估新闻媒体及其他网站是否在谷歌搜索中被降级。欧盟委员会致力于在12个月内完成调查。",
           "url": "https://flash.jin10.com/detail/20251113184617045800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时03分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 19时35分]"
         },
         {
           "title": "欧盟正在调查谷歌的网站声誉政策是否损害了出版商的利益。",
           "url": "https://flash.jin10.com/detail/20251113184521825800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时03分 ~ 19时35分]"
+        },
+        {
+          "title": "谷歌：欧盟新的反垄断调查或将损害欧洲用户利益。",
+          "url": "https://flash.jin10.com/detail/20251113191351975800",
+          "source": "金十数据",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时03分"
+          "time_info": "19时35分"
+        },
+        {
+          "title": "谷歌面临欧盟反垄断调查 被怀疑不当降级新闻搜索结果",
+          "url": "https://flash.jin10.com/detail/20251113185348272800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         }
       ]
     },
@@ -197,8 +233,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时11分 ~ 19时03分]"
+          "appearance_count": 6,
+          "time_info": "[18时11分 ~ 19时35分]"
         },
         {
           "title": "【腾讯：企业服务收入同比增长十几个百分点，受益于云服务的收入增长】腾讯财报显示，金融科技及企业服务业务二零二五年第三季的收入同比增长10%至人民币582亿元。金融科技服务收入同比以高个位数百分比增长，主要受益于商业支付活动及消费贷款服务的收入增加。企业服务收入同比增长十几个百分点，受益于云服务的收入增长（其中包括企业客户对AI相关服务需求上升带动的增长），以及由于微信小店交易额扩大而带动的商家技术服务费收入增长。",
