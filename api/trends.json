@@ -1,12 +1,25 @@
 {
-  "generated_at": "2025-11-14T19:12:08.790403+08:00",
-  "total_titles_processed": 1719,
+  "generated_at": "2025-11-14T20:27:26.599140+08:00",
+  "total_titles_processed": 1852,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
       "match_count": 42,
       "titles": [
+        {
+          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
+          "url": "https://www.cls.cn/detail/2200844",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[17时14分 ~ 20时27分]"
+        },
         {
           "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
           "url": "https://news.ifeng.com/c/8oHCvkQXwvo",
@@ -27,20 +40,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时41分 ~ 19时12分]"
-        },
-        {
-          "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
-          "url": "https://www.cls.cn/detail/2200844",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时14分 ~ 19时12分]"
+          "appearance_count": 16,
+          "time_info": "[11时41分 ~ 20时27分]"
         },
         {
           "title": "BBC拒绝赔偿特朗普 贝莱德三季度增持英伟达 | 环球市场",
@@ -305,7 +306,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时12分"
         },
@@ -489,7 +490,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
@@ -540,6 +541,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "OpenAI：与爱尔兰企业、旅游和就业部将于2026年推出一项“中小企业助推计划”。",
+          "url": "https://flash.jin10.com/detail/20251114200449772800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "法院文件显示，美国法官裁定苹果(AAPL.O)和OpenAI目前必须应对社交媒体平台“X”的反垄断诉讼。",
@@ -653,7 +665,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "据两名海事消息人士透露，根据初步评估，塔拉拉号原油油轮被伊朗革命卫队拖往伊朗海岸。",
@@ -677,6 +689,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时15分 ~ 18时16分]"
+        },
+        {
+          "title": "报道：伊朗武装部队在阿曼湾扣押一艘油轮",
+          "url": "https://flash.jin10.com/detail/20251114193627539800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         }
       ]
     }
