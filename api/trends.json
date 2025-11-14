@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-14T22:27:46.786299+08:00",
-  "total_titles_processed": 1980,
+  "generated_at": "2025-11-14T23:25:43.525602+08:00",
+  "total_titles_processed": 2064,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时49分 ~ 22时27分]"
+          "appearance_count": 15,
+          "time_info": "[11时49分 ~ 23时25分]"
         },
         {
           "title": "美国务院批准特朗普二任首笔对台军售，外交部回应",
@@ -109,7 +109,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -288,6 +288,17 @@
           "time_info": "06时27分"
         },
         {
+          "title": "白宫官员：美国总统特朗普将出席明年的达沃斯论坛。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3004925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
           "title": "外媒：受特朗普关税影响 加拿大将改变木材出口路线",
           "url": "https://flash.jin10.com/detail/20251114133112275800",
           "source": "金十数据",
@@ -423,7 +434,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 26,
       "titles": [
         {
           "title": "美股收盘：美联储降息预期骤降 科技股抛售加剧 纳指大跌2.3%",
@@ -456,6 +467,18 @@
           "time_info": "[00时33分 ~ 07时25分]"
         },
         {
+          "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2201293",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时25分]"
+        },
+        {
           "title": "科技股继续被砸！美股期货大跌，英伟达盘前跌超3%，币圈连续暴跌，黄金跳水",
           "url": "https://wallstreetcn.com/articles/3759354",
           "source": "华尔街见闻",
@@ -467,27 +490,29 @@
           "time_info": "21时35分"
         },
         {
-          "title": "避险情绪持续升温 美股、黄金、比特币齐跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2201293",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
           "title": "美股还会跌多久？历史数据看，大涨后抛售潮平均持续25个交易日，当前已经21天了",
           "url": "https://wallstreetcn.com/articles/3759375",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时54分 ~ 23时25分]"
+        },
+        {
+          "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1972596571733497781",
+          "source": "知乎",
+          "ranks": [
+            14,
+            15
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[20时54分 ~ 22时27分]"
+          "time_info": "[21时35分 ~ 23时25分]"
         },
         {
           "title": "美股大跌 特斯拉跌超6%",
@@ -515,6 +540,18 @@
           "time_info": "[06时27分 ~ 07时25分]"
         },
         {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3004914",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时25分]"
+        },
+        {
           "title": "华纳兄弟探索（WBD）美股盘后涨5%，华尔街日报报道称，Paramount计划竞购该公司所有股票，奈飞和康卡斯特也都关注WBD的工作室和流媒体业务。",
           "url": "https://wallstreetcn.com/livenews/3004400",
           "source": "华尔街见闻-快讯",
@@ -527,29 +564,6 @@
           "time_info": "[06时27分 ~ 07时25分]"
         },
         {
-          "title": "美联储降息预期骤降，美股集体收跌，科技股被抛售，黄金跌 1%，比特币跌破 10 万美元，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/1972596571733497781",
-          "source": "知乎",
-          "ranks": [
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时35分 ~ 22时27分]"
-        },
-        {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3004914",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
           "title": "金十图示：2025年11月13日（周四）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251114050523650800",
           "source": "金十数据",
@@ -559,6 +573,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "纳斯达克金龙中国指数美股盘初跌1.7%。 中概股世纪华联跌6.3%，小马智行跌6%，阿特斯太阳能跌5%，小鹏跌4.7%，大全新能源跌4.2%，文远知行跌3.8%，京东、蔚来跌3.3%，百度跌2.7%，腾讯音乐则涨0.8%，B站涨1.9%，雾芯科技/悦刻电子烟涨8.4%。 ETF中，CQQQ跌1.75%，KWEB跌0.57%。",
+          "url": "https://wallstreetcn.com/livenews/3004929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "金十图示：2025年11月13日（周四）热门中概股行情一览（美股收盘）",
@@ -581,6 +606,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "行业ETF美股盘初普跌，半导体ETF跌2.8%，科技行业ETF跌1.9%，网络股指数ETF、全球科技股指数ETF跌约1.8%，能源业ETF涨约0.2%。",
+          "url": "https://wallstreetcn.com/livenews/3004928",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "随着比特币价格跌至六个月以来新低，美股数字货币概念股盘前走低。Riot Platforms跌2.4%，Hut 8 Mining跌3.7%，Mara Holdings跌1.3%。",
@@ -625,6 +661,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "美股为何大跌",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E4%B8%BA%E4%BD%95%E5%A4%A7%E8%B7%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
+        },
+        {
+          "title": "美股科技股抛售潮加剧 降息预期受挫加剧市场恐慌",
+          "url": "https://flash.jin10.com/detail/20251114230514261800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时25分"
         },
         {
           "title": "房利美和房地美股价重挫，报道称美国联邦住房金融局局长曾被调查",
@@ -685,7 +743,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "谷歌向欧盟提交整改方案，回应反垄断罚款但拒绝拆分相关业务",
@@ -709,6 +767,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[20时54分 ~ 21时35分]"
+        },
+        {
+          "title": "谷歌宣布调整服务回应欧盟反垄断处罚",
+          "url": "https://wallstreetcn.com/livenews/3004912",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时25分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉重挫超6.6%，英伟达跌约3.6%，谷歌A跌超2.8%",
@@ -746,15 +816,15 @@
           "time_info": "14时40分"
         },
         {
-          "title": "谷歌宣布调整服务回应欧盟反垄断处罚",
-          "url": "https://wallstreetcn.com/livenews/3004912",
-          "source": "华尔街见闻-快讯",
+          "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩，加仓美国大盘指数，清仓新兴市场ETF",
+          "url": "https://wallstreetcn.com/articles/3759409",
+          "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时27分"
+          "time_info": "23时25分"
         },
         {
           "title": "谷歌计划对欧盟委员会关于广告技术的裁决提出上诉，并表示不认同该决定。",
@@ -774,7 +844,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         }
@@ -856,11 +926,12 @@
           "url": "https://wallstreetcn.com/livenews/3004922",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时25分]"
         },
         {
           "title": "加密货币与加密货币关联指数跌9.98%，报67.71点，北京时间22:30微幅跳空低开，随后持续走低。 周四（11月13日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌2.98%，失守9.9万美元。 CME以太币期货DCR主力合约跌7.20%，报3172.50美元。 北京时间05:58，现货比特币跌2.79%，报98788.25美元；以太坊跌7%，报3180.64美元；Solana跌7.49%，狗狗币跌5.21%，XRP跌2.43%。",
@@ -919,11 +990,12 @@
           "url": "https://wallstreetcn.com/articles/3759354",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时25分]"
         },
         {
           "title": "分析师：预计十年期美债短期内不会出现明确的方向性变动",
@@ -965,6 +1037,18 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "伊朗海军扣押了一艘走私燃料的船只。（伊斯兰共和国通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3004910",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时25分]"
+        },
+        {
           "title": "伊拉克总理与伊朗总统通电话 讨论双边关系等问题",
           "url": "https://wallstreetcn.com/livenews/3004760",
           "source": "华尔街见闻-快讯",
@@ -976,24 +1060,13 @@
           "time_info": "17时29分"
         },
         {
-          "title": "伊朗海军扣押了一艘走私燃料的船只。（伊斯兰共和国通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3004910",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
           "title": "在伊朗伊斯兰共和国通讯社（IRNA）的报道中，其未指明被伊朗海军查扣的船只具体身份。",
           "url": "https://flash.jin10.com/detail/20251114215003386800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -1004,7 +1077,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         }
@@ -1014,6 +1087,18 @@
       "keyword_group": "金价",
       "match_count": 3,
       "titles": [
+        {
+          "title": "金价",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26realpos%3D24%26stream_entry_id%3D31%26band_rank%3D24%26pos%3D25%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26flag%3D1%26display_time%3D1763129909%26pre_seqid%3D17631299092100330555007&launchid=10000360-page_H5",
+          "source": "微博",
+          "ranks": [
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时25分]"
+        },
         {
           "title": "金十图示：2025年11月14日（周五）上海金午盘价为951.06元/克，较国际金价(952.99元/克)，低1.93元/克",
           "url": "https://flash.jin10.com/detail/20251114150805305800",
@@ -1035,17 +1120,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时49分"
-        },
-        {
-          "title": "金价",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E9%87%91%E4%BB%B7&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26q%3D%25E9%2587%2591%25E4%25BB%25B7%26dgr%3D0%26realpos%3D24%26stream_entry_id%3D31%26band_rank%3D24%26pos%3D25%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26flag%3D1%26display_time%3D1763129909%26pre_seqid%3D17631299092100330555007&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
         }
       ]
     }
