@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-14T11:32:44.581244+08:00",
-  "total_titles_processed": 534,
+  "generated_at": "2025-11-14T12:14:30.394450+08:00",
+  "total_titles_processed": 603,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时43分 ~ 11时32分]"
+          "appearance_count": 5,
+          "time_info": "[08时43分 ~ 12时14分]"
         },
         {
           "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
@@ -26,8 +26,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时43分 ~ 11时32分]"
+          "appearance_count": 5,
+          "time_info": "[08时43分 ~ 12时14分]"
         },
         {
           "title": "法官裁定苹果与OpenAI需回应马斯克的反竞争诉讼",
@@ -47,7 +47,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
         }
@@ -55,7 +55,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "特斯拉“破戒”拥抱苹果？据称马斯克终于要让CarPlay上车",
@@ -66,8 +66,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时26分 ~ 11时32分]"
+          "appearance_count": 4,
+          "time_info": "[10时26分 ~ 12时14分]"
         },
         {
           "title": "马斯克：X Money将很快推出 X将成为万能应用",
@@ -79,13 +79,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
+        },
+        {
+          "title": "贝索斯终于追上马斯克一小步",
+          "url": "https://www.douyin.com/hot/2305384",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         }
       ]
     },
     {
       "keyword_group": "增长",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "晨星：AI服务器需求激增，鸿海增长前景强劲",
+          "url": "https://flash.jin10.com/detail/20251114115801982800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
+        },
         {
           "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
           "url": "https://wallstreetcn.com/articles/3759306",
@@ -94,8 +116,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时43分 ~ 11时32分]"
+          "appearance_count": 5,
+          "time_info": "[08时43分 ~ 12时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-11-14）",
+          "url": "https://flash.jin10.com/detail/20251114115348256800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时14分"
         }
       ]
     }
