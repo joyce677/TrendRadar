@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-15T07:12:57.573803+08:00",
-  "total_titles_processed": 614,
+  "generated_at": "2025-11-15T08:59:08.800800+08:00",
+  "total_titles_processed": 734,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "美军1.5万兵力压境委内瑞拉，地面打击方案提交特朗普待批",
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 07时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 08时59分]"
         },
         {
           "title": "特朗普：撤回唐纳德·科布为财政部助理总法律顾问的提名。",
@@ -24,11 +24,12 @@
           "source": "金十数据",
           "ranks": [
             1,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时15分 ~ 07时12分]"
+          "appearance_count": 5,
+          "time_info": "[04时15分 ~ 08时59分]"
         },
         {
           "title": "美国官员：航空公司正敦促美国总统特朗普政府终止强制性航班削减。",
@@ -249,6 +250,28 @@
           "time_info": "[00时17分 ~ 01时12分]"
         },
         {
+          "title": "特朗普：食品关税豁免在美国没有竞争力。 咖啡价格很快就会走低。 将起诉BBC。 下周某个时候将起诉BBC，要求赔偿10 - 50亿美元。 将打电话给斯塔默，问BBC的事。 预计明年某个时候会有关税红利。 不关心爱泼斯坦的文件是否公开。 考虑向沙特阿拉伯出售战斗机。 希望沙特阿拉伯被纳入亚伯拉罕协议。",
+          "url": "https://wallstreetcn.com/livenews/3005094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
+          "title": "特朗普：在委内瑞拉问题上取得了很大进展。",
+          "url": "https://wallstreetcn.com/livenews/3005093",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
+        },
+        {
           "title": "美国官员表示，美国总统特朗普很可能向沙特出售F-35战斗机。",
           "url": "https://flash.jin10.com/detail/20251115031611810800",
           "source": "金十数据",
@@ -296,7 +319,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩，加仓美国大盘指数，清仓新兴市场ETF",
@@ -305,22 +328,24 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 07时12分]"
+          "appearance_count": 13,
+          "time_info": "[00时16分 ~ 08时59分]"
         },
         {
           "title": "13F报告显示：高盛集团三季度建仓Figma、BitMine Immersion Technologies、摩根大通国际债券机会ETF等。 增持英伟达、苹果、微软、谷歌等。 减持Enbridge、iShares罗素2000 ETF等。 重仓英伟达、微软、苹果、SPDR标普500 ETF信托、亚马逊。",
           "url": "https://wallstreetcn.com/livenews/3005068",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时12分 ~ 08时59分]"
         },
         {
           "title": "13F报告显示：Coatue Management三季度建仓新思科技Synopsys、应用材料、谷歌C、Snowflake、Figma。 清仓飞利浦莫里斯、礼来、Generac、百胜中国、LexinFintech。 增持谷歌A、Applovin、甲骨文、微软、台积电。 减持CoreWeave、Arm控股、亚马逊、Intuit、KKR。 重仓Meta、微软、台积电、GE Vernova、亚马逊。",
@@ -389,9 +414,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "13F报告显示：Amundi SA（东方汇理）三季度新进iShares MSCI全球ETF、Amrize、Paramount等。 清仓MorningStar、IonQ、Synovus等。 增持谷歌C、博通、Palantir、甲骨文、Costco。 减持Meta、奈飞、Salesforce、Strategy（MSTR）、标普全球。 重仓英伟达、微软、苹果、亚马逊、特斯拉。",
+          "url": "https://wallstreetcn.com/livenews/3005075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时59分"
         }
       ]
     }
