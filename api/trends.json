@@ -1,289 +1,72 @@
 {
-  "generated_at": "2025-11-14T22:40:47.325425+08:00",
-  "total_titles_processed": 1724,
+  "generated_at": "2025-11-15T08:42:05.601525+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 4,
       "titles": [
         {
-          "title": "谷歌向欧盟提交整改方案，回应反垄断罚款但拒绝拆分相关业务",
-          "url": "https://flash.jin10.com/detail/20251114141801666800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时49分 ~ 15时02分]"
-        },
-        {
-          "title": "谷歌计划对欧盟委员会关于广告技术的裁决提出上诉，并表示不认同该决定。",
-          "url": "https://wallstreetcn.com/livenews/3004778",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时40分 ~ 18时43分]"
-        },
-        {
-          "title": "市场消息：Alphabet旗下谷歌（GOOGL.O）表示愿意调整其广告技术（Adtech）业务政策，以遵守欧盟的反垄断命令。谷歌拒绝出售其部分广告技术业务，称拆分将对出版商和广告商造成干扰。",
-          "url": "https://flash.jin10.com/detail/20251114140157691800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时15分 ~ 15时02分]"
-        },
-        {
-          "title": "美股三大股指期货持续走低，纳斯达克100指数期货跌幅扩大至1.5%，标普500指数期货跌至1%。英伟达盘前跌3.3%，谷歌跌2.7%，博通跌2.5%，台积电跌3.4%，特斯拉跌5%。现货黄金回落至4110美元/盎司下方，日内跌约1.5%。",
-          "url": "https://wallstreetcn.com/livenews/3004877",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            21,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时04分 ~ 22时03分]"
-        },
-        {
-          "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩",
-          "url": "https://wallstreetcn.com/livenews/3004901",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时45分 ~ 22时03分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)计划对欧盟委员会关于广告技术的裁决提出上诉，并表示不认同该决定。",
-          "url": "https://flash.jin10.com/detail/20251114173151372800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时12分"
-        },
-        {
-          "title": "谷歌宣布调整服务回应欧盟反垄断处罚",
-          "url": "https://wallstreetcn.com/livenews/3004912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "对标ChatGPT！阿里“通义千问”全面转向，进军C端市场",
-          "url": "https://wallstreetcn.com/articles/3759294",
+          "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩，加仓美国大盘指数，清仓新兴市场ETF",
+          "url": "https://wallstreetcn.com/articles/3759409",
           "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时43分 ~ 14时49分]"
-        },
-        {
-          "title": "对标ChatGPT！阿里秘密启动“千问”项目打造个人AI助手，股价一度涨超5%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31957439",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时43分 ~ 15时02分]"
-        },
-        {
-          "title": "OpenAI战略布局解读",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%98%E7%95%A5%E5%B8%83%E5%B1%80%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时02分 ~ 19时03分]"
+          "time_info": "[08时41分 ~ 08时42分]"
         },
         {
-          "title": "OpenAI：与爱尔兰企业、旅游和就业部将于2026年推出一项“中小企业助推计划”。",
-          "url": "https://flash.jin10.com/detail/20251114200449772800",
-          "source": "金十数据",
+          "title": "13F报告显示：Amundi SA（东方汇理）三季度新进iShares MSCI全球ETF、Amrize、Paramount等。 清仓MorningStar、IonQ、Synovus等。 增持谷歌C、博通、Palantir、甲骨文、Costco。 减持Meta、奈飞、Salesforce、Strategy（MSTR）、标普全球。 重仓英伟达、微软、苹果、亚马逊、特斯拉。",
+          "url": "https://wallstreetcn.com/livenews/3005075",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时18分"
+          "time_info": "08时42分"
         },
         {
-          "title": "法官裁定苹果与OpenAI需回应马斯克的反竞争诉讼",
-          "url": "https://flash.jin10.com/detail/20251114074335819800",
-          "source": "金十数据",
+          "title": "13F报告显示：高盛集团三季度建仓Figma、BitMine Immersion Technologies、摩根大通国际债券机会ETF等。 增持英伟达、苹果、微软、谷歌等。 减持Enbridge、iShares罗素2000 ETF等。 重仓英伟达、微软、苹果、SPDR标普500 ETF信托、亚马逊。",
+          "url": "https://wallstreetcn.com/livenews/3005068",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时43分"
+          "time_info": "08时42分"
         },
         {
-          "title": "微软CEO：祝OpenAI甲骨文好运",
-          "url": "https://www.toutiao.com/trending/7572366525785443903/",
-          "source": "今日头条",
+          "title": "13F报告显示：Point72 Europe London LLP.三季度建仓Strategy（MSTR）、Merck、强生等。 清仓MasterCard、台积电等。 增持Meta、亚马逊等。 减持伯克希尔哈撒韦B类股、富国银行、微软等。 重仓谷歌A、亚马逊、Meta、MSTR等。",
+          "url": "https://wallstreetcn.com/livenews/3005059",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "特斯拉“破戒”拥抱苹果？据称马斯克终于要让CarPlay上车",
-          "url": "https://www.cls.cn/detail/2200223",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时26分 ~ 13时41分]"
-        },
-        {
-          "title": "贝索斯终于追上马斯克一小步",
-          "url": "https://www.douyin.com/hot/2305384",
-          "source": "抖音",
-          "ranks": [
-            17,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时14分 ~ 13时10分]"
-        },
-        {
-          "title": "马斯克：X Money将很快推出 X将成为万能应用",
-          "url": "https://flash.jin10.com/detail/20251114075733532800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "增长",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "腾讯Q3净利润同比增长19%，AI云推动企业服务收入双位数增长，加大元宝推广投入 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3759306",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[08时43分 ~ 20时18分]"
-        },
-        {
-          "title": "晨星：AI服务器需求激增，鸿海增长前景强劲",
-          "url": "https://flash.jin10.com/detail/20251114115801982800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            4,
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 13时41分]"
-        },
-        {
-          "title": "汇丰：腾讯料加大AI投入以强化长期增长动能 维持买入评级",
-          "url": "https://flash.jin10.com/detail/20251114130147456800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时41分"
+          "time_info": "08时42分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-11-14）",
-          "url": "https://flash.jin10.com/detail/20251114115348256800",
+          "title": "美联储洛根：经济正受益于与人工智能相关的投资。",
+          "url": "https://flash.jin10.com/detail/20251115040927220800",
           "source": "金十数据",
           "ranks": [
-            5,
-            6,
-            17,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时14分 ~ 13时41分]"
-        },
-        {
-          "title": "沙特王储将前往美国华盛顿，讨论人工智能（AI）芯片与核技术等议题。",
-          "url": "https://wallstreetcn.com/livenews/3004921",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时40分"
+          "time_info": "08时42分"
         }
       ]
     }
