@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-15T16:02:38.501967+08:00",
-  "total_titles_processed": 803,
+  "generated_at": "2025-11-15T16:42:04.805747+08:00",
+  "total_titles_processed": 839,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "桥水Q3大砍英伟达持仓65%，谷歌、Meta持仓腰斩，加仓美国大盘指数，清仓新兴市场ETF",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时41分 ~ 16时02分]"
+          "appearance_count": 17,
+          "time_info": "[08时41分 ~ 16时42分]"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时27分 ~ 16时02分]"
+          "appearance_count": 14,
+          "time_info": "[11时27分 ~ 16时42分]"
         },
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
@@ -39,11 +40,12 @@
             9,
             7,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时22分 ~ 16时02分]"
+          "appearance_count": 15,
+          "time_info": "[10时22分 ~ 16时42分]"
         },
         {
           "title": "伯克希尔哈撒韦披露罕见科技股持仓，Q3建仓谷歌母公司Alphabet",
@@ -63,6 +65,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[10时22分 ~ 15时02分]"
+        },
+        {
+          "title": "印度官员：谷歌预计将把印度数据中心项目投资金额提高至逾150亿美元",
+          "url": "https://flash.jin10.com/detail/20251115162742778800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
         },
         {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，建仓谷歌",
@@ -119,11 +132,12 @@
           "url": "https://wallstreetcn.com/livenews/3005162",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时02分 ~ 16时42分]"
         },
         {
           "title": "美联储洛根：经济正受益于与人工智能相关的投资。",
@@ -140,6 +154,34 @@
       ]
     },
     {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克称擎天柱机器人将为所有人提供最优质的医疗服务",
+          "url": "https://wallstreetcn.com/livenews/3005168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        },
+        {
+          "title": "马斯克称Neuralink植入者的交流速度几乎和正常人一样快",
+          "url": "https://wallstreetcn.com/livenews/3005167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Claude",
       "match_count": 1,
       "titles": [
@@ -149,11 +191,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            16
+            16,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时45分 ~ 16时02分]"
+          "appearance_count": 6,
+          "time_info": "[14时45分 ~ 16时42分]"
         }
       ]
     }
