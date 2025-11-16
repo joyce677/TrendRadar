@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-16T21:20:12.657959+08:00",
-  "total_titles_processed": 1226,
+  "generated_at": "2025-11-16T22:12:18.515213+08:00",
+  "total_titles_processed": 1271,
   "failed_sources": [],
   "trends": [
     {
@@ -59,8 +59,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时16分 ~ 21时20分]"
+          "appearance_count": 10,
+          "time_info": "[16时16分 ~ 22时12分]"
         },
         {
           "title": "10亿至50亿！特朗普开口了",
@@ -70,8 +70,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时13分 ~ 21时20分]"
+          "appearance_count": 9,
+          "time_info": "[17时13分 ~ 22时12分]"
         },
         {
           "title": "特朗普集团正与沙特政府就房地产交易进行谈判。（纽约时报）",
@@ -298,29 +298,31 @@
           "time_info": "[16时16分 ~ 19时11分]"
         },
         {
-          "title": "伊朗外长说：暂无正进行的铀浓缩活动",
-          "url": "https://wallstreetcn.com/livenews/3005334",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时22分 ~ 21时20分]"
-        },
-        {
           "title": "伊朗外长称伊朗境内已全面停止铀浓缩活动",
           "url": "https://flash.jin10.com/detail/20251116184126885800",
           "source": "金十数据",
           "ranks": [
             2,
             13,
-            18
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时11分 ~ 22时12分]"
+        },
+        {
+          "title": "伊朗外长说：暂无正进行的铀浓缩活动",
+          "url": "https://wallstreetcn.com/livenews/3005334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            6,
+            11
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时11分 ~ 21时20分]"
+          "time_info": "[20时22分 ~ 22时12分]"
         },
         {
           "title": "伊朗外交部长阿拉奇：伊朗将始终准备好参与外交，但不会参与旨在强加条件的谈判。",
@@ -395,6 +397,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "Gemini3.0能碾压GPT-5.1吗",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E8%83%BD%E7%A2%BE%E5%8E%8BGPT-5.1%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时16分 ~ 22时12分]"
+        },
+        {
           "title": "巴菲特“退休”前伯克希尔调整巨头押注：Q3加速抛苹果，43亿美元建仓谷歌",
           "url": "https://wallstreetcn.com/articles/3759431",
           "source": "华尔街见闻",
@@ -418,19 +433,6 @@
           "is_new": false,
           "appearance_count": 26,
           "time_info": "[00时13分 ~ 20时22分]"
-        },
-        {
-          "title": "Gemini3.0能碾压GPT-5.1吗",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E8%83%BD%E7%A2%BE%E5%8E%8BGPT-5.1%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时16分 ~ 21时20分]"
         }
       ]
     }
