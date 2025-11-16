@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-16T15:33:35.520438+08:00",
-  "total_titles_processed": 711,
+  "generated_at": "2025-11-16T16:12:08.244099+08:00",
+  "total_titles_processed": 754,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "巴菲特“退休”前最后一份持仓报告：卖苹果，买谷歌，连续12季度净卖出",
@@ -16,8 +16,47 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时46分 ~ 15时33分]"
+          "appearance_count": 14,
+          "time_info": "[08时46分 ~ 16时12分]"
+        },
+        {
+          "title": "Gemini3.0能碾压GPT-5.1吗",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E8%83%BD%E7%A2%BE%E5%8E%8BGPT-5.1%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中国电信与优必选合作的10万台AI悟空机器人开启交付",
+          "url": "https://wallstreetcn.com/livenews/3005279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
+        },
+        {
+          "title": "谁最终为AI狂潮“买单”？美国险资",
+          "url": "https://wallstreetcn.com/articles/3759444",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时16分"
         }
       ]
     },
@@ -41,23 +80,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[11时43分 ~ 15时33分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谁最终为AI狂潮“买单”？美国险资",
-          "url": "https://wallstreetcn.com/articles/3759444",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时16分"
         }
       ]
     }
