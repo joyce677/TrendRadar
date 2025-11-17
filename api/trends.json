@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-17T11:52:40.459211+08:00",
-  "total_titles_processed": 803,
+  "generated_at": "2025-11-17T12:33:21.736550+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "10亿至50亿！特朗普开口了",
@@ -78,11 +78,36 @@
           "source": "今日头条",
           "ranks": [
             20,
-            9
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时02分 ~ 12时33分]"
+        },
+        {
+          "title": "软硬兼施？特朗普：可能与委内瑞拉总统进行对话",
+          "url": "https://mil.ifeng.com/c/8oLf4PqxV5b",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[10时02分 ~ 11时52分]"
+          "time_info": "[11时52分 ~ 12时33分]"
+        },
+        {
+          "title": "特朗普不到两个月内完成超175笔投资",
+          "url": "https://www.toutiao.com/trending/7573491698903289386/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时52分 ~ 12时33分]"
         },
         {
           "title": "特朗普：可能与委内瑞拉总统进行对话",
@@ -96,17 +121,6 @@
           "time_info": "10时02分"
         },
         {
-          "title": "软硬兼施？特朗普：可能与委内瑞拉总统进行对话",
-          "url": "https://mil.ifeng.com/c/8oLf4PqxV5b",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
-        },
-        {
           "title": "文件披露：8月下旬以来 特朗普购买了至少8200万美元的债券",
           "url": "https://www.cls.cn/detail/2201676",
           "source": "财联社热门",
@@ -118,6 +132,17 @@
           "time_info": "10时02分"
         },
         {
+          "title": "特朗普态度转变？支持投票公开爱泼斯坦相关文件",
+          "url": "https://flash.jin10.com/detail/20251117113954366800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
           "title": "特朗普与得力干将反目成仇",
           "url": "https://flash.jin10.com/detail/20251117062945107800",
           "source": "金十数据",
@@ -127,17 +152,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
-        },
-        {
-          "title": "特朗普不到两个月内完成超175笔投资",
-          "url": "https://www.toutiao.com/trending/7573491698903289386/",
-          "source": "今日头条",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时52分"
         },
         {
           "title": "特朗普：可能与委内瑞拉总统进行对话",
@@ -197,7 +211,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         }
@@ -205,7 +219,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Gemini3.0能碾压GPT-5.1吗",
@@ -217,11 +231,12 @@
             8,
             7,
             12,
-            14
+            14,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 11时52分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 12时33分]"
         },
         {
           "title": "如何看待巴菲特「退休」前 Q3 加速抛苹果，首次建仓谷歌？向来对科技股谨慎的股神为何突然出手？",
@@ -236,6 +251,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[02时34分 ~ 10时02分]"
+        },
+        {
+          "title": "“表现极其惊艳”，谷歌大模型罕见发布前“造势”，Gemini 3.0本周登场？",
+          "url": "https://wallstreetcn.com/articles/3759493",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         }
       ]
     },
@@ -261,7 +287,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         }
@@ -312,7 +338,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时52分"
         }
