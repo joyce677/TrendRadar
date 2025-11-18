@@ -1,26 +1,23 @@
 {
-  "generated_at": "2025-11-18T22:06:54.923466+08:00",
-  "total_titles_processed": 1445,
-  "failed_sources": [
-    "toutiao",
-    "baidu",
-    "wallstreetcn-hot",
-    "thepaper",
-    "bilibili-hot-search",
-    "cls-hot",
-    "ifeng",
-    "jin10",
-    "wallstreetcn-quick",
-    "tieba",
-    "weibo",
-    "douyin",
-    "zhihu"
-  ],
+  "generated_at": "2025-11-18T22:43:14.744962+08:00",
+  "total_titles_processed": 1571,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "美方高级官员：美国与沙特预计将达成国防、核能及人工智能相关协议",
+          "url": "https://flash.jin10.com/detail/20251118222538177800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-18）",
           "url": "https://flash.jin10.com/detail/20251118120343282800",
@@ -105,6 +102,17 @@
           "time_info": "08时42分"
         },
         {
+          "title": "美国高级政府官员表示，美国与沙特预计将宣布一项涉及数十亿美元的投资协议，用于支持美国的人工智能基础设施建设。美国与沙特预计将宣布一项关于加强民用核能合作的协议。美国与沙特预计将宣布一项国防销售协议，以加强防务合作。",
+          "url": "https://flash.jin10.com/detail/20251118220849843800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        },
+        {
           "title": "请推荐一个人工智能学习路线图？",
           "url": "https://www.zhihu.com/question/327809761",
           "source": "知乎",
@@ -136,12 +144,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
+        },
+        {
+          "title": "市场消息：人工智能云初创公司Lambda融资超过15亿美元。",
+          "url": "https://flash.jin10.com/detail/20251118220055443800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美债务危机愈演愈烈？马斯克：不想破产，就只能发展AI和机器人！",
@@ -164,11 +183,12 @@
           "source": "今日头条",
           "ranks": [
             17,
-            28
+            28,
+            20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时02分 ~ 20时18分]"
+          "appearance_count": 8,
+          "time_info": "[19时02分 ~ 22时43分]"
         },
         {
           "title": "马斯克万亿薪酬引爆离职潮",
@@ -180,6 +200,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
+        },
+        {
+          "title": "马斯克核心团队为何“集体叛逃”",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E4%B8%BA%E4%BD%95%E2%80%9C%E9%9B%86%E4%BD%93%E5%8F%9B%E9%80%83%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时42分"
         }
       ]
     },
@@ -217,6 +248,37 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "为什么说千问能硬刚 ChatGPT？",
+          "url": "https://www.zhihu.com/question/1973891012469465744",
+          "source": "知乎",
+          "ranks": [
+            20,
+            13,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[11时31分 ~ 15时02分]"
+        },
+        {
+          "title": "Intuit将斥资超过1亿美元与OpenAI签订一份多年期合同，旨在将这家ChatGPT开发商的人工智能模型进一步整合到TurboTax等金融应用程序中。",
+          "url": "https://flash.jin10.com/detail/20251118222128333800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "增长",
       "match_count": 2,
       "titles": [
@@ -242,26 +304,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时12分 ~ 18时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么说千问能硬刚 ChatGPT？",
-          "url": "https://www.zhihu.com/question/1973891012469465744",
-          "source": "知乎",
-          "ranks": [
-            20,
-            13,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时31分 ~ 15时02分]"
         }
       ]
     },
@@ -301,11 +343,12 @@
             12,
             9,
             8,
-            7
+            7,
+            3
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[10时25分 ~ 20时18分]"
+          "appearance_count": 31,
+          "time_info": "[10时25分 ~ 22时43分]"
         }
       ]
     }
