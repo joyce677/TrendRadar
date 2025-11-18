@@ -1,7 +1,9 @@
 {
-  "generated_at": "2025-11-18T19:03:04.941322+08:00",
-  "total_titles_processed": 1361,
-  "failed_sources": [],
+  "generated_at": "2025-11-18T19:38:06.355406+08:00",
+  "total_titles_processed": 1398,
+  "failed_sources": [
+    "baidu"
+  ],
   "trends": [
     {
       "keyword_group": "人工智能",
@@ -27,7 +29,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -37,11 +39,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时44分 ~ 19时03分]"
+          "appearance_count": 3,
+          "time_info": "[18时44分 ~ 19时38分]"
         },
         {
           "title": "市场消息：韩国与阿联酋签署7项谅解备忘录，加强合作，涵盖人工智能、核技术等领域。",
@@ -107,7 +110,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时03分"
         },
@@ -151,8 +154,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时02分 ~ 19时03分]"
+          "appearance_count": 4,
+          "time_info": "[19时02分 ~ 19时38分]"
         },
         {
           "title": "马斯克万亿薪酬引爆离职潮",
@@ -288,8 +291,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[10时25分 ~ 19时03分]"
+          "appearance_count": 27,
+          "time_info": "[10时25分 ~ 19时38分]"
         }
       ]
     }
