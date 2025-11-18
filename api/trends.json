@@ -1,25 +1,11 @@
 {
-  "generated_at": "2025-11-18T22:18:10.109056+08:00",
-  "total_titles_processed": 1819,
-  "failed_sources": [
-    "toutiao",
-    "baidu",
-    "wallstreetcn-hot",
-    "thepaper",
-    "bilibili-hot-search",
-    "cls-hot",
-    "ifeng",
-    "jin10",
-    "wallstreetcn-quick",
-    "tieba",
-    "weibo",
-    "douyin",
-    "zhihu"
-  ],
+  "generated_at": "2025-11-18T23:16:26.244600+08:00",
+  "total_titles_processed": 1953,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 60,
       "titles": [
         {
           "title": "沙利文吐槽：特朗普遇强则弱，中国拿下两大关键成果",
@@ -71,6 +57,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时41分 ~ 15时14分]"
+        },
+        {
+          "title": "特朗普的移民事务负责人汤姆·霍曼：目前团队已经到位，但我们将进一步加强部署。",
+          "url": "https://flash.jin10.com/detail/20251118225023047800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "美国一家上诉法院预计将在周一听取部分家庭的辩论，他们敦促上诉法院恢复超过500起针对泰诺制造商Kenvue（科赴）的索赔诉讼。此前，特朗普政府公开宣传了他们的说法，即这种广泛使用的止痛药与儿童自闭症有关。",
@@ -126,6 +123,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "特朗普的移民事务负责人汤姆·霍曼：计划在不久的将来前往纽约市开展（移民执法）行动。",
+          "url": "https://flash.jin10.com/detail/20251118224959604800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "美国总统特朗普：由于关税，芯片制造商正在回归美国。",
@@ -425,6 +433,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "谈及特朗普关于美国可能军事干预墨西哥的言论，墨西哥总统辛鲍姆重申“这不会发生”",
+          "url": "https://flash.jin10.com/detail/20251118224142428800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         },
         {
           "title": "美国总统特朗普考虑将联邦应急管理局（FEMA）总部迁移到得州。（Politico）",
@@ -818,7 +837,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "为什么说千问能硬刚 ChatGPT？",
@@ -832,6 +851,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[11时41分 ~ 15时14分]"
+        },
+        {
+          "title": "Intuit将斥资超过1亿美元与OpenAI签订一份多年期合同，旨在将这家ChatGPT开发商的人工智能模型进一步整合到TurboTax等金融应用程序中。",
+          "url": "https://flash.jin10.com/detail/20251118222128333800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时16分"
         }
       ]
     },
