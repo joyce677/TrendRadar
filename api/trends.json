@@ -1,22 +1,22 @@
 {
-  "generated_at": "2025-11-18T18:12:35.247736+08:00",
-  "total_titles_processed": 1253,
+  "generated_at": "2025-11-18T18:44:49.507306+08:00",
+  "total_titles_processed": 1299,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
-          "title": "市场消息：韩国与阿联酋签署7项谅解备忘录，加强合作，涵盖人工智能、核技术等领域。",
-          "url": "https://flash.jin10.com/detail/20251118175557810800",
-          "source": "金十数据",
+          "title": "重庆：到2030年，人工智能终端产业规模达3000亿元以上",
+          "url": "https://wallstreetcn.com/livenews/3006446",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时12分"
+          "time_info": "18时44分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-18）",
@@ -30,6 +30,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时14分 ~ 13时41分]"
+        },
+        {
+          "title": "市场消息：韩国与阿联酋签署7项谅解备忘录，加强合作，涵盖人工智能、核技术等领域。",
+          "url": "https://flash.jin10.com/detail/20251118175557810800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时44分]"
         },
         {
           "title": "美国银行全球基金经理调查：54%的受访者认为“美股七巨头”是当前最拥挤的交易，45%的受访者认为人工智能泡沫是最大的尾部风险。",
@@ -148,7 +160,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时12分"
         }
@@ -174,11 +186,12 @@
           "url": "https://wallstreetcn.com/livenews/3006420",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时44分]"
         }
       ]
     },
@@ -241,8 +254,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[10时25分 ~ 18时12分]"
+          "appearance_count": 24,
+          "time_info": "[10时25分 ~ 18时44分]"
         }
       ]
     }
