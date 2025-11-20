@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T22:27:52.641684+08:00",
-  "total_titles_processed": 1978,
+  "generated_at": "2025-11-20T23:29:47.284914+08:00",
+  "total_titles_processed": 2079,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 60,
+      "match_count": 61,
       "titles": [
         {
           "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
@@ -31,8 +31,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时30分 ~ 22时27分]"
+          "appearance_count": 13,
+          "time_info": "[12时30分 ~ 23时29分]"
         },
         {
           "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
@@ -166,6 +166,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        },
+        {
+          "title": "美国副总统万斯：我认为就业报告让市场“痴狂”。 就业人口增长将汇集到美国公民（而不是总统特朗普正在攻击的移民）。",
+          "url": "https://wallstreetcn.com/livenews/3008053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "特朗普：应起诉鲍威尔",
@@ -702,7 +713,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -782,26 +793,37 @@
           "time_info": "[02时38分 ~ 18时29分]"
         },
         {
-          "title": "谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo宣布，无人驾驶汽车出行服务扩张至Minneapolis（明尼阿波利斯）、Tampa（坦帕）、新奥尔良等三个美国城市。",
-          "url": "https://wallstreetcn.com/livenews/3008020",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时27分"
-        },
-        {
           "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
           "url": "https://www.zhihu.com/question/1974854700256944776",
           "source": "知乎",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 23时29分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo宣布，无人驾驶汽车出行服务扩张至Minneapolis（明尼阿波利斯）、Tampa（坦帕）、新奥尔良等三个美国城市。",
+          "url": "https://wallstreetcn.com/livenews/3008020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
+        },
+        {
+          "title": "谷歌公司新推图像生成模型，名叫Nano Banana Pro。",
+          "url": "https://wallstreetcn.com/livenews/3008055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A冲高回落，收涨3%，英伟达在业绩报告发布前收涨超2.8%",
@@ -910,13 +932,46 @@
           "time_info": "01时25分"
         },
         {
+          "title": "谷歌A(GOOGL.O)：在Gemini应用中推出一项功能，可验证图片是否由谷歌AI生成或编辑。",
+          "url": "https://flash.jin10.com/detail/20251120230904713800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "谷歌在一篇博客文章中表示，其全新图像模型Nano Banana Pro能够生成更清晰的图像，并支持多种语言的更精确、更易读的文本。这些改进得益于 Gemini 3。",
+          "url": "https://flash.jin10.com/detail/20251120230807515800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "谷歌A(GOOGL.O)：推出NANO BANANA PRO（Gemini 3 Pro图像），全新一代尖端图像生成与编辑模型。",
+          "url": "https://flash.jin10.com/detail/20251120230725204800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "谷歌：西屋公司与谷歌云合作，利用双方的专用模型开发定制的人工智能平台。",
           "url": "https://flash.jin10.com/detail/20251120220558855800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -963,12 +1018,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时29分"
+        },
+        {
+          "title": "谷歌涨3.2%总市值达到3.65万亿美元，略超过微软公司，进入美股总市值前三。",
+          "url": "https://wallstreetcn.com/livenews/3008034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "科技股力撑美股反弹，英伟达绩后一度大涨6%，美元涨回100，加密货币盘中大跌",
@@ -980,8 +1046,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[07时25分 ~ 22时27分]"
+          "appearance_count": 18,
+          "time_info": "[07时25分 ~ 23时29分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -1041,7 +1107,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -1066,6 +1132,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "美光科技回吐美股盘初超过1%的涨幅，并转而下跌3.6%。 瑞银将美光科技的股价目标从245美元上调至275美元，同时维持买入评级，理由是内存供应紧张状况将延续至2026年底。",
+          "url": "https://wallstreetcn.com/livenews/3008042",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "美股开盘集体上涨 英伟达大涨5%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%BC%80%E7%9B%98%E9%9B%86%E4%BD%93%E4%B8%8A%E6%B6%A8+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%A4%A7%E6%B6%A85%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
+          "title": "AMD美股盘初一度涨约4%，沙特AI公司Humain宣布将与AMD、思科系统公司成立合资企业，计划于2030年前在沙特阿拉伯建设并运营高达1吉瓦（GW）的AI基础设施。",
+          "url": "https://wallstreetcn.com/livenews/3008041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "摩根大通交易台：抄底美股正当其时，技术性洗盘可能已结束",
@@ -1123,6 +1222,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "行业ETF美股盘初普遍上涨，半导体ETF涨2.49%，科技行业ETF涨2.19%，全球科技股指数ETF涨2.17%，银行业ETF涨1.89%，可选消费ETF、网络股指数ETF涨超1.50%，能源业ETF涨0.73%。",
+          "url": "https://wallstreetcn.com/livenews/3008032",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "摩根大通交易台：抄底美股正当其时 技术性洗盘可能已结束",
           "url": "https://flash.jin10.com/detail/20251120004043816800",
           "source": "金十数据",
@@ -1145,6 +1255,17 @@
           "time_info": "06时25分"
         },
         {
+          "title": "美股存储芯片股短线下挫，闪迪跌超7%，美光科技跌超2%。",
+          "url": "https://flash.jin10.com/detail/20251120225037418800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
+        },
+        {
           "title": "金十图示：2025年11月19日（周三）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20251120050546994800",
           "source": "金十数据",
@@ -1162,9 +1283,20 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
+        },
+        {
+          "title": "金十图示：2025年11月20日（周四）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20251120225020053800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时29分"
         },
         {
           "title": "金十图示：2025年11月19日（周三）热门中概股行情一览（美股收盘）",
@@ -1260,7 +1392,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -1271,7 +1403,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
@@ -1311,8 +1443,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时29分 ~ 22时27分]"
+          "appearance_count": 6,
+          "time_info": "[18时29分 ~ 23时29分]"
         },
         {
           "title": "伦敦金属交易所：2026年中起将停止管理LBMA铂金和钯金价格",
@@ -1429,7 +1561,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时27分"
         },
