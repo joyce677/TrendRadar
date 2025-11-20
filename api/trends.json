@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T05:13:18.366016+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2025-11-21T06:13:46.932004+08:00",
+  "total_titles_processed": 660,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 23,
       "titles": [
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普不希望处决国会山成员。",
@@ -28,6 +28,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时17分 ~ 04时16分]"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普的这项命令将适用于11月13日之后进入美国的商品。",
+          "url": "https://flash.jin10.com/detail/20251121054227778800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "白宫：美国总统特朗普签署命令，从而修改针对巴西政府的关税范围。",
+          "url": "https://wallstreetcn.com/livenews/3008195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "特朗普政府拟大幅扩张海上钻探 首次开放北极地区",
@@ -109,6 +131,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 05时13分]"
+        },
+        {
+          "title": "美国白宫：美国总统特朗普签署命令，修改对巴西政府关税的适用范围。",
+          "url": "https://flash.jin10.com/detail/20251121053841010800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "美国白宫：特朗普经常与马克龙交谈。",
@@ -235,7 +268,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
@@ -245,8 +278,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时17分 ~ 05时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时17分 ~ 06时13分]"
         },
         {
           "title": "谷歌发布新一代图像生成模型",
@@ -256,8 +289,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时12分 ~ 05时13分]"
+          "appearance_count": 8,
+          "time_info": "[01时12分 ~ 06时13分]"
         },
         {
           "title": "Gemini3",
@@ -266,22 +299,35 @@
           "ranks": [
             5,
             4,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时20分 ~ 05时13分]"
+          "appearance_count": 6,
+          "time_info": "[02时20分 ~ 06时13分]"
+        },
+        {
+          "title": "如何评价谷歌发布新一代图像生成模型 Nano Banana Pro，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1974981372130116043",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "Alphabet旗下谷歌公司提议，自愿买断英国员工。（Business Insider）",
           "url": "https://wallstreetcn.com/livenews/3008167",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时13分 ~ 06时13分]"
         },
         {
           "title": "谷歌公司：与苹果公司隔空投送Airdrop快速共享，从智能手机Pixel 10系列开始。",
@@ -335,7 +381,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
         }
@@ -352,7 +398,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时13分"
         },
