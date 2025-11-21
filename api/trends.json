@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T01:12:41.424814+08:00",
-  "total_titles_processed": 360,
+  "generated_at": "2025-11-22T02:19:30.894871+08:00",
+  "total_titles_processed": 433,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "乌克兰总统泽连斯基：乌克兰尊重美国总统特朗普的和平努力。",
@@ -14,7 +14,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
         },
@@ -24,11 +24,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            10
+            10,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时12分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时19分]"
         },
         {
           "title": "特朗普批鲍威尔：想立刻炒了你",
@@ -39,8 +40,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 01时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 02时19分]"
         },
         {
           "title": "美国总统特朗普：（下）周四可作为乌克兰和平计划的最后期限。 如果进展顺利，倾向于将这个最后期限推后。",
@@ -109,9 +110,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "特朗普介入俄罗斯冻结资产利用争议 欧盟官员斥其“可耻”",
+          "url": "https://flash.jin10.com/detail/20251122015337062800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
         },
         {
           "title": "美国总统特朗普：下周四是就乌克兰计划达成共识的合适期限。",
@@ -145,6 +157,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时17分"
+        },
+        {
+          "title": "特朗普社媒帖子引发连锁威胁 民主党议员要求警察调查总统",
+          "url": "https://flash.jin10.com/detail/20251122012739675800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌：将向美国大学生免费提供一年的Google AI Pro服务。",
+          "url": "https://flash.jin10.com/detail/20251122020035429800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "谷歌推出BigQuery AI",
+          "url": "https://wallstreetcn.com/livenews/3008826",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "谷歌：我们推出BigQuery AI。",
+          "url": "https://flash.jin10.com/detail/20251122011317548800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
         }
       ]
     },
@@ -160,8 +222,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 01时12分]"
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 02时19分]"
         }
       ]
     }
