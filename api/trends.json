@@ -1,8 +1,87 @@
 {
-  "generated_at": "2025-11-21T15:11:47.317271+08:00",
-  "total_titles_processed": 894,
+  "generated_at": "2025-11-21T15:38:28.111332+08:00",
+  "total_titles_processed": 954,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "Gemini 3深度实测",
+          "url": "https://www.douyin.com/hot/2312679",
+          "source": "抖音",
+          "ranks": [
+            5,
+            4,
+            9,
+            7,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[11时30分 ~ 15时11分]"
+        },
+        {
+          "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
+          "url": "https://www.zhihu.com/question/1974854700256944776",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时42分 ~ 12时13分]"
+        },
+        {
+          "title": "谷歌发布新一代图像生成模型",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时42分 ~ 10时24分]"
+        },
+        {
+          "title": "意大利反垄断监管机构：在谷歌采取补救措施后，关闭于2024年7月启动的针对谷歌不当使用个人数据的调查。",
+          "url": "https://flash.jin10.com/detail/20251121150810136800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "Gemini3是目前最强AI吗",
+          "url": "https://www.douyin.com/hot/2311060",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        },
+        {
+          "title": "如何评价谷歌发布新一代图像生成模型 Nano Banana Pro，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1974981372130116043",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 6,
@@ -79,11 +158,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 15时11分]"
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 15时38分]"
         }
       ]
     },
@@ -110,11 +190,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            8
+            8,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时51分 ~ 15时11分]"
+          "appearance_count": 3,
+          "time_info": "[14时51分 ~ 15时38分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-21）",
@@ -161,74 +242,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "Gemini 3深度实测",
-          "url": "https://www.douyin.com/hot/2312679",
-          "source": "抖音",
-          "ranks": [
-            5,
-            4,
-            9,
-            7,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时30分 ~ 15时11分]"
-        },
-        {
-          "title": "如何评价 Gemini3 误删 800G 重要文件，如何避免类似错误？",
-          "url": "https://www.zhihu.com/question/1974854700256944776",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时42分 ~ 12时13分]"
-        },
-        {
-          "title": "谷歌发布新一代图像生成模型",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83%E6%96%B0%E4%B8%80%E4%BB%A3%E5%9B%BE%E5%83%8F%E7%94%9F%E6%88%90%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时42分 ~ 10时24分]"
-        },
-        {
-          "title": "Gemini3是目前最强AI吗",
-          "url": "https://www.douyin.com/hot/2311060",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时42分"
-        },
-        {
-          "title": "如何评价谷歌发布新一代图像生成模型 Nano Banana Pro，有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1974981372130116043",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时42分"
         }
       ]
     },
@@ -305,11 +318,12 @@
             19,
             21,
             23,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[08时42分 ~ 15时11分]"
+          "appearance_count": 17,
+          "time_info": "[08时42分 ~ 15时38分]"
         }
       ]
     },
