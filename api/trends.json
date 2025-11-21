@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-21T21:03:51.154707+08:00",
-  "total_titles_processed": 1607,
+  "generated_at": "2025-11-21T21:43:55.936724+08:00",
+  "total_titles_processed": 1703,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 8,
+      "match_count": 12,
       "titles": [
         {
           "title": "英伟达CEO黄仁勋：我们正与富士康合作，将人工智能引入工厂和生产线。",
@@ -27,7 +27,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时03分"
         },
@@ -80,6 +80,17 @@
           "time_info": "[14时51分 ~ 15时11分]"
         },
         {
+          "title": "美联储“三把手”威廉姆斯应届大学毕业生正面临“完美风暴”——招聘疲软。 招聘疲软是周期性问题，而非结构性问题。 目前没有看到大量裁员。 雇主在招聘新员工方面非常谨慎。 人工智能将会改变我们的就业类型。",
+          "url": "https://wallstreetcn.com/livenews/3008742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
           "title": "英伟达副总裁在鸿海科技日上表示，通过与鸿海的合作，我们能够更快地部署先进的人工智能基础设施，以满足客户需求。",
           "url": "https://flash.jin10.com/detail/20251121104327270800",
           "source": "金十数据",
@@ -89,6 +100,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时31分"
+        },
+        {
+          "title": "美联储威廉姆斯：人工智能将改变我们所拥有的工作类型。",
+          "url": "https://flash.jin10.com/detail/20251121213135124800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
+          "title": "美联储威廉姆斯：不认为人工智能会改变自然失业率。",
+          "url": "https://flash.jin10.com/detail/20251121213117611800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        },
+        {
+          "title": "美联储“三把手”威廉姆斯：明确的沟通可以限制市场动荡。 已有一段时间没有走在可持续的财政道路上了。 美债是全球金融体系的核心，这一点毫无疑问。 我们既面临供给冲击，也面临需求冲击。 预计今年和明年将实现大致趋势性增长。 财政政策可能将中性利率推高了25至50个基点。 全球来看，仍处于低中性利率环境。 股票和债券市场预期人工智能将实现非常高速的增长。",
+          "url": "https://wallstreetcn.com/livenews/3008725",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
         },
         {
           "title": "鸿海旗下VisionBay AI：计划在2026年上半年部署27兆瓦的GB300芯片。将成为台湾地区最大的先进GPU集群，也是亚太地区首个GB300人工智能数据中心。",
@@ -341,6 +385,23 @@
       ]
     },
     {
+      "keyword_group": "grok",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 Grok AI 被发现疑似设定强制吹捧马斯克身材和智力世界第一？",
+          "url": "https://www.zhihu.com/question/1975115860181022671",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "推特",
       "match_count": 1,
       "titles": [
@@ -359,8 +420,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 32,
-          "time_info": "[08时42分 ~ 21时03分]"
+          "appearance_count": 33,
+          "time_info": "[08时42分 ~ 21时43分]"
         }
       ]
     },
