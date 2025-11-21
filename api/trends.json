@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-11-21T22:03:13.191298+08:00",
-  "total_titles_processed": 1705,
+  "generated_at": "2025-11-21T22:41:25.464339+08:00",
+  "total_titles_processed": 1787,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
       "match_count": 13,
       "titles": [
-        {
-          "title": "美联储副主席Jefferson：金融体系稳健且具有韧性。 当前市场与互联网泡沫时代存在差异，因此我们不太可能正在经历上世纪90年代末的重演。 与互联网泡沫时期不同，人工智能相关股票的上涨主要因为AI公司确实有实际盈利。 杠杆使用更有限，可能会减少任何由AI情绪转变传导至经济的程度，但我们正密切关注AI企业的债务发行情况。 现在判断人工智能将如何影响劳动力市场、通胀和货币政策还为时过早。",
-          "url": "https://wallstreetcn.com/livenews/3008750",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时03分"
-        },
         {
           "title": "英伟达CEO黄仁勋：我们正与富士康合作，将人工智能引入工厂和生产线。",
           "url": "https://flash.jin10.com/detail/20251121113704678800",
@@ -56,6 +45,18 @@
           "time_info": "[14时51分 ~ 15时38分]"
         },
         {
+          "title": "美联储副主席Jefferson：金融体系稳健且具有韧性。 当前市场与互联网泡沫时代存在差异，因此我们不太可能正在经历上世纪90年代末的重演。 与互联网泡沫时期不同，人工智能相关股票的上涨主要因为AI公司确实有实际盈利。 杠杆使用更有限，可能会减少任何由AI情绪转变传导至经济的程度，但我们正密切关注AI企业的债务发行情况。 现在判断人工智能将如何影响劳动力市场、通胀和货币政策还为时过早。",
+          "url": "https://wallstreetcn.com/livenews/3008750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时03分 ~ 22时41分]"
+        },
+        {
           "title": "金十数据整理：每日人工智能动态汇总（2025-11-21）",
           "url": "https://flash.jin10.com/detail/20251121120040841800",
           "source": "金十数据",
@@ -73,11 +74,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时43分 ~ 22时03分]"
+          "appearance_count": 3,
+          "time_info": "[21时43分 ~ 22时41分]"
         },
         {
           "title": "美国国税局正在该机构的多个部门推广Salesforce(CRM.N)的人工智能体Agentforce。",
@@ -162,7 +164,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "Gemini 3深度实测",
@@ -203,6 +205,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时42分 ~ 10时24分]"
+        },
+        {
+          "title": "标普500指数的11个板块中，电信板块美股盘初涨1.63%，成分股谷歌A涨3.6%；金融、原材料、可选消费板块至少涨0.58%，科技板块则跌0.28%。",
+          "url": "https://wallstreetcn.com/livenews/3008770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "意大利反垄断监管机构：在谷歌采取补救措施后，关闭于2024年7月启动的针对谷歌不当使用个人数据的调查。",
@@ -409,8 +422,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时43分 ~ 22时03分]"
+          "appearance_count": 4,
+          "time_info": "[21时43分 ~ 22时41分]"
         }
       ]
     },
@@ -430,11 +443,12 @@
             25,
             26,
             27,
-            29
+            29,
+            30
           ],
           "is_new": false,
-          "appearance_count": 35,
-          "time_info": "[08时42分 ~ 22时03分]"
+          "appearance_count": 36,
+          "time_info": "[08时42分 ~ 22时41分]"
         }
       ]
     },
