@@ -1,8 +1,47 @@
 {
-  "generated_at": "2025-11-22T08:41:25.989258+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-22T10:20:14.047356+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
+          "url": "https://wallstreetcn.com/articles/3759889",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时19分 ~ 10时20分]"
+        },
+        {
+          "title": "Gemini3玩法大全",
+          "url": "https://www.douyin.com/hot/2314134",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时19分 ~ 10时20分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜谷歌A收涨超3.5%，本周微软跌约7.3%、亚马逊跌约6%、英伟达跌超5.9%",
+          "url": "https://wallstreetcn.com/livenews/3008904",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        }
+      ]
+    },
     {
       "keyword_group": "人工智能",
       "match_count": 2,
@@ -12,11 +51,12 @@
           "url": "https://wallstreetcn.com/livenews/3008923",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时41分"
+          "appearance_count": 2,
+          "time_info": "[08时41分 ~ 10时20分]"
         },
         {
           "title": "消息人士：特朗普政府已搁置了一份旨在寻求取代州级人工智能法律的行政命令草案。",
@@ -24,23 +64,6 @@
           "source": "金十数据",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股七巨头收盘播报｜谷歌A收涨超3.5%，本周微软跌约7.3%、亚马逊跌约6%、英伟达跌超5.9%",
-          "url": "https://wallstreetcn.com/livenews/3008904",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -62,6 +85,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "关注AI泡沫，别只盯着英伟达和甲骨文CDS，美国万亿“私募信贷”正在爆大雷",
+          "url": "https://wallstreetcn.com/articles/3759841",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时19分 ~ 10时20分]"
         }
       ]
     }
