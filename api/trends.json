@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-22T20:15:40.244100+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2025-11-22T20:58:04.975957+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "一文读懂大跌逻辑--高盛交易员“复盘”：美联储转鹰“拉开帷幕”，谷歌而非英伟达重塑“AI交易”，币圈重创散户，最终是“系统性抛售”",
@@ -71,11 +71,24 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时31分 ~ 20时58分]"
+        },
+        {
+          "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
+          "url": "https://wallstreetcn.com/articles/3759917",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[19时31分 ~ 20时15分]"
+          "time_info": "[20时15分 ~ 20时58分]"
         },
         {
           "title": "Gemini3适合用来编程吗",
@@ -90,15 +103,15 @@
           "time_info": "[19时02分 ~ 19时32分]"
         },
         {
-          "title": "伯克希尔“买入谷歌”不像是巴菲特的决策？",
-          "url": "https://wallstreetcn.com/articles/3759917",
+          "title": "面对AI泡沫质疑，谷歌AI基建负责人坦言：公司必须每六个月将AI算力翻倍以满足需求",
+          "url": "https://wallstreetcn.com/articles/3759896",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 20时58分]"
         },
         {
           "title": "美股七巨头收盘播报｜谷歌A收涨超3.5%，本周微软跌约7.3%、亚马逊跌约6%、英伟达跌超5.9%",
@@ -140,11 +153,12 @@
           "ranks": [
             7,
             15,
-            22
+            22,
+            26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时38分 ~ 20时15分]"
+          "appearance_count": 5,
+          "time_info": "[18时38分 ~ 20时58分]"
         },
         {
           "title": "消息人士：特朗普政府已搁置了一份旨在寻求取代州级人工智能法律的行政命令草案。",
