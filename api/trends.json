@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-24T15:26:59.704760+08:00",
-  "total_titles_processed": 1081,
+  "generated_at": "2025-11-24T16:38:18.312854+08:00",
+  "total_titles_processed": 1193,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时08分 ~ 15时26分]"
+          "appearance_count": 8,
+          "time_info": "[10时08分 ~ 16时38分]"
         },
         {
           "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
@@ -198,6 +198,18 @@
           "time_info": "[00时30分 ~ 03时21分]"
         },
         {
+          "title": "美媒披露：特朗普最后一刻才知道俄乌“28点和平计划”内容",
+          "url": "https://news.ifeng.com/c/8oXW7E8CBM3",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时40分 ~ 16时38分]"
+        },
+        {
           "title": "美国财长贝森特：我们看到价格（稳定性）“变得更好”。 是服务业造成通胀上升，而不是（与总统特朗普关税相关的）进口商品。 能源价格下跌，这将拉低其他价格。 预计某些领域的价格将在未来数周下降，其他则需等待好几个月。 接下来一周，我们将看到（特朗普政府）关于医疗保健成本的公告。（NBC）",
           "url": "https://wallstreetcn.com/livenews/3009125",
           "source": "华尔街见闻-快讯",
@@ -221,17 +233,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时25分]"
-        },
-        {
-          "title": "美媒披露：特朗普最后一刻才知道俄乌“28点和平计划”内容",
-          "url": "https://news.ifeng.com/c/8oXW7E8CBM3",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 15时26分]"
         },
         {
           "title": "特朗普称乌克兰领导层对美方努力“毫无感激之情”",
@@ -326,7 +327,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "Gemini3.0炸裂玩法合集",
@@ -361,13 +362,24 @@
           "time_info": "[12时00分 ~ 13时29分]"
         },
         {
+          "title": "谷歌称必须每6个月将AI算力翻倍 谷歌算力供应链有望站上风口",
+          "url": "https://www.cls.cn/detail/2208396",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
+        },
+        {
           "title": "谷歌云：北约与谷歌云签署数百万美元协议，打造由人工智能驱动的主权云。",
           "url": "https://flash.jin10.com/detail/20251124150257144800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
         },
@@ -386,7 +398,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
@@ -397,8 +409,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时40分 ~ 15时26分]"
+          "appearance_count": 3,
+          "time_info": "[14时40分 ~ 16时38分]"
         },
         {
           "title": "本周重要事件与数据预告：美国数据密集补发、美股假期休市及阿里财报",
@@ -421,6 +433,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "美股期货涨幅扩大，纳斯达克100指数期货涨1%，标普500指数期货涨0.7%，道指期货涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3009473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         },
         {
           "title": "美股股指期货周一高开，纳指期货涨近1%。",
@@ -501,9 +524,26 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
+          "url": "https://www.cls.cn/detail/2208933",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时38分"
         }
       ]
     }
