@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-25T17:13:38.938620+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2025-11-25T17:42:51.812875+08:00",
+  "total_titles_processed": 1233,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
@@ -27,11 +27,12 @@
           "ranks": [
             11,
             7,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时02分 ~ 17时13分]"
+          "appearance_count": 14,
+          "time_info": "[13时02分 ~ 17时42分]"
         },
         {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
@@ -39,11 +40,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时11分 ~ 17时13分]"
+          "appearance_count": 8,
+          "time_info": "[15时11分 ~ 17时42分]"
         },
         {
           "title": "天孚通信：获谷歌30亿美元订单信息不属实",
@@ -77,6 +79,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
+        },
+        {
+          "title": "谷歌母公司Alphabet盘前上涨2.6%，此前有消息称Meta公司正洽谈斥资数十亿美元购买谷歌的芯片。",
+          "url": "https://flash.jin10.com/detail/20251125170751435800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         },
         {
           "title": "美股收盘 谷歌特斯拉暴涨逾6%",
@@ -178,6 +191,19 @@
           "time_info": "[15时38分 ~ 16时47分]"
         },
         {
+          "title": "硬科技迎资金活水，首批7只双创人工智能ETF周五齐发",
+          "url": "https://www.cls.cn/detail/2210084",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时47分 ~ 17时42分]"
+        },
+        {
           "title": "日本将把人工智能列入6大战略技术领域",
           "url": "https://flash.jin10.com/detail/20251125141659367800",
           "source": "金十数据",
@@ -200,18 +226,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时45分 ~ 13时02分]"
-        },
-        {
-          "title": "硬科技迎资金活水，首批7只双创人工智能ETF周五齐发",
-          "url": "https://www.cls.cn/detail/2210084",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时47分 ~ 17时13分]"
         }
       ]
     },
@@ -276,11 +290,12 @@
             7,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时27分 ~ 17时13分]"
+          "appearance_count": 18,
+          "time_info": "[10时27分 ~ 17时42分]"
         }
       ]
     },
@@ -299,6 +314,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时35分 ~ 12时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "分析：若无AI繁荣，美国经济肯定会陷入衰退",
+          "url": "https://flash.jin10.com/detail/20251125171619335800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时42分"
         }
       ]
     }
