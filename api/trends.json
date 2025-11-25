@@ -1,221 +1,138 @@
 {
-  "generated_at": "2025-11-24T22:44:10.033746+08:00",
-  "total_titles_processed": 1650,
+  "generated_at": "2025-11-25T08:41:53.886947+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
-          "title": "Gemini3.0炸裂玩法合集",
-          "url": "https://search.bilibili.com/all?keyword=Gemini3.0%E7%82%B8%E8%A3%82%E7%8E%A9%E6%B3%95%E5%90%88%E9%9B%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            13,
-            6,
-            5,
-            9,
-            20,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时46分 ~ 16时15分]"
-        },
-        {
-          "title": "Gartner最新报告：阿里云在生成式AI四大维度全栈领先，比肩谷歌、OpenAI",
-          "url": "https://wallstreetcn.com/livenews/3009336",
+          "title": "天孚通信：获谷歌30亿美元订单信息不属实",
+          "url": "https://wallstreetcn.com/livenews/3009827",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            5,
-            12,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时51分 ~ 13时42分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet盘前涨幅扩大至高达4.1%。",
-          "url": "https://flash.jin10.com/detail/20251124211321112800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时49分 ~ 22时07分]"
-        },
-        {
-          "title": "谷歌称必须每6个月将AI算力翻倍 谷歌算力供应链有望站上风口",
-          "url": "https://www.cls.cn/detail/2208396",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时37分 ~ 17时14分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)母公司Alphabet股价盘前涨2.9%，此前一交易日已上涨3.5%。",
-          "url": "https://flash.jin10.com/detail/20251124170908032800",
-          "source": "金十数据",
-          "ranks": [
-            21
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时44分"
+          "time_info": "08时41分"
+        },
+        {
+          "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
+          "url": "https://www.cls.cn/detail/2209592",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
+          "title": "谷歌拟向Meta直接销售TPU 英伟达市场或遭进一步蚕食",
+          "url": "https://flash.jin10.com/detail/20251125080159391800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
+          "title": "Sam Altman 称谷歌复苏将致 OpenAI 走入「艰难时期」，如何看待两家 AI 巨头的竞争？",
+          "url": "https://www.zhihu.com/question/1976223014631733240",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
+          "title": "美股收盘 谷歌特斯拉暴涨逾6%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98+%E8%B0%B7%E6%AD%8C%E7%89%B9%E6%96%AF%E6%8B%89%E6%9A%B4%E6%B6%A8%E9%80%BE6%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
+          "title": "英伟达盘后跌2%，报道称，Meta寻求为自家数据中心采用谷歌TPUs。",
+          "url": "https://wallstreetcn.com/livenews/3009800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
+          "title": "谷歌A盘后涨1.9%，英伟达跌1.1%。",
+          "url": "https://wallstreetcn.com/livenews/3009799",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
+          "title": "美股盘后谷歌(GOOG.O)涨2.2%，英伟达(NVDA.O)跌1.5%。此前消息称Meta与谷歌就2027年采购后者的TPU展开谈判。",
+          "url": "https://flash.jin10.com/detail/20251125070008701800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
+          "title": "Meta Platforms与谷歌公司洽谈，希望在自家数据中心利用后者的TPUs。 双方讨论的目标是，2027年落实。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3009797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时41分"
+        },
+        {
+          "title": "据The Information：Meta Platforms(META.O)正考虑斥资数十亿美元购买谷歌的TPU，包括用于Meta公司的数据中心。双方希望2027年落地该计划。",
+          "url": "https://flash.jin10.com/detail/20251125064652961800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时41分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-11-24）",
-          "url": "https://flash.jin10.com/detail/20251124115246431800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            13,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时25分 ~ 13时42分]"
-        },
-        {
-          "title": "市场消息：印度尼西亚规模达520亿美元的国有社会保障基金的董事表示，该基金正在关注为人工智能产业提供基础设施的公司，作为其首批海外投资目标。该基金正在等待政府批准，以便将其总资产的最高5%投资于海外。该机构可以投资于美国、日本、韩国市场，用于购买AI供应链相关股票。",
-          "url": "https://flash.jin10.com/detail/20251124172037714800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时44分 ~ 18时02分]"
-        },
-        {
-          "title": "阿布扎比lunate基金正考虑向人工智能公司MGX投资10亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3009425",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时37分 ~ 16时15分]"
-        },
-        {
-          "title": "美股开盘，道指开涨0.23%，标普500指数涨0.51%，纳指涨0.92%。诺和诺德(NVO.N)跌超8%，公司最新试验并未显示出显著的阿尔茨海默病减缓效果。文远知行(WRD.O)涨超6%，公司Q3总收入同比增长144.3%；特斯拉(TSLA.O)涨2%，马斯克称将“深度参与”特斯拉的人工智能芯片设计。",
-          "url": "https://flash.jin10.com/detail/20251124223022614800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时44分"
-        },
-        {
-          "title": "市场消息：阿布扎比投资管理公司Lunate向人工智能公司MGX承诺投资10亿美元。",
-          "url": "https://flash.jin10.com/detail/20251124150547293800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马斯克的“悲哀”！报道称：协议还有八个月，但DOGE“已不存在”",
-          "url": "https://wallstreetcn.com/articles/3759972",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[16时48分 ~ 22时44分]"
-        },
-        {
-          "title": "马斯克发布“太空AI”颠覆性愿景，黄仁勋却泼冷水？一文读懂",
-          "url": "https://www.cls.cn/detail/2208561",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            11,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[12时50分 ~ 19时35分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "增速超越ChatGPT！千问、灵光持续破圈 国产AI大战2.0打响",
-          "url": "https://www.cls.cn/detail/2208933",
+          "title": "特朗普签署行政令 启动人工智能“创世纪计划” | 环球市场",
+          "url": "https://www.cls.cn/detail/2209616",
           "source": "财联社热门",
           "ranks": [
-            11,
-            10,
-            7,
-            4,
-            3,
-            2
+            13
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[16时48分 ~ 22时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "外资唱多声不断！高盛：中国股票将延续“牛气” AI股仍有上涨空间",
-          "url": "https://www.cls.cn/detail/2208653",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[15时37分 ~ 22时07分]"
+          "appearance_count": 1,
+          "time_info": "08时41分"
         }
       ]
     }
