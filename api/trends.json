@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T10:27:58.611303+08:00",
-  "total_titles_processed": 455,
+  "generated_at": "2025-11-25T11:35:42.148974+08:00",
+  "total_titles_processed": 574,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时41分 ~ 10时27分]"
+          "appearance_count": 3,
+          "time_info": "[08时41分 ~ 11时35分]"
         },
         {
           "title": "天孚通信：获谷歌30亿美元订单信息不属实",
@@ -131,7 +132,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时27分"
         }
@@ -147,11 +148,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时41分 ~ 10时27分]"
+          "appearance_count": 3,
+          "time_info": "[08时41分 ~ 11时35分]"
         }
       ]
     },
@@ -164,11 +166,12 @@
           "url": "https://www.cls.cn/detail/2209531",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 11时35分]"
         }
       ]
     },
@@ -181,11 +184,29 @@
           "url": "https://www.cls.cn/detail/2209653",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 11时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Anthropic",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Anthropic发布模型Opus 4.5，称其编程能力已超越人类工程师",
+          "url": "https://www.cls.cn/detail/2209575",
+          "source": "财联社热门",
+          "ranks": [
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时27分"
+          "time_info": "11时35分"
         }
       ]
     }
