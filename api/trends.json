@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-25T08:41:53.886947+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-11-25T10:27:58.611303+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 10,
       "titles": [
+        {
+          "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
+          "url": "https://www.cls.cn/detail/2209592",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时41分 ~ 10时27分]"
+        },
         {
           "title": "天孚通信：获谷歌30亿美元订单信息不属实",
           "url": "https://wallstreetcn.com/livenews/3009827",
@@ -19,15 +31,15 @@
           "time_info": "08时41分"
         },
         {
-          "title": "美股收盘：七巨头齐升纳指收高2.7% 谷歌特斯拉暴涨逾6%",
-          "url": "https://www.cls.cn/detail/2209592",
-          "source": "财联社热门",
+          "title": "Sam Altman 称谷歌复苏将致 OpenAI 走入「艰难时期」，如何看待两家 AI 巨头的竞争？",
+          "url": "https://www.zhihu.com/question/1976223014631733240",
+          "source": "知乎",
           "ranks": [
-            4
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时41分"
+          "appearance_count": 2,
+          "time_info": "[08时41分 ~ 10时27分]"
         },
         {
           "title": "谷歌拟向Meta直接销售TPU 英伟达市场或遭进一步蚕食",
@@ -35,17 +47,6 @@
           "source": "金十数据",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时41分"
-        },
-        {
-          "title": "Sam Altman 称谷歌复苏将致 OpenAI 走入「艰难时期」，如何看待两家 AI 巨头的竞争？",
-          "url": "https://www.zhihu.com/question/1976223014631733240",
-          "source": "知乎",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -120,6 +121,23 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "知名苹果爆料人：库克退休传言纯属虚假 OpenAI正在狂挖硬件人才",
+          "url": "https://www.cls.cn/detail/2209345",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人工智能",
       "match_count": 1,
       "titles": [
@@ -128,11 +146,46 @@
           "url": "https://www.cls.cn/detail/2209616",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时41分 ~ 10时27分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特斯拉异动拉涨！马斯克豪言每12个月推出一代AI芯片",
+          "url": "https://www.cls.cn/detail/2209531",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时41分"
+          "time_info": "10时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“创世纪计划”启动！特朗普签署AI新政 对标“曼哈顿计划”",
+          "url": "https://www.cls.cn/detail/2209653",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         }
       ]
     }
