@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-25T17:42:51.812875+08:00",
-  "total_titles_processed": 1233,
+  "generated_at": "2025-11-25T18:02:49.401138+08:00",
+  "total_titles_processed": 1278,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[13时02分 ~ 17时42分]"
+          "appearance_count": 15,
+          "time_info": "[13时02分 ~ 18时02分]"
         },
         {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
@@ -44,8 +44,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时11分 ~ 17时42分]"
+          "appearance_count": 9,
+          "time_info": "[15时11分 ~ 18时02分]"
         },
         {
           "title": "天孚通信：获谷歌30亿美元订单信息不属实",
@@ -87,7 +87,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
@@ -197,11 +197,12 @@
           "ranks": [
             13,
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时47分 ~ 17时42分]"
+          "appearance_count": 4,
+          "time_info": "[16时47分 ~ 18时02分]"
         },
         {
           "title": "日本将把人工智能列入6大战略技术领域",
@@ -262,25 +263,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "知名苹果爆料人：库克退休传言纯属虚假 OpenAI正在狂挖硬件人才",
-          "url": "https://www.cls.cn/detail/2209345",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "“创世纪计划”启动！特朗普签署AI新政 对标“曼哈顿计划”",
@@ -294,8 +278,64 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时27分 ~ 17时42分]"
+          "appearance_count": 19,
+          "time_info": "[10时27分 ~ 18时02分]"
+        },
+        {
+          "title": "特朗普签署行政命令，启动 AI 创世纪计划，为何现在推出？能带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1976557160864375677",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "分析：若无AI繁荣，美国经济肯定会陷入衰退",
+          "url": "https://flash.jin10.com/detail/20251125171619335800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时42分"
+        },
+        {
+          "title": "巴克莱评估AI对美国GDP的影响",
+          "url": "https://flash.jin10.com/detail/20251125172833802800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "知名苹果爆料人：库克退休传言纯属虚假 OpenAI正在狂挖硬件人才",
+          "url": "https://www.cls.cn/detail/2209345",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         }
       ]
     },
@@ -314,23 +354,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时35分 ~ 12时45分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "分析：若无AI繁荣，美国经济肯定会陷入衰退",
-          "url": "https://flash.jin10.com/detail/20251125171619335800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
         }
       ]
     }
