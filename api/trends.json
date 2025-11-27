@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T13:42:09.815019+08:00",
-  "total_titles_processed": 753,
+  "generated_at": "2025-11-27T14:16:27.646869+08:00",
+  "total_titles_processed": 799,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时42分 ~ 13时42分]"
+          "appearance_count": 11,
+          "time_info": "[08时42分 ~ 14时16分]"
         },
         {
           "title": "OpenAI：已将Mixpanel从生产环境中移除",
@@ -26,11 +26,12 @@
           "ranks": [
             3,
             6,
-            15
+            15,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 13时42分]"
+          "appearance_count": 4,
+          "time_info": "[12时43分 ~ 14时16分]"
         },
         {
           "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
@@ -66,11 +67,12 @@
           "url": "https://flash.jin10.com/detail/20251127130943837800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时42分 ~ 14时16分]"
         },
         {
           "title": "国新办：外空、网络、人工智能等新兴领域是人类发展的新高地、战略安全的新焦点、全球治理的新疆域",
@@ -97,8 +99,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时42分 ~ 13时42分]"
+          "appearance_count": 11,
+          "time_info": "[08时42分 ~ 14时16分]"
         },
         {
           "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
@@ -116,7 +118,7 @@
     },
     {
       "keyword_group": "grok",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "马斯克将AI推上《英雄联盟》对局：Grok 5能否抗衡人类最强战队？",
@@ -125,11 +127,23 @@
           "ranks": [
             13,
             11,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时42分 ~ 13时42分]"
+          "appearance_count": 10,
+          "time_info": "[08时42分 ~ 14时16分]"
+        },
+        {
+          "title": "马斯克在社交媒体称，更新你的X应用程序，然后查看您的“关注者”动态页面。您关注的人的帖子现在会由Grok 进行排序。如果你愿意，仍然可以访问未经过滤的原始时间线内容。",
+          "url": "https://wallstreetcn.com/livenews/3011307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
         }
       ]
     },
@@ -148,8 +162,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时42分 ~ 13时42分]"
+          "appearance_count": 11,
+          "time_info": "[08时42分 ~ 14时16分]"
         }
       ]
     }
