@@ -1,8 +1,49 @@
 {
-  "generated_at": "2025-11-27T12:43:54.413384+08:00",
-  "total_titles_processed": 667,
+  "generated_at": "2025-11-27T13:11:08.403055+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "暴跌40%！软银成为“OpenAI链”风向标",
+          "url": "https://wallstreetcn.com/articles/3760166",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时42分 ~ 13时11分]"
+        },
+        {
+          "title": "OpenAI：已将Mixpanel从生产环境中移除",
+          "url": "https://wallstreetcn.com/livenews/3011268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 13时11分]"
+        },
+        {
+          "title": "甲骨文股价反弹！华尔街\"抄底派\"料股价涨超90%，“现有估值几乎没考虑OpenAI业务”",
+          "url": "https://wallstreetcn.com/articles/3760202",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 13时11分]"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
@@ -15,8 +56,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时42分 ~ 12时43分]"
+          "appearance_count": 8,
+          "time_info": "[08时42分 ~ 13时11分]"
         },
         {
           "title": "谷歌是如何做到“AI逆袭”？CEO Pichai谈Gemini 3、Vibe Coding与AI全栈策略",
@@ -33,35 +74,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "暴跌40%！软银成为“OpenAI链”风向标",
-          "url": "https://wallstreetcn.com/articles/3760166",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时42分 ~ 12时43分]"
-        },
-        {
-          "title": "OpenAI：已将Mixpanel从生产环境中移除",
-          "url": "https://wallstreetcn.com/livenews/3011268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能",
       "match_count": 2,
       "titles": [
@@ -70,11 +82,12 @@
           "url": "https://flash.jin10.com/detail/20251127115301613800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 13时11分]"
         },
         {
           "title": "国新办：外空、网络、人工智能等新兴领域是人类发展的新高地、战略安全的新焦点、全球治理的新疆域",
@@ -99,11 +112,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时42分 ~ 12时43分]"
+          "appearance_count": 7,
+          "time_info": "[08时42分 ~ 13时11分]"
         }
       ]
     },
@@ -122,8 +136,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时42分 ~ 12时43分]"
+          "appearance_count": 8,
+          "time_info": "[08时42分 ~ 13时11分]"
         }
       ]
     }
