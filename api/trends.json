@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T22:02:39.798917+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2025-11-29T22:38:46.196177+08:00",
+  "total_titles_processed": 1215,
   "failed_sources": [],
   "trends": [
     {
@@ -72,60 +72,20 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
       "titles": [
         {
-          "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
-          "url": "https://wallstreetcn.com/articles/3760370",
-          "source": "华尔街见闻",
+          "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
+          "url": "https://www.zhihu.com/question/1923520417756321577",
+          "source": "知乎",
           "ranks": [
-            5,
-            4,
-            3,
-            2
+            3
           ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[13时40分 ~ 22时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时38分"
         },
-        {
-          "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
-          "url": "https://www.cls.cn/detail/2214531",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            7,
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[10时24分 ~ 22时02分]"
-        },
-        {
-          "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
-          "url": "https://wallstreetcn.com/articles/3760377",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[19时32分 ~ 22时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
           "url": "https://wallstreetcn.com/articles/3760369",
@@ -147,6 +107,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
+          "url": "https://wallstreetcn.com/articles/3760370",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 23,
+          "time_info": "[13时40分 ~ 22时38分]"
+        },
+        {
+          "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
+          "url": "https://www.cls.cn/detail/2214531",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            7,
+            5,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 29,
+          "time_info": "[10时24分 ~ 22时38分]"
+        },
+        {
+          "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
+          "url": "https://wallstreetcn.com/articles/3760377",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[19时32分 ~ 22时38分]"
         }
       ]
     },
