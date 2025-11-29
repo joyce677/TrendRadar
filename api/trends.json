@@ -1,8 +1,37 @@
 {
-  "generated_at": "2025-11-29T10:24:44.798764+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2025-11-29T11:32:03.960225+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中信证券：空间算力PUE低发电成本低，已成为人工智能发展新趋势",
+          "url": "https://wallstreetcn.com/livenews/3012414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时24分 ~ 11时32分]"
+        },
+        {
+          "title": "人工智能泡沫真的要破灭了吗",
+          "url": "https://www.toutiao.com/trending/7577941518787284543/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时31分 ~ 11时32分]"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
@@ -29,11 +58,12 @@
           "url": "https://www.cls.cn/detail/2214531",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时24分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时24分 ~ 11时32分]"
         }
       ]
     },
@@ -47,28 +77,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时41分 ~ 10时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中信证券：空间算力PUE低发电成本低，已成为人工智能发展新趋势",
-          "url": "https://wallstreetcn.com/livenews/3012414",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时24分"
+          "appearance_count": 4,
+          "time_info": "[08时41分 ~ 11时32分]"
         }
       ]
     },
