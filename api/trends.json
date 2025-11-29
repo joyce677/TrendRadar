@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-29T19:32:34.076170+08:00",
-  "total_titles_processed": 1028,
+  "generated_at": "2025-11-29T20:16:14.793862+08:00",
+  "total_titles_processed": 1068,
   "failed_sources": [],
   "trends": [
     {
@@ -35,11 +35,12 @@
             13,
             18,
             19,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时02分 ~ 19时32分]"
+          "appearance_count": 7,
+          "time_info": "[17时02分 ~ 20时16分]"
         },
         {
           "title": "美光将在日本西部投资96亿美元，用于生产人工智能内存芯片。",
@@ -84,8 +85,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时40分 ~ 19时32分]"
+          "appearance_count": 17,
+          "time_info": "[13时40分 ~ 20时16分]"
         },
         {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
@@ -100,26 +101,38 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[10时24分 ~ 19时32分]"
+          "appearance_count": 23,
+          "time_info": "[10时24分 ~ 20时16分]"
         },
         {
           "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
           "url": "https://wallstreetcn.com/articles/3760377",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时32分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时32分 ~ 20时16分]"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
+          "url": "https://wallstreetcn.com/articles/3760369",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时15分 ~ 20时16分]"
+        },
         {
           "title": "第1个获得数学奥赛金牌的开源模型！DeepSeek新模型获网友盛赞：公开技术文件，了不起！",
           "url": "https://wallstreetcn.com/articles/3760294",
