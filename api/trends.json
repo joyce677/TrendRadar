@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T10:50:54.040529+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2025-11-30T11:52:43.923765+08:00",
+  "total_titles_processed": 511,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时48分 ~ 10时50分]"
+          "appearance_count": 4,
+          "time_info": "[08时48分 ~ 11时52分]"
         },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
@@ -39,8 +40,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时48分 ~ 10时50分]"
+          "appearance_count": 4,
+          "time_info": "[08时48分 ~ 11时52分]"
         }
       ]
     },
@@ -55,11 +56,12 @@
           "ranks": [
             2,
             3,
-            4
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时48分 ~ 10时50分]"
+          "appearance_count": 4,
+          "time_info": "[08时48分 ~ 11时52分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -75,25 +77,8 @@
       ]
     },
     {
-      "keyword_group": "增长",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "快手AI化提速：用户生态+广告变现双提升，可灵增长潜力巨大",
-          "url": "https://wallstreetcn.com/articles/3760382",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时50分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "高盛点评“中国AI大厂之战”：阿里 vs 腾讯 vs 字节",
@@ -104,8 +89,37 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时48分 ~ 10时50分]"
+          "appearance_count": 4,
+          "time_info": "[08时48分 ~ 11时52分]"
+        },
+        {
+          "title": "美国“黑五”销售额同比增4.1%，AI流量暴增600%，通胀和“K型经济”依旧是主题",
+          "url": "https://wallstreetcn.com/articles/3760389",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "增长",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "快手AI化提速：用户生态+广告变现双提升，可灵增长潜力巨大",
+          "url": "https://wallstreetcn.com/articles/3760382",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时50分 ~ 11时52分]"
         }
       ]
     }
