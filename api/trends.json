@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T15:33:24.383345+08:00",
-  "total_titles_processed": 738,
+  "generated_at": "2025-11-30T16:12:30.679744+08:00",
+  "total_titles_processed": 776,
   "failed_sources": [],
   "trends": [
     {
@@ -62,11 +62,12 @@
             14,
             12,
             16,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时48分 ~ 15时33分]"
+          "appearance_count": 15,
+          "time_info": "[08时48分 ~ 16时12分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -94,8 +95,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时48分 ~ 15时33分]"
+          "appearance_count": 15,
+          "time_info": "[08时48分 ~ 16时12分]"
         },
         {
           "title": "美国“黑五”销售额同比增4.1%，AI流量暴增600%，通胀和“K型经济”依旧是主题",
@@ -106,8 +107,25 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时52分 ~ 15时33分]"
+          "appearance_count": 12,
+          "time_info": "[11时52分 ~ 16时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
+          "url": "https://wallstreetcn.com/articles/3760398",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         }
       ]
     },
