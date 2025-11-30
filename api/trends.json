@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T15:13:06.155299+08:00",
-  "total_titles_processed": 858,
+  "generated_at": "2025-11-30T16:16:22.332717+08:00",
+  "total_titles_processed": 915,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             14,
             22,
             23,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时15分 ~ 15时13分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 16时16分]"
         },
         {
           "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
@@ -169,8 +170,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时19分 ~ 15时13分]"
+          "appearance_count": 5,
+          "time_info": "[14时19分 ~ 16时16分]"
         },
         {
           "title": "特朗普感恩节威胁对乌无用",
@@ -253,8 +254,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时15分 ~ 15时13分]"
+          "appearance_count": 18,
+          "time_info": "[00时15分 ~ 16时16分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -298,8 +299,25 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时19分 ~ 15时13分]"
+          "appearance_count": 5,
+          "time_info": "[14时19分 ~ 16时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
+          "url": "https://wallstreetcn.com/articles/3760398",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         }
       ]
     }
