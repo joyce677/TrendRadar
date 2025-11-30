@@ -1,12 +1,24 @@
 {
-  "generated_at": "2025-11-30T08:49:13.124742+08:00",
-  "total_titles_processed": 317,
+  "generated_at": "2025-11-30T10:50:54.040529+08:00",
+  "total_titles_processed": 441,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
+        {
+          "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
+          "url": "https://wallstreetcn.com/articles/3760377",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时48分 ~ 10时50分]"
+        },
         {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
           "url": "https://wallstreetcn.com/articles/3760370",
@@ -19,26 +31,16 @@
           "time_info": "[08时48分 ~ 08时49分]"
         },
         {
-          "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
-          "url": "https://wallstreetcn.com/articles/3760377",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时48分 ~ 08时49分]"
-        },
-        {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
           "url": "https://www.cls.cn/detail/2214531",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时48分 ~ 08时49分]"
+          "appearance_count": 3,
+          "time_info": "[08时48分 ~ 10时50分]"
         }
       ]
     },
@@ -52,11 +54,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时48分 ~ 08时49分]"
+          "appearance_count": 3,
+          "time_info": "[08时48分 ~ 10时50分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -72,6 +75,23 @@
       ]
     },
     {
+      "keyword_group": "增长",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "快手AI化提速：用户生态+广告变现双提升，可灵增长潜力巨大",
+          "url": "https://wallstreetcn.com/articles/3760382",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI",
       "match_count": 1,
       "titles": [
@@ -80,11 +100,12 @@
           "url": "https://wallstreetcn.com/articles/3760379",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时48分 ~ 08时49分]"
+          "appearance_count": 3,
+          "time_info": "[08时48分 ~ 10时50分]"
         }
       ]
     }
