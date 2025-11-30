@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-30T13:14:07.862494+08:00",
-  "total_titles_processed": 743,
+  "generated_at": "2025-11-30T14:20:13.402176+08:00",
+  "total_titles_processed": 815,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普大动作！拜登任内签的一批反华文件恐失效？",
@@ -25,11 +25,12 @@
           "ranks": [
             7,
             14,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时15分 ~ 13时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时15分 ~ 14时20分]"
         },
         {
           "title": "特朗普的乌克兰和平蓝图：以商业取代战争",
@@ -164,11 +165,23 @@
           "source": "今日头条",
           "ranks": [
             18,
-            17
+            17,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时29分 ~ 13时14分]"
+          "appearance_count": 5,
+          "time_info": "[12时29分 ~ 14时20分]"
+        },
+        {
+          "title": "“特朗普交易”遭重创",
+          "url": "https://wallstreetcn.com/articles/3760394",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
         }
       ]
     },
@@ -208,11 +221,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 13时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 14时20分]"
         }
       ]
     },
@@ -232,11 +246,12 @@
             2,
             8,
             14,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时15分 ~ 13时14分]"
+          "appearance_count": 15,
+          "time_info": "[00时15分 ~ 14时20分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -255,7 +270,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "土耳其外交部：土耳其外交部长将于11月30日访问伊朗。",
@@ -270,6 +285,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时15分 ~ 12时29分]"
+        },
+        {
+          "title": "美国发表关闭委内瑞拉领空言论，伊朗谴责",
+          "url": "https://news.ifeng.com/c/8ohK4NeU28p",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时19分 ~ 14时20分]"
         }
       ]
     }
