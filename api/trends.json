@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T10:28:06.463946+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2025-12-01T12:15:31.888837+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 32,
       "titles": [
         {
           "title": "美媒：特朗普直接要求马杜罗下台",
@@ -49,9 +49,32 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时28分"
+        },
+        {
+          "title": "据Politico：欧盟一名高级官员警告称，美国总统特朗普为乌克兰和平所做的努力，绝不能让俄罗斯总统普京逃脱俄军队所犯战争罪的责任，这实际上为达成协议划定了新的红线。",
+          "url": "https://flash.jin10.com/detail/20251201112823735800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
+          "url": "https://wallstreetcn.com/articles/3760417",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 12时15分]"
         },
         {
           "title": "泽连斯基的助手将在佛罗里达州与特朗普团队会面",
@@ -142,11 +165,59 @@
           "url": "https://news.ifeng.com/c/8oikvl8KaCy",
           "source": "凤凰网",
           "ranks": [
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 12时15分]"
+        },
+        {
+          "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
+          "url": "https://www.cls.cn/detail/2215261",
+          "source": "财联社热门",
+          "ranks": [
+            11,
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 10时28分]"
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 12时15分]"
+        },
+        {
+          "title": "特朗普：关闭委内瑞拉领空并不意味着即将发生空袭",
+          "url": "https://news.ifeng.com/c/8oikvl8KaAC",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 12时15分]"
+        },
+        {
+          "title": "特朗普：俄乌和平协议“很可能”达成",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E4%B9%8C%E5%92%8C%E5%B9%B3%E5%8D%8F%E8%AE%AE%E2%80%9C%E5%BE%88%E5%8F%AF%E8%83%BD%E2%80%9D%E8%BE%BE%E6%88%90",
+          "source": "百度热搜",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 12时15分]"
+        },
+        {
+          "title": "特朗普：已选定下任美联储主席",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B7%B2%E9%80%89%E5%AE%9A%E4%B8%8B%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 12时15分]"
         },
         {
           "title": "美国总统特朗普：暂停庇护没有设定具体时间表，我们不希望接收来自某些国家的人。",
@@ -185,28 +256,6 @@
           "time_info": "[06时25分 ~ 07时24分]"
         },
         {
-          "title": "特朗普：俄乌和平协议“很可能”达成",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E4%B9%8C%E5%92%8C%E5%B9%B3%E5%8D%8F%E8%AE%AE%E2%80%9C%E5%BE%88%E5%8F%AF%E8%83%BD%E2%80%9D%E8%BE%BE%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 10时28分]"
-        },
-        {
-          "title": "特朗普：关闭委内瑞拉领空并不意味着即将发生空袭",
-          "url": "https://news.ifeng.com/c/8oikvl8KaAC",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 10时28分]"
-        },
-        {
           "title": "美国总统特朗普：我们会调查有关对毒品船只发动第二次打击的报道。我不希望发生那种事，但国防部长赫格塞思所说的第二次打击并没有发生。",
           "url": "https://flash.jin10.com/detail/20251201054736615800",
           "source": "金十数据",
@@ -217,28 +266,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时25分 ~ 07时24分]"
-        },
-        {
-          "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
-          "url": "https://wallstreetcn.com/articles/3760417",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 10时28分]"
-        },
-        {
-          "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
-          "url": "https://www.cls.cn/detail/2215261",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 10时28分]"
         },
         {
           "title": "美国总统特朗普：相信洪都拉斯前总统埃尔南德斯在毒品走私指控上是被设局陷害的。",
@@ -253,15 +280,26 @@
           "time_info": "[06时25分 ~ 07时24分]"
         },
         {
-          "title": "特朗普：已选定下任美联储主席",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E5%B7%B2%E9%80%89%E5%AE%9A%E4%B8%8B%E4%BB%BB%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%BB%E5%B8%AD",
-          "source": "百度热搜",
+          "title": "特朗普：已确定美联储主席继任者，很快就会宣布",
+          "url": "https://news.ifeng.com/c/8oizWNiI4Dt",
+          "source": "凤凰网",
           "ranks": [
-            23
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 10时28分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "特朗普与委总统通话，直接要求对方下台！",
+          "url": "https://wallstreetcn.com/articles/3760404",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
         },
         {
           "title": "特朗普：不要过度解读关闭委内瑞拉空域之举",
@@ -328,6 +366,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "芝商所上周五经历数小时故障，白银刷新历史新高！特朗普已敲定下任美联储主席人选，美乌新会谈“富有成效但仍有工作要做”....美油卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20251201103320124800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
         }
       ]
     },
@@ -353,11 +402,12 @@
           "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E9%A9%BB%E4%BC%8A%E6%9C%97%E5%A4%A7%E4%BD%BF%E9%A6%86%E6%9C%80%E6%96%B0%E6%8F%90%E9%86%92",
           "source": "百度热搜",
           "ranks": [
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 10时28分]"
+          "appearance_count": 3,
+          "time_info": "[10时27分 ~ 12时15分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队扣押一艘外籍油轮",
@@ -394,11 +444,12 @@
           "ranks": [
             10,
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 10时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 12时15分]"
         },
         {
           "title": "Gemini升级了哪些地方",
@@ -410,11 +461,12 @@
             22,
             23,
             26,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 10时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 12时15分]"
         },
         {
           "title": "谷歌(GOOG.O)推迟其伦敦“地面摩天楼”总部的启用时间。",
@@ -460,8 +512,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 10时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时31分 ~ 12时15分]"
         }
       ]
     },
