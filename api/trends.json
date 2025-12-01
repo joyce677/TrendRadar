@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-01T14:17:42.408372+08:00",
-  "total_titles_processed": 781,
+  "generated_at": "2025-12-01T14:53:57.947091+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "北京：加强“人工智能+政务服务”统筹建设，强化政务领域大模型顶层设计",
+          "url": "https://wallstreetcn.com/livenews/3012849",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
         {
           "title": "中国聚变能源公司：与同方股份探讨“人工智能赋能聚变研发”等议题",
           "url": "https://wallstreetcn.com/livenews/3012731",
@@ -72,6 +83,21 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "Gemini升级了哪些地方",
+          "url": "https://search.bilibili.com/all?keyword=Gemini%E5%8D%87%E7%BA%A7%E4%BA%86%E5%93%AA%E4%BA%9B%E5%9C%B0%E6%96%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            10,
+            28,
+            29,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[08时54分 ~ 14时53分]"
+        },
+        {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
           "url": "https://www.cls.cn/detail/2215087",
           "source": "财联社热门",
@@ -88,25 +114,12 @@
           "url": "https://wallstreetcn.com/livenews/3012823",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        },
-        {
-          "title": "Gemini升级了哪些地方",
-          "url": "https://search.bilibili.com/all?keyword=Gemini%E5%8D%87%E7%BA%A7%E4%BA%86%E5%93%AA%E4%BA%9B%E5%9C%B0%E6%96%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            10,
-            28,
-            29
+            5,
+            16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时54分 ~ 14时17分]"
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 14时53分]"
         }
       ]
     },
