@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T08:54:42.337740+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2025-12-01T11:02:19.529460+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.cls.cn/detail/2215087",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 11时02分]"
         },
         {
           "title": "Gemini升级了哪些地方",
           "url": "https://search.bilibili.com/all?keyword=Gemini%E5%8D%87%E7%BA%A7%E4%BA%86%E5%93%AA%E4%BA%9B%E5%9C%B0%E6%96%B9",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 11时02分]"
         }
       ]
     },
@@ -60,8 +62,25 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 11时02分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国聚变能源公司：与同方股份探讨“人工智能赋能聚变研发”等议题",
+          "url": "https://wallstreetcn.com/livenews/3012731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时54分"
+          "time_info": "11时02分"
         }
       ]
     },
