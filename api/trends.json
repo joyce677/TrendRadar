@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T21:09:45.839240+08:00",
-  "total_titles_processed": 1553,
+  "generated_at": "2025-12-01T21:51:17.711338+08:00",
+  "total_titles_processed": 1621,
   "failed_sources": [],
   "trends": [
     {
@@ -117,6 +117,103 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
+          "url": "https://wallstreetcn.com/articles/3760398",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[08时54分 ~ 14时17分]"
+        },
+        {
+          "title": "三年前，ChatGPT发布，“AI狂潮”席卷全球，一个新时代拉开帷幕",
+          "url": "https://wallstreetcn.com/articles/3760419",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时46分 ~ 21时51分]"
+        },
+        {
+          "title": "OpenAI入股Thrive Holdings，以加速企业对人工智能的采用。",
+          "url": "https://flash.jin10.com/detail/20251201212133290800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
+          "title": "OpenAI与埃森哲携手，以先进人工智能加速企业重塑。",
+          "url": "https://flash.jin10.com/detail/20251201205933747800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时51分]"
+        },
+        {
+          "title": "软银CEO：我本不愿抛售任何一份英伟达(NVDA.O)股票，但我急需资金投入OpenAI及我们的新机遇。",
+          "url": "https://flash.jin10.com/detail/20251201161616211800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时50分"
+        },
+        {
+          "title": "埃森哲(ACN.N)美股盘前涨4.8%，此前宣布与OpenAI达成合作。",
+          "url": "https://flash.jin10.com/detail/20251201211507412800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
+          "title": "OpenAI与埃森哲联合推出全新旗舰AI计划。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3013078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        },
+        {
+          "title": "埃森哲公司：将借助ChatGPT企业版，通过直接访问前沿模型，加速各岗位人员的AI技能提升。",
+          "url": "https://flash.jin10.com/detail/20251201210253983800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 6,
       "titles": [
@@ -186,11 +283,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时18分 ~ 21时09分]"
+          "appearance_count": 4,
+          "time_info": "[20时18分 ~ 21时51分]"
         },
         {
           "title": "美股盘前，科技股多数下跌，英伟达跌超1%，谷歌、苹果跌近1%，特斯拉跌超1%。",
@@ -208,7 +306,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【DeepSeekV3.2正式版发布 强化Agent能力 融入思考推理】DeepSeek宣布同时发布两个正式版模型：DeepSeek-V3.2 和 DeepSeek-V3.2-Speciale。DeepSeek-V3.2 的目标是平衡推理能力与输出长度，适合日常使用，例如问答场景和通用 Agent 任务场景。DeepSeek-V3.2-Speciale 的目标是将开源模型的推理能力推向极致，探索模型能力的边界。",
@@ -228,11 +326,35 @@
           "url": "https://www.zhihu.com/question/1978819912970555965",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时51分]"
+        },
+        {
+          "title": "DeepSeek同时发布两个正式版模型",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%8C%E6%97%B6%E5%8F%91%E5%B8%83%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BC%8F%E7%89%88%E6%A8%A1%E5%9E%8B",
+          "source": "百度热搜",
+          "ranks": [
+            25,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时51分]"
+        },
+        {
+          "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
+          "url": "https://wallstreetcn.com/articles/3760461",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时09分"
+          "time_info": "21时51分"
         },
         {
           "title": "为什么 chatgpt 是收费的，我们的豆包和 deepseek 是完全免费的?",
@@ -244,69 +366,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
-        },
-        {
-          "title": "DeepSeek同时发布两个正式版模型",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%8C%E6%97%B6%E5%8F%91%E5%B8%83%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BC%8F%E7%89%88%E6%A8%A1%E5%9E%8B",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
-          "url": "https://wallstreetcn.com/articles/3760398",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时54分 ~ 14时17分]"
-        },
-        {
-          "title": "三年前，ChatGPT发布，“AI狂潮”席卷全球，一个新时代拉开帷幕",
-          "url": "https://wallstreetcn.com/articles/3760419",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时46分 ~ 21时09分]"
-        },
-        {
-          "title": "OpenAI与埃森哲携手，以先进人工智能加速企业重塑。",
-          "url": "https://flash.jin10.com/detail/20251201205933747800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时09分"
-        },
-        {
-          "title": "软银CEO：我本不愿抛售任何一份英伟达(NVDA.O)股票，但我急需资金投入OpenAI及我们的新机遇。",
-          "url": "https://flash.jin10.com/detail/20251201161616211800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时50分"
         }
       ]
     },
@@ -323,8 +382,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时46分 ~ 21时09分]"
+          "appearance_count": 8,
+          "time_info": "[18时46分 ~ 21时51分]"
         },
         {
           "title": "马斯克：我应该少碰政治",
@@ -333,9 +392,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时09分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时09分 ~ 21时51分]"
         }
       ]
     },
