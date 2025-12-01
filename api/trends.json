@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-01T18:02:54.181004+08:00",
-  "total_titles_processed": 1221,
+  "generated_at": "2025-12-01T18:47:12.236984+08:00",
+  "total_titles_processed": 1294,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,19 @@
           "time_info": "[14时53分 ~ 15时41分]"
         },
         {
+          "title": "REITs项目行业范围清单（2025年版）印发 人工智能基础设施项目在列",
+          "url": "https://wallstreetcn.com/livenews/3012941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时47分 ~ 18时47分]"
+        },
+        {
           "title": "梅赛德斯-奔驰：今年将员工的人工智能使用率提高了一倍，目标是到2025年底达到50%的使用率。",
           "url": "https://flash.jin10.com/detail/20251201160943754800",
           "source": "金十数据",
@@ -31,18 +44,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时16分 ~ 16时50分]"
-        },
-        {
-          "title": "REITs项目行业范围清单（2025年版）印发 人工智能基础设施项目在列",
-          "url": "https://wallstreetcn.com/livenews/3012941",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时47分 ~ 18时02分]"
         },
         {
           "title": "中国聚变能源公司：与同方股份探讨“人工智能赋能聚变研发”等议题",
@@ -150,8 +151,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时40分 ~ 18时02分]"
+          "appearance_count": 9,
+          "time_info": "[15时40分 ~ 18时47分]"
         },
         {
           "title": "谷歌加冕“AI新王”之际 先进封装格局生变 EMIB何以接棒CoWoS？",
@@ -195,7 +196,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI大溃败！GPT-5「换皮」GPT-4o，两年半预训练0突破",
@@ -207,6 +208,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[08时54分 ~ 14时17分]"
+        },
+        {
+          "title": "三年前，ChatGPT发布，“AI狂潮”席卷全球，一个新时代拉开帷幕",
+          "url": "https://wallstreetcn.com/articles/3760419",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 18时47分]"
         },
         {
           "title": "软银CEO：我本不愿抛售任何一份英伟达(NVDA.O)股票，但我急需资金投入OpenAI及我们的新机遇。",
@@ -235,6 +247,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克震撼预言：AI将在三年内终结美国“债务危机”！",
+          "url": "https://www.cls.cn/detail/2215716",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时46分 ~ 18时47分]"
         }
       ]
     },
