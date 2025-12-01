@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-01T18:17:29.153457+08:00",
-  "total_titles_processed": 1412,
+  "generated_at": "2025-12-01T19:13:28.360115+08:00",
+  "total_titles_processed": 1523,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "美媒：特朗普直接要求马杜罗下台",
@@ -36,11 +36,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时45分 ~ 18时17分]"
+          "appearance_count": 10,
+          "time_info": "[11时45分 ~ 19时13分]"
         },
         {
           "title": "鲍威尔要辞职？特朗普：已选定下任美联储主席 将很快公布！",
@@ -225,6 +226,17 @@
           "time_info": "[14时22分 ~ 16时21分]"
         },
         {
+          "title": "特朗普拒邀南非参加明年G20峰会，南非：我们是创始成员国",
+          "url": "https://news.ifeng.com/c/8ojNQ6MCJEg",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时20分 ~ 19时13分]"
+        },
+        {
           "title": "美国总统特朗普：暂停庇护没有设定具体时间表，我们不希望接收来自某些国家的人。",
           "url": "https://flash.jin10.com/detail/20251201054935386800",
           "source": "金十数据",
@@ -235,17 +247,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时13分 ~ 07时12分]"
-        },
-        {
-          "title": "特朗普拒邀南非参加明年G20峰会，南非：我们是创始成员国",
-          "url": "https://news.ifeng.com/c/8ojNQ6MCJEg",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时17分]"
         },
         {
           "title": "美国总统特朗普：某些国家的公民可能将长期无法获得美国庇护。",
@@ -407,6 +408,17 @@
           "time_info": "11时45分"
         },
         {
+          "title": "特朗普和马杜罗的通话释放了何信号",
+          "url": "https://www.toutiao.com/trending/7578812536200384006/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时13分"
+        },
+        {
           "title": "特朗普称美乌很可能达成协议",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E7%BE%8E%E4%B9%8C%E5%BE%88%E5%8F%AF%E8%83%BD%E8%BE%BE%E6%88%90%E5%8D%8F%E8%AE%AE%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -514,7 +526,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         }
@@ -584,9 +596,9 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时17分 ~ 19时13分]"
         }
       ]
     },
