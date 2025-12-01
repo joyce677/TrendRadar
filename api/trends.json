@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-02T06:12:27.348072+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2025-12-02T07:13:32.428044+08:00",
+  "total_titles_processed": 608,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://wallstreetcn.com/articles/3760417",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 06时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 07时13分]"
         },
         {
           "title": "特朗普对马杜罗下最后通牒",
@@ -28,11 +29,12 @@
             17,
             16,
             8,
-            14
+            14,
+            19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 06时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 07时13分]"
         },
         {
           "title": "观察｜特朗普说话前后矛盾，美国真的会对马杜罗下手吗？",
@@ -44,8 +46,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 06时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 07时13分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将于周二主持内阁会议。",
@@ -304,7 +306,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时12分"
         }
@@ -312,7 +314,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
@@ -323,8 +325,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 06时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 07时13分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜谷歌A、Meta、微软至多收跌超1.6%",
+          "url": "https://wallstreetcn.com/livenews/3013217",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时12分 ~ 07时13分]"
         },
         {
           "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
@@ -339,15 +353,15 @@
           "time_info": "[05时12分 ~ 06时12分]"
         },
         {
-          "title": "美股七巨头收盘播报｜谷歌A、Meta、微软至多收跌超1.6%",
-          "url": "https://wallstreetcn.com/livenews/3013217",
+          "title": "苹果宣布AI主管将离职，接班人曾在谷歌DeepMind和微软工作",
+          "url": "https://wallstreetcn.com/livenews/3013239",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时12分"
+          "time_info": "07时13分"
         },
         {
           "title": "谷歌：今日起，面向谷歌AI Pro和Ultra订阅用户，在更多国家推出Nano Banana Pro的AI模式，支持英语。",
@@ -378,18 +392,17 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1978819912970555965",
-          "source": "知乎",
+          "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
+          "url": "https://wallstreetcn.com/articles/3760468",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
+            8,
             7,
-            6,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 06时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 07时13分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -400,16 +413,18 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 06时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 07时13分]"
         },
         {
-          "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
-          "url": "https://wallstreetcn.com/articles/3760468",
-          "source": "华尔街见闻",
+          "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1978819912970555965",
+          "source": "知乎",
           "ranks": [
-            8,
-            7
+            11,
+            7,
+            6,
+            5
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -425,8 +440,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时19分 ~ 06时12分]"
+          "appearance_count": 9,
+          "time_info": "[00时19分 ~ 07时13分]"
         }
       ]
     },
