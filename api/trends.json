@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T19:27:06.153822+08:00",
-  "total_titles_processed": 1567,
+  "generated_at": "2025-12-02T20:58:39.435019+08:00",
+  "total_titles_processed": 1684,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 41,
       "titles": [
         {
           "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
@@ -63,6 +63,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[10时04分 ~ 16时38分]"
+        },
+        {
+          "title": "戴尔夫妇捐赠62.5亿美元为针对儿童的“特朗普账户”提供资金。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3013734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "美国白宫：总统特朗普将与国家安全团队就委内瑞拉问题举行会议。",
@@ -289,7 +300,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
         },
@@ -366,9 +377,20 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时27分"
+        },
+        {
+          "title": "法巴银行：若最高法院推翻特朗普关税 美元或应声下跌",
+          "url": "https://flash.jin10.com/detail/20251202201321333800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "乌克兰总统泽连斯基：希望美国中东问题特使威特科夫访问俄罗斯后能与美国总统特朗普举行会谈。",
@@ -437,6 +459,17 @@
           "time_info": "16时38分"
         },
         {
+          "title": "摸着特朗普过河过河？日版效率部宣布成立丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20251202195853225800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "以媒：特朗普向以色列发出警告",
           "url": "https://www.toutiao.com/trending/7578046026079436854/",
           "source": "今日头条",
@@ -462,7 +495,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -632,6 +665,17 @@
           "time_info": "17时34分"
         },
         {
+          "title": "花旗集团(C.N)美股盘前涨近9%，此前上调了2025财年销售预测。",
+          "url": "https://flash.jin10.com/detail/20251202202834556800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "小鹏汽车(XPEV.N)美股盘前跌4%，阿里巴巴(BABA.N)跌1.4%，哔哩哔哩(BILI.O)跌1.3%。",
           "url": "https://flash.jin10.com/detail/20251202170323090800",
           "source": "金十数据",
@@ -668,7 +712,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
@@ -694,24 +738,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时37分 ~ 19时27分]"
-        },
-        {
-          "title": "实测DeepSeekV3.2正式版",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            4,
-            12,
-            10,
-            3,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时04分 ~ 19时27分]"
+          "appearance_count": 25,
+          "time_info": "[00时37分 ~ 20时58分]"
         },
         {
           "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
@@ -729,6 +757,23 @@
           "time_info": "[00时37分 ~ 19时27分]"
         },
         {
+          "title": "实测DeepSeekV3.2正式版",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4,
+            12,
+            10,
+            3,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[10时04分 ~ 20时58分]"
+        },
+        {
           "title": "DeepSeek新模型追平Gemini",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
           "source": "bilibili 热搜",
@@ -740,8 +785,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[10时04分 ~ 19时27分]"
+          "appearance_count": 15,
+          "time_info": "[10时04分 ~ 20时58分]"
         },
         {
           "title": "DeepSeek同时发布两个正式版模型",
@@ -781,6 +826,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时41分 ~ 16时38分]"
+        },
+        {
+          "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
+          "url": "https://wallstreetcn.com/articles/3760505",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     },
@@ -824,11 +880,12 @@
             16,
             14,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时27分 ~ 19时27分]"
+          "appearance_count": 11,
+          "time_info": "[13时27分 ~ 20时58分]"
         },
         {
           "title": "谷歌将Gemini 3人工智能模式引入谷歌搜索，覆盖近120个国家和地区。",
@@ -900,11 +957,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[11时55分 ~ 19时27分]"
+          "appearance_count": 14,
+          "time_info": "[11时55分 ~ 20时58分]"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
@@ -941,6 +999,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "德商银行：预计明年铂金价格将与黄金走势基本一致，并于2026年底升至每1800美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251202204252872800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "德商银行：预计未来一年内金价将上涨至4400美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20251202204210323800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     },
