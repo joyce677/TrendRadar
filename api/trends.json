@@ -1,484 +1,106 @@
 {
-  "generated_at": "2025-12-02T22:46:58.490224+08:00",
-  "total_titles_processed": 1645,
+  "generated_at": "2025-12-03T08:43:58.652287+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 10,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
-          "url": "https://www.cls.cn/detail/2216499",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时44分 ~ 15时41分]"
-        },
-        {
-          "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
-          "url": "https://wallstreetcn.com/articles/3760468",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[08时44分 ~ 21时15分]"
-        },
-        {
-          "title": "DeepSeek发布V3.2系列模型，强化Agent能力，推理能力追平GPT-5",
-          "url": "https://wallstreetcn.com/articles/3760461",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[08时44分 ~ 19时38分]"
-        },
-        {
-          "title": "实测DeepSeekV3.2正式版",
-          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BDeepSeekV3.2%E6%AD%A3%E5%BC%8F%E7%89%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            4,
-            11,
-            12,
-            10,
-            5,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[10时29分 ~ 22时46分]"
-        },
-        {
-          "title": "DeepSeek新模型追平Gemini",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%BF%BD%E5%B9%B3Gemini",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            9,
-            10,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[10时29分 ~ 22时46分]"
-        },
         {
           "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
           "url": "https://wallstreetcn.com/articles/3760505",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[20时19分 ~ 22时46分]"
-        },
-        {
-          "title": "2025 年 12 月 1 日，DeepSeek 正式发布 V3.2 和 V3.2-Speciale，如何评价该模型？",
-          "url": "https://www.zhihu.com/question/1978907565543945170",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时53分 ~ 16时50分]"
+          "appearance_count": 1,
+          "time_info": "08时43分"
         },
         {
           "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
           "url": "https://www.cls.cn/detail/2217435",
           "source": "财联社热门",
           "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时12分 ~ 22时46分]"
-        },
-        {
-          "title": "DeepSeek新模型能否改变AI格局",
-          "url": "https://www.toutiao.com/trending/7579049852965752358/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时41分 ~ 13时42分]"
-        },
-        {
-          "title": "DeepSeek同时发布两个正式版模型",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%90%8C%E6%97%B6%E5%8F%91%E5%B8%83%E4%B8%A4%E4%B8%AA%E6%AD%A3%E5%BC%8F%E7%89%88%E6%A8%A1%E5%9E%8B",
-          "source": "百度热搜",
-          "ranks": [
-            10
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "市场消息：AMD支持的美国云计算服务提供商Vultr将斥资10亿美元打造人工智能芯片集群。",
-          "url": "https://flash.jin10.com/detail/20251202214355129800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时52分 ~ 22时12分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-12-02）",
-          "url": "https://flash.jin10.com/detail/20251202115850736800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时48分 ~ 14时16分]"
-        },
-        {
-          "title": "工信部电子信息司就筹备中国人工智能终端行业协会听取意见",
-          "url": "https://wallstreetcn.com/livenews/3013427",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            21,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时40分 ~ 13时11分]"
-        },
-        {
-          "title": "英国央行金融稳定报告：若出现与人工智能相关的资产价格修正，贷款损失或将加剧金融稳定风险。",
-          "url": "https://flash.jin10.com/detail/20251202150510898800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时41分"
-        },
-        {
-          "title": "经合组织：如果人工智能投资热潮得以扩大，全球经济增长将出现上行空间。",
-          "url": "https://flash.jin10.com/detail/20251202180730926800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
-          "title": "英国央行金融稳定报告：人工智能估值加剧市场剧烈回调的风险。",
-          "url": "https://flash.jin10.com/detail/20251202150351073800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时41分"
-        },
-        {
-          "title": "英国央行金融稳定报告：许多风险资产的估值仍严重高估，尤其是专注于人工智能的科技公司。",
-          "url": "https://flash.jin10.com/detail/20251202150318242800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时41分"
+          "time_info": "08时43分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
-          "title": "剑指AI芯片市场！大摩上调谷歌TPU产量预期：2027年或达500万块",
-          "url": "https://www.cls.cn/detail/2216587",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[10时29分 ~ 17时16分]"
-        },
-        {
-          "title": "大摩大幅上调谷歌TPU产量预测：2027年达500万块，每50万块“外销”或增收130亿美元",
-          "url": "https://wallstreetcn.com/articles/3760440",
+          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
+          "url": "https://wallstreetcn.com/articles/3760564",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时44分 ~ 14时53分]"
+          "appearance_count": 1,
+          "time_info": "08时43分"
         },
         {
-          "title": "谷歌揭秘了AI竞赛的底牌",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32067068",
-          "source": "澎湃新闻",
+          "title": "谷歌的TPU要干掉英伟达吗",
+          "url": "https://www.toutiao.com/trending/7579260643052621321/",
+          "source": "今日头条",
           "ranks": [
-            17,
-            15,
-            16,
-            14,
-            12,
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[12时48分 ~ 22时46分]"
-        },
-        {
-          "title": "澳大利亚竞争与消费者委员会：谷歌被责令支付5500万澳元罚款。",
-          "url": "https://wallstreetcn.com/livenews/3013379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 11时40分]"
-        },
-        {
-          "title": "百人初创公司Runway发布AI视频模型 生成质量超谷歌OpenAI竞品",
-          "url": "https://www.cls.cn/detail/2216460",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时44分"
+          "time_info": "08时43分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
-          "title": "马斯克官宣小15岁高管女友",
-          "url": "https://www.toutiao.com/trending/7578773548719112202/",
+          "title": "马斯克首次详谈伴侣身世：有印度血统",
+          "url": "https://www.toutiao.com/trending/7579032035185508393/",
           "source": "今日头条",
           "ranks": [
-            30,
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时15分 ~ 19时03分]"
-        },
-        {
-          "title": "马斯克：人类活在虚拟世界概率极高",
-          "url": "https://www.toutiao.com/trending/7579074233024646666/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            4,
-            5,
-            14,
-            15,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时41分 ~ 16时50分]"
-        },
-        {
-          "title": "马斯克官宣高管女友",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%98%E5%AE%A3%E9%AB%98%E7%AE%A1%E5%A5%B3%E5%8F%8B%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26,
-            22,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时15分 ~ 20时19分]"
-        },
-        {
-          "title": "日本设置政府效率部 拒绝马斯克式激进裁员",
-          "url": "https://flash.jin10.com/detail/20251202101658799800",
-          "source": "金十数据",
-          "ranks": [
-            4,
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时30分 ~ 11时40分]"
+          "appearance_count": 1,
+          "time_info": "08时43分"
         },
         {
-          "title": "马斯克官宣小15岁高管女友",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AE%98%E5%AE%A3%E5%B0%8F15%E5%B2%81%E9%AB%98%E7%AE%A1%E5%A5%B3%E5%8F%8B",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时45分 ~ 19时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
-          "url": "https://wallstreetcn.com/articles/3760479",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[10时29分 ~ 22时46分]"
-        },
-        {
-          "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
-          "url": "https://flash.jin10.com/detail/20251202121909836800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时48分 ~ 14时16分]"
-        },
-        {
-          "title": "OpenAI拉响红色警报",
-          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E6%8B%89%E5%93%8D%E7%BA%A2%E8%89%B2%E8%AD%A6%E6%8A%A5%23&t=31&band_rank=10&Refer=top",
+          "title": "马斯克点名推荐两大AI股",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E5%90%8D%E6%8E%A8%E8%8D%90%E4%B8%A4%E5%A4%A7AI%E8%82%A1%23&t=31&band_rank=25&Refer=top",
           "source": "微博",
           "ranks": [
-            10
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时19分"
-        },
-        {
-          "title": "中信证券推演：将OpenAI陷入经营危机、AI产业投资节奏放缓视为基准情形",
-          "url": "https://flash.jin10.com/detail/20251202081057394800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时44分"
+          "time_info": "08时43分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "AI竞赛步入“资源争夺战”！美国欲拉八国签协议 深化矿产供应链",
-          "url": "https://www.cls.cn/detail/2216759",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            10,
-            9,
-            7,
-            6,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[13时11分 ~ 20时19分]"
-        },
         {
           "title": "中国AI大战将在2026年“全面加剧”：“流量入口”成大厂“必争之地”，AI出海也将加速",
           "url": "https://wallstreetcn.com/articles/3760517",
           "source": "华尔街见闻",
           "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "增长",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中国AI公司智谱今年营收料较2024年的4200万美元增长逾一倍。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3013520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            16
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时53分 ~ 15时41分]"
+          "appearance_count": 1,
+          "time_info": "08时43分"
         }
       ]
     }
