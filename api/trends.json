@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T11:54:39.839350+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2025-12-03T12:35:32.693113+08:00",
+  "total_titles_processed": 1026,
   "failed_sources": [],
   "trends": [
     {
@@ -37,8 +37,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 11时54分]"
+          "appearance_count": 3,
+          "time_info": "[10时03分 ~ 12时35分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -47,9 +47,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 12时35分]"
         },
         {
           "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
@@ -61,8 +61,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时29分 ~ 11时54分]"
+          "appearance_count": 5,
+          "time_info": "[07时29分 ~ 12时35分]"
+        },
+        {
+          "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
+          "url": "https://wallstreetcn.com/articles/3760565",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时03分 ~ 12时35分]"
         },
         {
           "title": "内塔尼亚胡请求特朗普就其赦免问题提供更多支持",
@@ -100,18 +113,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时43分 ~ 07时30分]"
-        },
-        {
-          "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
-          "url": "https://wallstreetcn.com/articles/3760565",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 11时54分]"
         },
         {
           "title": "美国总统特朗普：乌克兰局势并不简单，真是乱成一团。",
@@ -842,7 +843,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         },
@@ -910,17 +911,6 @@
           "time_info": "[02时42分 ~ 10时03分]"
         },
         {
-          "title": "美股三大指数小幅高开 英伟达涨超1%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%B0%8F%E5%B9%85%E9%AB%98%E5%BC%80+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%B6%851%25",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 06时43分]"
-        },
-        {
           "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
           "url": "https://www.cls.cn/detail/2217711",
           "source": "财联社热门",
@@ -930,8 +920,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时29分 ~ 11时54分]"
+          "appearance_count": 5,
+          "time_info": "[07时29分 ~ 12时35分]"
         },
         {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
@@ -942,8 +932,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 11时54分]"
+          "appearance_count": 3,
+          "time_info": "[10时03分 ~ 12时35分]"
+        },
+        {
+          "title": "美股三大指数小幅高开 英伟达涨超1%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%B0%8F%E5%B9%85%E9%AB%98%E5%BC%80+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%B6%851%25",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时38分 ~ 06时43分]"
         },
         {
           "title": "美股涨，数字货币大体收复周一暴跌后失地，白银V形反转",
@@ -1085,7 +1086,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -1107,11 +1108,12 @@
           "url": "https://wallstreetcn.com/articles/3760564",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时03分 ~ 11时54分]"
+          "appearance_count": 3,
+          "time_info": "[10时03分 ~ 12时35分]"
         },
         {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
@@ -1159,6 +1161,17 @@
           "time_info": "[00时38分 ~ 01时29分]"
         },
         {
+          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
+          "url": "https://www.cls.cn/detail/2218001",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
           "title": "OpenAI正开发大语言模型“Garlic”，紧盯谷歌公司近期动态。（The Information）",
           "url": "https://wallstreetcn.com/livenews/3013807",
           "source": "华尔街见闻-快讯",
@@ -1192,11 +1205,12 @@
           "url": "https://wallstreetcn.com/livenews/3014135",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 12时35分]"
         },
         {
           "title": "美元指数2日下跌",
@@ -1359,11 +1373,12 @@
           "url": "https://wallstreetcn.com/livenews/3014131",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时54分 ~ 12时35分]"
         },
         {
           "title": "伊朗议长：美国将自身要求强加于伊朗",
@@ -1372,9 +1387,26 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价10000美元、量子计算突破引发恐慌、AI触发全面危机......这家投行2026年“离谱”预测来了",
+          "url": "https://wallstreetcn.com/articles/3760553",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
         }
       ]
     }
