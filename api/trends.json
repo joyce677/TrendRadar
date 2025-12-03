@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T20:19:30.855593+08:00",
-  "total_titles_processed": 1430,
+  "generated_at": "2025-12-03T21:09:47.747899+08:00",
+  "total_titles_processed": 1502,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            21
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时38分 ~ 21时09分]"
+        },
+        {
+          "title": "OpenAI：我们已全面恢复营运。 我们未发现任何影响我们系统的问题。",
+          "url": "https://wallstreetcn.com/livenews/3014409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[19时38分 ~ 20时19分]"
+          "time_info": "[20时19分 ~ 21时09分]"
         },
         {
           "title": "OpenAI：我们已全面恢复营运 我们未发现任何影响我们系统的问题。",
@@ -51,17 +64,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时39分"
-        },
-        {
-          "title": "OpenAI：我们已全面恢复营运。 我们未发现任何影响我们系统的问题。",
-          "url": "https://wallstreetcn.com/livenews/3014409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时19分"
         },
         {
           "title": "OpenAI：我们已全面恢复运营，目前未发现任何影响系统的故障。",
@@ -90,8 +92,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[08时43分 ~ 20时19分]"
+          "appearance_count": 24,
+          "time_info": "[08时43分 ~ 21时09分]"
         },
         {
           "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
@@ -145,7 +147,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "印度数据中心运营商 Sify Infinit Spaces 押注人工智能热潮，但对泡沫保持警惕",
@@ -159,6 +161,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时41分 ~ 15时13分]"
+        },
+        {
+          "title": "贝莱德称流入亚洲的ETF资金主要流向韩国 人工智能是主因",
+          "url": "https://wallstreetcn.com/livenews/3014450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时09分"
         },
         {
           "title": "惠誉：人工智能支出浪潮将支撑韩国存储芯片制造商的前景。",
