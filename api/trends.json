@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T19:02:44.773654+08:00",
-  "total_titles_processed": 1310,
+  "generated_at": "2025-12-03T19:38:20.655322+08:00",
+  "total_titles_processed": 1372,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[08时43分 ~ 19时02分]"
+          "appearance_count": 22,
+          "time_info": "[08时43分 ~ 19时38分]"
         },
         {
           "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
@@ -32,8 +32,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时19分 ~ 19时02分]"
+          "appearance_count": 18,
+          "time_info": "[12时19分 ~ 19时38分]"
         },
         {
           "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
@@ -47,6 +47,17 @@
           "time_info": "[10时29分 ~ 10时30分]"
         },
         {
+          "title": "马士基：目前尚无具体时间表，无法将东西向（Gemini）航线改道经红海航行。",
+          "url": "https://flash.jin10.com/detail/20251203190054995800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
           "title": "谷歌的TPU要干掉英伟达吗",
           "url": "https://www.toutiao.com/trending/7579260643052621321/",
           "source": "今日头条",
@@ -56,6 +67,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "OpenAI：面向企业及商用客户的ChatGPT服务当前出现错误率升高。",
+          "url": "https://wallstreetcn.com/livenews/3014402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时02分"
+        },
+        {
+          "title": "OpenAI：我们已全面恢复营运 我们未发现任何影响我们系统的问题。",
+          "url": "https://wallstreetcn.com/livenews/3014409",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
+          "title": "英伟达CFO：OpenAI千亿大单尚未敲定 领先优势“绝对没缩小”",
+          "url": "https://www.cls.cn/detail/2217688",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时39分"
+        },
+        {
+          "title": "OpenAI：目前遭遇-一些问题。 ChatGPT的商务和企业聊天功能遭遇错误；已实施缓解措施和监控复原。",
+          "url": "https://wallstreetcn.com/livenews/3014402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
+          "title": "OpenAI：我们已全面恢复运营，目前未发现任何影响系统的故障。",
+          "url": "https://flash.jin10.com/detail/20251203185658782800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
         }
       ]
     },
@@ -141,34 +213,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI：面向企业及商用客户的ChatGPT服务当前出现错误率升高。",
-          "url": "https://wallstreetcn.com/livenews/3014402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "英伟达CFO：OpenAI千亿大单尚未敲定 领先优势“绝对没缩小”",
-          "url": "https://www.cls.cn/detail/2217688",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
         }
       ]
     },
