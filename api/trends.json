@@ -1,367 +1,73 @@
 {
-  "generated_at": "2025-12-03T22:45:59.063374+08:00",
-  "total_titles_processed": 1697,
+  "generated_at": "2025-12-04T08:44:32.494477+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "人工智能",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "印度数据中心运营商 Sify Infinit Spaces 押注人工智能热潮，但对泡沫保持警惕",
-          "url": "https://wallstreetcn.com/livenews/3014193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            11,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时41分 ~ 15时13分]"
-        },
-        {
-          "title": "诺比侃人工智能科技（成都）股份有限公司通过港交所上市聆讯。",
-          "url": "https://wallstreetcn.com/livenews/3014487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时52分 ~ 22时45分]"
-        },
-        {
-          "title": "惠誉：人工智能支出浪潮将支撑韩国存储芯片制造商的前景。",
-          "url": "https://flash.jin10.com/detail/20251203114922353800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 13时11分]"
-        },
-        {
-          "title": "贝莱德称流入亚洲的ETF资金主要流向韩国 人工智能是主因",
-          "url": "https://wallstreetcn.com/livenews/3014450",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时09分 ~ 21时52分]"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-12-03）",
-          "url": "https://flash.jin10.com/detail/20251203115452067800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 13时11分]"
-        },
-        {
-          "title": "联合国报告：人工智能管理差异或加剧国家间不平等",
-          "url": "https://wallstreetcn.com/livenews/3014113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时39分 ~ 12时19分]"
-        },
-        {
-          "title": "据The Information：微软下调人工智能软件销售指标，因客户对新产品持抵触态度；微软还在为Windows电脑升级AI智能体功能。",
-          "url": "https://flash.jin10.com/detail/20251203220706492800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
-          "title": "据The Information：微软下调人工智能软件销售配额。",
-          "url": "https://flash.jin10.com/detail/20251203220324777800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "亚马逊重磅发布挑战谷歌英伟达：AI芯片Trainium 3更快更节能，四款Nova 2模型，首创“开放式训练”",
-          "url": "https://wallstreetcn.com/articles/3760564",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[08时43分 ~ 22时45分]"
-        },
-        {
-          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
-          "url": "https://www.cls.cn/detail/2218001",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[12时19分 ~ 20时19分]"
-        },
-        {
-          "title": "谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo宣布，无人驾驶汽车出行服务扩张至巴尔的摩、圣路易斯、匹兹堡、费城等四个美国城市。",
-          "url": "https://wallstreetcn.com/livenews/3014500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时12分 ~ 22时45分]"
-        },
-        {
-          "title": "面对谷歌的挑战，英伟达和OpenAI谁更脆弱",
-          "url": "https://wallstreetcn.com/articles/3760498",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时29分 ~ 10时30分]"
-        },
-        {
-          "title": "马士基：目前尚无具体时间表，无法将东西向（Gemini）航线改道经红海航行。",
-          "url": "https://flash.jin10.com/detail/20251203190054995800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
-          "title": "谷歌的TPU要干掉英伟达吗",
-          "url": "https://www.toutiao.com/trending/7579260643052621321/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "OpenAI：面向企业及商用客户的ChatGPT服务当前出现错误率升高。",
-          "url": "https://wallstreetcn.com/livenews/3014402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时02分"
-        },
-        {
-          "title": "OpenAI：目前遭遇-一些问题。 ChatGPT的商务和企业聊天功能遭遇错误；已实施缓解措施和监控复原。",
-          "url": "https://wallstreetcn.com/livenews/3014402",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时38分 ~ 21时09分]"
-        },
-        {
-          "title": "OpenAI：我们已全面恢复营运。 我们未发现任何影响我们系统的问题。",
-          "url": "https://wallstreetcn.com/livenews/3014409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时19分 ~ 21时09分]"
-        },
-        {
-          "title": "OpenAI：我们已全面恢复营运 我们未发现任何影响我们系统的问题。",
-          "url": "https://wallstreetcn.com/livenews/3014409",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        },
-        {
-          "title": "英伟达CFO：OpenAI千亿大单尚未敲定 领先优势“绝对没缩小”",
-          "url": "https://www.cls.cn/detail/2217688",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时39分"
-        },
-        {
-          "title": "OpenAI：我们已全面恢复运营，目前未发现任何影响系统的故障。",
-          "url": "https://flash.jin10.com/detail/20251203185658782800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
-          "url": "https://wallstreetcn.com/articles/3760505",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时43分 ~ 10时30分]"
-        },
-        {
-          "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
-          "url": "https://www.cls.cn/detail/2217435",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时43分"
-        },
         {
           "title": "Deepseek 团队为什么把大量精力花在 IMO 这种对普通人和商业应用都没有用途的地方？",
           "url": "https://www.zhihu.com/question/1979307622185341611",
           "source": "知乎",
           "ranks": [
-            10,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时12分 ~ 22时45分]"
+          "appearance_count": 1,
+          "time_info": "08时44分"
         }
       ]
     },
     {
-      "keyword_group": "马斯克",
-      "match_count": 2,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "马斯克首次详谈伴侣身世：有印度血统",
-          "url": "https://www.toutiao.com/trending/7579032035185508393/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时43分"
-        },
-        {
-          "title": "马斯克点名推荐两大AI股",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E5%90%8D%E6%8E%A8%E8%8D%90%E4%B8%A4%E5%A4%A7AI%E8%82%A1%23&t=31&band_rank=25&Refer=top",
+          "title": "钎城 Gemini",
+          "url": "https://s.weibo.com/weibo?q=%E9%92%8E%E5%9F%8E%20Gemini&t=31&band_rank=4&Refer=top",
           "source": "微博",
           "ranks": [
-            25
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时43分"
+          "time_info": "08时44分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
+      "keyword_group": "人工智能",
       "match_count": 1,
       "titles": [
         {
-          "title": "特朗普积极暗示哈塞特为下任美联储主席，美国很快将对贩毒集团进行陆地打击，普京威胁切断乌克兰海上通道，亚马逊推出定制AI芯片......美油卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20251203103110984800",
-          "source": "金十数据",
+          "title": "104.66元/股！沐曦股份发行价出炉 国家人工智能产业投资基金参与战略配售",
+          "url": "https://www.cls.cn/detail/2218848",
+          "source": "财联社热门",
           "ranks": [
-            25
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时39分"
+          "time_info": "08时44分"
         }
       ]
     },
     {
-      "keyword_group": "AI",
+      "keyword_group": "Anthropic",
       "match_count": 1,
       "titles": [
         {
-          "title": "中国AI大战将在2026年“全面加剧”：“流量入口”成大厂“必争之地”，AI出海也将加速",
-          "url": "https://wallstreetcn.com/articles/3760517",
-          "source": "华尔街见闻",
+          "title": "Anthropic 宣布收购 Bun，这对 Node.js 冲击有多大？对 AI 编码生态意味着什么？",
+          "url": "https://www.zhihu.com/question/1979482353974916229",
+          "source": "知乎",
           "ranks": [
-            6,
-            8,
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时43分 ~ 14时16分]"
+          "appearance_count": 1,
+          "time_info": "08时44分"
         }
       ]
     }
