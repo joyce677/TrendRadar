@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-12-06T01:15:04.264764+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2025-12-06T02:19:50.714015+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "据知情人士透露，AI初创公司Parloa寻求融资2亿美元。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3016064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
         {
           "title": "豆包手机助手调整AI操作能力，刷分、金融类应用、部分游戏等三大场景将限制使用",
           "url": "https://m.thepaper.cn/newsDetail_forward_32111598",
@@ -26,8 +15,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时19分 ~ 01时15分]"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 02时19分]"
+        },
+        {
+          "title": "据知情人士透露，AI初创公司Parloa寻求融资2亿美元。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3016064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 02时19分]"
         },
         {
           "title": "软银洽谈收购数据中心私募DigitalBridge，希望借机把握AI基础设施热潮",
@@ -39,12 +40,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时19分"
+        },
+        {
+          "title": "油轮Kairos距离保加利亚海岸线仅一英里，该船上周在土耳其附近海域遭到乌克兰无人机袭击。",
+          "url": "https://wallstreetcn.com/livenews/3016071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "马斯克X平台被欧盟罚款1.2亿欧元",
@@ -57,6 +69,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时19分 ~ 01时15分]"
+        },
+        {
+          "title": "马斯克考虑1月份能够将X（原名推特）的代码库开源。",
+          "url": "https://wallstreetcn.com/livenews/3016069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
         }
       ]
     },
