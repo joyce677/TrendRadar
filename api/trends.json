@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T11:40:08.650912+08:00",
-  "total_titles_processed": 563,
+  "generated_at": "2025-12-05T12:20:09.393895+08:00",
+  "total_titles_processed": 633,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "任正非最新发声！涉及人工智能，信息量很大",
@@ -13,11 +13,23 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时30分 ~ 11时40分]"
+          "appearance_count": 6,
+          "time_info": "[10时30分 ~ 12时20分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-05）",
+          "url": "https://flash.jin10.com/detail/20251205115202110800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时20分"
         },
         {
           "title": "市场消息：LG电子与微软寻求在人工智能数据中心领域开展合作。",
@@ -26,7 +38,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -65,11 +77,12 @@
           "ranks": [
             6,
             4,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时44分 ~ 11时40分]"
+          "appearance_count": 7,
+          "time_info": "[08时44分 ~ 12时20分]"
         },
         {
           "title": "摩根大通：DeepSeek V3.2为中国AI市场带来第二波冲击 利好多数相关方",
@@ -110,11 +123,12 @@
           "url": "https://flash.jin10.com/detail/20251205105914023800",
           "source": "金十数据",
           "ranks": [
-            10
+            10,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 12时20分]"
         }
       ]
     }
