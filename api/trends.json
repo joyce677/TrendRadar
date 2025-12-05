@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-05T07:26:33.725528+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2025-12-05T10:05:30.288489+08:00",
+  "total_titles_processed": 748,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
@@ -244,6 +244,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时29分 ~ 02时42分]"
+        },
+        {
+          "title": "哈里王子上脱口秀讥讽特朗普",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%93%88%E9%87%8C%E7%8E%8B%E5%AD%90%E4%B8%8A%E8%84%B1%E5%8F%A3%E7%A7%80%E8%AE%A5%E8%AE%BD%E7%89%B9%E6%9C%97%E6%99%AE%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "据福克斯新闻：美国国土安全部长诺姆表示，特朗普政府将旅行禁令适用国家扩大至30多个。",
+          "url": "https://flash.jin10.com/detail/20251205085517265800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         }
       ]
     },
@@ -346,6 +368,18 @@
           "time_info": "[02时42分 ~ 04时32分]"
         },
         {
+          "title": "美股收盘：小盘股指数再创历史新高",
+          "url": "https://www.cls.cn/detail/2220253",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时26分 ~ 10时05分]"
+        },
+        {
           "title": "周四（12月4日）纽约尾盘，CME比特币期货BTC主力合约较周三纽约尾盘跌0.72%，报92590美元，日内交投于94440-91165美元区间。 CME以太币期货DCR主力合约持平，报3149.50美元，日内交投于3252.50-3080美元区间。 美股加密货币与加密货币关联指数涨2.72%，报71.95点。 最近24小时，MarketVector数字资产100小盘指数跌2.33%，暂报4277.88点。",
           "url": "https://wallstreetcn.com/livenews/3015370",
           "source": "华尔街见闻-快讯",
@@ -405,17 +439,6 @@
           "time_info": "[00时39分 ~ 01时29分]"
         },
         {
-          "title": "美股收盘：小盘股指数再创历史新高",
-          "url": "https://www.cls.cn/detail/2220253",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
           "title": "Meta美股盘初涨5.7%，创7月31日以来最佳盘中表现。 报道称，Meta Platforms高管们已经讨论了明年将扎克伯格元宇宙预算削减高达30%的可能性，这可能包括最早在2026年1月裁员。",
           "url": "https://wallstreetcn.com/livenews/3015241",
           "source": "华尔街见闻-快讯",
@@ -441,7 +464,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
@@ -451,11 +474,23 @@
             8,
             9,
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 10时05分]"
+        },
+        {
+          "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
+          "url": "https://wallstreetcn.com/articles/3760711",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时05分"
         },
         {
           "title": "美股徘徊历史高点边缘，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -464,7 +499,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -576,7 +611,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         },
@@ -587,7 +622,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时26分"
         }
@@ -606,8 +641,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时38分 ~ 07时26分]"
+          "appearance_count": 13,
+          "time_info": "[00时38分 ~ 10时05分]"
         }
       ]
     },
