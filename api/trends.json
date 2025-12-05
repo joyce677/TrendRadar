@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T14:41:35.961728+08:00",
-  "total_titles_processed": 1152,
+  "generated_at": "2025-12-05T15:28:20.206086+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
@@ -286,7 +286,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时41分"
         }
@@ -499,8 +499,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时05分 ~ 14时41分]"
+          "appearance_count": 9,
+          "time_info": "[10时05分 ~ 15时28分]"
         },
         {
           "title": "大佬Gave警告：美联储财政部合流大局已定，明年美债或先崩，亚洲货币升值将终结黄金牛市",
@@ -515,8 +515,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时38分 ~ 14时41分]"
+          "appearance_count": 21,
+          "time_info": "[00时38分 ~ 15时28分]"
         },
         {
           "title": "美股徘徊历史高点边缘，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -631,9 +631,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时41分 ~ 15时28分]"
         }
       ]
     },
@@ -697,6 +697,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月05日（周五）上海金午盘价为955.9元/克，较国际金价(960.01元/克)，低4.11元/克",
+          "url": "https://flash.jin10.com/detail/20251205150237767800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时28分"
+        },
+        {
+          "title": "南非15年来首座新地下金矿投产 金价飙升催生行业新机",
+          "url": "https://flash.jin10.com/detail/20251204234446522800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -710,28 +738,12 @@
             9,
             12,
             16,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时38分 ~ 14时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "南非15年来首座新地下金矿投产 金价飙升催生行业新机",
-          "url": "https://flash.jin10.com/detail/20251204234446522800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
+          "appearance_count": 21,
+          "time_info": "[00时38分 ~ 15时28分]"
         }
       ]
     }
