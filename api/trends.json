@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T21:01:47.387453+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2025-12-06T21:28:20.464827+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时36分 ~ 21时01分]"
+          "appearance_count": 11,
+          "time_info": "[17时36分 ~ 21时28分]"
         },
         {
           "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
@@ -31,8 +32,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[11时29分 ~ 21时01分]"
+          "appearance_count": 26,
+          "time_info": "[11时29分 ~ 21时28分]"
         },
         {
           "title": "美国国土安全委员会：要求谷歌尽快但不迟于12月12日提供简报。",
@@ -92,6 +93,60 @@
       ]
     },
     {
+      "keyword_group": "人工智能",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
+          "url": "https://www.cls.cn/detail/2221214",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[08时42分 ~ 12时42分]"
+        },
+        {
+          "title": "卡塔尔能源大臣：人工智能成“吃气大户” 警惕2035年供需失衡",
+          "url": "https://flash.jin10.com/detail/20251206203209145800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "卡塔尔能源部长：人工智能的能源需求将推动天然气需求增长。我对未来天然气需求完全不担心。",
+          "url": "https://flash.jin10.com/detail/20251206165735695800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            19,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时37分 ~ 19时32分]"
+        },
+        {
+          "title": "人工智能可穿戴设备初创公司Limitless表示，Meta Platforms(META.O)已收购该公司。",
+          "url": "https://flash.jin10.com/detail/20251206030123657800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -104,11 +159,12 @@
             8,
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[11时29分 ~ 21时01分]"
+          "appearance_count": 26,
+          "time_info": "[11时29分 ~ 21时28分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
@@ -141,49 +197,6 @@
       ]
     },
     {
-      "keyword_group": "人工智能",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "商务部部长王文涛：促进大宗耐用商品消费 推动“人工智能+消费”",
-          "url": "https://www.cls.cn/detail/2221214",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时42分 ~ 12时42分]"
-        },
-        {
-          "title": "卡塔尔能源部长：人工智能的能源需求将推动天然气需求增长。我对未来天然气需求完全不担心。",
-          "url": "https://flash.jin10.com/detail/20251206165735695800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时37分 ~ 19时32分]"
-        },
-        {
-          "title": "人工智能可穿戴设备初创公司Limitless表示，Meta Platforms(META.O)已收购该公司。",
-          "url": "https://flash.jin10.com/detail/20251206030123657800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "马斯克",
       "match_count": 2,
       "titles": [
@@ -195,11 +208,12 @@
             10,
             15,
             14,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时40分 ~ 21时01分]"
+          "appearance_count": 7,
+          "time_info": "[13时40分 ~ 21时28分]"
         },
         {
           "title": "马斯克访谈中的AI终局与人类意义",
@@ -224,11 +238,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时15分 ~ 21时01分]"
+          "appearance_count": 4,
+          "time_info": "[20时15分 ~ 21时28分]"
         }
       ]
     },
@@ -242,11 +257,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             5,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时16分 ~ 21时01分]"
+          "appearance_count": 3,
+          "time_info": "[20时16分 ~ 21时28分]"
         }
       ]
     }
