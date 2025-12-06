@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T08:42:21.267695+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-06T10:23:56.771110+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
   "trends": [
     {
@@ -73,11 +73,12 @@
           "url": "https://www.cls.cn/detail/2221214",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时42分"
+          "appearance_count": 2,
+          "time_info": "[08时42分 ~ 10时23分]"
         },
         {
           "title": "人工智能可穿戴设备初创公司Limitless表示，Meta Platforms(META.O)已收购该公司。",
@@ -89,6 +90,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI最快将于下周发布GPT-5.2",
+          "url": "https://flash.jin10.com/detail/20251206082425729800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时23分"
         }
       ]
     }
