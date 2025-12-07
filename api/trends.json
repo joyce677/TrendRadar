@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-07T13:02:47.283734+08:00",
-  "total_titles_processed": 573,
+  "generated_at": "2025-12-07T13:39:12.535210+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
@@ -17,11 +17,25 @@
             13,
             15,
             17,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时49分 ~ 13时02分]"
+          "appearance_count": 7,
+          "time_info": "[08时49分 ~ 13时39分]"
+        },
+        {
+          "title": "“马斯克专属估值”？SpaceX以1/6的特斯拉收入，超过特斯拉一半的估值，考虑2026年IPO",
+          "url": "https://wallstreetcn.com/articles/3760842",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[10时51分 ~ 13时39分]"
         },
         {
           "title": "马斯克称欧盟应该被废除",
@@ -40,17 +54,17 @@
           "time_info": "[08时49分 ~ 13时02分]"
         },
         {
-          "title": "“马斯克专属估值”？SpaceX以1/6的特斯拉收入，超过特斯拉一半的估值，考虑2026年IPO",
-          "url": "https://wallstreetcn.com/articles/3760842",
-          "source": "华尔街见闻",
+          "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
+          "url": "https://www.cls.cn/detail/2221851",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            7,
-            6
+            13,
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时51分 ~ 13时02分]"
+          "appearance_count": 6,
+          "time_info": "[11时52分 ~ 13时39分]"
         },
         {
           "title": "马斯克：有很多媒体报道称SpaceX正以8000亿美元的估值进行融资，这一说法并不准确。",
@@ -81,18 +95,6 @@
           "time_info": "[10时51分 ~ 13时02分]"
         },
         {
-          "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
-          "url": "https://www.cls.cn/detail/2221851",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时52分 ~ 13时02分]"
-        },
-        {
           "title": "马斯克：欧盟应当被废除，主权应归还给各个国家，这样政府就能更好地代表其民众了。",
           "url": "https://flash.jin10.com/detail/20251206220812258800",
           "source": "金十数据",
@@ -118,8 +120,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[08时49分 ~ 13时02分]"
+          "appearance_count": 8,
+          "time_info": "[08时49分 ~ 13时39分]"
         }
       ]
     },
@@ -141,6 +143,23 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI的“治理大修”：一场资本重组修缺的大戏​",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32074253",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时38分 ~ 13时39分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "人工智能",
       "match_count": 1,
       "titles": [
@@ -153,11 +172,12 @@
             7,
             9,
             11,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时51分 ~ 13时02分]"
+          "appearance_count": 6,
+          "time_info": "[10时51分 ~ 13时39分]"
         }
       ]
     },
