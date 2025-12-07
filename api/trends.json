@@ -1,44 +1,69 @@
 {
-  "generated_at": "2025-12-07T08:49:19.290979+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-07T10:51:29.547800+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "马斯克：有很多媒体报道称SpaceX正以8000亿美元的估值进行融资，这一说法并不准确。",
           "url": "https://flash.jin10.com/detail/20251207083014951800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
+          "appearance_count": 2,
+          "time_info": "[08时49分 ~ 10时51分]"
         },
         {
           "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
           "url": "https://wallstreetcn.com/livenews/3016330",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
+          "appearance_count": 2,
+          "time_info": "[08时49分 ~ 10时51分]"
         },
         {
           "title": "马斯克称欧盟应该被废除",
           "url": "https://wallstreetcn.com/livenews/3016320",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            19
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时49分 ~ 10时51分]"
+        },
+        {
+          "title": "“马斯克专属估值”？SpaceX以1/6的特斯拉收入，超过特斯拉一半的估值，考虑2026年IPO",
+          "url": "https://wallstreetcn.com/articles/3760842",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时49分"
+          "time_info": "10时51分"
+        },
+        {
+          "title": "马斯克：有关SpaceX以8000亿美元估值进行融资的传闻不准确",
+          "url": "https://flash.jin10.com/detail/20251207091937087800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
         },
         {
           "title": "马斯克：欧盟应当被废除，主权应归还给各个国家，这样政府就能更好地代表其民众了。",
@@ -65,8 +90,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
+          "appearance_count": 2,
+          "time_info": "[08时49分 ~ 10时51分]"
         }
       ]
     },
@@ -84,6 +109,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "广西“十五五”规划建议：高标准建设中国—东盟国家人工智能应用合作中心",
+          "url": "https://wallstreetcn.com/livenews/3016337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Anthropic",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "市场消息：Anthropic正在商谈收购一家开发者工具初创公司。",
+          "url": "https://flash.jin10.com/detail/20251207085000138800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时51分"
         }
       ]
     },
