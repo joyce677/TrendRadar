@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T09:06:30.477089+08:00",
-  "total_titles_processed": 595,
+  "generated_at": "2025-12-08T11:17:41.530054+08:00",
+  "total_titles_processed": 744,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
@@ -31,12 +31,23 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时15分 ~ 09时06分]"
+        },
+        {
+          "title": "马斯克怒批欧盟1.2亿欧元罚单，发文称“欧盟应当被废除”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32125452",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌(GOOG.O)计划到2027年生产超过500万个TPU以增加供应。",
@@ -49,6 +60,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时12分 ~ 06时13分]"
+        },
+        {
+          "title": "详谈谷歌TPU芯片：如何与博通博弈？能否和英伟达竞争？",
+          "url": "https://wallstreetcn.com/articles/3760862",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         }
       ]
     },
@@ -63,9 +85,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "AI实力叠加低估值！外资集体押注：中国股市将延续涨势",
+          "url": "https://www.cls.cn/detail/2222232",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时17分"
         }
       ]
     }
