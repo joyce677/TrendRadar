@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T22:31:31.946363+08:00",
-  "total_titles_processed": 1713,
+  "generated_at": "2025-12-08T23:31:34.520356+08:00",
+  "total_titles_processed": 1829,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,18 @@
           "is_new": false,
           "appearance_count": 20,
           "time_info": "[00时30分 ~ 17时36分]"
+        },
+        {
+          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
+          "url": "https://wallstreetcn.com/articles/3760897",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[16时39分 ~ 23时31分]"
         },
         {
           "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
@@ -68,18 +80,6 @@
           "time_info": "[11时58分 ~ 22时31分]"
         },
         {
-          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
-          "url": "https://wallstreetcn.com/articles/3760897",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时39分 ~ 22时31分]"
-        },
-        {
           "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
           "url": "https://news.ifeng.com/c/8ov552jltTT",
           "source": "凤凰网",
@@ -87,8 +87,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时57分 ~ 22时31分]"
+          "appearance_count": 5,
+          "time_info": "[20时57分 ~ 23时31分]"
         },
         {
           "title": "特朗普：我对泽连斯基有点失望",
@@ -511,7 +511,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         }
@@ -519,19 +519,8 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3017028",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时31分"
-        },
         {
           "title": "最乐观美股预测者：美股明年将再涨近20%",
           "url": "https://flash.jin10.com/detail/20251208190058290800",
@@ -542,6 +531,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时26分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3017028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 23时31分]"
         },
         {
           "title": "星展银行：2026年全球经济展望总体积极，需警惕美股回调等三大风险",
@@ -568,6 +569,18 @@
           "time_info": "[14时44分 ~ 15时31分]"
         },
         {
+          "title": "美股三大期指涨跌不一 黄仁勋不满美国基建速度 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2223257",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时31分 ~ 23时31分]"
+        },
+        {
           "title": "摩根士丹利重申看好美股前景，因美联储降息预期",
           "url": "https://wallstreetcn.com/livenews/3016884",
           "source": "华尔街见闻-快讯",
@@ -580,15 +593,15 @@
           "time_info": "[17时36分 ~ 18时32分]"
         },
         {
-          "title": "美股三大期指涨跌不一 黄仁勋不满美国基建速度 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2223257",
-          "source": "财联社热门",
+          "title": "静待美联储决议，美股高开，10年期日债收益率创18年新高，铜价再创新高",
+          "url": "https://wallstreetcn.com/articles/3760903",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时31分"
+          "time_info": "23时31分"
         },
         {
           "title": "美股盘前，美光科技涨超1.4%，博通涨超1.3%，台积电涨近1.8%。",
@@ -600,6 +613,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
+        },
+        {
+          "title": "行业ETF美股盘初涨跌各异，半导体ETF涨1.57%，全球科技股指数ETF涨1.12%，科技行业ETF涨1.10%，网络股指数涨0.11%，能源业ETF则跌0.48%，可选消费ETF跌0.85%。",
+          "url": "https://wallstreetcn.com/livenews/3017046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         },
         {
           "title": "摩根大通：美联储降息后美股涨势或难持续",
@@ -624,13 +648,24 @@
           "time_info": "18时32分"
         },
         {
+          "title": "奈飞跌2.7%，华纳兄弟探索涨5.6%，Paramount Skydance涨5.4%。 美股开盘之前，Paramount针对奈飞收购华纳兄弟探索的交易发出敌意收购报价。",
+          "url": "https://wallstreetcn.com/livenews/3017045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
+        {
           "title": "金十数据整理：每日美股市场要闻速递（2025-12-08）",
           "url": "https://flash.jin10.com/detail/20251208214838050800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         }
@@ -709,7 +744,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时31分"
         }
@@ -717,8 +752,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "OpenAI报告称：企业人工智能应用激增",
+          "url": "https://wallstreetcn.com/livenews/3017061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
+        },
         {
           "title": "OpenAI：ChatGPT目前每周服务超过8亿用户",
           "url": "https://wallstreetcn.com/livenews/3016987",
@@ -829,6 +875,23 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 06时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国国债收益率涨幅扩大，10年期美债收益率创10月7日以来新高。",
+          "url": "https://wallstreetcn.com/livenews/3017053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时31分"
         }
       ]
     }
