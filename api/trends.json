@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-08T19:14:21.044190+08:00",
-  "total_titles_processed": 1463,
+  "generated_at": "2025-12-08T20:27:55.447083+08:00",
+  "total_titles_processed": 1553,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普获国际足联和平奖",
@@ -41,8 +41,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时28分 ~ 19时14分]"
+          "appearance_count": 11,
+          "time_info": "[12时28分 ~ 20时27分]"
         },
         {
           "title": "美国家公园免票政策调整：增特朗普生日，取消马丁・路德・金纪念日",
@@ -109,6 +109,18 @@
           "time_info": "11时16分"
         },
         {
+          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
+          "url": "https://wallstreetcn.com/articles/3760897",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时21分 ~ 20时27分]"
+        },
+        {
           "title": "网飞与华纳达成收购协议，特朗普警告",
           "url": "https://news.ifeng.com/c/8oucdTKBlFd",
           "source": "凤凰网",
@@ -131,6 +143,17 @@
           "time_info": "12时28分"
         },
         {
+          "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
+          "url": "https://news.ifeng.com/c/8ov552jltTT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-08）",
           "url": "https://flash.jin10.com/detail/20251208180135739800",
           "source": "金十数据",
@@ -142,16 +165,15 @@
           "time_info": "18时16分"
         },
         {
-          "title": "特朗普发帖暗示高院会否决“对等关税”？美国公司已“争先恐后”争夺“退税”",
-          "url": "https://wallstreetcn.com/articles/3760897",
-          "source": "华尔街见闻",
+          "title": "特朗普就美国与加拿大贸易争端最新发声",
+          "url": "https://wallstreetcn.com/livenews/3016981",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            9
+            4
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时21分 ~ 19时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们即将完成特朗普加沙计划的第一阶段，我们已近在咫尺。",
@@ -369,6 +391,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
+        },
+        {
+          "title": "柬泰再交火 特朗普还会出手吗",
+          "url": "https://www.toutiao.com/trending/7581406828559339014/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "专家：特朗普版国安战略给欧洲浇冷水",
+          "url": "https://www.toutiao.com/trending/7581427136523669001/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         }
       ]
     },
@@ -476,6 +520,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI调查：员工日均省时近1小时，企业采纳加速",
+          "url": "https://flash.jin10.com/detail/20251208200524592800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "OpenAI：ChatGPT目前每周服务超过8亿用户。",
+          "url": "https://wallstreetcn.com/livenews/3016987",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "OpenAI：ChatGPT目前每周服务超过8亿用户。",
+          "url": "https://flash.jin10.com/detail/20251208200328989800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
         }
       ]
     }
