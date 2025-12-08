@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-08T12:24:56.093659+08:00",
-  "total_titles_processed": 621,
+  "generated_at": "2025-12-08T12:51:34.938904+08:00",
+  "total_titles_processed": 660,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20251208115415348800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时24分 ~ 12时51分]"
         },
         {
           "title": "韩日商界探讨人工智能与半导体合作",
@@ -52,11 +53,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时31分 ~ 12时24分]"
+          "appearance_count": 4,
+          "time_info": "[10时31分 ~ 12时51分]"
         },
         {
           "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
@@ -83,6 +85,34 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "详谈谷歌TPU芯片：如何与博通博弈？能否和英伟达竞争？",
+          "url": "https://wallstreetcn.com/articles/3760862",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时31分"
+        },
+        {
+          "title": "后浪卷死前浪？“谷歌链”年内涨幅已快接近“OpenAI链”的两倍",
+          "url": "https://www.cls.cn/detail/2222331",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI",
       "match_count": 2,
       "titles": [
@@ -95,8 +125,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时44分 ~ 12时24分]"
+          "appearance_count": 3,
+          "time_info": "[11时44分 ~ 12时51分]"
         },
         {
           "title": "黄仁勋：美或在AI竞赛中被中国反超",
@@ -105,26 +135,9 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "详谈谷歌TPU芯片：如何与博通博弈？能否和英伟达竞争？",
-          "url": "https://wallstreetcn.com/articles/3760862",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时31分"
+          "time_info": "12时24分"
         }
       ]
     },
@@ -139,7 +152,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时24分"
         }
