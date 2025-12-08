@@ -1,8 +1,72 @@
 {
-  "generated_at": "2025-12-08T14:17:41.278917+08:00",
-  "total_titles_processed": 800,
+  "generated_at": "2025-12-08T14:55:02.260345+08:00",
+  "total_titles_processed": 849,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "马斯克",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "马斯克怒批欧盟1.2亿欧元罚单，发文称“欧盟应当被废除”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32125452",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时31分 ~ 14时55分]"
+        },
+        {
+          "title": "马斯克“太空AI”设想：每年发射1百万吨AI卫星、建设月球卫星工厂",
+          "url": "https://www.cls.cn/detail/2222429",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时54分 ~ 14时55分]"
+        },
+        {
+          "title": "「马斯克兵败印度」特斯拉 2 个月只卖出 100 多辆，印度市场有何商业特点，什么商品在印度才会有竞争力？",
+          "url": "https://www.zhihu.com/question/1980922285369094626",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时54分 ~ 14时55分]"
+        },
+        {
+          "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
+          "url": "https://www.cls.cn/detail/2221851",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时44分"
+        },
+        {
+          "title": "马斯克怒批欧盟1.2亿欧元罚单，发文称“欧盟应当被废除”",
+          "url": "https://news.ifeng.com/c/8otTJGl9zCA",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时44分"
+        }
+      ]
+    },
     {
       "keyword_group": "人工智能",
       "match_count": 3,
@@ -45,48 +109,6 @@
       ]
     },
     {
-      "keyword_group": "马斯克",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "马斯克怒批欧盟1.2亿欧元罚单，发文称“欧盟应当被废除”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32125452",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            16,
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时31分 ~ 14时17分]"
-        },
-        {
-          "title": "马斯克回应“SpaceX冲击8000亿美元估值”传闻",
-          "url": "https://www.cls.cn/detail/2221851",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时44分"
-        },
-        {
-          "title": "马斯克怒批欧盟1.2亿欧元罚单，发文称“欧盟应当被废除”",
-          "url": "https://news.ifeng.com/c/8otTJGl9zCA",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时44分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -96,11 +118,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时51分 ~ 14时17分]"
+          "appearance_count": 6,
+          "time_info": "[12时51分 ~ 14时55分]"
         },
         {
           "title": "详谈谷歌TPU芯片：如何与博通博弈？能否和英伟达竞争？",
@@ -127,11 +150,12 @@
             8,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时44分 ~ 14时17分]"
+          "appearance_count": 8,
+          "time_info": "[11时44分 ~ 14时55分]"
         },
         {
           "title": "黄仁勋：美或在AI竞赛中被中国反超",
@@ -155,11 +179,12 @@
           "url": "https://www.cls.cn/detail/2222099",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时24分"
+          "appearance_count": 3,
+          "time_info": "[12时24分 ~ 14时55分]"
         }
       ]
     }
