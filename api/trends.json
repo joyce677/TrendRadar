@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-09T13:02:47.567986+08:00",
-  "total_titles_processed": 691,
+  "generated_at": "2025-12-09T13:42:05.542997+08:00",
+  "total_titles_processed": 748,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时44分 ~ 13时02分]"
+          "appearance_count": 10,
+          "time_info": "[08时44分 ~ 13时42分]"
         },
         {
           "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
@@ -29,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时44分 ~ 13时02分]"
+          "appearance_count": 10,
+          "time_info": "[08时44分 ~ 13时42分]"
         },
         {
           "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
@@ -42,8 +42,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时44分 ~ 13时02分]"
+          "appearance_count": 10,
+          "time_info": "[08时44分 ~ 13时42分]"
         },
         {
           "title": "谷歌与XREAL联合发布Project Aura",
@@ -52,11 +52,12 @@
           "ranks": [
             4,
             14,
-            15
+            15,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时19分 ~ 13时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时19分 ~ 13时42分]"
         }
       ]
     },
@@ -102,8 +103,19 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "如何看待梁文锋、杜梦然入选《自然》年度十大人物，是中国科研环境变化的缩影吗？",
+          "url": "https://www.zhihu.com/question/1981658527434053567",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时41分 ~ 13时42分]"
+        },
         {
           "title": "梁文锋、杜梦然上榜！《自然》公布2025年度十大科学人物",
           "url": "https://tech.ifeng.com/c/8ovZfiG4ies",
@@ -126,11 +138,29 @@
           "url": "https://flash.jin10.com/detail/20251209124351272800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 13时42分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抖音",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "努比亚总裁：AI手机发展势不可逆；抖音集团李亮：AI一定是未来",
+          "url": "https://wallstreetcn.com/livenews/3017390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时42分"
         }
       ]
     }
