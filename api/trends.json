@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T07:14:44.716672+08:00",
-  "total_titles_processed": 700,
+  "generated_at": "2025-12-09T09:06:08.304726+08:00",
+  "total_titles_processed": 850,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
@@ -13,11 +13,23 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时15分 ~ 07时14分]"
+          "appearance_count": 12,
+          "time_info": "[01时15分 ~ 09时06分]"
+        },
+        {
+          "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
+          "url": "https://www.cls.cn/detail/2223368",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
         },
         {
           "title": "据华尔街日报：NextEra Energy与谷歌(GOOG.O)、埃克森美孚石油(XOM.N)合作推进数据中心供电。",
@@ -55,6 +67,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时13分 ~ 06时14分]"
+        },
+        {
+          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
+          "url": "https://www.cls.cn/detail/2223387",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收跌约3.4%，谷歌A跌约2.3%，英伟达涨超1.7%",
@@ -149,7 +172,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "如何看待各大 App 禁止豆包手机登陆，AI 手机会是「兵家必争之地」吗？",
@@ -157,11 +180,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 07时14分]"
+          "appearance_count": 13,
+          "time_info": "[00时20分 ~ 09时06分]"
         },
         {
           "title": "美国食品药品监督管理局（FDA）：已批准首个基于人工智能的药物开发工具——基于人工智能的非酒精性脂肪性肝炎组织学测量工具（AIM-NASH）。",
@@ -201,6 +225,17 @@
           "time_info": "[00时20分 ~ 01时16分]"
         },
         {
+          "title": "仅仅成立两个月 这家AI计算机初创公司估值高达45亿美元",
+          "url": "https://www.cls.cn/detail/2223334",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
+        },
+        {
           "title": "达利欧：中东正迅速成为全球最具影响力的AI中心之一",
           "url": "https://wallstreetcn.com/livenews/3017096",
           "source": "华尔街见闻-快讯",
@@ -211,6 +246,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时23分 ~ 03时13分]"
+        },
+        {
+          "title": "任正非最新讲话谈及 AI，称别盯着「发明」要盯着「应用」，算力过剩的时代一定会到来，如何理解这些观点？",
+          "url": "https://www.zhihu.com/question/1980286689260900620",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
         },
         {
           "title": "消息人士称，软银、英伟达拟以140亿美元估值投资Skild AI，SKILD AI本轮融资有望筹集超过10亿美元。",
@@ -264,7 +310,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时14分"
         }
