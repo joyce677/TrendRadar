@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-09T07:13:57.440561+08:00",
-  "total_titles_processed": 701,
+  "generated_at": "2025-12-09T09:01:58.671302+08:00",
+  "total_titles_processed": 851,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 40,
+      "match_count": 42,
       "titles": [
         {
           "title": "特朗普的国安战略：“卖台保台”“捧华反华”都是一回事",
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3760897",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 04时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 09时01分]"
         },
         {
           "title": "美国总统特朗普在一场圆桌会议上声称：将把一部分关税“收入”用于救济农民经济。",
@@ -39,6 +40,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时16分"
+        },
+        {
+          "title": "特朗普宣布：允许英伟达向中国出售H200芯片",
+          "url": "https://wallstreetcn.com/livenews/3017241",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
+        },
+        {
+          "title": "美国法官驳回特朗普政府暂停风能许可的决定",
+          "url": "https://flash.jin10.com/detail/20251209084650898800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "市场消息：美国最高法院保守派（法官）似乎对特朗普解雇联邦贸易委员会委员的举动表示同情。",
@@ -311,7 +334,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -366,7 +389,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -388,7 +411,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
         },
@@ -473,7 +496,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "全球市值最高电力股同日官宣谷歌、Meta新合作",
@@ -481,11 +504,23 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时15分 ~ 07时13分]"
+          "appearance_count": 10,
+          "time_info": "[01时15分 ~ 09时01分]"
+        },
+        {
+          "title": "谷歌官宣：首款搭载Gemini的AI眼镜将于2026年推出",
+          "url": "https://www.cls.cn/detail/2223368",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "据华尔街日报：NextEra Energy与谷歌(GOOG.O)、埃克森美孚石油(XOM.N)合作推进数据中心供电。",
@@ -523,6 +558,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时14分 ~ 07时13分]"
+        },
+        {
+          "title": "谷歌AI眼镜将于2026年推出 多家航司在美警告下取消往返委航班 | 环球市场",
+          "url": "https://www.cls.cn/detail/2223387",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时01分"
         },
         {
           "title": "谷歌：首款人工智能眼镜将于2026年问世",
@@ -619,6 +665,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "梁文锋、杜梦然上榜！《自然》公布2025年度十大科学人物",
+          "url": "https://tech.ifeng.com/c/8ovZfiG4ies",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时15分 ~ 09时01分]"
+        },
+        {
           "title": "梁文锋入选《自然》年度十大科学人物",
           "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E5%85%A5%E9%80%89%E3%80%8A%E8%87%AA%E7%84%B6%E3%80%8B%E5%B9%B4%E5%BA%A6%E5%8D%81%E5%A4%A7%E7%A7%91%E5%AD%A6%E4%BA%BA%E7%89%A9",
           "source": "百度热搜",
@@ -626,17 +684,6 @@
             16,
             13,
             12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时15分 ~ 07时13分]"
-        },
-        {
-          "title": "梁文锋、杜梦然上榜！《自然》公布2025年度十大科学人物",
-          "url": "https://tech.ifeng.com/c/8ovZfiG4ies",
-          "source": "凤凰网",
-          "ranks": [
             10
           ],
           "is_new": false,
