@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-12-11T00:36:44.337694+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-11T01:29:56.134729+08:00",
+  "total_titles_processed": 387,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "美国总统特朗普：墨西哥的水资源和污水问题是“对得克萨斯州、加利福尼亚州及美国的真正威胁”。",
+          "url": "https://flash.jin10.com/detail/20251211005314935800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
         {
           "title": "特朗普发飙怒斥记者",
           "url": "https://www.douyin.com/hot/2332016",
@@ -26,8 +37,30 @@
             9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时29分]"
+        },
+        {
+          "title": "美国总统特朗普：墨西哥必须立即解决水资源问题。",
+          "url": "https://flash.jin10.com/detail/20251211004151009800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时36分"
+          "time_info": "01时29分"
+        },
+        {
+          "title": "美国副总统万斯：拜登疯狂的政策让美国家庭在自己的国家都无法过上体面的生活。 特朗普总统通过减税、提供更高薪的工作以及投资美国工业，正一步步地让美国再次成为工薪家庭能够负担得起的地方。",
+          "url": "https://flash.jin10.com/detail/20251211003604206800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时29分"
         },
         {
           "title": "英国方面表示，美国总统特朗普与E3领导人认为乌克兰局势正处于“关键时刻”。",
@@ -43,6 +76,45 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "消息人士：谷歌(GOOG.O)还可做出更多调整以避免罚款。",
+          "url": "https://flash.jin10.com/detail/20251211005244896800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "消息人士：Google Play正调整政策，旨在让应用开发者更便捷地将用户引导至其他渠道并自主选择收费模式，但据悉这些调整效果未达预期。",
+          "url": "https://flash.jin10.com/detail/20251211005231907800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        },
+        {
+          "title": "消息人士：谷歌(GOOG.O)或将因Google Play违反欧盟规则而被欧盟处以罚款；罚款措施或将于2026年第一季度出台。",
+          "url": "https://flash.jin10.com/detail/20251211005056346800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -54,8 +126,42 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时36分 ~ 01时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "决议前夕美股期指窄幅震荡 华尔街等待鲍威尔亮出底牌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2225788",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时36分"
+          "time_info": "01时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数DXY向下触及99，日内跌0.24%。",
+          "url": "https://flash.jin10.com/detail/20251211010203679800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时29分"
         }
       ]
     }
