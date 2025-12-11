@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T19:38:34.058754+08:00",
-  "total_titles_processed": 1477,
+  "generated_at": "2025-12-11T20:20:30.322260+08:00",
+  "total_titles_processed": 1540,
   "failed_sources": [],
   "trends": [
     {
@@ -111,8 +111,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[11时51分 ~ 19时38分]"
+          "appearance_count": 24,
+          "time_info": "[11时51分 ~ 20时20分]"
         },
         {
           "title": "马斯克：若重来，不会领导“政府效率部”",
@@ -122,8 +122,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时49分 ~ 19时38分]"
+          "appearance_count": 11,
+          "time_info": "[16时49分 ~ 20时20分]"
         },
         {
           "title": "马斯克暗示SpaceX可能IPO",
@@ -175,8 +175,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时47分 ~ 19时38分]"
+          "appearance_count": 5,
+          "time_info": "[18时47分 ~ 20时20分]"
         },
         {
           "title": "谷歌DeepMind将在英国开设实验室 探索新材料",
@@ -188,6 +188,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
+          "url": "https://www.zhihu.com/question/1982385153180394991",
+          "source": "知乎",
+          "ranks": [
+            14,
+            12,
+            10,
+            11,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[14时54分 ~ 20时20分]"
+        },
+        {
+          "title": "机构：美国AI公司面临电力压力，将推高运营成本",
+          "url": "https://flash.jin10.com/detail/20251211195013640800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时20分"
         }
       ]
     },
@@ -205,28 +239,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
-          "url": "https://www.zhihu.com/question/1982385153180394991",
-          "source": "知乎",
-          "ranks": [
-            14,
-            12,
-            10,
-            11,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[14时54分 ~ 19时38分]"
         }
       ]
     }
