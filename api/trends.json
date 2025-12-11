@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-11T20:20:30.322260+08:00",
-  "total_titles_processed": 1540,
+  "generated_at": "2025-12-11T21:11:53.716466+08:00",
+  "total_titles_processed": 1611,
   "failed_sources": [],
   "trends": [
     {
@@ -108,11 +108,12 @@
             4,
             3,
             2,
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[11时51分 ~ 20时20分]"
+          "appearance_count": 25,
+          "time_info": "[11时51分 ~ 21时11分]"
         },
         {
           "title": "马斯克：若重来，不会领导“政府效率部”",
@@ -122,8 +123,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时49分 ~ 20时20分]"
+          "appearance_count": 12,
+          "time_info": "[16时49分 ~ 21时11分]"
         },
         {
           "title": "马斯克暗示SpaceX可能IPO",
@@ -209,8 +210,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[14时54分 ~ 20时20分]"
+          "appearance_count": 17,
+          "time_info": "[14时54分 ~ 21时11分]"
         },
         {
           "title": "机构：美国AI公司面临电力压力，将推高运营成本",
@@ -219,9 +220,26 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
         }
       ]
     },
