@@ -1,986 +1,244 @@
 {
-  "generated_at": "2025-12-11T23:18:18.184464+08:00",
-  "total_titles_processed": 2222,
+  "generated_at": "2025-12-12T00:22:29.985936+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI",
-      "match_count": 38,
+      "keyword_group": "chatgpt openai",
+      "match_count": 8,
       "titles": [
         {
-          "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
-          "url": "https://www.zhihu.com/question/1982385153180394991",
-          "source": "知乎",
-          "ranks": [
-            10,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时20分 ~ 23时18分]"
-        },
-        {
-          "title": "Meta转向！扎克伯格亲自挂帅，引入阿里Qwen训练，从开源走向盈利型闭源AI",
-          "url": "https://wallstreetcn.com/articles/3761127",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6,
-            4,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 28,
-          "time_info": "[00时21分 ~ 23时18分]"
-        },
-        {
-          "title": "甲骨文股价暴跌超10%！订单积压越来越多 “烧钱”砸AI风险令人担忧",
-          "url": "https://www.cls.cn/detail/2225983",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            7,
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时08分 ~ 16时22分]"
-        },
-        {
-          "title": "网警：男子AI生成车展低俗视频被拘",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%EF%BC%9A%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时08分 ~ 23时18分]"
-        },
-        {
-          "title": "男子AI生成车展低俗视频被拘",
-          "url": "https://www.douyin.com/hot/2333057",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时20分 ~ 23时18分]"
-        },
-        {
-          "title": "男子AI生成车展低俗视频造谣被拘",
-          "url": "https://www.toutiao.com/trending/7582391057200074250/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时31分 ~ 23时18分]"
-        },
-        {
-          "title": "白银首破60美元大关之际 行业重磅报告揭示：AI是关键推手之一",
-          "url": "https://www.cls.cn/detail/2225488",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时21分 ~ 07时13分]"
-        },
-        {
-          "title": "网警查处一起AI生成虚假低俗视频案",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E8%AD%A6%E6%9F%A5%E5%A4%84%E4%B8%80%E8%B5%B7AI%E7%94%9F%E6%88%90%E8%99%9A%E5%81%87%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E6%A1%88%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时08分 ~ 12时31分]"
-        },
-        {
-          "title": "男子AI生成车展虚假低俗视频被拘",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%B7%E5%AD%90AI%E7%94%9F%E6%88%90%E8%BD%A6%E5%B1%95%E8%99%9A%E5%81%87%E4%BD%8E%E4%BF%97%E8%A7%86%E9%A2%91%E8%A2%AB%E6%8B%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时20分 ~ 14时25分]"
-        },
-        {
-          "title": "罗永浩闫俊杰谈中美AI发展差异",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%97%E6%B0%B8%E6%B5%A9%E9%97%AB%E4%BF%8A%E6%9D%B0%E8%B0%88%E4%B8%AD%E7%BE%8EAI%E5%8F%91%E5%B1%95%E5%B7%AE%E5%BC%82",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27,
-            18,
-            26,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时23分 ~ 12时31分]"
-        },
-        {
-          "title": "美图内部AI创业竞赛：鼓励员工产品创新 给1000万“风投”资金",
-          "url": "https://wallstreetcn.com/livenews/3019188",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "动画老牌GAINAX正式破产领盒饭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347897&amp;topic_name=%E5%8A%A8%E7%94%BB%E8%80%81%E7%89%8CGAINAX%E6%AD%A3%E5%BC%8F%E7%A0%B4%E4%BA%A7%E9%A2%86%E7%9B%92%E9%A5%AD",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时15分 ~ 23时18分]"
-        },
-        {
-          "title": "夸克AI眼镜核心供应商已新增产线",
-          "url": "https://wallstreetcn.com/livenews/3019156",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 19时15分]"
-        },
-        {
-          "title": "华为、支付宝、中移互联网合作布局AI+5G新通话DC生态",
-          "url": "https://wallstreetcn.com/livenews/3018896",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时21分 ~ 12时31分]"
-        },
-        {
-          "title": "我国AI产业规模突破9000亿元",
-          "url": "https://www.douyin.com/hot/2332984",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时24分 ~ 16时22分]"
-        },
-        {
-          "title": "野村：韩国首尔综合指数明年上半年料触及5000点，受AI资本支出激增推动",
-          "url": "https://wallstreetcn.com/livenews/3018915",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时19分]"
-        },
-        {
-          "title": "网警：男子AI生成车展低俗视频被拘",
-          "url": "https://www.toutiao.com/trending/7582391057200074250/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 11时21分]"
-        },
-        {
-          "title": "站在 2025 年年末，你认为 AI 究竟是真革命还是虚假繁荣？",
-          "url": "https://www.zhihu.com/question/1974921641634064010",
-          "source": "知乎",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时20分 ~ 17时20分]"
-        },
-        {
-          "title": "微软CEO表示，公司计划于周五推出全新智能体AI模型。",
-          "url": "https://wallstreetcn.com/livenews/3018935",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 14时25分]"
-        },
-        {
-          "title": "Blue Owl Capital高管Craig Packer：数据中心是一个“实实在在地具有吸引力的领域”。 银行业利用SRTs（重大风险转移）来管控数据中心风险，这样做是“睿智的”。 零售产品的资金流入偏高。 软件（在投资组合中的表现）是本公司表现“最强”的一个方面。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3018538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时18分]"
-        },
-        {
-          "title": "下一次 AI 创业的机会在哪里？除了做大模型，普通人还有哪些切入点？",
-          "url": "https://www.zhihu.com/question/1981378458325119331",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时20分 ~ 11时21分]"
-        },
-        {
-          "title": "AIDC储能2030年出货量或达今年20倍",
-          "url": "https://wallstreetcn.com/livenews/3018700",
+          "title": "OpenAI的CEO Altman：对我们“即将推出的芯片”感到兴奋。",
+          "url": "https://wallstreetcn.com/livenews/3019321",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时13分"
+          "time_info": "00时22分"
         },
         {
-          "title": "Starcloud在太空中训练首个AI模型，轨道数据中心竞争升温",
-          "url": "https://wallstreetcn.com/livenews/3018588",
+          "title": "迪士尼CEO Bob Iger：与OpenAI达成的Sora协议是一个“不错的投资”。 将在Disney+投放部分用户生产的Sora视频。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3019319",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时14分"
+          "time_info": "00时22分"
         },
         {
-          "title": "甲骨文(ORCL.N)带动美股AI股盘前走低，英伟达(NVDA.O)跌1.9%，美光科技(MU.O)跌2.1%，微软(MSFT.O)跌1.1%。",
-          "url": "https://flash.jin10.com/detail/20251211170906953800",
-          "source": "金十数据",
+          "title": "OpenAI的CEO Altman：对迪士尼角色的需求“超出预料”。 与迪士尼达成的协议将驱动收入增长。 市场需求是“相当极端的”。 发布新模型应当扩大市场份额。",
+          "url": "https://wallstreetcn.com/livenews/3019318",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时20分"
+          "time_info": "00时22分"
         },
         {
-          "title": "AIG涨4.3%，刷新日高，创4月份以来最大盘中涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3018650",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "机构：美国AI公司面临电力压力，将推高运营成本",
-          "url": "https://flash.jin10.com/detail/20251211195013640800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "全国首个应对疟疾、结核病及病毒等全球健康疾病挑战的AI制药平台正式发布",
-          "url": "https://wallstreetcn.com/livenews/3019132",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "Baird将Adobe目标价从425美元下调至410美元；将甲骨文目标价从315美元下调至300美元。",
-          "url": "https://wallstreetcn.com/livenews/3019009",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "Pinterest首席执行官Bill Ready表示， Pinterest通过依靠开源模型，节省了使用知名品牌AI的90%成本。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3018762",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "TCL2025年AI应用创造综合效益超10亿元",
-          "url": "https://wallstreetcn.com/livenews/3018926",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时19分"
-        },
-        {
-          "title": "机构：美元明年或再承压，AI泡沫与利率前景成关键风险",
-          "url": "https://flash.jin10.com/detail/20251211185341864800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "橡树资本联合创始人：不认为美联储需大幅降息 质疑AI债务融资逻辑",
-          "url": "https://flash.jin10.com/detail/20251211224828014800",
+          "title": "迪士尼CEO：我们公司有很大的机会从OpenAI获得其他产品的授权。",
+          "url": "https://flash.jin10.com/detail/20251211235409597800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时18分"
+          "time_info": "00时22分"
         },
         {
-          "title": "投行Baird：将甲骨文(ORCL.N)目标价从315美元下调至300美元。",
-          "url": "https://flash.jin10.com/detail/20251211144209926800",
+          "title": "OpenAI创始人奥尔特曼：对我们“即将推出的芯片”感到兴奋。",
+          "url": "https://flash.jin10.com/detail/20251211235112934800",
           "source": "金十数据",
           "ranks": [
-            21
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时20分"
+          "time_info": "00时22分"
         },
         {
-          "title": "鲍威尔：我认为，人工智能（AI）让使用它的人们具有更高的生产力。",
-          "url": "https://wallstreetcn.com/livenews/3018639",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI创始人奥尔特曼：市场上的需求“相当极端”。新模型的推出应能提升市场份额。",
+          "url": "https://flash.jin10.com/detail/20251211234949588800",
+          "source": "金十数据",
           "ranks": [
-            22
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时16分"
+          "time_info": "00时22分"
         },
         {
-          "title": "美国38万亿美元债务终极解法是AI吗",
-          "url": "https://www.toutiao.com/trending/7582549459209293355/",
-          "source": "今日头条",
+          "title": "OpenAI创始人奥尔特曼：看到Sora视频生成领域的价格弹性。",
+          "url": "https://flash.jin10.com/detail/20251211234938201800",
+          "source": "金十数据",
           "ranks": [
-            23
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时19分"
+          "time_info": "00时22分"
         },
         {
-          "title": "美股开盘，道指涨0.05%，标普500指数跌0.37%，纳指跌0.6%。业绩和指引均不及预期的甲骨文(ORCL.N)大跌14%拖累AI股票，英伟达(NVDA.O)跌2%，英特尔(INTC.O)跌1.9%，美光科技(MU.O)跌0.95%。",
-          "url": "https://flash.jin10.com/detail/20251211223024942800",
+          "title": "OpenAI创始人奥尔特曼：我们预计迪士尼合作将带来增量收入。",
+          "url": "https://flash.jin10.com/detail/20251211234711697800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "鲍威尔：就业增长被夸，这并没有争议。 人工智能（AI）可能是就业疲软的原因之一，但其影响程度并不大。 AI对就业的影响肯定没有体现在裁员中。",
-          "url": "https://wallstreetcn.com/livenews/3018632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "美国总统特朗普：据苹果公司CEO库克表示，招聘很难。 今天将讨论科技和人工智能（AI）。 今天与参议院讨论过AI监管问题。",
-          "url": "https://wallstreetcn.com/livenews/3018631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "Gemini获得CFTC关键批准，公司着眼于预测市场",
-          "url": "https://wallstreetcn.com/livenews/3018705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "消息人士：谷歌(GOOG.O)还可做出更多调整以避免罚款。",
-          "url": "https://flash.jin10.com/detail/20251211005244896800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：宣布对我们的Gemini 2.5 Flash和Gemini 2.5 Pro文本转语音（TTS）预览模型进行重大升级。",
-          "url": "https://flash.jin10.com/detail/20251211055023100800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时13分]"
-        },
-        {
-          "title": "Gemini Space Station Inc.（GEMI）美股盘后涨15%。",
-          "url": "https://wallstreetcn.com/livenews/3018677",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时16分 ~ 07时13分]"
-        },
-        {
-          "title": "OpenAI 即将发布 GPT-5.2，知情人士称或有望弥补与谷歌 Gemini 3 差距，如何评价？",
-          "url": "https://www.zhihu.com/question/1980552349165564560",
-          "source": "知乎",
-          "ranks": [
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时31分]"
-        },
-        {
-          "title": "消息人士：Google Play正调整政策，旨在让应用开发者更便捷地将用户引导至其他渠道并自主选择收费模式，但据悉这些调整效果未达预期。",
-          "url": "https://flash.jin10.com/detail/20251211005231907800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "消息人士：谷歌(GOOG.O)或将因Google Play违反欧盟规则而被欧盟处以罚款；罚款措施或将于2026年第一季度出台。",
-          "url": "https://flash.jin10.com/detail/20251211005056346800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "报道：若不做出更多让步，谷歌或因Google Play涉嫌违规遭欧盟罚款",
-          "url": "https://wallstreetcn.com/livenews/3018771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "消息人士：若谷歌不做出更多让步，将面临欧盟罚款",
-          "url": "https://flash.jin10.com/detail/20251211013014995800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：将把Gemini 3引入Stitch——我们的实验性AI驱动设计工具。",
-          "url": "https://flash.jin10.com/detail/20251211012928783800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "谷歌DeepMind将在英国开设实验室 探索新材料",
-          "url": "https://flash.jin10.com/detail/20251211082244495800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：功能今日将在美国全境以及德国和墨西哥部分地区推出。",
-          "url": "https://flash.jin10.com/detail/20251211011103110800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：即日起，我们将在安卓平台上推出紧急实时视频功能。",
-          "url": "https://flash.jin10.com/detail/20251211011032984800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "马斯克称短视频「腐蚀人们的大脑」，如何看待这一说法？",
-          "url": "https://www.zhihu.com/question/1982111618621007519",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            3,
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时20分 ~ 23时18分]"
-        },
-        {
-          "title": "美媒：关于政府效率部，马斯克惊人爆料",
-          "url": "https://news.ifeng.com/c/8oyuWx4CZR8",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            6,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时17分 ~ 11时21分]"
-        },
-        {
-          "title": "马斯克：若重来，不会领导“政府效率部”",
-          "url": "https://news.ifeng.com/c/8ozzAO4JqEh",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时20分 ~ 21时35分]"
-        },
-        {
-          "title": "美媒：贝佐斯与马斯克正竞相将数据中心带入太空",
-          "url": "https://flash.jin10.com/detail/20251211005802992800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "马斯克旗下太空探索公司SpaceX已经在出售部分股权的过程中选择数据中心。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3018563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时18分 ~ 03时14分]"
-        },
-        {
-          "title": "马斯克：若重来 不会领导“政府效率部”",
-          "url": "https://wallstreetcn.com/livenews/3019118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时20分 ~ 18时17分]"
-        },
-        {
-          "title": "据华尔街日报：马斯克旗下的SpaceX已将数据中心计划作为股权出售的一部分进行推介。",
-          "url": "https://flash.jin10.com/detail/20251211004648936800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
-        },
-        {
-          "title": "马斯克在X上回帖暗示SpaceX可能进行IPO",
-          "url": "https://wallstreetcn.com/livenews/3018769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "马斯克暗示SpaceX可能IPO",
-          "url": "https://flash.jin10.com/detail/20251211083427894800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "SpaceX若以$1.5万亿美元估值上市马斯克财富将翻倍",
-          "url": "https://wallstreetcn.com/livenews/3018534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "若SpaceX明年以1.5万亿美元估值上市，马斯克有望成为全球首位“万亿富翁”",
-          "url": "https://flash.jin10.com/detail/20251210235718083800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "SpaceX若以$1.5万亿美元估值上市，马斯克有望成为全球首位“万亿富翁”",
-          "url": "https://wallstreetcn.com/livenews/3018534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时18分"
+          "time_info": "00时22分"
         }
       ]
     },
     {
       "keyword_group": "房价 楼市 房地产",
-      "match_count": 12,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "A股探底回升，房地产掀涨停潮，万科股债齐升，零售股全天强势，摩尔线程涨超15%，港股收涨，有色大涨",
-          "url": "https://wallstreetcn.com/articles/3761064",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 16时22分]"
-        },
-        {
-          "title": "中央：着力稳定房地产市场",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%EF%BC%9A%E7%9D%80%E5%8A%9B%E7%A8%B3%E5%AE%9A%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%B8%82%E5%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            1,
-            26,
-            24,
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时15分 ~ 23时18分]"
-        },
-        {
-          "title": "中央经济工作会议：稳定房地产市场",
-          "url": "https://www.toutiao.com/trending/7581928676771364905/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            13,
-            14,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时31分 ~ 23时18分]"
-        },
-        {
-          "title": "中指研究院：明年或落地更多增量政策 加速楼市“止跌回稳”",
-          "url": "https://wallstreetcn.com/livenews/3019193",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 20时31分]"
-        },
         {
           "title": "A股三大指数回调，北证50收涨近4%！商业航天走强，摩尔线程突破900元，房地产调整，恒科指跌0.83%，中兴通讯重挫",
           "url": "https://wallstreetcn.com/articles/3761155",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时34分 ~ 23时18分]"
-        },
-        {
-          "title": "中央经济工作会议：着力稳定房地产市场 积极有序化解地方政府债务风险",
-          "url": "https://wallstreetcn.com/livenews/3019142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 19时15分]"
-        },
-        {
-          "title": "美国两年多来房价首次出现负增长，特定城市市场价格波动显著",
-          "url": "https://wallstreetcn.com/livenews/3019305",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时18分"
+          "time_info": "00时22分"
         },
         {
           "title": "中央经济工作会议定调房地产:守牢底线、消化存量、深化公积金改革",
           "url": "https://www.cls.cn/detail/2227146",
           "source": "财联社热门",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
-        },
-        {
-          "title": "金十数据整理：每日房地产行业动态汇总（2025-12-11）",
-          "url": "https://flash.jin10.com/detail/20251211154027298800",
-          "source": "金十数据",
-          "ranks": [
-            15
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时22分"
+          "time_info": "00时22分"
         },
         {
-          "title": "国家发展改革委投资研究所研究员吴亚平：加快构建房地产发展新模式 更好地匹配居住需求",
-          "url": "https://wallstreetcn.com/livenews/3019209",
-          "source": "华尔街见闻-快讯",
+          "title": "中央经济工作会议：稳定房地产市场",
+          "url": "https://www.toutiao.com/trending/7581928676771364905/",
+          "source": "今日头条",
           "ranks": [
-            16
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时31分"
+          "time_info": "00时22分"
         },
         {
-          "title": "宁夏出台楼市新政：新建商品住房购房补贴，金融支持“应贷尽贷”",
-          "url": "https://wallstreetcn.com/livenews/3019203",
-          "source": "华尔街见闻-快讯",
+          "title": "中央：着力稳定房地产市场",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%A4%AE%EF%BC%9A%E7%9D%80%E5%8A%9B%E7%A8%B3%E5%AE%9A%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%B8%82%E5%9C%BA",
+          "source": "百度热搜",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时31分"
+          "time_info": "00时22分"
         },
         {
-          "title": "尽管政府采取降温措施 首尔房价持续上涨",
-          "url": "https://flash.jin10.com/detail/20251211133944460800",
+          "title": "美国两年多来房价首次出现负增长，特定城市市场价格波动显著",
+          "url": "https://wallstreetcn.com/livenews/3019305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "迪士尼(DIS.N)首席执行官就致谷歌(GOOG.O)的信件表示，我们别无选择，只能向谷歌发出停止侵权函。",
+          "url": "https://flash.jin10.com/detail/20251212000641359800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：Gemini 3对我们各项指标的影响比我们担心的要小。",
+          "url": "https://flash.jin10.com/detail/20251211235011876800",
           "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时25分"
+          "time_info": "00时22分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "keyword_group": "马斯克",
+      "match_count": 2,
       "titles": [
         {
-          "title": "迪士尼与OpenAI达成内容许可与投资协议",
-          "url": "https://wallstreetcn.com/livenews/3019279",
-          "source": "华尔街见闻-快讯",
+          "title": "马斯克称短视频「腐蚀人们的大脑」，如何看待这一说法？",
+          "url": "https://www.zhihu.com/question/1982111618621007519",
+          "source": "知乎",
           "ranks": [
-            8,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 23时18分]"
-        },
-        {
-          "title": "迪士尼将成为OpenAI模型Sora首个主要的内容授权合作伙伴。",
-          "url": "https://flash.jin10.com/detail/20251211220333965800",
-          "source": "金十数据",
-          "ranks": [
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时19分"
+          "time_info": "00时22分"
         },
         {
-          "title": "迪士尼：将成为OpenAI的客户，利用其API构建产品、工具和体验服务，包括用于Disney+的项目，并为员工部署ChatGPT。",
-          "url": "https://flash.jin10.com/detail/20251211220301017800",
-          "source": "金十数据",
+          "title": "马斯克暗示SpaceX将上市",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9A%97%E7%A4%BASpaceX%E5%B0%86%E4%B8%8A%E5%B8%82",
+          "source": "百度热搜",
           "ranks": [
-            8
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时19分"
-        },
+          "time_info": "00时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "OpenAI：ChatGPT用户在安卓设备上遭遇错误率飙升。",
-          "url": "https://flash.jin10.com/detail/20251211064706062800",
-          "source": "金十数据",
+          "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
+          "url": "https://www.zhihu.com/question/1982385153180394991",
+          "source": "知乎",
           "ranks": [
-            9
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时13分"
+          "time_info": "00时22分"
         },
         {
-          "title": "华特迪士尼公司与OpenAI达成具有里程碑意义的协议，迪士尼将对OpenAI进行10亿美元股权投资。",
-          "url": "https://flash.jin10.com/detail/20251211220041315800",
-          "source": "金十数据",
+          "title": "动画老牌GAINAX正式破产领盒饭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347897&amp;topic_name=%E5%8A%A8%E7%94%BB%E8%80%81%E7%89%8CGAINAX%E6%AD%A3%E5%BC%8F%E7%A0%B4%E4%BA%A7%E9%A2%86%E7%9B%92%E9%A5%AD",
+          "source": "贴吧",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时19分"
-        },
-        {
-          "title": "据AXIOS网站：OpenAI未来的模型很可能带来“高”网络风险，OpenAI表示，将强化模型以应对防御性网络安全任务。",
-          "url": "https://flash.jin10.com/detail/20251211040355307800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时17分"
-        },
-        {
-          "title": "迪士尼(DIS.N)上涨2%，公司将向OpenAI投资10亿美元，并将旗下卡通人物引入SORA。",
-          "url": "https://flash.jin10.com/detail/20251211224007045800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时18分"
+          "time_info": "00时22分"
         }
       ]
     }
