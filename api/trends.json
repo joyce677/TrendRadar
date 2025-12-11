@@ -1,8 +1,47 @@
 {
-  "generated_at": "2025-12-11T10:47:25.437924+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2025-12-11T11:51:49.357330+08:00",
+  "total_titles_processed": 553,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "马斯克",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "马斯克暗示SpaceX可能IPO",
+          "url": "https://flash.jin10.com/detail/20251211083427894800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时45分"
+        },
+        {
+          "title": "马斯克称短视频「腐蚀人们的大脑」，如何看待这一说法？",
+          "url": "https://www.zhihu.com/question/1982111618621007519",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时51分"
+        },
+        {
+          "title": "美媒：关于政府效率部，马斯克惊人爆料",
+          "url": "https://news.ifeng.com/c/8oyuWx4CZR8",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 10时47分]"
+        }
+      ]
+    },
     {
       "keyword_group": "人工智能",
       "match_count": 2,
@@ -25,37 +64,9 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马斯克暗示SpaceX可能IPO",
-          "url": "https://flash.jin10.com/detail/20251211083427894800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时45分"
-        },
-        {
-          "title": "美媒：关于政府效率部，马斯克惊人爆料",
-          "url": "https://news.ifeng.com/c/8oyuWx4CZR8",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时45分 ~ 10时47分]"
         }
       ]
     },
