@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T11:51:11.397496+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2025-12-12T12:24:49.158138+08:00",
+  "total_titles_processed": 664,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "GPT-5.2来了！OpenAI称其为“最强专业知识工作大模型”",
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时45分 ~ 11时51分]"
+          "appearance_count": 5,
+          "time_info": "[08时45分 ~ 12时24分]"
         },
         {
           "title": "全面解析ChatGPT5.2",
@@ -36,11 +36,12 @@
           "url": "https://www.cls.cn/detail/2227268",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 11时51分]"
+          "appearance_count": 3,
+          "time_info": "[11时50分 ~ 12时24分]"
         },
         {
           "title": "GPT-5.2 正式发布，OpenAI 称其为「最强专业知识工作大模型」，有哪些技术亮点？",
@@ -63,6 +64,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "ChatGPT5.2有哪些新升级",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
         },
         {
           "title": "OpenAI发布GPT最新升级版本",
@@ -97,11 +109,12 @@
           "url": "https://wallstreetcn.com/livenews/3019586",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时51分 ~ 12时24分]"
         },
         {
           "title": "特朗普：正在签署行政命令，阻止各州执行自己的人工智能法规",
@@ -172,8 +185,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时46分 ~ 11时51分]"
+          "appearance_count": 4,
+          "time_info": "[10时46分 ~ 12时24分]"
         },
         {
           "title": "GPT-5.2提前泄露？今夜，OpenAI要拿Gemini 3祭天！",
@@ -189,6 +202,34 @@
       ]
     },
     {
+      "keyword_group": "AI",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
+          "url": "https://www.zhihu.com/question/1982385153180394991",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时45分"
+        },
+        {
+          "title": "美国AIDC热推高燃气轮机需求 中美概念股“同此凉热”",
+          "url": "https://www.cls.cn/detail/2227459",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克",
       "match_count": 1,
       "titles": [
@@ -198,11 +239,12 @@
           "source": "澎湃新闻",
           "ranks": [
             16,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时45分 ~ 11时51分]"
+          "appearance_count": 5,
+          "time_info": "[08时45分 ~ 12时24分]"
         }
       ]
     },
@@ -218,8 +260,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时46分 ~ 11时51分]"
+          "appearance_count": 4,
+          "time_info": "[10时46分 ~ 12时24分]"
         }
       ]
     },
@@ -233,23 +275,6 @@
           "source": "金十数据",
           "ranks": [
             10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
-          "url": "https://www.zhihu.com/question/1982385153180394991",
-          "source": "知乎",
-          "ranks": [
-            8
           ],
           "is_new": false,
           "appearance_count": 1,
