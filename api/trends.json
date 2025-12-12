@@ -1,55 +1,46 @@
 {
-  "generated_at": "2025-12-13T01:15:05.594156+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2025-12-13T02:23:12.016158+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "AI担忧打压纳指，甲骨文大跌11%，道指新高，白银大涨、与伦铜均创新高，人民币升破7.05",
           "url": "https://wallstreetcn.com/articles/3761175",
           "source": "华尔街见闻",
           "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 02时23分]"
+        },
+        {
+          "title": "AI担忧加剧压垮美股，纳指跌超2%，博通跌超10%，白银创新高后跳水，期银跌超5%",
+          "url": "https://wallstreetcn.com/articles/3761271",
+          "source": "华尔街见闻",
+          "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 01时15分]"
+          "appearance_count": 2,
+          "time_info": "[02时22分 ~ 02时23分]"
         },
         {
-          "title": "美国白宫人工智能（AI）事务主管David Sacks谈及公众对“AI造成就业岗位流失”的顾虑，称：AI带来的就业机会将超过其所造成的失业问题。",
-          "url": "https://wallstreetcn.com/livenews/3020088",
-          "source": "华尔街见闻-快讯",
+          "title": "博通暴跌道指期货创新高 资金撤离AI涌向周期股 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2228432",
+          "source": "财联社热门",
           "ranks": [
-            2
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "美国白宫人工智能（AI）事务主管David Sacks：行政命令寻求限制具有争议性的州政府制度。 不知道加州和纽约的地方性AI法律是否会因特朗普的命令而面临挑战。 科罗拉多州的AI政策也是有问题的。 命令为打击费力的监管创造工具。",
-          "url": "https://wallstreetcn.com/livenews/3020087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "美国白宫人工智能（AI）事务主管David Sacks捍卫总特朗普关于AI的行政命令。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3020086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 02时23分]"
         },
         {
           "title": "博通上季AI芯片收入加速增74%，料本季翻倍猛增，但积压订单逊色 | 财报见闻",
@@ -59,19 +50,56 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 01时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 02时23分]"
         },
         {
-          "title": "博通暴跌道指期货创新高 资金撤离AI涌向周期股 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2228432",
+          "title": "美国白宫人工智能（AI）事务主管David Sacks谈及公众对“AI造成就业岗位流失”的顾虑，称：AI带来的就业机会将超过其所造成的失业问题。",
+          "url": "https://wallstreetcn.com/livenews/3020088",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 02时23分]"
+        },
+        {
+          "title": "美国白宫人工智能（AI）事务主管David Sacks：行政命令寻求限制具有争议性的州政府制度。 不知道加州和纽约的地方性AI法律是否会因特朗普的命令而面临挑战。 科罗拉多州的AI政策也是有问题的。 命令为打击费力的监管创造工具。",
+          "url": "https://wallstreetcn.com/livenews/3020087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 02时23分]"
+        },
+        {
+          "title": "美国白宫人工智能（AI）事务主管David Sacks捍卫总特朗普关于AI的行政命令。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3020086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 02时23分]"
+        },
+        {
+          "title": "AI竞赛遭电力“卡脖子”？下周，英伟达将举办一场闭门峰会",
+          "url": "https://www.cls.cn/detail/2227944",
           "source": "财联社热门",
           "ranks": [
-            7
+            13,
+            12
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时17分 ~ 01时15分]"
+          "time_info": "[01时14分 ~ 02时23分]"
         },
         {
           "title": "博通电话会浇灭投资者高预期，730亿美元的AI订单被嫌少，CEO坦言别高估定制芯片",
@@ -83,23 +111,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时17分 ~ 00时18分]"
-        },
-        {
-          "title": "AI竞赛遭电力“卡脖子”？下周，英伟达将举办一场闭门峰会",
-          "url": "https://www.cls.cn/detail/2227944",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 01时15分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -109,28 +126,81 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 01时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 02时23分]"
+        },
+        {
+          "title": "甲骨文(ORCL.N)：在协议签署后，与OpenAI密切协调确定了选址及交付时间表，并达成一致意见。为履行合同义务所需的所有站点均未出现延误，所有里程碑均按计划推进。",
+          "url": "https://flash.jin10.com/detail/20251213021313071800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "AI基础设施概念股普遍下跌，报道称甲骨文与OpenAI相关的某些数据中心完工时间被延后一年。 博通跌12%，甲骨文跌6.5%，英伟达跌2.4%。 费城半导体指数跌4.56%，Astera Labs跌13%，相干公司Coherent跌10%，Rambus跌8.5%，美光科技跌7%。",
           "url": "https://wallstreetcn.com/livenews/3020076",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 02时23分]"
         },
         {
           "title": "报道称甲骨文对OpenAI的部分数据中心竣工时间推后一年，半导体指数跌超4%",
           "url": "https://wallstreetcn.com/livenews/3020070",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            19,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 02时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "马斯克旗下社交媒体平台“X”在成本高昂的转型下实现营收增长",
+          "url": "https://flash.jin10.com/detail/20251213021021499800",
+          "source": "金十数据",
+          "ranks": [
+            4
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "马斯克旗下X公司（原名推特）2025年1-9月收入超过20亿美元，同比增长大约18%。 该公司三季度净亏损5.77亿美元。 三季度EBITDA同比增长16%，季环比增长9%。",
+          "url": "https://wallstreetcn.com/livenews/3020074",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 02时23分]"
+        },
+        {
+          "title": "市场消息：马斯克旗下社交媒体平台“X”在2025年前9个月的营收预计超过20亿美元；今年迄今收入同比增长约18%。在第三季度，“X”的净亏损为5.77亿美元。",
+          "url": "https://flash.jin10.com/detail/20251213002102423800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时15分"
         }
@@ -149,8 +219,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 01时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 02时23分]"
         },
         {
           "title": "UP主解读OpenAI和谷歌的AI大战",
@@ -161,36 +231,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 01时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马斯克旗下X公司（原名推特）2025年1-9月收入超过20亿美元，同比增长大约18%。 该公司三季度净亏损5.77亿美元。 三季度EBITDA同比增长16%，季环比增长9%。",
-          "url": "https://wallstreetcn.com/livenews/3020074",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时15分"
-        },
-        {
-          "title": "市场消息：马斯克旗下社交媒体平台“X”在2025年前9个月的营收预计超过20亿美元；今年迄今收入同比增长约18%。在第三季度，“X”的净亏损为5.77亿美元。",
-          "url": "https://flash.jin10.com/detail/20251213002102423800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时15分"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 02时23分]"
         }
       ]
     },
@@ -206,19 +248,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时17分 ~ 01时15分]"
+          "appearance_count": 6,
+          "time_info": "[00时17分 ~ 02时23分]"
         },
         {
           "title": "2026年房地产政策有四个“新变化”",
           "url": "https://www.toutiao.com/trending/7582949426939825710/",
           "source": "今日头条",
           "ranks": [
-            29
+            29,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 00时18分]"
+          "appearance_count": 4,
+          "time_info": "[00时17分 ~ 02时23分]"
         }
       ]
     }
