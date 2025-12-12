@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-12T15:15:15.628498+08:00",
-  "total_titles_processed": 957,
+  "generated_at": "2025-12-12T15:41:26.134486+08:00",
+  "total_titles_processed": 1029,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "据韩联社：摩根大通资产管理公司策略师Kerry Craig驳斥人工智能泡沫担忧，对韩国KOSPI指数表示乐观。",
@@ -68,6 +68,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时50分 ~ 13时13分]"
+        },
+        {
+          "title": "博通股价在法兰克福市场下跌4.7%，此前公司公布财报并称利润率将受人工智能业务影响而下降。",
+          "url": "https://flash.jin10.com/detail/20251212150710366800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "特朗普：正在签署行政命令，阻止各州执行自己的人工智能法规",
@@ -143,8 +154,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时50分 ~ 15时15分]"
+          "appearance_count": 10,
+          "time_info": "[11时50分 ~ 15时41分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -154,8 +165,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时24分 ~ 15时15分]"
+          "appearance_count": 8,
+          "time_info": "[12时24分 ~ 15时41分]"
         },
         {
           "title": "全面解析ChatGPT5.2",
@@ -217,7 +228,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报",
@@ -228,8 +239,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时46分 ~ 15时15分]"
+          "appearance_count": 11,
+          "time_info": "[10时46分 ~ 15时41分]"
         },
         {
           "title": "软银集团股价上涨6.4%。稍早消息称其正考察包括数据中心运营商Switch在内的潜在收购。此外，OpenAI发布GPT-5.2迎战Gemini，号称智能体编码最强，赶超人类专家，Altman料1月解除红色警报。",
@@ -252,6 +263,48 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：宣布与英国国家量子计算中心开展全新合作。",
+          "url": "https://flash.jin10.com/detail/20251212150720006800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "每天只睡6个小时的马斯克，经常在关于AI的噩梦中惊醒",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32153532",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[08时45分 ~ 14时16分]"
+        },
+        {
+          "title": "《时代》周刊年度人物授予一群AI缔造者：黄仁勋、马斯克等“同坐高空”",
+          "url": "https://www.cls.cn/detail/2227456",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         }
       ]
     },
@@ -270,8 +323,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时24分 ~ 15时15分]"
+          "appearance_count": 8,
+          "time_info": "[12时24分 ~ 15时41分]"
         },
         {
           "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
@@ -283,26 +336,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "每天只睡6个小时的马斯克，经常在关于AI的噩梦中惊醒",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32153532",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18,
-            19,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时45分 ~ 14时16分]"
         }
       ]
     },
