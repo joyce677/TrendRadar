@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T12:24:49.158138+08:00",
-  "total_titles_processed": 664,
+  "generated_at": "2025-12-12T12:50:57.354114+08:00",
+  "total_titles_processed": 717,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,25 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时45分 ~ 12时24分]"
+          "appearance_count": 6,
+          "time_info": "[08时45分 ~ 12时50分]"
+        },
+        {
+          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
+          "url": "https://www.cls.cn/detail/2227268",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时50分 ~ 12时50分]"
         },
         {
           "title": "全面解析ChatGPT5.2",
@@ -32,16 +46,15 @@
           "time_info": "[10时46分 ~ 11时51分]"
         },
         {
-          "title": "美联储重新任命11位地区联储主席 OpenAI发布更先进模型GPT-5.2 | 环球市场",
-          "url": "https://www.cls.cn/detail/2227268",
-          "source": "财联社热门",
+          "title": "ChatGPT5.2有哪些新升级",
+          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
+          "source": "bilibili 热搜",
           "ranks": [
-            13,
-            12
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时50分 ~ 12时24分]"
+          "appearance_count": 2,
+          "time_info": "[12时24分 ~ 12时50分]"
         },
         {
           "title": "GPT-5.2 正式发布，OpenAI 称其为「最强专业知识工作大模型」，有哪些技术亮点？",
@@ -64,17 +77,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时46分"
-        },
-        {
-          "title": "ChatGPT5.2有哪些新升级",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT5.2%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E5%8D%87%E7%BA%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时24分"
         },
         {
           "title": "OpenAI发布GPT最新升级版本",
@@ -102,7 +104,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "山东：到2027年，全省人工智能核心产业规模力争突破2000亿元",
@@ -110,11 +112,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            14
+            14,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时51分 ~ 12时24分]"
+          "appearance_count": 3,
+          "time_info": "[11时51分 ~ 12时50分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-12）",
+          "url": "https://flash.jin10.com/detail/20251212115755635800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         },
         {
           "title": "特朗普：正在签署行政命令，阻止各州执行自己的人工智能法规",
@@ -182,11 +196,12 @@
           "url": "https://wallstreetcn.com/articles/3761213",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时46分 ~ 12时24分]"
+          "appearance_count": 5,
+          "time_info": "[10时46分 ~ 12时50分]"
         },
         {
           "title": "GPT-5.2提前泄露？今夜，OpenAI要拿Gemini 3祭天！",
@@ -206,6 +221,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "美国AIDC热推高燃气轮机需求 中美概念股“同此凉热”",
+          "url": "https://www.cls.cn/detail/2227459",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时24分 ~ 12时50分]"
+        },
+        {
           "title": "如何评价 DeepMind CEO 看中国 AI「毫无创新，但跟进速度可怕」的观点？",
           "url": "https://www.zhihu.com/question/1982385153180394991",
           "source": "知乎",
@@ -215,17 +242,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
-        },
-        {
-          "title": "美国AIDC热推高燃气轮机需求 中美概念股“同此凉热”",
-          "url": "https://www.cls.cn/detail/2227459",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时24分"
         }
       ]
     },
@@ -243,8 +259,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时45分 ~ 12时24分]"
+          "appearance_count": 6,
+          "time_info": "[08时45分 ~ 12时50分]"
         }
       ]
     },
@@ -260,8 +276,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时46分 ~ 12时24分]"
+          "appearance_count": 5,
+          "time_info": "[10时46分 ~ 12时50分]"
         }
       ]
     },
