@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-13T08:43:12.933401+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-13T10:27:23.706873+08:00",
+  "total_titles_processed": 437,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2228537",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时42分 ~ 08时43分]"
+          "appearance_count": 3,
+          "time_info": "[08时42分 ~ 10时27分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -26,8 +27,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时42分 ~ 08时43分]"
+          "appearance_count": 3,
+          "time_info": "[08时42分 ~ 10时27分]"
         },
         {
           "title": "网络状况监测网站DownDetector：用户报告显示，OpenAI在美国地区出现故障。",
@@ -36,7 +37,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
         }
@@ -44,7 +45,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "UP主解读OpenAI和谷歌的AI大战",
@@ -54,8 +55,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时42分 ~ 08时43分]"
+          "appearance_count": 3,
+          "time_info": "[08时42分 ~ 10时27分]"
+        },
+        {
+          "title": "谷歌推出AI语音同声传译功能 不知道对方是哪国人也能用",
+          "url": "https://www.cls.cn/detail/2228546",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         }
       ]
     },
@@ -68,11 +80,12 @@
           "url": "https://flash.jin10.com/detail/20251213034901959800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时43分 ~ 10时27分]"
         }
       ]
     },
@@ -87,9 +100,26 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
+          "url": "https://wallstreetcn.com/articles/3761315",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时27分"
         }
       ]
     }
