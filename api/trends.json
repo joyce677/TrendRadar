@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T21:33:11.747711+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2025-12-14T22:25:26.448812+08:00",
+  "total_titles_processed": 1379,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
@@ -112,6 +112,17 @@
           "time_info": "[00时32分 ~ 10时20分]"
         },
         {
+          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时52分 ~ 22时25分]"
+        },
+        {
           "title": "美三名人员在叙利亚丧生 特朗普表示将采取报复行动",
           "url": "https://flash.jin10.com/detail/20251214100231761800",
           "source": "金十数据",
@@ -126,15 +137,17 @@
           "time_info": "[10时20分 ~ 16时34分]"
         },
         {
-          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
-          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
-          "source": "凤凰网",
+          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
+          "url": "https://www.cls.cn/detail/2228813",
+          "source": "财联社热门",
           "ranks": [
-            5
+            10,
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时52分 ~ 21时33分]"
+          "appearance_count": 7,
+          "time_info": "[12时03分 ~ 22时25分]"
         },
         {
           "title": "3名美方人员遇袭身亡，特朗普：我们会报复",
@@ -170,19 +183,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时28分 ~ 07时25分]"
-        },
-        {
-          "title": "3名美方人员遇袭死亡，特朗普誓言报复",
-          "url": "https://www.cls.cn/detail/2228813",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时03分 ~ 17时27分]"
         },
         {
           "title": "详解特朗普金卡白金卡签证",
@@ -309,6 +309,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时20分"
+        },
+        {
+          "title": "据AXIOS网站：乌克兰总统泽连斯基将在柏林会见美国中东问题特使威特科夫及特朗普女婿库什纳。之后他将分别会见来自法国、德国和英国的国家安全顾问。",
+          "url": "https://flash.jin10.com/detail/20251214211648647800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时25分"
         },
         {
           "title": "美士兵在叙遇袭身亡 特朗普：将报复",
@@ -541,11 +552,12 @@
           "url": "https://wallstreetcn.com/articles/3761367",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时32分 ~ 21时33分]"
+          "appearance_count": 3,
+          "time_info": "[21时32分 ~ 22时25分]"
         }
       ]
     },
@@ -564,8 +576,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时28分 ~ 21时33分]"
+          "appearance_count": 11,
+          "time_info": "[13时28分 ~ 22时25分]"
         }
       ]
     }
