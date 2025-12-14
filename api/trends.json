@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T12:32:36.661556+08:00",
-  "total_titles_processed": 753,
+  "generated_at": "2025-12-14T13:16:00.996775+08:00",
+  "total_titles_processed": 804,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股收盘：AI交易连遭打击 三大指数集体收跌 博通重挫逾11%",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时17分 ~ 12时32分]"
+          "appearance_count": 17,
+          "time_info": "[00时17分 ~ 13时16分]"
         },
         {
           "title": "“中国可能都做不到”！AI泡沫充斥得州：超220GW大项目申请到2030年入电网",
@@ -71,8 +71,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时17分 ~ 12时32分]"
+          "appearance_count": 17,
+          "time_info": "[00时17分 ~ 13时16分]"
         },
         {
           "title": "我的AI员工也太能干了",
@@ -84,11 +84,12 @@
             8,
             7,
             17,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时12分 ~ 12时32分]"
+          "appearance_count": 16,
+          "time_info": "[01时12分 ~ 13时16分]"
         },
         {
           "title": "上海浦东：针对新注册AI一人创业公司，提供最高30万元的免费算力",
@@ -114,6 +115,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时12分 ~ 11时24分]"
+        },
+        {
+          "title": "付鹏：前瞻2026市场核心主线——关注美债利率曲线与AI应用落地的三种可能【付鹏说13】",
+          "url": "https://wallstreetcn.com/premium/articles/3761351?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
         },
         {
           "title": "宋雪涛2026美股展望：AI泡沫的内部熔点与外部拐点",
@@ -155,8 +167,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 12时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时17分 ~ 13时16分]"
         },
         {
           "title": "AI交易再遭重挫！甲骨文据悉将部分OpenAI数据中心项目推迟至2028年",
@@ -178,32 +190,14 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时32分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "XREAL携手谷歌推出全球首款Android XR智能眼镜",
-          "url": "https://wallstreetcn.com/livenews/3020321",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 13时16分]"
         }
       ]
     },
     {
       "keyword_group": "房价 楼市 房地产",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "稳楼市去库存 山东打响“第一枪”",
@@ -221,6 +215,36 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时17分 ~ 07时14分]"
+        },
+        {
+          "title": "香港住宅成交量创四年来新高，2026 年楼价可能上涨 5% ，对内地楼市有何启示？",
+          "url": "https://www.zhihu.com/question/1982400772273612404",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时15分 ~ 13时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "XREAL携手谷歌推出全球首款Android XR智能眼镜",
+          "url": "https://wallstreetcn.com/livenews/3020321",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时24分 ~ 13时16分]"
         }
       ]
     }
