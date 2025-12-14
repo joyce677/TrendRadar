@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-12-14T12:27:44.200781+08:00",
-  "total_titles_processed": 568,
+  "generated_at": "2025-12-14T12:52:53.996939+08:00",
+  "total_titles_processed": 597,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "广东人工智能核心产业规模达2200亿元",
           "url": "https://wallstreetcn.com/livenews/3020340",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时27分 ~ 12时52分]"
         },
         {
           "title": "2025年人工智能核心产业规模有望破万亿元",
@@ -36,11 +37,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             9,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[11时55分 ~ 12时52分]"
+        },
+        {
+          "title": "姚期智院士：人工智能要从模仿走向推理，从局部技能到全身协同",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32172560",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时52分"
         }
       ]
     },
@@ -56,8 +69,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 12时27分]"
+          "appearance_count": 3,
+          "time_info": "[11时55分 ~ 12时52分]"
         },
         {
           "title": "迪士尼与OpenAI合作施压日本内容产业，本土企业面临AI转型抉择",
@@ -69,8 +82,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时49分 ~ 12时27分]"
+          "appearance_count": 5,
+          "time_info": "[08时49分 ~ 12时52分]"
         }
       ]
     },
@@ -85,11 +98,12 @@
           "ranks": [
             1,
             14,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时52分 ~ 12时27分]"
+          "appearance_count": 4,
+          "time_info": "[10时52分 ~ 12时52分]"
         }
       ]
     },
