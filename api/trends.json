@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-14T19:22:23.508662+08:00",
-  "total_titles_processed": 1158,
+  "generated_at": "2025-12-14T20:52:37.881441+08:00",
+  "total_titles_processed": 1279,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
         {
           "title": "泰外长：特朗普的言论令人失望，伤害了泰国人民的感情",
@@ -207,6 +207,17 @@
           "time_info": "[00时32分 ~ 04时28分]"
         },
         {
+          "title": "3名美国人在叙遇袭身亡，特朗普：将严厉报复",
+          "url": "https://news.ifeng.com/c/8p51GzC9IVg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时52分"
+        },
+        {
           "title": "特朗普对其经济政策能否助力中期选举存疑",
           "url": "https://flash.jin10.com/detail/20251214101831272800",
           "source": "金十数据",
@@ -328,7 +339,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时22分"
         },
@@ -521,11 +532,12 @@
           "ranks": [
             9,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时28分 ~ 19时22分]"
+          "appearance_count": 8,
+          "time_info": "[13时28分 ~ 20时52分]"
         }
       ]
     }
