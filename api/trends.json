@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T04:18:00.388525+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2025-12-16T05:15:06.979980+08:00",
+  "total_titles_processed": 606,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 04时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 05时15分]"
         },
         {
           "title": "【焦点复盘】金融权重护盘提振有限，AI硬件股现深幅调整，商业航天概念持续站上风口",
@@ -32,6 +33,18 @@
           "time_info": "[00时21分 ~ 01时21分]"
         },
         {
+          "title": "美国亚特兰大联储宣布，开始寻找新的联储主席。 遴选委员会将由董事会主席Gregory Haile牵头。 此前报道称，该地区联储的现任主席Raphael Bostic将于2026年2月底离职。",
+          "url": "https://wallstreetcn.com/livenews/3021142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时55分 ~ 05时15分]"
+        },
+        {
           "title": "美国纽约联储主席威廉姆斯：AI估值偏高，但有一个真实的推动因素。",
           "url": "https://wallstreetcn.com/livenews/3021124",
           "source": "华尔街见闻-快讯",
@@ -42,17 +55,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时23分 ~ 04时18分]"
-        },
-        {
-          "title": "美国亚特兰大联储宣布，开始寻找新的联储主席。 遴选委员会将由董事会主席Gregory Haile牵头。 此前报道称，该地区联储的现任主席Raphael Bostic将于2026年2月底离职。",
-          "url": "https://wallstreetcn.com/livenews/3021142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 04时18分]"
         },
         {
           "title": "化肥概念股美股早盘下跌，特朗普政府上周末撤销对白俄罗斯钾肥的制裁，美国财政部周一对该国钾肥公司发放通用许可证。 Nutrien跌4.1%, Mosaic跌3.1%，Intrepid Potash跌1.0%，FMC跌5.5%, CF Industries Holdings跌2.0%。",
@@ -112,6 +114,57 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3021118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "OpenAI：从谷歌挖来Albert Lee。",
+          "url": "https://flash.jin10.com/detail/20251216015417172800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "OpenAI聘请谷歌高管Alberta Lee，负责主导并购业务（M&A）。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3021118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 04时18分]"
+        },
+        {
+          "title": "Zillow Group一度下跌13%，创最近十个月最差盘中表现，CoStar Group跌9.1%，创2022年7月份以来盘中新低。 谷歌公司测试新版房地产广告模式。",
+          "url": "https://wallstreetcn.com/livenews/3021137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时15分"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克",
       "match_count": 4,
       "titles": [
@@ -120,11 +173,12 @@
           "url": "https://wallstreetcn.com/livenews/3021144",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 04时18分]"
+          "appearance_count": 3,
+          "time_info": "[03时55分 ~ 05时15分]"
         },
         {
           "title": "真无人驾驶来了！马斯克：特斯拉启动无安全员Robotaxi路测",
@@ -165,46 +219,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3021118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时21分"
-        },
-        {
-          "title": "OpenAI：从谷歌挖来Albert Lee。",
-          "url": "https://flash.jin10.com/detail/20251216015417172800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "OpenAI聘请谷歌高管Alberta Lee，负责主导并购业务（M&A）。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3021118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时23分 ~ 04时18分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "房价 楼市 房地产",
       "match_count": 3,
       "titles": [
@@ -216,8 +230,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 04时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 05时15分]"
         },
         {
           "title": "中国1—11月全国房地产开发投资同比下降15.9%，新建商品房销售面积同比下降7.8%",
@@ -228,8 +242,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 04时18分]"
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 05时15分]"
         },
         {
           "title": "新西兰房地产协会：新西兰经季节调整后的房屋中位数价格11月环比上涨1.2%，同比上涨2.3%。",
@@ -238,7 +252,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时18分"
         }
