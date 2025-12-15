@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T06:15:22.540273+08:00",
-  "total_titles_processed": 656,
+  "generated_at": "2025-12-16T07:29:16.712437+08:00",
+  "total_titles_processed": 725,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "高盛预想四种情景警告：AI数据中心热潮很可能悲剧收场！",
@@ -17,8 +17,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 06时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 07时29分]"
+        },
+        {
+          "title": "美股收盘：AI概念股继续承压 三大指数集体收跌 特斯拉涨超3%",
+          "url": "https://www.cls.cn/detail/2230375",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 07时29分]"
         },
         {
           "title": "【焦点复盘】金融权重护盘提振有限，AI硬件股现深幅调整，商业航天概念持续站上风口",
@@ -114,6 +125,71 @@
       ]
     },
     {
+      "keyword_group": "马斯克",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "马斯克身家现已达6000亿美元。（福布斯）",
+          "url": "https://wallstreetcn.com/livenews/3021144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时55分 ~ 05时15分]"
+        },
+        {
+          "title": "真无人驾驶来了！马斯克：特斯拉启动无安全员Robotaxi路测",
+          "url": "https://www.cls.cn/detail/2229889",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时21分 ~ 01时21分]"
+        },
+        {
+          "title": "福布斯：马斯克净资产突破6700亿美元 距离万亿富翁比失去首富头衔更近",
+          "url": "https://flash.jin10.com/detail/20251216031801479800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 04时18分]"
+        },
+        {
+          "title": "据福布斯：马斯克身家现已达6000亿美元。",
+          "url": "https://flash.jin10.com/detail/20251216030449591800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 04时18分]"
+        },
+        {
+          "title": "马斯克身家跃升至6770亿美元",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%BA%AB%E5%AE%B6%E8%B7%83%E5%8D%87%E8%87%B36770%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 07时29分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
@@ -165,60 +241,6 @@
       ]
     },
     {
-      "keyword_group": "马斯克",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "马斯克身家现已达6000亿美元。（福布斯）",
-          "url": "https://wallstreetcn.com/livenews/3021144",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时55分 ~ 05时15分]"
-        },
-        {
-          "title": "真无人驾驶来了！马斯克：特斯拉启动无安全员Robotaxi路测",
-          "url": "https://www.cls.cn/detail/2229889",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 01时21分]"
-        },
-        {
-          "title": "福布斯：马斯克净资产突破6700亿美元 距离万亿富翁比失去首富头衔更近",
-          "url": "https://flash.jin10.com/detail/20251216031801479800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 04时18分]"
-        },
-        {
-          "title": "据福布斯：马斯克身家现已达6000亿美元。",
-          "url": "https://flash.jin10.com/detail/20251216030449591800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时55分 ~ 04时18分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "房价 楼市 房地产",
       "match_count": 3,
       "titles": [
@@ -230,8 +252,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 06时15分]"
+          "appearance_count": 14,
+          "time_info": "[00时21分 ~ 07时29分]"
         },
         {
           "title": "中国1—11月全国房地产开发投资同比下降15.9%，新建商品房销售面积同比下降7.8%",
