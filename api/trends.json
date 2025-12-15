@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T03:55:53.849762+08:00",
-  "total_titles_processed": 525,
+  "generated_at": "2025-12-16T04:18:00.388525+08:00",
+  "total_titles_processed": 546,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 03时55分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 04时18分]"
         },
         {
           "title": "【焦点复盘】金融权重护盘提振有限，AI硬件股现深幅调整，商业航天概念持续站上风口",
@@ -40,8 +40,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 03时55分]"
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 04时18分]"
         },
         {
           "title": "美国亚特兰大联储宣布，开始寻找新的联储主席。 遴选委员会将由董事会主席Gregory Haile牵头。 此前报道称，该地区联储的现任主席Raphael Bostic将于2026年2月底离职。",
@@ -50,9 +50,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 04时18分]"
         },
         {
           "title": "化肥概念股美股早盘下跌，特朗普政府上周末撤销对白俄罗斯钾肥的制裁，美国财政部周一对该国钾肥公司发放通用许可证。 Nutrien跌4.1%, Mosaic跌3.1%，Intrepid Potash跌1.0%，FMC跌5.5%, CF Industries Holdings跌2.0%。",
@@ -122,9 +122,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 04时18分]"
         },
         {
           "title": "真无人驾驶来了！马斯克：特斯拉启动无安全员Robotaxi路测",
@@ -143,22 +143,24 @@
           "url": "https://flash.jin10.com/detail/20251216031801479800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 04时18分]"
         },
         {
           "title": "据福布斯：马斯克身家现已达6000亿美元。",
           "url": "https://flash.jin10.com/detail/20251216030449591800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时55分 ~ 04时18分]"
         }
       ]
     },
@@ -197,14 +199,14 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 03时55分]"
+          "appearance_count": 3,
+          "time_info": "[02时23分 ~ 04时18分]"
         }
       ]
     },
     {
       "keyword_group": "房价 楼市 房地产",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "11月70城房价：一二三线城市房价环比总体下降、同比降幅扩大",
@@ -214,8 +216,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 03时55分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 04时18分]"
         },
         {
           "title": "中国1—11月全国房地产开发投资同比下降15.9%，新建商品房销售面积同比下降7.8%",
@@ -226,8 +228,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时21分 ~ 03时55分]"
+          "appearance_count": 9,
+          "time_info": "[00时21分 ~ 04时18分]"
+        },
+        {
+          "title": "新西兰房地产协会：新西兰经季节调整后的房屋中位数价格11月环比上涨1.2%，同比上涨2.3%。",
+          "url": "https://flash.jin10.com/detail/20251216040138144800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         }
       ]
     }
