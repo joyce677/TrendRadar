@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T01:21:01.826598+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2025-12-16T02:23:10.739134+08:00",
+  "total_titles_processed": 466,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "【焦点复盘】金融权重护盘提振有限，AI硬件股现深幅调整，商业航天概念持续站上风口",
@@ -24,11 +24,23 @@
           "url": "https://www.cls.cn/detail/2230016",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 01时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 02时23分]"
+        },
+        {
+          "title": "美国纽约联储主席威廉姆斯：AI估值偏高，但有一个真实的推动因素。",
+          "url": "https://wallstreetcn.com/livenews/3021124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         },
         {
           "title": "化肥概念股美股早盘下跌，特朗普政府上周末撤销对白俄罗斯钾肥的制裁，美国财政部周一对该国钾肥公司发放通用许可证。 Nutrien跌4.1%, Mosaic跌3.1%，Intrepid Potash跌1.0%，FMC跌5.5%, CF Industries Holdings跌2.0%。",
@@ -59,7 +71,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -70,7 +82,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
         },
@@ -81,9 +93,48 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3021118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时21分"
+        },
+        {
+          "title": "OpenAI：从谷歌挖来Albert Lee。",
+          "url": "https://flash.jin10.com/detail/20251216015417172800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "OpenAI聘请谷歌高管Alberta Lee，负责主导并购业务（M&A）。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3021118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时23分"
         }
       ]
     },
@@ -99,8 +150,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 01时21分]"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 02时23分]"
         },
         {
           "title": "中国1—11月全国房地产开发投资同比下降15.9%，新建商品房销售面积同比下降7.8%",
@@ -111,25 +162,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时21分 ~ 01时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI聘请谷歌高管，负责主导并购业务。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3021118",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时21分"
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 02时23分]"
         }
       ]
     },
