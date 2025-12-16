@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-16T13:44:30.001040+08:00",
-  "total_titles_processed": 727,
+  "generated_at": "2025-12-16T14:17:07.280689+08:00",
+  "total_titles_processed": 784,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时58分 ~ 13时44分]"
+          "appearance_count": 13,
+          "time_info": "[08时58分 ~ 14时17分]"
         },
         {
           "title": "欧洲多国承诺为乌提供安全保障 马斯克身家跃升至6770亿美元 | 环球市场",
@@ -31,8 +31,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时46分 ~ 13时44分]"
+          "appearance_count": 11,
+          "time_info": "[10时46分 ~ 14时17分]"
         },
         {
           "title": "马斯克身家跃升至6770亿美元",
@@ -49,6 +49,36 @@
       ]
     },
     {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中国信通院建设的人工智能产品安全漏洞专业库（CAIVD）上线运行",
+          "url": "https://wallstreetcn.com/livenews/3021455",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-16）",
+          "url": "https://flash.jin10.com/detail/20251216120200843800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时26分 ~ 13时44分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI",
       "match_count": 2,
       "titles": [
@@ -59,11 +89,12 @@
           "ranks": [
             11,
             7,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时52分 ~ 13时44分]"
+          "appearance_count": 9,
+          "time_info": "[11时52分 ~ 14时17分]"
         },
         {
           "title": "大摩重磅机器人年鉴（一）：AI走向实体化，机器人迎来寒武纪大爆发，中国领先优势明显",
@@ -96,6 +127,23 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“俄版谷歌”，正帮中国商人大赚",
+          "url": "https://news.ifeng.com/c/8p87L7ByRCW",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时17分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -109,25 +157,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-12-16）",
-          "url": "https://flash.jin10.com/detail/20251216120200843800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时26分 ~ 13时44分]"
         }
       ]
     }
