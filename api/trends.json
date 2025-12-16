@@ -1,33 +1,46 @@
 {
-  "generated_at": "2025-12-16T08:59:03.875602+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2025-12-16T10:47:03.865729+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "SpaceX估值翻倍 马斯克身家跃升至6770亿美元",
           "url": "https://www.cls.cn/detail/2230363",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时58分 ~ 08时59分]"
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 10时47分]"
         },
         {
           "title": "马斯克身家跃升至6770亿美元",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%BA%AB%E5%AE%B6%E8%B7%83%E5%8D%87%E8%87%B36770%E4%BA%BF%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时58分 ~ 10时47分]"
+        },
+        {
+          "title": "欧洲多国承诺为乌提供安全保障 马斯克身家跃升至6770亿美元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2230388",
+          "source": "财联社热门",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时58分 ~ 08时59分]"
+          "time_info": "[10时46分 ~ 10时47分]"
         }
       ]
     },
@@ -42,9 +55,26 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "大摩重磅机器人年鉴（一）：AI走向实体化，机器人迎来寒武纪大爆发，中国领先优势明显",
+          "url": "https://wallstreetcn.com/articles/3761403",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时46分 ~ 10时47分]"
         }
       ]
     }
