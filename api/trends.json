@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-16T19:02:56.706980+08:00",
-  "total_titles_processed": 1368,
+  "generated_at": "2025-12-16T19:39:08.959274+08:00",
+  "total_titles_processed": 1422,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "SpaceX估值翻倍 马斯克身家跃升至6770亿美元",
@@ -30,8 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[15时15分 ~ 19时02分]"
+          "appearance_count": 12,
+          "time_info": "[15时15分 ~ 19时39分]"
         },
         {
           "title": "欧洲多国承诺为乌提供安全保障 马斯克身家跃升至6770亿美元 | 环球市场",
@@ -64,11 +64,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             15,
-            23
+            23,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时47分 ~ 19时02分]"
+          "appearance_count": 3,
+          "time_info": "[18时47分 ~ 19时39分]"
         },
         {
           "title": "马斯克身家跃升至6770亿美元",
@@ -80,12 +81,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时15分 ~ 17时16分]"
+        },
+        {
+          "title": "美媒：马斯克将在2026年中期选举资助共和党",
+          "url": "https://flash.jin10.com/detail/20251216184922086800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "经合组织：人工智能投资将持续增长并提振世界经济",
@@ -122,6 +134,56 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时17分 ~ 14时54分]"
+        },
+        {
+          "title": "美国银行全球基金经理调查：人工智能泡沫仍是投资者面临的最大尾部风险，其次是债券收益率无序上涨。",
+          "url": "https://flash.jin10.com/detail/20251216190749727800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "博通三天重挫17.7%，“谷歌链”核心遭遇2020年来最惨暴击",
+          "url": "https://wallstreetcn.com/articles/3761453",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时15分 ~ 19时02分]"
+        },
+        {
+          "title": "“俄版谷歌”，正帮中国商人大赚",
+          "url": "https://news.ifeng.com/c/8p87L7ByRCW",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时16分 ~ 16时15分]"
+        },
+        {
+          "title": "市场消息：道达尔能源与谷歌(GOOG.O)签署新的可再生能源协议，为谷歌数据中心供电。",
+          "url": "https://flash.jin10.com/detail/20251216185536926800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时39分"
         }
       ]
     },
@@ -154,34 +216,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "博通三天重挫17.7%，“谷歌链”核心遭遇2020年来最惨暴击",
-          "url": "https://wallstreetcn.com/articles/3761453",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时15分 ~ 19时02分]"
-        },
-        {
-          "title": "“俄版谷歌”，正帮中国商人大赚",
-          "url": "https://news.ifeng.com/c/8p87L7ByRCW",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时16分 ~ 16时15分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI",
       "match_count": 2,
       "titles": [
@@ -196,11 +230,12 @@
             8,
             6,
             4,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[11时52分 ~ 19时02分]"
+          "appearance_count": 22,
+          "time_info": "[11时52分 ~ 19时39分]"
         },
         {
           "title": "大摩重磅机器人年鉴（一）：AI走向实体化，机器人迎来寒武纪大爆发，中国领先优势明显",
