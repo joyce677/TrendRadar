@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T19:39:30.908856+08:00",
-  "total_titles_processed": 1536,
+  "generated_at": "2025-12-17T20:19:20.032739+08:00",
+  "total_titles_processed": 1605,
   "failed_sources": [],
   "trends": [
     {
@@ -78,6 +78,18 @@
           "time_info": "[17时46分 ~ 18时02分]"
         },
         {
+          "title": "OpenAI科学家姚顺雨任腾讯首席AI科学家。",
+          "url": "https://wallstreetcn.com/livenews/3022385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时39分 ~ 20时19分]"
+        },
+        {
           "title": "据悉OpenAI商谈从亚马逊融资100亿美元",
           "url": "https://flash.jin10.com/detail/20251217110034700800",
           "source": "金十数据",
@@ -87,23 +99,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
-        },
-        {
-          "title": "OpenAI科学家姚顺雨任腾讯首席AI科学家。",
-          "url": "https://wallstreetcn.com/livenews/3022385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
@@ -111,11 +112,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时50分 ~ 19时39分]"
+          "appearance_count": 18,
+          "time_info": "[12时50分 ~ 20时19分]"
         },
         {
           "title": "马斯克身家6770亿美元打破人类纪录",
@@ -166,13 +168,24 @@
           "time_info": "08时42分"
         },
         {
+          "title": "白宫幕僚长：马斯克是天才但行为古怪",
+          "url": "https://www.toutiao.com/trending/7584772689806495275/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
           "title": "马斯克说少掺和政治却又大把掏钱",
           "url": "https://www.toutiao.com/trending/7584009805280198675/",
           "source": "今日头条",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时39分"
         },
@@ -191,8 +204,19 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "Hut 8盘前大涨，与Anthropic达成70亿美元人工智能基础设施交易",
+          "url": "https://wallstreetcn.com/livenews/3022402",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
         {
           "title": "新加坡金管局调查：经济学家指出地缘政治和人工智能泡沫是新加坡经济的潜在风险。科技周期、全球增长和贸易紧张局势缓和可能是潜在的顺风。",
           "url": "https://flash.jin10.com/detail/20251217120220101800",
@@ -265,6 +289,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI和谷歌通过免费赠品争夺印度用户和训练数据",
+          "url": "https://wallstreetcn.com/livenews/3022400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
+        },
+        {
+          "title": "如何评价谷歌发布的全新机器学习范式嵌套学习 (Nested Learning)？",
+          "url": "https://www.zhihu.com/question/1970631480595190298",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时19分"
         }
       ]
     },
