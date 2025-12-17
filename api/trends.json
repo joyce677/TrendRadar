@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T21:10:51.070871+08:00",
-  "total_titles_processed": 1682,
+  "generated_at": "2025-12-17T21:51:16.823266+08:00",
+  "total_titles_processed": 1774,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "据The Information：OpenAI正与亚马逊谈判，拟从亚马逊融资至少100亿美元，并使用亚马逊的人工智能芯片。",
@@ -99,12 +99,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
+        },
+        {
+          "title": "如何评价 OpenAI 刚推出的 GPT Image 1.5，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1984534689147531765",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "市场消息：人工智能芯片初创公司Mythic融资1.25亿美元，以挑战英伟达(NVDA.O)。",
@@ -113,7 +124,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时10分"
         },
@@ -201,6 +212,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
+        },
+        {
+          "title": "美联储理事沃勒：就业市场非常疲软，目前的就业增长情况不佳。 美国就业增长接近于零。 美联储的降息举措对就业市场有所帮助。 2026年经济形势可能会更好，希望这能提振就业市场。 通胀仍高于目标，但预计未来几个月会回落。 通胀预期保持稳定。 目前还不清楚人工智能将对就业市场产生什么影响。",
+          "url": "https://wallstreetcn.com/livenews/3022436",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时51分"
         }
       ]
     },
@@ -215,11 +237,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[12时50分 ~ 21时10分]"
+          "appearance_count": 20,
+          "time_info": "[12时50分 ~ 21时51分]"
         },
         {
           "title": "马斯克身家6770亿美元打破人类纪录",
@@ -264,11 +287,12 @@
           "source": "今日头条",
           "ranks": [
             16,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时19分 ~ 21时10分]"
+          "appearance_count": 3,
+          "time_info": "[20时19分 ~ 21时51分]"
         },
         {
           "title": "地球上造小型核反应堆“愚蠢至极”，马斯克：太阳才是“免费终极核反应堆”",
@@ -327,11 +351,12 @@
           "source": "知乎",
           "ranks": [
             11,
-            7
+            7,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时19分 ~ 21时10分]"
+          "appearance_count": 3,
+          "time_info": "[20时19分 ~ 21时51分]"
         }
       ]
     },
