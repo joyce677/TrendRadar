@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T20:31:31.270339+08:00",
-  "total_titles_processed": 1862,
+  "generated_at": "2025-12-17T21:31:16.350808+08:00",
+  "total_titles_processed": 1959,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "本轮AI股大崩盘--一场暴雨引发的全球股市惨案",
@@ -144,6 +144,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时22分 ~ 03时16分]"
+        },
+        {
+          "title": "小米开源自研AI大模型，罗福莉小米首秀：下一代智能体系统是理解世界并共存的“智能体”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32194390",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时30分 ~ 21时31分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普没有比Wiles更棒或更忠诚的顾问了。 有关Vanity Fair（名利场）的大部分内容失实。",
@@ -378,11 +389,12 @@
           "ranks": [
             10,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时18分 ~ 20时31分]"
+          "appearance_count": 13,
+          "time_info": "[13时18分 ~ 21时31分]"
         },
         {
           "title": "地球上造小型核反应堆“愚蠢至极”，马斯克：太阳才是“免费终极核反应堆”",
@@ -420,6 +432,18 @@
           "time_info": "[00时20分 ~ 01时19分]"
         },
         {
+          "title": "白宫幕僚长：马斯克是天才但行为古怪",
+          "url": "https://www.toutiao.com/trending/7584772689806495275/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 21时31分]"
+        },
+        {
           "title": "马斯克又要给特朗普花钱了",
           "url": "https://www.toutiao.com/trending/7584667287097986610/",
           "source": "今日头条",
@@ -441,17 +465,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时22分 ~ 17时23分]"
-        },
-        {
-          "title": "白宫幕僚长：马斯克是天才但行为古怪",
-          "url": "https://www.toutiao.com/trending/7584772689806495275/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
         },
         {
           "title": "白宫幕僚长发表惊人言论：马斯克是“吸毒者”，副总统是“阴谋论者”",
@@ -541,11 +554,12 @@
           "url": "https://www.zhihu.com/question/1970631480595190298",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时31分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时31分 ~ 21时31分]"
         },
         {
           "title": "OpenAI和谷歌通过免费赠品争夺印度用户和训练数据",
@@ -554,7 +568,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时31分"
         }
