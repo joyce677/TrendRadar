@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-17T22:12:04.408135+08:00",
-  "total_titles_processed": 1797,
+  "generated_at": "2025-12-17T22:46:47.375459+08:00",
+  "total_titles_processed": 1869,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "据The Information：OpenAI正与亚马逊谈判，拟从亚马逊融资至少100亿美元，并使用亚马逊的人工智能芯片。",
@@ -42,6 +42,19 @@
           "time_info": "[10时31分 ~ 11时43分]"
         },
         {
+          "title": "如何评价 OpenAI 刚推出的 GPT Image 1.5，有哪些亮点？",
+          "url": "https://www.zhihu.com/question/1984534689147531765",
+          "source": "知乎",
+          "ranks": [
+            14,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时51分 ~ 22时46分]"
+        },
+        {
           "title": "美股盘前，亚马逊涨超1%，报道称公司正洽谈投资OpenAI超100亿美元，并提供自研芯片；美光科技涨超2%，公司将于今日盘后发布最新季度财报；奈飞涨超1%，华纳兄弟据称本周将拒绝派拉蒙收购要约。",
           "url": "https://wallstreetcn.com/livenews/3022308",
           "source": "华尔街见闻-快讯",
@@ -53,18 +66,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时46分 ~ 18时46分]"
-        },
-        {
-          "title": "如何评价 OpenAI 刚推出的 GPT Image 1.5，有哪些亮点？",
-          "url": "https://www.zhihu.com/question/1984534689147531765",
-          "source": "知乎",
-          "ranks": [
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时51分 ~ 22时12分]"
         },
         {
           "title": "OpenAI发布GPT Image1.5",
@@ -111,12 +112,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
+        },
+        {
+          "title": "OpenAI：为新闻机构推出OpenAI学院（OPENAI Academy），在未来的计划中，将与更多新闻机构和行业合作伙伴合作，以扩展学院。",
+          "url": "https://flash.jin10.com/detail/20251217220433800800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
+          "title": "ChatGPT找不出美国应对彩虹-7的方法",
+          "url": "https://www.toutiao.com/trending/7584059510923739178/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         }
       ]
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "市场消息：人工智能芯片初创公司Mythic融资1.25亿美元，以挑战英伟达(NVDA.O)。",
@@ -215,6 +238,17 @@
           "time_info": "[12时24分 ~ 12时50分]"
         },
         {
+          "title": "美联储理事沃勒：我认为人工智能不是泡沫，而是一项真正的技术。",
+          "url": "https://flash.jin10.com/detail/20251217221029515800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "国际半导体设备与材料协会(SEMI)预测，随着芯片制造商扩大用于人工智能的逻辑和存储芯片产能，用于制造晶圆的设备销售将在2026年增长约9%，至1260亿美元，并在2027年进一步增长7.3%，至1350亿美元。",
           "url": "https://wallstreetcn.com/livenews/3021981",
           "source": "华尔街见闻-快讯",
@@ -224,6 +258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
+        },
+        {
+          "title": "美联储理事沃勒：缺乏人工智能的商业固定投资正在下滑。",
+          "url": "https://flash.jin10.com/detail/20251217215834614800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         }
       ]
     },
@@ -239,11 +284,12 @@
             10,
             9,
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[12时50分 ~ 22时12分]"
+          "appearance_count": 23,
+          "time_info": "[12时50分 ~ 22时46分]"
         },
         {
           "title": "马斯克身家6770亿美元打破人类纪录",
