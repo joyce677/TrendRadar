@@ -1,22 +1,34 @@
 {
-  "generated_at": "2025-12-19T05:14:17.064158+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2025-12-19T06:15:14.944671+08:00",
+  "total_titles_processed": 671,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
           "url": "https://wallstreetcn.com/articles/3761607",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 06时15分]"
+        },
+        {
+          "title": "OpenAI可能会在本轮融资中获得搞到8300亿美元估值，该公司希望融资至多1000亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3023367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "OpenAI的CEO Altman：今天推出GPT-5.2-Codex。",
@@ -168,8 +180,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 06时15分]"
         },
         {
           "title": "韩科技副总理：中国或成为比美国更强的AI竞争对手",
@@ -179,8 +191,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 06时15分]"
         },
         {
           "title": "姚顺雨出任腾讯首席 AI 科学家，罗福莉担任小米大模型负责人，如何看待 95 后站上舞台中央的趋势？",
@@ -193,8 +205,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 06时15分]"
         },
         {
           "title": "AI上车教练下车 驾校生意变天了",
@@ -205,11 +217,12 @@
             9,
             17,
             19,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时20分 ~ 05时14分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 06时15分]"
         },
         {
           "title": "报道：美国民主党议员们调查商务部长卢特尼克是否从AI数据中心谋利",
@@ -249,7 +262,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "墨西哥反垄断委员会：谷歌将根据裁决取消其对移动设备制造商施加的某些合同限制。",
@@ -297,6 +310,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时22分 ~ 03时15分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收涨超3.4%，亚马逊涨约2.5%，谷歌和英伟达涨约1.9%",
+          "url": "https://wallstreetcn.com/livenews/3023354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "网络安全公司Mandiant的创始人Kevin Mandia（该公司谷歌以54 亿美元收购）成立了一家名为Armadin的新公司，旨在应对人工智能黑客攻击带来的迫在眉睫的威胁。Armadin正寻求在A轮融资中筹集1亿美元或更多，融资轮估值可能高达6亿美元或更高。",
