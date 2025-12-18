@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T18:02:49.028854+08:00",
-  "total_titles_processed": 1235,
+  "generated_at": "2025-12-18T18:46:37.915451+08:00",
+  "total_titles_processed": 1321,
   "failed_sources": [],
   "trends": [
     {
@@ -94,8 +94,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时16分 ~ 18时02分]"
+          "appearance_count": 11,
+          "time_info": "[14时16分 ~ 18时46分]"
         },
         {
           "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
@@ -159,7 +159,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "路透援引熟悉内情的消息人士，美国联邦贸易委员会正在调查Instacart，因为该零售平台因其人工智能驱动的定价工具而面临批评。Instacart股价在盘后交易中下跌约10%。",
@@ -203,11 +203,23 @@
           "url": "https://wallstreetcn.com/livenews/3023041",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 18时46分]"
+        },
+        {
+          "title": "邢自强：中国在人工智能上的投资十分有效",
+          "url": "https://wallstreetcn.com/livenews/3023069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时02分"
+          "time_info": "18时46分"
         }
       ]
     },
@@ -255,8 +267,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时15分 ~ 18时02分]"
+          "appearance_count": 6,
+          "time_info": "[16时15分 ~ 18时46分]"
         },
         {
           "title": "消息人士：美国联邦贸易委员会正就美国零售媒体和配送公司Instacart的AI定价工具对其展开调查。",
@@ -282,11 +294,12 @@
           "ranks": [
             12,
             18,
-            19
+            19,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时16分 ~ 18时02分]"
+          "appearance_count": 4,
+          "time_info": "[17时16分 ~ 18时46分]"
         }
       ]
     }
