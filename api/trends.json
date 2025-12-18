@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T16:50:22.283061+08:00",
-  "total_titles_processed": 1099,
+  "generated_at": "2025-12-18T17:16:33.629700+08:00",
+  "total_titles_processed": 1161,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/1984670354627651255",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时53分 ~ 16时50分]"
+          "appearance_count": 7,
+          "time_info": "[14时53分 ~ 17时16分]"
         },
         {
           "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
@@ -28,8 +29,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时16分 ~ 16时50分]"
+          "appearance_count": 8,
+          "time_info": "[14时16分 ~ 17时16分]"
         },
         {
           "title": "OpenAI已商讨以约7500亿美元估值融资数百亿美元，筹资最高1000亿美元。（The Information）",
@@ -127,8 +128,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时15分"
+          "appearance_count": 2,
+          "time_info": "[16时15分 ~ 17时16分]"
         },
         {
           "title": "白银成全球第四大资产 市值超越谷歌",
@@ -225,11 +226,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 16时50分]"
+          "appearance_count": 3,
+          "time_info": "[16时15分 ~ 17时16分]"
         },
         {
           "title": "消息人士：美国联邦贸易委员会正就美国零售媒体和配送公司Instacart的AI定价工具对其展开调查。",
@@ -241,6 +243,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Claude Code 改一个 bug 就引入另一个 bug，陷入死循环怎么办？",
+          "url": "https://www.zhihu.com/question/1984549559230289347",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时16分"
         }
       ]
     }
