@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-18T14:16:35.334085+08:00",
-  "total_titles_processed": 773,
+  "generated_at": "2025-12-18T14:53:47.022513+08:00",
+  "total_titles_processed": 838,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时31分 ~ 14时16分]"
+          "appearance_count": 8,
+          "time_info": "[10时31分 ~ 14时53分]"
         },
         {
           "title": "谷歌据悉联手Meta 强化TPU对PyTorch的支持 以挑战英伟达",
@@ -37,11 +37,12 @@
           "url": "https://www.zhihu.com/question/1984788546771517931",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时53分]"
         },
         {
           "title": "白银成全球第四大资产 市值超越谷歌",
@@ -58,7 +59,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI已商讨以约7500亿美元估值融资数百亿美元，筹资最高1000亿美元。（The Information）",
@@ -72,15 +73,27 @@
           "time_info": "08时42分"
         },
         {
+          "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1984670354627651255",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
+        {
           "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
           "url": "https://wallstreetcn.com/articles/3761607",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时16分 ~ 14时53分]"
         },
         {
           "title": "据悉OpenAI拟融资高达1000亿美元，公司估值约为7500亿美元",
