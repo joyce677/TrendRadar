@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-18T13:31:25.542955+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2025-12-18T14:42:42.592435+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "特朗普称委内瑞拉政府“外国恐怖组织”，21世纪再现“大棒加胡萝卜”",
@@ -20,8 +20,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时37分 ~ 13时31分]"
+          "appearance_count": 18,
+          "time_info": "[00时37分 ~ 14时42分]"
         },
         {
           "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
@@ -57,8 +57,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时27分 ~ 13时31分]"
+          "appearance_count": 7,
+          "time_info": "[07时27分 ~ 14时42分]"
         },
         {
           "title": "特朗普对马杜罗下狠手",
@@ -68,11 +68,12 @@
             23,
             17,
             21,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时04分 ~ 13时31分]"
+          "appearance_count": 6,
+          "time_info": "[10时04分 ~ 14时42分]"
         },
         {
           "title": "据悉特朗普希望渐进式施压让马杜罗低头，最终目标仍然让其下台",
@@ -363,6 +364,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "特朗普说委内瑞拉抢了美国的石油",
+          "url": "https://wallstreetcn.com/livenews/3022878",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
           "title": "据Politico：特朗普政府正询问美国石油业界，一旦马杜罗下台，他们是否愿意重返委内瑞拉。",
           "url": "https://flash.jin10.com/detail/20251218053115723800",
           "source": "金十数据",
@@ -435,7 +447,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -466,8 +478,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[06时27分 ~ 13时31分]"
+          "appearance_count": 9,
+          "time_info": "[06时27分 ~ 14时42分]"
         },
         {
           "title": "市场静待更多数据，美股早盘震荡下挫，地缘政治扰动，原油重新站上60美元，金银铜铂钯齐涨，白银飙涨近4%再创新高",
@@ -659,7 +671,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "12月18日投资避雷针：AI龙头抛售潮持续 英伟达、谷歌跌超3%",
@@ -672,8 +684,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时04分 ~ 13时31分]"
+          "appearance_count": 6,
+          "time_info": "[10时04分 ~ 14时42分]"
         },
         {
           "title": "谷歌搜索产品副总裁Robby Stein介绍，在谷歌搜索中，新的Gemini Flash模型将帮助用户进行带有多个条件的更精细搜索。例如，用户可以使用它来查找适合带幼儿的父母参加的最佳晚间活动。",
@@ -749,6 +761,17 @@
           "time_info": "00时38分"
         },
         {
+          "title": "谷歌发布 Gemini 3 Flash，相比上一代 2.5 Flash 有哪些提升？使用体验如何？",
+          "url": "https://www.zhihu.com/question/1984788546771517931",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
+        {
           "title": "白银成全球第四大资产 市值超越谷歌",
           "url": "https://flash.jin10.com/detail/20251218105307391800",
           "source": "金十数据",
@@ -763,8 +786,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "腾讯大模型团队架构调整，前 OpenAI 研究员姚顺雨任要职，这对腾讯 AI 发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1984670354627651255",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
+        },
         {
           "title": "ChatGPT找不出美国应对彩虹-7的方法",
           "url": "https://www.toutiao.com/trending/7584059510923739178/",
@@ -775,6 +809,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 00时38分]"
+        },
+        {
+          "title": "AI新子弹要来了！报道称OpenAI正探讨“数百亿甚至1000亿美元融资”",
+          "url": "https://wallstreetcn.com/articles/3761607",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时42分"
         },
         {
           "title": "OpenAI董事长布雷特·泰勒表示，该公司的发展受限于算力资源的获取。",
