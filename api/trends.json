@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T07:15:19.596644+08:00",
-  "total_titles_processed": 714,
+  "generated_at": "2025-12-19T09:08:44.429572+08:00",
+  "total_titles_processed": 881,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 07时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 09时08分]"
         },
         {
           "title": "OpenAI可能会在本轮融资中获得搞到8300亿美元估值，该公司希望融资至多1000亿美元。（华尔街日报）",
@@ -107,7 +108,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -181,7 +182,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -199,11 +200,12 @@
           "url": "https://news.ifeng.com/c/8pByOwBOHEi",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 07时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 09时08分]"
         },
         {
           "title": "姚顺雨出任腾讯首席 AI 科学家，罗福莉担任小米大模型负责人，如何看待 95 后站上舞台中央的趋势？",
@@ -214,11 +216,12 @@
             11,
             8,
             10,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时20分 ~ 07时15分]"
+          "appearance_count": 12,
+          "time_info": "[00时20分 ~ 09时08分]"
         },
         {
           "title": "AI上车教练下车 驾校生意变天了",
@@ -255,7 +258,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -280,6 +283,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
+        },
+        {
+          "title": "据Chainalysis：2025年加密货币失窃规模已经达到34亿美元，个人钱包遭遇网络袭击的现象增多。",
+          "url": "https://wallstreetcn.com/livenews/3023412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
+        {
+          "title": "豆包AI视频能说方言了",
+          "url": "https://www.douyin.com/hot/2340352",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
         }
       ]
     },
@@ -361,8 +386,19 @@
     },
     {
       "keyword_group": "房价 楼市 房地产",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "安徽“十五五”规划建议：加快构建房地产发展新模式 完善商品房开发、融资、销售等基础制度",
+          "url": "https://wallstreetcn.com/livenews/3023421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时08分"
+        },
         {
           "title": "美国总统特朗普：我想维护房价，也想帮助人们买房。",
           "url": "https://flash.jin10.com/detail/20251219031446683800",
