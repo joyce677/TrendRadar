@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T01:15:09.366746+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2025-12-20T02:21:59.255477+08:00",
+  "total_titles_processed": 474,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 01时15分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 02时21分]"
         },
         {
           "title": "回顾 2025 年，你与 AI 的关系是什么？",
           "url": "https://www.zhihu.com/question/1984641612912030144",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 02时21分]"
         }
       ]
     },
@@ -61,8 +62,25 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时14分 ~ 01时15分]"
+          "appearance_count": 3,
+          "time_info": "[01时14分 ~ 02时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "消息人士：马斯克与摩根士丹利的密切关系使该行在SpaceX IPO中占据优势。",
+          "url": "https://flash.jin10.com/detail/20251220013937400800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时21分"
         }
       ]
     },
