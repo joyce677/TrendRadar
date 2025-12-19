@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-19T11:19:54.215422+08:00",
-  "total_titles_processed": 1048,
+  "generated_at": "2025-12-19T12:30:41.551451+08:00",
+  "total_titles_processed": 1177,
   "failed_sources": [],
   "trends": [
     {
@@ -56,6 +56,18 @@
           "time_info": "[03时15分 ~ 04时15分]"
         },
         {
+          "title": "OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场",
+          "url": "https://www.cls.cn/detail/2234101",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时19分 ~ 12时30分]"
+        },
+        {
           "title": "OpenAI与美国能源部签署关于AI合作的谅解备忘录。",
           "url": "https://wallstreetcn.com/livenews/3023316",
           "source": "华尔街见闻-快讯",
@@ -100,17 +112,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
-        },
-        {
-          "title": "OpenAI最新估值或达8300亿美元 德国拟动用俄资产支持乌克兰 | 环球市场",
-          "url": "https://www.cls.cn/detail/2234101",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
         },
         {
           "title": "OpenAI可能会在本轮融资中获得高达8300亿美元估值，该公司希望融资至多1000亿美元。（华尔街日报）",
@@ -193,7 +194,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -292,9 +293,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        },
+        {
+          "title": "正与字节开展AI手机合作？联想内部人士：一直保持密切沟通",
+          "url": "https://wallstreetcn.com/livenews/3023553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时30分"
         },
         {
           "title": "标普：将空客（Airbus）展望上调至正面，理由是其持续产生稳健的自由现金流；维持“A”级信用评级不变。",
@@ -440,9 +452,26 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "SpaceX上市在即，特斯拉还能承载多少“马斯克溢价”？",
+          "url": "https://www.cls.cn/detail/2233996",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时29分 ~ 12时30分]"
         }
       ]
     }
