@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-20T09:03:50.169112+08:00",
-  "total_titles_processed": 772,
+  "generated_at": "2025-12-20T11:11:38.929400+08:00",
+  "total_titles_processed": 902,
   "failed_sources": [],
   "trends": [
     {
@@ -14,23 +14,12 @@
           "ranks": [
             18,
             19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 09时03分]"
-        },
-        {
-          "title": "美国纽约州长签署先进AI限制法案，遭科技行业反对",
-          "url": "https://wallstreetcn.com/livenews/3024191",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
+            16,
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时15分 ~ 09时03分]"
+          "appearance_count": 12,
+          "time_info": "[00时18分 ~ 11时11分]"
         },
         {
           "title": "美国数据中心密集区电价五年暴涨 267%，居民为何要「平摊」AI 耗电账单？",
@@ -39,6 +28,18 @@
           "ranks": [
             5,
             16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时15分 ~ 11时11分]"
+        },
+        {
+          "title": "美国纽约州长签署先进AI限制法案，遭科技行业反对",
+          "url": "https://wallstreetcn.com/livenews/3024191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -75,59 +76,27 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
-          "url": "https://wallstreetcn.com/articles/3761690",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            5
-          ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时14分 ~ 09时03分]"
-        },
-        {
-          "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
-          "url": "https://wallstreetcn.com/livenews/3024206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
-          "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
-          "url": "https://wallstreetcn.com/articles/3761711",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时15分 ~ 09时03分]"
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 11时11分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "据Business Insider：谷歌警告部分签证员工不要离开美国，因为回国可能面临长达一年的“重大”延误。",
+          "url": "https://flash.jin10.com/detail/20251220105539232800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
+        },
         {
           "title": "美股七巨头收盘播报｜英伟达收涨超3.9%，谷歌A涨超1.5%，Meta跌超0.8%",
           "url": "https://wallstreetcn.com/livenews/3024168",
@@ -154,8 +123,52 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
+          "url": "https://wallstreetcn.com/articles/3761690",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时14分 ~ 11时11分]"
+        },
+        {
+          "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
+          "url": "https://wallstreetcn.com/articles/3761711",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时15分 ~ 11时11分]"
+        },
+        {
+          "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
+          "url": "https://wallstreetcn.com/livenews/3024206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时03分 ~ 11时11分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "特拉华州高级法院判定：马斯克2018年特斯拉薪酬计划必须被恢复",
@@ -180,6 +193,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时21分"
+        },
+        {
+          "title": "美法院裁定：马斯克2018年薪酬方案须恢复执行",
+          "url": "https://flash.jin10.com/detail/20251220085424025800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时11分"
         }
       ]
     },
