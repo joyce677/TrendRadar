@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-20T17:14:51.785890+08:00",
-  "total_titles_processed": 1259,
+  "generated_at": "2025-12-20T18:15:03.939215+08:00",
+  "total_titles_processed": 1314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "王俊凯话剧首秀，与饶晓志在《趁世界还年青》叩问AI时代",
@@ -22,6 +22,21 @@
           "time_info": "[00时18分 ~ 12时21分]"
         },
         {
+          "title": "摩尔线程重磅发布：新一代GPU架构“花港”能效提升10倍，系列芯片明年量产上市，推出AI算力笔记本",
+          "url": "https://wallstreetcn.com/articles/3761762",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时22分 ~ 18时15分]"
+        },
+        {
           "title": "摩尔线程发布AI算力笔记本MTT AIBOOK，售价9999元",
           "url": "https://flash.jin10.com/detail/20251220123029184800",
           "source": "金十数据",
@@ -30,11 +45,12 @@
             3,
             8,
             12,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时15分 ~ 17时14分]"
+          "appearance_count": 6,
+          "time_info": "[13时15分 ~ 18时15分]"
         },
         {
           "title": "担忧AI，澳大利亚最大养老基金计划减配全球股票",
@@ -45,25 +61,12 @@
             4,
             9,
             13,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时15分 ~ 17时14分]"
-        },
-        {
-          "title": "摩尔线程重磅发布：新一代GPU架构“花港”能效提升10倍，系列芯片明年量产上市，推出AI算力笔记本",
-          "url": "https://wallstreetcn.com/articles/3761762",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时22分 ~ 17时14分]"
+          "appearance_count": 6,
+          "time_info": "[13时15分 ~ 18时15分]"
         },
         {
           "title": "摩尔线程发布“庐山”GPU芯片，AI性能提升64倍",
@@ -74,44 +77,25 @@
             6,
             7,
             13,
-            18
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时15分 ~ 18时15分]"
+        },
+        {
+          "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
+          "url": "https://wallstreetcn.com/articles/3761759",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            2
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[13时15分 ~ 17时14分]"
-        },
-        {
-          "title": "蚂蚁数科AI原生事业部总经理王磊：严谨性与“压制幻觉”是金融AI第一要务",
-          "url": "https://wallstreetcn.com/livenews/3024259",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
-        },
-        {
-          "title": "蚂蚁数科AI原生事业部总经理王磊：金融AI落地需构建“可信智能体”三大基石",
-          "url": "https://wallstreetcn.com/livenews/3024257",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
-        },
-        {
-          "title": "蚂蚁数科AI原生事业部总经理王磊：垂直大模型训练成本呈百倍级下降",
-          "url": "https://wallstreetcn.com/livenews/3024256",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时14分"
+          "time_info": "[16时18分 ~ 18时15分]"
         },
         {
           "title": "美国数据中心密集区电价五年暴涨 267%，居民为何要「平摊」AI 耗电账单？",
@@ -125,6 +109,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时15分 ~ 12时21分]"
+        },
+        {
+          "title": "知名经济学家付鹏：现在AI市场的焦点是“路修好了，有车跑吗”",
+          "url": "https://wallstreetcn.com/livenews/3024247",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            7,
+            12,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时13分 ~ 18时15分]"
         },
         {
           "title": "高盛大宗商品展望：AI引爆“铜与电”短缺危机，局部停电、电价飙升可能拖累美国AI进展",
@@ -154,17 +152,30 @@
           "time_info": "[13时15分 ~ 17时14分]"
         },
         {
-          "title": "知名经济学家付鹏：现在AI市场的焦点是“路修好了，有车跑吗”",
-          "url": "https://wallstreetcn.com/livenews/3024247",
+          "title": "付鹏：如果AI被证伪，全球股市都将面临剧烈波动",
+          "url": "https://wallstreetcn.com/livenews/3024251",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            7,
-            12
+            3,
+            8,
+            18
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[15时13分 ~ 17时14分]"
+          "time_info": "[16时19分 ~ 18时15分]"
+        },
+        {
+          "title": "付鹏：2026年将是AI应用的“证伪之年”，巨头们需证明自己",
+          "url": "https://wallstreetcn.com/livenews/3024250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            9,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时19分 ~ 18时15分]"
         },
         {
           "title": "美国纽约州长签署先进AI限制法案，遭科技行业反对",
@@ -179,40 +190,52 @@
           "time_info": "[07时15分 ~ 09时03分]"
         },
         {
-          "title": "付鹏：如果AI被证伪，全球股市都将面临剧烈波动",
-          "url": "https://wallstreetcn.com/livenews/3024251",
+          "title": "蚂蚁数科AI原生事业部总经理王磊：严谨性与“压制幻觉”是金融AI第一要务",
+          "url": "https://wallstreetcn.com/livenews/3024259",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 18时15分]"
+        },
+        {
+          "title": "蚂蚁数科AI原生事业部总经理王磊：金融AI落地需构建“可信智能体”三大基石",
+          "url": "https://wallstreetcn.com/livenews/3024257",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            8
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时19分 ~ 17时14分]"
+          "time_info": "[17时14分 ~ 18时15分]"
         },
         {
-          "title": "付鹏：2026年将是AI应用的“证伪之年”，巨头们需证明自己",
-          "url": "https://wallstreetcn.com/livenews/3024250",
+          "title": "蚂蚁数科AI原生事业部总经理王磊：垂直大模型训练成本呈百倍级下降",
+          "url": "https://wallstreetcn.com/livenews/3024256",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            9
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时19分 ~ 17时14分]"
+          "time_info": "[17时14分 ~ 18时15分]"
         },
         {
-          "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
-          "url": "https://wallstreetcn.com/articles/3761759",
+          "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
+          "url": "https://wallstreetcn.com/articles/3761689",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            7
+            10,
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时18分 ~ 17时14分]"
+          "time_info": "[17时14分 ~ 18时15分]"
         },
         {
           "title": "回顾 2025 年，你与 AI 的关系是什么？",
@@ -239,15 +262,26 @@
           "time_info": "[04时16分 ~ 05时14分]"
         },
         {
-          "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
-          "url": "https://wallstreetcn.com/articles/3761689",
-          "source": "华尔街见闻",
+          "title": "中信建投期货研究所联席负责人田亚雄：若AI投资泡沫破裂，商品将提前反应，白银已在抢跑",
+          "url": "https://wallstreetcn.com/livenews/3024264",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时14分"
+          "time_info": "18时15分"
+        },
+        {
+          "title": "蚂蚁数科AI原生事业部总经理王磊：大模型落地本质是业务战略的重塑",
+          "url": "https://wallstreetcn.com/livenews/3024262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "UP主AI制作科学家传记电影",
@@ -256,7 +290,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时14分"
         },
@@ -297,11 +331,25 @@
             3,
             4,
             10,
-            15
+            15,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时22分 ~ 17时14分]"
+          "appearance_count": 5,
+          "time_info": "[14时22分 ~ 18时15分]"
+        },
+        {
+          "title": "宇树机器人给王力宏伴舞 马斯克点赞",
+          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BB%99%E7%8E%8B%E5%8A%9B%E5%AE%8F%E4%BC%B4%E8%88%9E+%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E",
+          "source": "百度热搜",
+          "ranks": [
+            24,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时18分 ~ 18时15分]"
         },
         {
           "title": "马斯克转发宇树机器人伴舞视频并留言：印象深刻。",
@@ -311,23 +359,25 @@
             1,
             6,
             10,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时22分 ~ 17时14分]"
+          "appearance_count": 5,
+          "time_info": "[14时22分 ~ 18时15分]"
         },
         {
-          "title": "宇树机器人给王力宏伴舞 马斯克点赞",
-          "url": "https://www.baidu.com/s?wd=%E5%AE%87%E6%A0%91%E6%9C%BA%E5%99%A8%E4%BA%BA%E7%BB%99%E7%8E%8B%E5%8A%9B%E5%AE%8F%E4%BC%B4%E8%88%9E+%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E",
-          "source": "百度热搜",
+          "title": "马斯克点赞王力宏伴舞机器人",
+          "url": "https://www.douyin.com/hot/2342006",
+          "source": "抖音",
           "ranks": [
+            19,
             24,
-            5
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时18分 ~ 17时14分]"
+          "appearance_count": 5,
+          "time_info": "[14时22分 ~ 18时15分]"
         },
         {
           "title": "特拉华州高级法院判定：马斯克2018年特斯拉薪酬计划必须被恢复",
@@ -341,18 +391,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时15分 ~ 09时03分]"
-        },
-        {
-          "title": "马斯克点赞王力宏伴舞机器人",
-          "url": "https://www.douyin.com/hot/2342006",
-          "source": "抖音",
-          "ranks": [
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时22分 ~ 16时19分]"
         },
         {
           "title": "马斯克被C罗身材卷到了",
@@ -413,6 +451,64 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
+          "url": "https://wallstreetcn.com/articles/3761711",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[06时15分 ~ 17时14分]"
+        },
+        {
+          "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
+          "url": "https://wallstreetcn.com/articles/3761690",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时14分 ~ 11时11分]"
+        },
+        {
+          "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
+          "url": "https://wallstreetcn.com/livenews/3024206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            22,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时03分 ~ 12时21分]"
+        },
+        {
+          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
+          "url": "https://wallstreetcn.com/articles/3761757",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时14分 ~ 18时15分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -458,53 +554,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "阿联酋资本托底美股？不仅注资OpenAI，更把甲骨文从债务悬崖边拉了回来",
-          "url": "https://wallstreetcn.com/articles/3761711",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时15分 ~ 17时14分]"
-        },
-        {
-          "title": "Altman谈OpenAI：算力成收入最大瓶颈，只要算力翻倍，收入就能翻倍",
-          "url": "https://wallstreetcn.com/articles/3761690",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时14分 ~ 11时11分]"
-        },
-        {
-          "title": "报道：软银加速筹集资金，力争在年底前履行对OpenAI 225亿美元的注资承诺",
-          "url": "https://wallstreetcn.com/livenews/3024206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时03分 ~ 12时21分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "房价 楼市 房地产",
       "match_count": 2,
       "titles": [
@@ -517,8 +566,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时21分 ~ 17时14分]"
+          "appearance_count": 10,
+          "time_info": "[12时21分 ~ 18时15分]"
         },
         {
           "title": "美国11月房价中值创八个月来最低。",
