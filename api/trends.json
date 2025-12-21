@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-21T22:02:36.963799+08:00",
-  "total_titles_processed": 1152,
+  "generated_at": "2025-12-21T22:40:09.606461+08:00",
+  "total_titles_processed": 1191,
   "failed_sources": [],
   "trends": [
     {
@@ -55,9 +55,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时02分 ~ 22时40分]"
         },
         {
           "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 美元，公司进入「红色代码」紧急状态，透露哪些信息？",
@@ -80,6 +80,76 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
+          "url": "https://wallstreetcn.com/articles/3761778",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[10时52分 ~ 18时02分]"
+        },
+        {
+          "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
+          "url": "https://wallstreetcn.com/articles/3761777",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[13时42分 ~ 17时02分]"
+        },
+        {
+          "title": "Gemini数学实力测试",
+          "url": "https://search.bilibili.com/all?keyword=Gemini%E6%95%B0%E5%AD%A6%E5%AE%9E%E5%8A%9B%E6%B5%8B%E8%AF%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时42分 ~ 22时02分]"
+        },
+        {
+          "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
+          "url": "https://wallstreetcn.com/articles/3761792",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[21时02分 ~ 22时40分]"
+        },
+        {
+          "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
+          "url": "https://wallstreetcn.com/articles/3761798",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时39分 ~ 22时40分]"
         }
       ]
     },
@@ -192,8 +262,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[08时49分 ~ 22时02分]"
+          "appearance_count": 32,
+          "time_info": "[08时49分 ~ 22时40分]"
         },
         {
           "title": "宇树人形机器人“火力全开”助演王力宏演唱会，马斯克点赞称印象深刻",
@@ -251,65 +321,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
-          "url": "https://wallstreetcn.com/articles/3761778",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[10时52分 ~ 18时02分]"
-        },
-        {
-          "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
-          "url": "https://wallstreetcn.com/articles/3761777",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时42分 ~ 17时02分]"
-        },
-        {
-          "title": "Gemini数学实力测试",
-          "url": "https://search.bilibili.com/all?keyword=Gemini%E6%95%B0%E5%AD%A6%E5%AE%9E%E5%8A%9B%E6%B5%8B%E8%AF%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时42分 ~ 22时02分]"
-        },
-        {
-          "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
-          "url": "https://wallstreetcn.com/articles/3761792",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时02分 ~ 22时02分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -321,8 +332,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[21时02分 ~ 22时02分]"
+          "appearance_count": 7,
+          "time_info": "[21时02分 ~ 22时40分]"
         }
       ]
     },
@@ -339,11 +350,12 @@
             9,
             8,
             6,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[13时42分 ~ 22时02分]"
+          "appearance_count": 24,
+          "time_info": "[13时42分 ~ 22时40分]"
         }
       ]
     }
