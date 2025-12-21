@@ -1,163 +1,44 @@
 {
-  "generated_at": "2025-12-21T23:14:03.753169+08:00",
-  "total_titles_processed": 1366,
+  "generated_at": "2025-12-22T00:17:00.670490+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "高盛2026年全球股市展望：更广泛的牛市，更宽泛的AI受益者",
-          "url": "https://wallstreetcn.com/articles/3761759",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 09时12分]"
-        },
-        {
-          "title": "摩尔线程重磅发布：新一代GPU架构“花港”能效提升10倍，系列芯片明年量产上市，推出AI算力笔记本",
-          "url": "https://wallstreetcn.com/articles/3761762",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时16分 ~ 13时16分]"
-        },
-        {
-          "title": "付鹏：AI生产力能否改变生产关系？前瞻2026年大类资产波动背后深层逻辑【付鹏说14】",
-          "url": "https://wallstreetcn.com/premium/articles/3761780?layout=wscn-layout",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时24分 ~ 18时15分]"
-        },
         {
           "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
           "url": "https://wallstreetcn.com/articles/3761783",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
-            7,
-            4,
-            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时24分 ~ 23时14分]"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 00时17分]"
+        },
+        {
+          "title": "挑战复刻AI可食用岩浆",
+          "url": "https://www.douyin.com/hot/2343202",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 00时17分]"
         },
         {
           "title": "告别低通胀、AI接力新需求叙事，改革红利提振消费率......十大券商一文展望2026中国经济",
           "url": "https://wallstreetcn.com/articles/3761246",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            8,
-            5,
-            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时22分 ~ 23时14分]"
-        },
-        {
-          "title": "中信建投：继续看好AI算力板块",
-          "url": "https://wallstreetcn.com/livenews/3024316",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            5,
-            20,
-            11,
-            16,
-            21,
-            23,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时17分 ~ 22时14分]"
-        },
-        {
-          "title": "全球知名科技分析师Dan Ives：AI派对才刚开始，2026是“变现之年”，真正的消费者AI革命将由苹果开启｜Alpha峰会",
-          "url": "https://wallstreetcn.com/articles/3761689",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 09时12分]"
-        },
-        {
-          "title": "博闻丨27岁姚顺雨出任首席AI科学家，高中班主任说“高考数学他睡了一觉错失全省第一”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32219914",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            12,
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时16分 ~ 17时15分]"
-        },
-        {
-          "title": "英语兔的年报DNA里有AI",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E8%AF%AD%E5%85%94%E7%9A%84%E5%B9%B4%E6%8A%A5DNA%E9%87%8C%E6%9C%89AI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            30,
-            9,
-            24,
-            23,
-            22,
-            19,
-            20,
-            29,
-            28,
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[02时19分 ~ 22时14分]"
-        },
-        {
-          "title": "哈尔滨网红大雪人穿雨衣系AI生成",
-          "url": "https://www.baidu.com/s?wd=%E5%93%88%E5%B0%94%E6%BB%A8%E7%BD%91%E7%BA%A2%E5%A4%A7%E9%9B%AA%E4%BA%BA%E7%A9%BF%E9%9B%A8%E8%A1%A3%E7%B3%BBAI%E7%94%9F%E6%88%90",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时24分 ~ 18时15分]"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 00时17分]"
         },
         {
           "title": "哈尔滨网红大雪人穿雨衣？系AI生成",
@@ -167,8 +48,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时12分 ~ 23时14分]"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 00时17分]"
         },
         {
           "title": "哈尔滨大雪人穿雨衣系AI生成",
@@ -178,419 +59,76 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时15分 ~ 23时14分]"
-        },
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 00时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "澎湃AI晚新闻丨2025年12月20日",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32221062",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时12分 ~ 21时24分]"
-        },
-        {
-          "title": "挑战复刻AI可食用岩浆",
-          "url": "https://www.douyin.com/hot/2343202",
-          "source": "抖音",
-          "ranks": [
-            14,
-            11,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时19分 ~ 23时14分]"
-        },
-        {
-          "title": "金山办公朱熠锷：企业AI应用正从“以模型为中心”转向“以数据为中心”",
-          "url": "https://wallstreetcn.com/livenews/3024347",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 12时33分]"
-        },
-        {
-          "title": "为什么我们一边害怕被 AI 取代，一边又抱怨工作太累？若 AI 真承担大部分工作，是该恐惧还是庆祝？",
-          "url": "https://www.zhihu.com/question/1983889355362820808",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时12分 ~ 12时33分]"
-        },
-        {
-          "title": "AI热潮掩盖了华尔街“老登交易”的大年：多元化策略回报创多年新高",
-          "url": "https://wallstreetcn.com/articles/3761760",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时12分 ~ 11时25分]"
-        },
-        {
-          "title": "Andrej Karpathy年度复盘：AI大模型正在演变成一种新型智能，今年出现6个关键拐点",
-          "url": "https://wallstreetcn.com/articles/3761768",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时33分 ~ 13时16分]"
-        },
-        {
-          "title": "豆包狂飙，字节AI再亮剑",
-          "url": "https://wallstreetcn.com/articles/3761770",
+          "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
+          "url": "https://wallstreetcn.com/articles/3761798",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时33分"
-        },
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 00时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "国家一级演奏员赏析AI歌曲",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E5%AE%B6%E4%B8%80%E7%BA%A7%E6%BC%94%E5%A5%8F%E5%91%98%E8%B5%8F%E6%9E%90AI%E6%AD%8C%E6%9B%B2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "回顾 2025 年，你与 AI 的关系是什么？",
-          "url": "https://www.zhihu.com/question/1984641612912030144",
+          "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 亿美元，公司进入「红色代码」紧急状态，透露哪些信息？",
+          "url": "https://www.zhihu.com/question/1985011347914774514",
           "source": "知乎",
           "ranks": [
-            19
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "UP主AI制作科学家传记电影",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BBAI%E5%88%B6%E4%BD%9C%E7%A7%91%E5%AD%A6%E5%AE%B6%E4%BC%A0%E8%AE%B0%E7%94%B5%E5%BD%B1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时12分"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 00时17分]"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 7,
+      "match_count": 1,
       "titles": [
         {
           "title": "宇树机器人，在王力宏演唱会上大秀高难度空翻，马斯克点赞",
           "url": "https://www.cls.cn/detail/2235476",
           "source": "财联社热门",
           "ranks": [
-            4,
-            5,
             6
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时16分 ~ 23时14分]"
-        },
-        {
-          "title": "宇树人形机器人“火力全开”助演王力宏演唱会，马斯克点赞称印象深刻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32220528",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16,
-            18,
-            13,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时33分 ~ 20时27分]"
-        },
-        {
-          "title": "马斯克赢得560亿美元薪酬方案",
-          "url": "https://www.douyin.com/hot/2342030",
-          "source": "抖音",
-          "ranks": [
-            18,
-            16,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时12分 ~ 07时14分]"
-        },
-        {
-          "title": "比尔·阿克曼：建议马斯克的太空探索公司SpaceX通过潘兴广场Pershing Square SPARC Holdings Ltd.实现IPO。 我们对“授予马斯克超级投票（权）股份”持开放态度。",
-          "url": "https://wallstreetcn.com/livenews/3024339",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时13分 ~ 11时25分]"
-        },
-        {
-          "title": "马斯克点赞王力宏伴舞机器人",
-          "url": "https://www.douyin.com/hot/2342006",
-          "source": "抖音",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时16分 ~ 01时12分]"
-        },
-        {
-          "title": "马斯克净资产飙升至7490亿美元",
-          "url": "https://www.douyin.com/hot/2342944",
-          "source": "抖音",
-          "ranks": [
-            22,
-            19
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时15分 ~ 16时19分]"
-        },
-        {
-          "title": "马斯克成首位身家超7000亿美元富豪",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%88%90%E9%A6%96%E4%BD%8D%E8%BA%AB%E5%AE%B6%E8%B6%857000%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AF%8C%E8%B1%AA",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 11时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
-          "url": "https://wallstreetcn.com/articles/3761778",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            8,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时24分 ~ 18时15分]"
-        },
-        {
-          "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
-          "url": "https://wallstreetcn.com/articles/3761792",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[20时26分 ~ 23时14分]"
-        },
-        {
-          "title": "谷歌的“回流”之年：2025年新聘AI软件工程师中，20%为前员工",
-          "url": "https://wallstreetcn.com/livenews/3024274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时17分 ~ 04时15分]"
-        },
-        {
-          "title": "Scaling Law没死！Gemini核心大佬爆料，谷歌已有颠覆性密钥",
-          "url": "https://wallstreetcn.com/articles/3761777",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时22分 ~ 17时15分]"
-        },
-        {
-          "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
-          "url": "https://wallstreetcn.com/articles/3761798",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时13分 ~ 23时14分]"
-        },
-        {
-          "title": "Gemini数学实力测试",
-          "url": "https://search.bilibili.com/all?keyword=Gemini%E6%95%B0%E5%AD%A6%E5%AE%9E%E5%8A%9B%E6%B5%8B%E8%AF%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时13分 ~ 22时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
-          "url": "https://wallstreetcn.com/articles/3761764",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时16分 ~ 14时22分]"
-        },
-        {
-          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
-          "url": "https://wallstreetcn.com/articles/3761776",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            5,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时16分 ~ 15时15分]"
-        },
-        {
-          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
-          "url": "https://wallstreetcn.com/articles/3761763",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时16分 ~ 11时25分]"
-        },
-        {
-          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
-          "url": "https://wallstreetcn.com/articles/3761757",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时16分 ~ 09时12分]"
-        },
-        {
-          "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 亿美元，公司进入「红色代码」紧急状态，透露哪些信息？",
-          "url": "https://www.zhihu.com/question/1985011347914774514",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[22时13分 ~ 23时14分]"
-        },
-        {
-          "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 美元，公司进入「红色代码」紧急状态，透露哪些信息？",
-          "url": "https://www.zhihu.com/question/1985011347914774514",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时24分"
+          "time_info": "[00时16分 ~ 00时17分]"
         }
       ]
     },
     {
       "keyword_group": "房价 楼市 房地产",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "孟晓苏：国家下场整治唱衰楼市",
-          "url": "https://www.toutiao.com/trending/7585231803288649771/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            5,
-            28,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时12分 ~ 23时14分]"
-        },
         {
           "title": "中央经济工作会议勾勒房地产发展新逻辑：从“止跌回稳”到“着力稳定”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32222649",
           "source": "澎湃新闻",
           "ranks": [
-            20,
             19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时19分 ~ 23时14分]"
+          "appearance_count": 2,
+          "time_info": "[00时16分 ~ 00时17分]"
         }
       ]
     }
