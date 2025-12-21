@@ -1,8 +1,77 @@
 {
-  "generated_at": "2025-12-21T21:03:12.040905+08:00",
-  "total_titles_processed": 1086,
+  "generated_at": "2025-12-21T21:43:13.681854+08:00",
+  "total_titles_processed": 1131,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
+          "url": "https://wallstreetcn.com/articles/3761764",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时49分 ~ 14时15分]"
+        },
+        {
+          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
+          "url": "https://wallstreetcn.com/articles/3761776",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[08时49分 ~ 15时37分]"
+        },
+        {
+          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
+          "url": "https://wallstreetcn.com/articles/3761763",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时49分 ~ 11时56分]"
+        },
+        {
+          "title": "OpenAI 被曝正寻求千亿美元融资，单季亏损超 120 美元，公司进入「红色代码」紧急状态，透露哪些信息？",
+          "url": "https://www.zhihu.com/question/1985011347914774514",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 21时43分]"
+        },
+        {
+          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
+          "url": "https://wallstreetcn.com/articles/3761757",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时49分"
+        }
+      ]
+    },
     {
       "keyword_group": "人工智能",
       "match_count": 5,
@@ -112,8 +181,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[08时49分 ~ 21时03分]"
+          "appearance_count": 29,
+          "time_info": "[08时49分 ~ 21时43分]"
         },
         {
           "title": "宇树人形机器人“火力全开”助演王力宏演唱会，马斯克点赞称印象深刻",
@@ -171,66 +240,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "Altman直面1.4万亿美元质疑：只要算力还短缺，OpenAI就必须继续烧钱",
-          "url": "https://wallstreetcn.com/articles/3761764",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时49分 ~ 14时15分]"
-        },
-        {
-          "title": "火线解析智谱AI招股书：年营收3亿增速130%，“中国版OpenAI”率先冲刺全球大模型第一股",
-          "url": "https://wallstreetcn.com/articles/3761776",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            4,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时49分 ~ 15时37分]"
-        },
-        {
-          "title": "卖光英伟达、抵押Arm加杠杆！软银“孤注一掷”OpenAI，力争年底前资金到位",
-          "url": "https://wallstreetcn.com/articles/3761763",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时49分 ~ 11时56分]"
-        },
-        {
-          "title": "OpenAI融资成败，将决定整个数据中心行业的命运",
-          "url": "https://wallstreetcn.com/articles/3761757",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时49分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "预测市场押注“全球市值第一”：明年谷歌将凭AI芯片正面挑战英伟达、苹果",
@@ -264,6 +275,17 @@
           "time_info": "[13时42分 ~ 17时02分]"
         },
         {
+          "title": "Gemini数学实力测试",
+          "url": "https://search.bilibili.com/all?keyword=Gemini%E6%95%B0%E5%AD%A6%E5%AE%9E%E5%8A%9B%E6%B5%8B%E8%AF%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时42分 ~ 21时43分]"
+        },
+        {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
           "url": "https://wallstreetcn.com/articles/3761792",
           "source": "华尔街见闻",
@@ -271,8 +293,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时03分]"
+          "appearance_count": 4,
+          "time_info": "[21时02分 ~ 21时43分]"
         }
       ]
     },
@@ -288,8 +310,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 21时03分]"
+          "appearance_count": 4,
+          "time_info": "[21时02分 ~ 21时43分]"
         }
       ]
     },
@@ -309,8 +331,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[13时42分 ~ 21时03分]"
+          "appearance_count": 21,
+          "time_info": "[13时42分 ~ 21时43分]"
         }
       ]
     }
