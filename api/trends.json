@@ -1,22 +1,34 @@
 {
-  "generated_at": "2025-12-22T08:48:39.615030+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-12-22T10:54:24.996972+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
           "url": "https://wallstreetcn.com/articles/3761798",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时48分 ~ 10时54分]"
+        },
+        {
+          "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
+          "url": "https://wallstreetcn.com/articles/3761792",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时48分"
+          "time_info": "10时54分"
         }
       ]
     },
@@ -51,6 +63,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "一纸判决，千亿回归：马斯克成为史上首位7000亿美元富豪",
+          "url": "https://wallstreetcn.com/articles/3761794",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         }
       ]
     },
