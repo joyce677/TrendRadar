@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T15:20:20.134575+08:00",
-  "total_titles_processed": 1150,
+  "generated_at": "2025-12-22T16:22:50.025575+08:00",
+  "total_titles_processed": 1240,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "付鹏：决定2026全球资产涨跌的关键—AI“高速路”上，真有车跑吗? | Alpha峰会",
@@ -83,8 +83,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时12分 ~ 15时20分]"
+          "appearance_count": 18,
+          "time_info": "[01时12分 ~ 16时22分]"
         },
         {
           "title": "最快IPO AI公司诞生！MiniMax通过港交所聆讯 不足4年用户突破2亿",
@@ -131,11 +131,12 @@
           "ranks": [
             28,
             24,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时35分 ~ 15时20分]"
+          "appearance_count": 4,
+          "time_info": "[12时35分 ~ 16时22分]"
         },
         {
           "title": "线上考试疑用AI，韩国高校再曝集体作弊丑闻",
@@ -146,19 +147,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时25分 ~ 15时20分]"
+          "appearance_count": 3,
+          "time_info": "[14时25分 ~ 16时22分]"
         },
         {
           "title": "2025美股十大震撼事件：从关税风暴到AI狂潮 70万亿市场的盛宴与危机",
           "url": "https://www.cls.cn/detail/2236150",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 16时22分]"
         },
         {
           "title": "麦迪科技：带有丰富表情的AI陪伴机器人即将发布",
@@ -203,6 +205,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "MiniMax稀宇科技副总裁薛子钊：M2模型成为AI编程领域最大国产模型",
+          "url": "https://wallstreetcn.com/livenews/3024776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "让AI成为你的情绪垃圾桶",
@@ -260,6 +273,49 @@
       ]
     },
     {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "孟晓苏：国家下场整治唱衰楼市",
+          "url": "https://www.toutiao.com/trending/7585231803288649771/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            23,
+            30,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时12分 ~ 07时14分]"
+        },
+        {
+          "title": "中央经济工作会议勾勒房地产发展新逻辑：从“止跌回稳”到“着力稳定”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32222649",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时16分 ~ 01时13分]"
+        },
+        {
+          "title": "金十数据整理：每日房地产行业动态汇总（2025-12-22）",
+          "url": "https://flash.jin10.com/detail/20251222154323237800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -274,8 +330,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时16分 ~ 15时20分]"
+          "appearance_count": 21,
+          "time_info": "[00时16分 ~ 16时22分]"
         },
         {
           "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
@@ -320,38 +376,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时20分 ~ 07时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房价 楼市 房地产",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "孟晓苏：国家下场整治唱衰楼市",
-          "url": "https://www.toutiao.com/trending/7585231803288649771/",
-          "source": "今日头条",
-          "ranks": [
-            26,
-            23,
-            30,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时12分 ~ 07时14分]"
-        },
-        {
-          "title": "中央经济工作会议勾勒房地产发展新逻辑：从“止跌回稳”到“着力稳定”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32222649",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时16分 ~ 01时13分]"
         }
       ]
     }
