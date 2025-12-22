@@ -1,44 +1,23 @@
 {
-  "generated_at": "2025-12-22T14:54:56.188600+08:00",
-  "total_titles_processed": 861,
+  "generated_at": "2025-12-22T15:16:02.454191+08:00",
+  "total_titles_processed": 928,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
-          "url": "https://wallstreetcn.com/articles/3761798",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时48分 ~ 14时54分]"
-        },
-        {
-          "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
-          "url": "https://wallstreetcn.com/articles/3761792",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时54分 ~ 14时54分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "现代汽车集团将阐述通过人机协作加速人工智能机器人商业化的战略。",
+          "url": "https://flash.jin10.com/detail/20251222150907994800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
+        },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-22）",
           "url": "https://flash.jin10.com/detail/20251222115948930800",
@@ -65,6 +44,38 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
+          "url": "https://wallstreetcn.com/articles/3761798",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[08时48分 ~ 15时16分]"
+        },
+        {
+          "title": "“AI取代搜索”是伪命题？市场发现：谷歌才是对的！",
+          "url": "https://wallstreetcn.com/articles/3761792",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时54分 ~ 15时16分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克",
       "match_count": 2,
       "titles": [
@@ -77,8 +88,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时54分 ~ 14时54分]"
+          "appearance_count": 8,
+          "time_info": "[10时54分 ~ 15时16分]"
         },
         {
           "title": "马斯克成史上首位身家超7千亿美元富豪",
