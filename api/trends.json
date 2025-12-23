@@ -1,8 +1,47 @@
 {
-  "generated_at": "2025-12-24T00:19:52.327254+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-12-24T01:16:13.777033+08:00",
+  "total_titles_processed": 382,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "AI",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "智谱、 MiniMax 争夺「全球大模型第一股」，高瓴双线押注，预示着 AI 行业怎样的新格局？",
+          "url": "https://www.zhihu.com/question/1985979705279673214",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 01时16分]"
+        },
+        {
+          "title": "UP主用AI改写三体名场面",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时15分 ~ 01时16分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任凯文·哈塞特：AI生产力繁荣体现在美国经济数据中。",
+          "url": "https://wallstreetcn.com/livenews/3025695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时16分"
+        }
+      ]
+    },
     {
       "keyword_group": "房价 楼市 房地产",
       "match_count": 1,
@@ -12,11 +51,12 @@
           "url": "https://www.toutiao.com/trending/7586594093076332585/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "appearance_count": 3,
+          "time_info": "[00时19分 ~ 01时16分]"
         }
       ]
     }
