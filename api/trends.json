@@ -1,22 +1,23 @@
 {
-  "generated_at": "2025-12-24T01:27:54.020395+08:00",
-  "total_titles_processed": 369,
+  "generated_at": "2025-12-24T02:41:21.593889+08:00",
+  "total_titles_processed": 421,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
           "url": "https://wallstreetcn.com/articles/3761868",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 02时41分]"
         },
         {
           "title": "美国国会山成员寻求将总统特朗普的名字移出肯尼迪中心。（纽约时报）",
@@ -25,20 +26,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
         },
         {
-          "title": "据纽约时报：美国国会山成员寻求将特朗普的名字移出肯尼迪中心。",
-          "url": "https://flash.jin10.com/detail/20251224010805922800",
+          "title": "特朗普批评市场“利好不涨”反常现象，并警告异见者休想掌舵美联储",
+          "url": "https://flash.jin10.com/detail/20251224021338133800",
           "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时27分"
+          "time_info": "02时41分"
+        },
+        {
+          "title": "美国总统特朗普：如果任由“书呆子”摧毁上升趋势，一个国家在经济上永远无法伟大。",
+          "url": "https://flash.jin10.com/detail/20251224020502344800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
         },
         {
           "title": "美国白宫国家经济委员会主任凯文·哈塞特：总统特朗普有大量关于住房经适性（可担负能力）计划的选项。",
@@ -46,11 +58,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            13
+            13,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 02时41分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：特朗普有很多住房可负担性方案可供选择。",
@@ -77,6 +90,29 @@
           "time_info": "[00时37分 ~ 01时27分]"
         },
         {
+          "title": "据纽约时报：美国国会山成员寻求将特朗普的名字移出肯尼迪中心。",
+          "url": "https://flash.jin10.com/detail/20251224010805922800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时41分]"
+        },
+        {
+          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
+          "url": "https://news.ifeng.com/c/8pJycIBu5di",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 02时41分]"
+        },
+        {
           "title": "美国白宫国家经济委员会主任哈塞特：美国总统特朗普的贸易议程正在显现成效。",
           "url": "https://flash.jin10.com/detail/20251224001014417800",
           "source": "金十数据",
@@ -89,17 +125,6 @@
           "time_info": "[00时37分 ~ 01时27分]"
         },
         {
-          "title": "泰国外长：上次停火谈判太仓促，就为了给特朗普面子",
-          "url": "https://news.ifeng.com/c/8pJycIBu5di",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时27分]"
-        },
-        {
           "title": "特朗普又自恋,新战舰用自己名",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348288&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%88%E8%87%AA%E6%81%8B%2C%E6%96%B0%E6%88%98%E8%88%B0%E7%94%A8%E8%87%AA%E5%B7%B1%E5%90%8D",
           "source": "贴吧",
@@ -107,20 +132,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时27分]"
-        },
-        {
-          "title": "特朗普将建特朗普级新型战舰",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 02时41分]"
         },
         {
           "title": "“特朗普级”新型战列舰命名打破惯例",
@@ -129,22 +142,37 @@
           "ranks": [
             25,
             16,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 02时41分]"
+        },
+        {
+          "title": "特朗普将建特朗普级新型战舰",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E5%BB%BA%E7%89%B9%E6%9C%97%E6%99%AE%E7%BA%A7%E6%96%B0%E5%9E%8B%E6%88%98%E8%88%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 02时41分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
           "url": "https://www.toutiao.com/trending/7586636403350556196/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 02时41分]"
         },
         {
           "title": "布林肯为何对特朗普发出严厉警告",
@@ -152,11 +180,78 @@
           "source": "今日头条",
           "ranks": [
             27,
-            20
+            20,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时37分 ~ 01时27分]"
+          "appearance_count": 3,
+          "time_info": "[00时37分 ~ 02时41分]"
+        },
+        {
+          "title": "特朗普：和我持不同意见的人将永远无法成为美联储主席",
+          "url": "https://wallstreetcn.com/livenews/3025716",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "美国总统特朗普：希望市场能在好消息时上涨，在坏消息时下跌。",
+          "url": "https://flash.jin10.com/detail/20251224020037610800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "美国总统特朗普：通货膨胀会自行解决。",
+          "url": "https://flash.jin10.com/detail/20251224020017627800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "美国议员提起诉讼，指控特朗普擅自变更肯尼迪中心的做法违规",
+          "url": "https://wallstreetcn.com/livenews/3025709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "美国总统特朗普：任何反对我的人都永远得不到美联储主席职位。如果市场表现良好，我希望新任美联储主席降低利率。",
+          "url": "https://flash.jin10.com/detail/20251224015744458800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "美新型战舰被命名为特朗普级你咋看",
+          "url": "https://www.toutiao.com/trending/7586859203608772635/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
         },
         {
           "title": "美国总统特朗普：我与哈萨克斯坦总统、乌兹别克斯坦总统通电话。 美方将邀请两国参加（美国在2026年轮值主办的）二十国集团（G20）峰会。",
@@ -194,8 +289,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 02时41分]"
         },
         {
           "title": "黄金再创新高, 现货黄金首次站上 4400 美元 / 盎司，今年以来累涨近 68%，金价后续怎么走？",
@@ -205,8 +300,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 02时41分]"
         },
         {
           "title": "金价",
@@ -234,18 +329,41 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "强劲GDP打击降息预期，美股低开，金银铜再创新高，伦铜突破1.2万美元，日元两日反弹",
           "url": "https://wallstreetcn.com/articles/3761906",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时36分 ~ 01时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时36分 ~ 02时41分]"
+        },
+        {
+          "title": "金十图示：2025年12月23日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251224013118079800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
+        },
+        {
+          "title": "金十图示：2025年12月23日（周二）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20251224013027114800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时41分"
         }
       ]
     },
@@ -258,11 +376,12 @@
           "url": "https://wallstreetcn.com/livenews/3025706",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时27分 ~ 02时41分]"
         }
       ]
     }
