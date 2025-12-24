@@ -1,8 +1,76 @@
 {
-  "generated_at": "2025-12-24T09:07:22.503026+08:00",
-  "total_titles_processed": 789,
+  "generated_at": "2025-12-24T11:19:54.458862+08:00",
+  "total_titles_processed": 943,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "AI",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "UP主用AI改写三体名场面",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20,
+            23,
+            9,
+            28,
+            25,
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时15分 ~ 11时19分]"
+        },
+        {
+          "title": "【英伟达放风春节前向中国客户交付H200芯片】英伟达已告知中国客户，计划于明年2月中旬，即中国农历春节前向中国客户交付其性能排名第二的人工智能（AI）芯片H200。其中两位消息人士称，英伟达计划动用库存履行首批订单，预计发货总量为5000至10000套芯片模组，相当于约4万至8万颗 H200芯片。（环球网）",
+          "url": "https://wallstreetcn.com/livenews/3025803",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        },
+        {
+          "title": "智谱、 MiniMax 争夺「全球大模型第一股」，高瓴双线押注，预示着 AI 行业怎样的新格局？",
+          "url": "https://www.zhihu.com/question/1985979705279673214",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时15分 ~ 02时22分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任凯文·哈塞特：AI生产力繁荣体现在美国经济数据中。",
+          "url": "https://wallstreetcn.com/livenews/3025695",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时16分 ~ 02时22分]"
+        },
+        {
+          "title": "韩国产业通商资源部周三表示，政府明年将投入7000亿韩元（约合4.78亿美元）用于支持制造业人工智能（AI）转型项目，包括开发设备端人工智能芯片和出口人工智能工厂。",
+          "url": "https://flash.jin10.com/detail/20251224103822372800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        }
+      ]
+    },
     {
       "keyword_group": "房价 楼市 房地产",
       "match_count": 4,
@@ -55,68 +123,12 @@
           "source": "百度热搜",
           "ranks": [
             12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时14分 ~ 09时07分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "UP主用AI改写三体名场面",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%94%B9%E5%86%99%E4%B8%89%E4%BD%93%E5%90%8D%E5%9C%BA%E9%9D%A2",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            23,
-            9,
-            28,
-            25,
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时15分 ~ 09时07分]"
-        },
-        {
-          "title": "【英伟达放风春节前向中国客户交付H200芯片】英伟达已告知中国客户，计划于明年2月中旬，即中国农历春节前向中国客户交付其性能排名第二的人工智能（AI）芯片H200。其中两位消息人士称，英伟达计划动用库存履行首批订单，预计发货总量为5000至10000套芯片模组，相当于约4万至8万颗 H200芯片。（环球网）",
-          "url": "https://wallstreetcn.com/livenews/3025803",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "智谱、 MiniMax 争夺「全球大模型第一股」，高瓴双线押注，预示着 AI 行业怎样的新格局？",
-          "url": "https://www.zhihu.com/question/1985979705279673214",
-          "source": "知乎",
-          "ranks": [
-            14
+            17,
+            24
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时15分 ~ 02时22分]"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任凯文·哈塞特：AI生产力繁荣体现在美国经济数据中。",
-          "url": "https://wallstreetcn.com/livenews/3025695",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 02时22分]"
+          "time_info": "[07时14分 ~ 11时19分]"
         }
       ]
     },
