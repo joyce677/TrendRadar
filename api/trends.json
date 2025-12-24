@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T06:15:23.253037+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2025-12-25T07:14:47.977745+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 07时14分]"
         },
         {
           "title": "北京祭出楼市调控组合拳：放松限购、优化信贷、审批提速",
@@ -27,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 07时14分]"
         },
         {
           "title": "北京楼市新政：放宽非京籍家庭购房条件、支持多子女家庭住房需求",
@@ -39,8 +39,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 07时14分]"
         },
         {
           "title": "北京楼市新政：放宽非京籍家庭购房条件 支持多子女家庭住房需求",
@@ -51,8 +51,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 06时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 07时14分]"
         },
         {
           "title": "标普500指数初步收涨0.3%，在清淡的行情中创收盘历史新高，日用消费品、房地产、保健、公用事业板块至多涨约0.9%，科技、电信板块涨0.1%，能源板块跌超0.2%。 纳斯达克100指数初步收涨0.3%，成分股中，美光科技初步收涨3.6%，拼多多涨1.3%，迈威尔科技跌1.4%，Datadog跌2.3%。 耐克初步收涨4.5%，Merck、迪士尼、强生等涨超1%，领跑道指成分股，英伟达则跌0.4%。",
@@ -87,22 +87,24 @@
           "url": "https://flash.jin10.com/detail/20251225053135051800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时14分]"
         },
         {
           "title": "英伟达以约200亿美元现金收购AI芯片初创公司Groq",
           "url": "https://flash.jin10.com/detail/20251225051502192800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时15分 ~ 07时14分]"
         },
         {
           "title": "报道：英伟达历史上最大规模收购案，拟按200亿美元现金收购AI芯片初创公司Groq",
@@ -111,7 +113,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
         }
@@ -119,7 +121,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "特朗普前政府效率部DOGE顾问马斯克：AI可帮助美国GDP五年实现三位数增长",
@@ -141,11 +143,40 @@
           "ranks": [
             9,
             10,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时16分 ~ 06时15分]"
+          "appearance_count": 4,
+          "time_info": "[04时16分 ~ 07时14分]"
+        },
+        {
+          "title": "马斯克：xAI五年内的AI算力将超过其他人的总和。",
+          "url": "https://wallstreetcn.com/livenews/3026368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Waymo拟为无人驾驶出租车接入Gemini AI助手",
+          "url": "https://wallstreetcn.com/livenews/3026375",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时14分"
         }
       ]
     },
