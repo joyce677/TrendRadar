@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-24T17:31:53.721279+08:00",
-  "total_titles_processed": 1410,
+  "generated_at": "2025-12-24T18:30:55.539203+08:00",
+  "total_titles_processed": 1490,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "特朗普公布 \"黄金舰队\"计划，首艘舰艇预计在2028年完工",
@@ -89,11 +89,12 @@
             19,
             21,
             23,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时36分 ~ 17时31分]"
+          "appearance_count": 22,
+          "time_info": "[00时36分 ~ 18时30分]"
         },
         {
           "title": "爱泼斯坦案文件恢复 特朗普出镜两次",
@@ -107,6 +108,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时36分 ~ 07时26分]"
+        },
+        {
+          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
+          "url": "https://wallstreetcn.com/articles/3761946",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时01分 ~ 18时30分]"
         },
         {
           "title": "特朗普表示不同意其观点的人不会成为美联储主席 | 环球市场",
@@ -135,20 +150,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[04时30分 ~ 13时31分]"
-        },
-        {
-          "title": "特朗普提必要条件：敢降息，“不同意永远不可能成为美联储主席”",
-          "url": "https://wallstreetcn.com/articles/3761946",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时01分 ~ 17时31分]"
         },
         {
           "title": "“特朗普级”新型战列舰命名打破惯例",
@@ -194,6 +195,18 @@
           "time_info": "[02时41分 ~ 10时07分]"
         },
         {
+          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
+          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时30分]"
+        },
+        {
           "title": "美国国会山成员寻求将总统特朗普的名字移出肯尼迪中心。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3025709",
           "source": "华尔街见闻-快讯",
@@ -203,17 +216,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时27分"
-        },
-        {
-          "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
-          "url": "https://news.ifeng.com/c/8pLddKy6eAN",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
         },
         {
           "title": "特朗普再谈格陵兰问题 还提到中国",
@@ -495,13 +497,24 @@
           "time_info": "[10时06分 ~ 10时07分]"
         },
         {
+          "title": "特朗普要建“特朗普级”战列舰，称战力爆棚，专家打出多个问号",
+          "url": "https://news.ifeng.com/c/8pLfVGV6nLv",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        },
+        {
           "title": "美联储“2025回忆录”：特朗普威压下坚守独立，降息75基点后明年何去何从？",
           "url": "https://www.cls.cn/detail/2238581",
           "source": "财联社热门",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时31分"
         },
@@ -564,7 +577,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股收盘：日线四连涨标普收新高 英伟达升3%领涨七巨头",
@@ -590,6 +603,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时36分 ~ 06时27分]"
+        },
+        {
+          "title": "耐克美股盘前涨超2%，苹果首席执行官蒂姆·库克于12月22日购入价值295万美元的耐克股票。",
+          "url": "https://wallstreetcn.com/livenews/3026156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
         },
         {
           "title": "金银铜携手创新高 强势GDP数据压制美股期指 | 今夜看点",
@@ -754,6 +778,31 @@
           "time_info": "[00时36分 ~ 07时26分]"
         },
         {
+          "title": "金价银价铜价均创历史新高",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E9%93%9C%E4%BB%B7%E5%9D%87%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
+          "source": "百度热搜",
+          "ranks": [
+            27,
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 18时30分]"
+        },
+        {
+          "title": "Dynavax美股盘前涨近38%，赛诺菲以每股15.5美元的现金价格收购该公司。",
+          "url": "https://wallstreetcn.com/livenews/3026125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 18时30分]"
+        },
+        {
           "title": "金价癫了",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E7%99%AB%E4%BA%86%23&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -763,29 +812,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时06分 ~ 10时07分]"
-        },
-        {
-          "title": "金价银价铜价均创历史新高",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E9%93%9C%E4%BB%B7%E5%9D%87%E5%88%9B%E5%8E%86%E5%8F%B2%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 17时31分]"
-        },
-        {
-          "title": "Dynavax美股盘前涨近38%，赛诺菲以每股15.5美元的现金价格收购该公司。",
-          "url": "https://wallstreetcn.com/livenews/3026125",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时31分"
         },
         {
           "title": "金十图示：2025年12月24日（周三）上海金午盘价为1008.94元/克，较国际金价(1012.11元/克)，低3.17元/克",
@@ -888,6 +914,47 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伊朗为何愿联合委内瑞拉对抗美威胁",
+          "url": "https://www.toutiao.com/trending/7587300342778301988/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时38分 ~ 18时30分]"
+        },
+        {
+          "title": "伊朗在安理会感谢中国",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%9C%A8%E5%AE%89%E7%90%86%E4%BC%9A%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时06分 ~ 10时07分]"
+        },
+        {
+          "title": "伊朗代表：感谢中俄",
+          "url": "https://www.douyin.com/hot/2345871",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -928,8 +995,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时06分 ~ 17时31分]"
+          "appearance_count": 11,
+          "time_info": "[10时06分 ~ 18时30分]"
         },
         {
           "title": "两年期美债收益率涨超2个基点，美国GDP等数据带来一波低位反弹行情",
@@ -945,31 +1012,19 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 2,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
       "titles": [
         {
-          "title": "伊朗为何愿联合委内瑞拉对抗美威胁",
-          "url": "https://www.toutiao.com/trending/7587300342778301988/",
-          "source": "今日头条",
+          "title": "腾讯元宝DeepSeek模式使用量较年初增长超100倍",
+          "url": "https://wallstreetcn.com/livenews/3026145",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            30
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时38分 ~ 17时31分]"
-        },
-        {
-          "title": "伊朗在安理会感谢中国",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%9C%A8%E5%AE%89%E7%90%86%E4%BC%9A%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 10时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时30分"
         }
       ]
     },
