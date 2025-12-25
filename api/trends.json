@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T19:02:54.989477+08:00",
-  "total_titles_processed": 1265,
+  "generated_at": "2025-12-25T19:35:46.848316+08:00",
+  "total_titles_processed": 1304,
   "failed_sources": [],
   "trends": [
     {
@@ -31,11 +31,12 @@
             9,
             10,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时40分 ~ 19时02分]"
+          "appearance_count": 10,
+          "time_info": "[15时40分 ~ 19时35分]"
         },
         {
           "title": "马斯克：xAI五年内的AI算力将超过其他人的总和。",
@@ -64,6 +65,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI的“广告模式”已初具雏形",
+          "url": "https://wallstreetcn.com/articles/3762036",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
         }
       ]
     },
