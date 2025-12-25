@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-25T21:47:45.151776+08:00",
-  "total_titles_processed": 1476,
+  "generated_at": "2025-12-25T22:02:46.821676+08:00",
+  "total_titles_processed": 1493,
   "failed_sources": [],
   "trends": [
     {
@@ -35,19 +35,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时40分 ~ 21时47分]"
+          "appearance_count": 14,
+          "time_info": "[15时40分 ~ 22时02分]"
         },
         {
           "title": "马斯克预测美国经济18个月内实现两位数增长，AI成关键驱动力",
           "url": "https://wallstreetcn.com/articles/3762031",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时47分 ~ 22时02分]"
         },
         {
           "title": "马斯克：xAI五年内的AI算力将超过其他人的总和。",
@@ -72,11 +73,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时06分 ~ 21时47分]"
+          "appearance_count": 3,
+          "time_info": "[21时06分 ~ 22时02分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-12-25）",
@@ -105,7 +107,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Waymo拟为无人驾驶出租车接入Gemini AI助手",
@@ -117,6 +119,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
+        },
+        {
+          "title": "微软谷歌开启“抢芯”模式，派员工常驻韩国，拿不到三星、SK海力士芯片就会被解雇",
+          "url": "https://wallstreetcn.com/livenews/3026771",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         }
       ]
     },
@@ -130,11 +143,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时35分 ~ 21时47分]"
+          "appearance_count": 5,
+          "time_info": "[19时35分 ~ 22时02分]"
         }
       ]
     }
