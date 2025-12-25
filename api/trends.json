@@ -1,8 +1,36 @@
 {
-  "generated_at": "2025-12-25T12:55:08.759114+08:00",
-  "total_titles_processed": 667,
+  "generated_at": "2025-12-25T13:15:35.368625+08:00",
+  "total_titles_processed": 696,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "AI带来飞跃？马斯克大胆预言：美国经济将现两位数增长！",
+          "url": "https://www.cls.cn/detail/2239492",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
+        },
+        {
+          "title": "马斯克：xAI五年内的AI算力将超过其他人的总和。",
+          "url": "https://wallstreetcn.com/livenews/3026368",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时45分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
@@ -35,23 +63,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时55分 ~ 12时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克：xAI五年内的AI算力将超过其他人的总和。",
-          "url": "https://wallstreetcn.com/livenews/3026368",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时45分"
         }
       ]
     }
