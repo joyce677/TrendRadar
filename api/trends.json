@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-27T01:13:50.256376+08:00",
-  "total_titles_processed": 360,
+  "generated_at": "2025-12-27T02:22:19.191116+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "华为：全球悬赏300万元解决AI时代的存储难题",
@@ -15,8 +15,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时22分]"
         },
         {
           "title": "174名北大学生迎特殊考试：对决AI",
@@ -24,11 +24,12 @@
           "source": "百度热搜",
           "ranks": [
             20,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时22分]"
         },
         {
           "title": "AI音乐MV绩效改进计划",
@@ -36,11 +37,40 @@
           "source": "bilibili 热搜",
           "ranks": [
             22,
-            21
+            21,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时17分 ~ 01时13分]"
+          "appearance_count": 3,
+          "time_info": "[00时17分 ~ 02时22分]"
+        },
+        {
+          "title": "2025年度AI好用工具",
+          "url": "https://search.bilibili.com/all?keyword=2025%E5%B9%B4%E5%BA%A6AI%E5%A5%BD%E7%94%A8%E5%B7%A5%E5%85%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "越南房地产开发公司Vingroup（VIC.VN）收跌3.23%，报15.3万（越南盾），交易时段内大部分时间延续开盘跌停的状态，尾盘跌幅两度收窄。 本周，该公司股价累计涨幅收窄至4.38%——周一至周三持续上涨（周二至周四处于高位震荡状态）。 周四尾盘，该公司宣布放弃对（关于南北高铁）政府项目的投资计划。",
+          "url": "https://wallstreetcn.com/livenews/3027419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时22分"
         }
       ]
     }
