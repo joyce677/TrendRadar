@@ -1,22 +1,34 @@
 {
-  "generated_at": "2025-12-26T09:08:35.119576+08:00",
-  "total_titles_processed": 660,
+  "generated_at": "2025-12-26T11:20:38.000086+08:00",
+  "total_titles_processed": 813,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "AI“世界模型”来袭：全球游戏产业或迎来颠覆时刻",
           "url": "https://www.cls.cn/detail/2240453",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 09时08分]"
+          "appearance_count": 3,
+          "time_info": "[09时07分 ~ 11时20分]"
+        },
+        {
+          "title": "1200亿美元“幽灵债务”：翻开AI巨头们不想让你看的另一本账",
+          "url": "https://www.cls.cn/detail/2240534",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         },
         {
           "title": "机构：高市早苗、AI和企业改革为明年日股上涨铺平道路",
@@ -28,6 +40,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "联想将推出超级AI智能体，对标豆包手机助手",
+          "url": "https://wallstreetcn.com/livenews/3026959",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "画师全跑光,马斯克AI贴脸盗图",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
+          "source": "贴吧",
+          "ranks": [
+            13,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时18分 ~ 11时20分]"
+        },
+        {
+          "title": "解析马斯克25年最新火星移民计划",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E9%A9%AC%E6%96%AF%E5%85%8B25%E5%B9%B4%E6%9C%80%E6%96%B0%E7%81%AB%E6%98%9F%E7%A7%BB%E6%B0%91%E8%AE%A1%E5%88%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         }
       ]
     },
@@ -41,11 +94,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时18分 ~ 09时08分]"
+          "appearance_count": 16,
+          "time_info": "[00时18分 ~ 11时20分]"
         }
       ]
     },
@@ -63,24 +117,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时18分 ~ 07时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "画师全跑光,马斯克AI贴脸盗图",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348385&amp;topic_name=%E7%94%BB%E5%B8%88%E5%85%A8%E8%B7%91%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%B4%E8%84%B8%E7%9B%97%E5%9B%BE",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 09时08分]"
         }
       ]
     },
