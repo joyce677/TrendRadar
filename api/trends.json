@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-26T12:32:49.029440+08:00",
-  "total_titles_processed": 929,
+  "generated_at": "2025-12-26T13:18:02.036750+08:00",
+  "total_titles_processed": 967,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 12时32分]"
+          "appearance_count": 6,
+          "time_info": "[09时07分 ~ 13时18分]"
         },
         {
           "title": "1200亿美元“幽灵债务”：翻开AI巨头们不想让你看的另一本账",
@@ -25,22 +26,24 @@
           "source": "财联社热门",
           "ranks": [
             6,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时20分 ~ 12时32分]"
+          "appearance_count": 4,
+          "time_info": "[11时20分 ~ 13时18分]"
         },
         {
           "title": "AI音乐MV绩效改进计划",
           "url": "https://search.bilibili.com/all?keyword=AI%E9%9F%B3%E4%B9%90MV%E7%BB%A9%E6%95%88%E6%94%B9%E8%BF%9B%E8%AE%A1%E5%88%92",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            10,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时32分 ~ 13时18分]"
         },
         {
           "title": "如果只能用一个词来形容人和 AI 的区别以及人类的不可代替之处，你会选哪个词？为什么？",
@@ -49,9 +52,21 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时32分 ~ 13时18分]"
+        },
+        {
+          "title": "日本下一年预算案将芯片和AI领域的支持增加近三倍",
+          "url": "https://wallstreetcn.com/livenews/3027011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 13时18分]"
         },
         {
           "title": "机构：高市早苗、AI和企业改革为明年日股上涨铺平道路",
@@ -63,17 +78,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        },
-        {
-          "title": "日本下一年预算案将芯片和AI领域的支持增加近三倍",
-          "url": "https://wallstreetcn.com/livenews/3027011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
         },
         {
           "title": "联想将推出超级AI智能体，对标豆包手机助手",
@@ -90,7 +94,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "画师全跑光,马斯克AI贴脸盗图",
@@ -100,22 +104,65 @@
             13,
             14,
             17,
-            20
+            20,
+            22
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时18分 ~ 12时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时18分 ~ 13时18分]"
         },
         {
           "title": "解析马斯克25年最新火星移民计划",
           "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E6%9E%90%E9%A9%AC%E6%96%AF%E5%85%8B25%E5%B9%B4%E6%9C%80%E6%96%B0%E7%81%AB%E6%98%9F%E7%A7%BB%E6%B0%91%E8%AE%A1%E5%88%92",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时20分 ~ 13时18分]"
+        },
+        {
+          "title": "马斯克今年赚了地球上其他人一生都赚不到的钱！",
+          "url": "https://www.cls.cn/detail/2240694",
+          "source": "财联社热门",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时20分 ~ 12时32分]"
+          "time_info": "[13时17分 ~ 13时18分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "人民币汇率破7对房价股市有何影响",
+          "url": "https://www.toutiao.com/trending/7587658680007396883/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 07时15分]"
+        },
+        {
+          "title": "2026年中国房地产迎关键发展",
+          "url": "https://www.toutiao.com/trending/7587989308707966483/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时17分 ~ 13时18分]"
         }
       ]
     },
@@ -133,8 +180,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时18分 ~ 12时32分]"
+          "appearance_count": 19,
+          "time_info": "[00时18分 ~ 13时18分]"
         }
       ]
     },
@@ -151,25 +198,6 @@
           ],
           "is_new": false,
           "appearance_count": 13,
-          "time_info": "[00时18分 ~ 07时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房价 楼市 房地产",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "人民币汇率破7对房价股市有何影响",
-          "url": "https://www.toutiao.com/trending/7587658680007396883/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
           "time_info": "[00时18分 ~ 07时15分]"
         }
       ]
