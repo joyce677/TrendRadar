@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T10:44:30.332354+08:00",
-  "total_titles_processed": 441,
+  "generated_at": "2025-12-27T11:49:30.401991+08:00",
+  "total_titles_processed": 526,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时44分 ~ 10时44分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "grok",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克转发粉丝“DogeDesigner”的帖子，声称Grok的日活跃用户在过去28天里增长了66.17%。",
+          "url": "https://flash.jin10.com/detail/20251227110815326800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时49分"
         }
       ]
     }
