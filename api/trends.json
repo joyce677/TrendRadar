@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-28T13:32:26.762622+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2025-12-28T14:41:07.843348+08:00",
+  "total_titles_processed": 767,
   "failed_sources": [],
   "trends": [
     {
@@ -94,6 +94,17 @@
           "time_info": "[10时26分 ~ 12时12分]"
         },
         {
+          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
+          "url": "https://wallstreetcn.com/articles/3762196",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时32分 ~ 14时41分]"
+        },
+        {
           "title": "泽连斯基：将在特朗普会晤后与欧洲领导人举行会谈",
           "url": "https://flash.jin10.com/detail/20251228090239381800",
           "source": "金十数据",
@@ -130,24 +141,13 @@
           "time_info": "[10时26分 ~ 12时12分]"
         },
         {
-          "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
-          "url": "https://wallstreetcn.com/articles/3762196",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
-        },
-        {
           "title": "特朗普为美国带来了什么改变",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E7%BE%8E%E5%9B%BD%E5%B8%A6%E6%9D%A5%E4%BA%86%E4%BB%80%E4%B9%88%E6%94%B9%E5%8F%98",
           "source": "bilibili 热搜",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -158,7 +158,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时32分"
         },
@@ -199,19 +199,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 14时41分]"
         },
         {
           "title": "佩泽希齐扬：伊朗正与美欧打“全面战争”",
           "url": "https://flash.jin10.com/detail/20251228132149206800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时32分 ~ 14时41分]"
+        },
+        {
+          "title": "伊朗总统：正与美欧打“全面战争”",
+          "url": "https://www.toutiao.com/trending/7588334047006834729/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时32分 ~ 14时41分]"
         },
         {
           "title": "伊朗总统称，如今伊朗的军队和武器比以色列夏季发动袭击时更加强大。",
@@ -236,17 +249,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时26分 ~ 12时12分]"
-        },
-        {
-          "title": "伊朗总统：正与美欧打“全面战争”",
-          "url": "https://www.toutiao.com/trending/7588334047006834729/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时32分"
         }
       ]
     },
