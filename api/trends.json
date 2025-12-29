@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-29T11:44:12.528618+08:00",
-  "total_titles_processed": 851,
+  "generated_at": "2025-12-29T12:44:12.891278+08:00",
+  "total_titles_processed": 939,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "用一个字证明自己不是AI",
@@ -29,11 +29,12 @@
             5,
             4,
             13,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时17分 ~ 11时44分]"
+          "appearance_count": 14,
+          "time_info": "[00时17分 ~ 12时44分]"
         },
         {
           "title": "为优先给AI数据中心供电，特朗普要抢美国电网监管权",
@@ -67,6 +68,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时13分 ~ 09时14分]"
+        },
+        {
+          "title": "火山引擎官宣成为总台春晚独家AI云合作伙伴",
+          "url": "https://wallstreetcn.com/livenews/3027884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时44分"
         }
       ]
     },
@@ -106,11 +118,12 @@
           "url": "https://www.cls.cn/detail/2242324",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时43分 ~ 11时44分]"
+          "appearance_count": 4,
+          "time_info": "[11时43分 ~ 12时44分]"
         }
       ]
     },
@@ -149,6 +162,23 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "巴菲特谢幕、OpenAI搅动万亿市值、谷歌强势崛起......2025全球十大商业事件盘点",
+          "url": "https://wallstreetcn.com/articles/3762142",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 12时44分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -160,8 +190,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时13分 ~ 11时44分]"
+          "appearance_count": 6,
+          "time_info": "[09时13分 ~ 12时44分]"
         }
       ]
     }
