@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-29T17:19:02.710937+08:00",
-  "total_titles_processed": 1104,
+  "generated_at": "2025-12-29T17:48:54.810025+08:00",
+  "total_titles_processed": 1171,
   "failed_sources": [],
   "trends": [
     {
@@ -28,6 +28,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-29）",
+          "url": "https://flash.jin10.com/detail/20251229115348182800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时03分 ~ 13时49分]"
+        },
+        {
+          "title": "人工智能泡沫因何而起",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%B3%A1%E6%B2%AB%E5%9B%A0%E4%BD%95%E8%80%8C%E8%B5%B7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时48分"
         }
       ]
     },
@@ -77,24 +106,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[08时51分 ~ 13时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-12-29）",
-          "url": "https://flash.jin10.com/detail/20251229115348182800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时03分 ~ 13时49分]"
         }
       ]
     },
