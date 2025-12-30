@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-30T09:08:37.446277+08:00",
-  "total_titles_processed": 785,
+  "generated_at": "2025-12-30T11:23:45.087602+08:00",
+  "total_titles_processed": 938,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "年终盘点|DeepSeek点燃AI热，贵金属引领周期逆袭，商业航天奏响年末最强音......一文看懂2025年A股热炒题材",
@@ -25,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 09时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 11时23分]"
         },
         {
           "title": "2025最全AI成果盘点",
@@ -58,8 +59,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时14分 ~ 09时08分]"
+          "appearance_count": 12,
+          "time_info": "[01时14分 ~ 11时23分]"
         },
         {
           "title": "用一个字证明自己不是AI",
@@ -82,11 +83,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%B3%B0%E6%9F%AC%E4%B8%8EAI%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E5%85%A8%E7%90%83%E7%BB%8F%E6%B5%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 11时23分]"
         },
         {
           "title": "“AI教父”拉响警报",
@@ -115,6 +117,39 @@
           "time_info": "[07时14分 ~ 09时08分]"
         },
         {
+          "title": "盘点2025年度AI大事件",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B92025%E5%B9%B4%E5%BA%A6AI%E5%A4%A7%E4%BA%8B%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "原告向法庭出示带豆包生成伪证被训诫，这一处罚合理吗? 若未来 AI 造假无破绽，司法与公众该如何应对？",
+          "url": "https://www.zhihu.com/question/1988511175416239504",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
+          "title": "成立不到3年，被Meta数十亿美元收购！Manus成为“AI时代中国创业新标杆”",
+          "url": "https://wallstreetcn.com/articles/3762279",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
           "title": "Meta公司首席人工智能官ALEXANDR WANG：很高兴宣布，Manus AI已加入Meta公司，助力我们打造人工智能产品。",
           "url": "https://flash.jin10.com/detail/20251230062733774800",
           "source": "金十数据",
@@ -137,6 +172,17 @@
           "time_info": "07时15分"
         },
         {
+          "title": "员工因岗位被 AI 替代遭解雇，法院认定构成违法解除劳动合同，怎样解读这一判罚？",
+          "url": "https://www.zhihu.com/question/1987934900884637667",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡声称：计划让以色列成为人工智能（AI）科技领域的主导者。",
           "url": "https://wallstreetcn.com/livenews/3028222",
           "source": "华尔街见闻-快讯",
@@ -151,8 +197,19 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "白银急涨，马斯克竟拿中国出口管制说事",
+          "url": "https://news.ifeng.com/c/8pV3sa1vSnJ",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时23分"
+        },
         {
           "title": "马斯克与内塔尼亚胡讨论AI和自动驾驶合作，将于明年3月访问以色列",
           "url": "https://wallstreetcn.com/livenews/3028400",
@@ -160,7 +217,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
         }
