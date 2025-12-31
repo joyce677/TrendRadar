@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-31T14:16:41.492520+08:00",
-  "total_titles_processed": 757,
+  "generated_at": "2025-12-31T14:54:44.979144+08:00",
+  "total_titles_processed": 811,
   "failed_sources": [],
   "trends": [
     {
@@ -43,6 +43,48 @@
       ]
     },
     {
+      "keyword_group": "人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-12-31）",
+          "url": "https://flash.jin10.com/detail/20251231120016489800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            8,
+            13,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时29分 ~ 13时46分]"
+        },
+        {
+          "title": "报道：人工智能公司MiniMax香港IPO吸引数倍申购",
+          "url": "https://wallstreetcn.com/livenews/3029124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
+        },
+        {
+          "title": "印度已邀请中国参加全球人工智能峰会",
+          "url": "https://wallstreetcn.com/livenews/3028952",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI",
       "match_count": 3,
       "titles": [
@@ -75,37 +117,6 @@
           "source": "财联社热门",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-12-31）",
-          "url": "https://flash.jin10.com/detail/20251231120016489800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            8,
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时29分 ~ 13时46分]"
-        },
-        {
-          "title": "印度已邀请中国参加全球人工智能峰会",
-          "url": "https://wallstreetcn.com/livenews/3028952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 1,
