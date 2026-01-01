@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T15:30:17.587585+08:00",
-  "total_titles_processed": 1083,
+  "generated_at": "2026-01-01T16:38:11.417953+08:00",
+  "total_titles_processed": 1170,
   "failed_sources": [],
   "trends": [
     {
@@ -242,6 +242,19 @@
           "time_info": "[00时34分 ~ 06时28分]"
         },
         {
+          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
+          "url": "https://www.cls.cn/detail/2246008",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[10时27分 ~ 16时38分]"
+        },
+        {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
           "url": "https://www.cls.cn/detail/2245895",
           "source": "财联社热门",
@@ -251,18 +264,6 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时34分 ~ 07时27分]"
-        },
-        {
-          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
-          "url": "https://www.cls.cn/detail/2246008",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时27分 ~ 15时30分]"
         },
         {
           "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股收盘）",
@@ -407,8 +408,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时27分 ~ 15时30分]"
+          "appearance_count": 11,
+          "time_info": "[10时27分 ~ 16时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价波动",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时37分 ~ 16时38分]"
         }
       ]
     },
