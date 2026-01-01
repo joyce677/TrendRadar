@@ -1,536 +1,129 @@
 {
-  "generated_at": "2026-01-01T23:28:49.721891+08:00",
-  "total_titles_processed": 1538,
+  "generated_at": "2026-01-02T00:36:10.440248+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 21,
-      "titles": [
-        {
-          "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
-          "url": "https://news.ifeng.com/c/8pYFJNVmi6C",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时27分 ~ 15时30分]"
-        },
-        {
-          "title": "中方回应特朗普涉东部战区军演言论",
-          "url": "https://www.toutiao.com/trending/7589836293949902363/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            27,
-            20,
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时21分 ~ 07时27分]"
-        },
-        {
-          "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
-          "url": "https://news.ifeng.com/c/8pZG8Eef0SN",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时27分 ~ 23时28分]"
-        },
-        {
-          "title": "美法院裁定特朗普政府须将加州国民警卫队指挥权交还州长",
-          "url": "https://flash.jin10.com/detail/20260101101032999800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "美媒：特朗普每日服用阿司匹林剂量超出医嘱范围",
-          "url": "https://flash.jin10.com/detail/20260101224323084800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "美国总统特朗普宣布：从芝加哥、洛杉矶、波特兰撤走国民警卫队。",
-          "url": "https://wallstreetcn.com/livenews/3029479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
-          "url": "https://flash.jin10.com/detail/20260101184638613800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            15,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时24分 ~ 22时27分]"
-        },
-        {
-          "title": "特朗普称“凯旋门”将于两个月内开建",
-          "url": "https://flash.jin10.com/detail/20260101010133280800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            16,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时25分 ~ 03时22分]"
-        },
-        {
-          "title": "美法院裁定特朗普政府须将加州国民警卫队指挥权交还州长",
-          "url": "https://wallstreetcn.com/livenews/3029538",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 12时14分]"
-        },
-        {
-          "title": "美国总统特朗普引用《纽约邮报》的文章在Truth Social上发文称，普京关于“攻击”的强硬言论表明，俄罗斯是和平进程的主要阻碍方。",
-          "url": "https://flash.jin10.com/detail/20260101024610835800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时22分 ~ 04时31分]"
-        },
-        {
-          "title": "特朗普喊话“把索马里人送回去” 斥其祖国“全球最烂”",
-          "url": "https://flash.jin10.com/detail/20260101004424120800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 02时39分]"
-        },
-        {
-          "title": "美国总统特朗普：我们将从芝加哥、洛杉矶和波特兰撤回国民警卫队。",
-          "url": "https://flash.jin10.com/detail/20260101045615854800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时28分]"
-        },
-        {
-          "title": "特朗普施压下，委内瑞拉Orinoco Belt的石油产量两周骤降25%",
-          "url": "https://flash.jin10.com/detail/20260101054514817800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时27分]"
-        },
-        {
-          "title": "委内瑞拉Orinoco Belt的石油产量两周锐减25%，特朗普政府的封锁造成严重威胁",
-          "url": "https://wallstreetcn.com/livenews/3029490",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时27分]"
-        },
-        {
-          "title": "美国总统特朗普：共和党人别再给保险公司钱了。资金必须直接流向民众，让他们自行购买医疗保险。",
-          "url": "https://flash.jin10.com/detail/20260101043557341800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时28分]"
-        },
-        {
-          "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
-          "url": "https://flash.jin10.com/detail/20260101054057768800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时27分]"
-        },
-        {
-          "title": "迫于物价压力 特朗普推迟对家具及橱柜加征关税至2027年",
-          "url": "https://flash.jin10.com/detail/20260101113737125800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 13时35分]"
-        },
-        {
-          "title": "非洲股市收盘播报｜周三（12月31日），南非富时/JSE非洲领先40可交易指数收跌0.69%，报10.8万点，大致持稳于12月24日所创历史最高位（接近11.0万点）附近。 南非股市2025年累计上涨大约46.35%，虽然屡屡遭到特朗普政府的威胁，但月线上仍然全年走高、连续四个季度走强，并连续三年上涨。",
-          "url": "https://wallstreetcn.com/livenews/3029419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时25分]"
-        },
-        {
-          "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
-          "url": "https://wallstreetcn.com/livenews/3029479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时27分]"
-        },
-        {
-          "title": "美国白宫：特朗普总统签署公告，将软包家具、厨房橱柜和浴室柜的关税上调计划推迟一年。",
-          "url": "https://flash.jin10.com/detail/20260101111825003800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "美国白宫：特朗普总统调整了进入美国的木材、木料及其衍生产品的进口政策。",
-          "url": "https://flash.jin10.com/detail/20260101111709020800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
-          "url": "https://wallstreetcn.com/articles/3762305",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时34分 ~ 06时28分]"
-        },
-        {
-          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
-          "url": "https://www.cls.cn/detail/2246008",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            4,
-            3,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[10时27分 ~ 23时28分]"
-        },
-        {
-          "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2245895",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时34分 ~ 07时27分]"
-        },
-        {
-          "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260101050538351800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时28分]"
-        },
-        {
-          "title": "金十图示：2025年12月31日（周三）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260101013121522800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时39分 ~ 04时31分]"
-        },
-        {
-          "title": "金十图示：2025年12月31日（周三）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20260101013023765800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            20,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时39分 ~ 04时31分]"
-        },
-        {
-          "title": "（美股）费城金银指数收跌1.36%，报342.28点，12月份累计上涨5.45%。 （全球时段）纽约证交所ARCA金矿开采商指数收跌1.07%，报2442.86点，12月份累涨5.40%。 （美股）原材料指数跌1.00%，报226.15点，12月份累涨2.65%。 （美股）金属与矿业指数跌0.96%，报215.32点，12月份累涨5.10%。",
-          "url": "https://wallstreetcn.com/livenews/3029494",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时27分]"
-        },
-        {
-          "title": "美股2025年收官：三大股指均连续三年创新高",
-          "url": "https://flash.jin10.com/detail/20260101050341420800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时25分 ~ 06时28分]"
-        },
-        {
-          "title": "金十图示：2025年12月31日（周三）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260101050540160800",
-          "source": "金十数据",
-          "ranks": [
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时27分]"
-        },
-        {
-          "title": "行业ETF美股盘初涨跌各异，生物科技指数ETF跌0.36%，网络股指数ETF跌0.2%，能源业ETF跌0.1%，科技行业ETF涨0.1%，全球科技股指数ETF涨0.15%。",
-          "url": "https://wallstreetcn.com/livenews/3029404",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时35分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
         {
           "title": "梁文锋署名，DeepSeek元旦新论文要开启架构新篇章",
           "url": "https://wallstreetcn.com/articles/3762429",
           "source": "华尔街见闻",
           "ranks": [
-            5,
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时31分 ~ 23时28分]"
-        },
-        {
-          "title": "DeepSeek发布梁文锋署名新论文 开启架构新篇章",
-          "url": "https://wallstreetcn.com/livenews/3029596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            7,
-            11,
-            21,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时33分 ~ 22时27分]"
-        },
-        {
-          "title": "DeepSeek开年发布新论文",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E5%B9%B4%E5%8F%91%E5%B8%83%E6%96%B0%E8%AE%BA%E6%96%87",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时38分 ~ 23时28分]"
-        },
-        {
-          "title": "DeepSeek发布梁文锋署名新论文：提出mHC新架构 提升大模型训练稳定性",
-          "url": "https://flash.jin10.com/detail/20260101173343204800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            14,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时31分 ~ 21时39分]"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 00时36分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E5%8F%88%E5%8F%91%E8%AE%BA%E6%96%87%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
-            14,
-            13,
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时38分 ~ 23时28分]"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 00时36分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
-          "url": "https://www.toutiao.com/trending/7590319287114403334/",
-          "source": "今日头条",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E5%B9%B4%E5%8F%91%E5%B8%83%E6%96%B0%E8%AE%BA%E6%96%87",
+          "source": "百度热搜",
           "ranks": [
-            11
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时31分 ~ 19时24分]"
+          "time_info": "[00时35分 ~ 00时36分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
+          "url": "https://flash.jin10.com/detail/20260101230819093800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "报道：OpenAI整合团队开发音频AI模型，为发布AI个人设备铺路",
+          "url": "https://wallstreetcn.com/livenews/3029628",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "据The Information：OpenAI采取措施改进语音AI模型。",
+          "url": "https://flash.jin10.com/detail/20260101230736481800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
+          "url": "https://news.ifeng.com/c/8pZG8Eef0SN",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 00时36分]"
+        },
+        {
+          "title": "美媒：特朗普每日服用阿司匹林剂量超出医嘱范围",
+          "url": "https://flash.jin10.com/detail/20260101224323084800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时36分"
+        },
+        {
+          "title": "特朗普行使连任后首次否决权，拒绝资助美国科罗拉多州与佛罗里达州基建项目",
+          "url": "https://wallstreetcn.com/livenews/3029637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时36分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "据伊朗法尔斯通讯社：伊朗西南部拉德甘市发生抗议和骚乱，造成两人死亡。",
-          "url": "https://flash.jin10.com/detail/20260101223703738800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "伊朗总统发表讲话：“伊朗正处于一场全面战争之中”",
-          "url": "https://wallstreetcn.com/livenews/3029613",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            7,
-            9,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时57分 ~ 23时28分]"
-        },
-        {
-          "title": "伊朗总统：伊朗正处于一场全面战争中",
-          "url": "https://flash.jin10.com/detail/20260101195820608800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            12,
-            21,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时57分 ~ 23时28分]"
-        },
-        {
-          "title": "内塔尼亚胡喊话伊朗",
-          "url": "https://www.baidu.com/s?wd=%E5%86%85%E5%A1%94%E5%B0%BC%E4%BA%9A%E8%83%A1%E5%96%8A%E8%AF%9D%E4%BC%8A%E6%9C%97",
-          "source": "百度热搜",
-          "ranks": [
-            27,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时27分 ~ 07时27分]"
-        },
         {
           "title": "伊朗总统发声：伊朗正处于一场全面战争中",
           "url": "https://news.ifeng.com/c/8pZJzBvxf8X",
@@ -538,169 +131,48 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "150万美元！OpenAI人均员工薪酬炸裂，刷新科技史纪录",
-          "url": "https://wallstreetcn.com/articles/3762366",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            8
-          ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时27分 ~ 18时31分]"
+          "appearance_count": 2,
+          "time_info": "[00时35分 ~ 00时36分]"
         },
         {
-          "title": "据The Information：OpenAI整合团队以提升音频AI模型性能，为即将推出的设备做准备。",
-          "url": "https://flash.jin10.com/detail/20260101230819093800",
+          "title": "据伊朗法尔斯通讯社：伊朗西南部拉德甘市发生抗议和骚乱，造成两人死亡。",
+          "url": "https://flash.jin10.com/detail/20260101223703738800",
           "source": "金十数据",
           "ranks": [
-            1
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时28分"
+          "time_info": "00时36分"
         },
         {
-          "title": "据The Information：OpenAI采取措施改进语音AI模型。",
-          "url": "https://flash.jin10.com/detail/20260101230736481800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时28分"
-        },
-        {
-          "title": "OpenAI 正在采取措施改进其音频人工智能模型，以此为最终发布由AI驱动的个人设备做准备。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3029628",
+          "title": "伊朗总统发表讲话：“伊朗正处于一场全面战争之中”",
+          "url": "https://wallstreetcn.com/livenews/3029613",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时28分"
+          "time_info": "00时36分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌旗下自动驾驶公司Waymo：正为明年在伦敦的商业发布做准备。",
-          "url": "https://flash.jin10.com/detail/20260101000228879800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时35分 ~ 01时25分]"
-        },
-        {
-          "title": "「Gemini」的正确读音是什么，哪种读法更被普遍接受？",
-          "url": "https://www.zhihu.com/question/1987568735523980297",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时25分 ~ 07时27分]"
-        },
-        {
-          "title": "美股科技巨头收盘播报｜2025年AMD涨超77%，谷歌A涨约66%，台积电涨月56%，英伟达涨幅不足39%",
-          "url": "https://wallstreetcn.com/livenews/3029487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时33分 ~ 21时39分]"
-        },
-        {
-          "title": "金价波动",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时37分 ~ 16时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
+      "keyword_group": "美股",
       "match_count": 1,
       "titles": [
         {
-          "title": "两年期美债收益率2025年累跌将近77个基点",
-          "url": "https://wallstreetcn.com/livenews/3029499",
-          "source": "华尔街见闻-快讯",
+          "title": "美股收盘：三大指数低调收官 中国金龙指数全年累计上涨11.33%",
+          "url": "https://www.cls.cn/detail/2246008",
+          "source": "财联社热门",
           "ranks": [
-            1,
-            7
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时28分 ~ 07时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "彭博美元指数四连涨，但全年表现为2017年以来最差",
-          "url": "https://wallstreetcn.com/livenews/3029468",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时31分 ~ 06时28分]"
+          "time_info": "[00时35分 ~ 00时36分]"
         }
       ]
     }
