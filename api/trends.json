@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-01T18:31:52.224427+08:00",
-  "total_titles_processed": 1276,
+  "generated_at": "2026-01-01T19:24:54.303821+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普：将从芝加哥、洛杉矶和波特兰撤走国民警卫队",
@@ -55,6 +55,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-01）",
+          "url": "https://flash.jin10.com/detail/20260101184638613800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "特朗普称“凯旋门”将于两个月内开建",
@@ -252,8 +263,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[10时27分 ~ 18时31分]"
+          "appearance_count": 14,
+          "time_info": "[10时27分 ~ 19时24分]"
         },
         {
           "title": "美股三大期指小幅走弱 年末获利了结情绪升温 | 今夜看点",
@@ -362,22 +373,12 @@
           "url": "https://wallstreetcn.com/articles/3762429",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
-        },
-        {
-          "title": "DeepSeek发布梁文锋署名新论文：提出mHC新架构 提升大模型训练稳定性",
-          "url": "https://flash.jin10.com/detail/20260101173343204800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时24分]"
         },
         {
           "title": "DeepSeek发布梁文锋署名新论文 开启架构新篇章",
@@ -385,11 +386,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            7
+            7,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时33分 ~ 19时24分]"
+        },
+        {
+          "title": "DeepSeek发布梁文锋署名新论文：提出mHC新架构 提升大模型训练稳定性",
+          "url": "https://flash.jin10.com/detail/20260101173343204800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时33分 ~ 18时31分]"
+          "time_info": "[18时31分 ~ 19时24分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -398,9 +412,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 19时24分]"
         }
       ]
     },
