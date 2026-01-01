@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-01T17:14:58.885031+08:00",
-  "total_titles_processed": 894,
+  "generated_at": "2026-01-01T17:43:17.921210+08:00",
+  "total_titles_processed": 919,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时02分 ~ 17时14分]"
+          "appearance_count": 13,
+          "time_info": "[11时02分 ~ 17时43分]"
         },
         {
           "title": "马斯克没造出的机器人 稚晖君搞定了",
@@ -57,7 +58,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "DeepSeek发布梁文锋署名新论文 开启架构新篇章",
@@ -66,9 +67,20 @@
           "ranks": [
             3
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时14分 ~ 17时43分]"
+        },
+        {
+          "title": "DeepSeek发布梁文锋署名新论文：提出mHC新架构 提升大模型训练稳定性",
+          "url": "https://flash.jin10.com/detail/20260101173343204800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时14分"
+          "time_info": "17时43分"
         }
       ]
     },
@@ -104,8 +116,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时53分 ~ 17时14分]"
+          "appearance_count": 15,
+          "time_info": "[08时53分 ~ 17时43分]"
         }
       ]
     }
