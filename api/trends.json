@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T19:35:45.687319+08:00",
-  "total_titles_processed": 1159,
+  "generated_at": "2026-01-02T20:18:32.278046+08:00",
+  "total_titles_processed": 1213,
   "failed_sources": [],
   "trends": [
     {
@@ -44,11 +44,12 @@
             4,
             28,
             14,
-            29
+            29,
+            25
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[10时52分 ~ 19时35分]"
+          "appearance_count": 21,
+          "time_info": "[10时52分 ~ 20时18分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -64,8 +65,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[08时46分 ~ 19时35分]"
+          "appearance_count": 23,
+          "time_info": "[08时46分 ~ 20时18分]"
         }
       ]
     },
@@ -83,8 +84,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[10时52分 ~ 19时35分]"
+          "appearance_count": 21,
+          "time_info": "[10时52分 ~ 20时18分]"
         },
         {
           "title": "星链疯狂扩张后，马斯克SpaceX宣布史上最大卫星降轨行动",
@@ -93,22 +94,24 @@
           "ranks": [
             13,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时49分 ~ 19时35分]"
+          "appearance_count": 9,
+          "time_info": "[16时49分 ~ 20时18分]"
         },
         {
           "title": "详解马斯克跨年播客",
           "url": "https://search.bilibili.com/all?keyword=%E8%AF%A6%E8%A7%A3%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B7%A8%E5%B9%B4%E6%92%AD%E5%AE%A2",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 20时18分]"
         },
         {
           "title": "马斯克宣布量产脑机接口",
@@ -136,8 +139,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时49分 ~ 19时35分]"
+          "appearance_count": 9,
+          "time_info": "[16时49分 ~ 20时18分]"
         },
         {
           "title": "OpenAI、Space X和Anthropic，三大“超级IPO”或齐聚今年，单笔募资额预计超过2025年200家IPO总和",
@@ -149,8 +152,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时43分 ~ 19时35分]"
+          "appearance_count": 6,
+          "time_info": "[17时43分 ~ 20时18分]"
         },
         {
           "title": "消息称OpenAI大力研发音频AI模型",
@@ -162,6 +165,37 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时46分 ~ 08时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-02）",
+          "url": "https://flash.jin10.com/detail/20260102115528113800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            9,
+            15,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时35分 ~ 14时16分]"
+        },
+        {
+          "title": "印度市场监管机构主席：正在开发用于市场中介机构风险监管的人工智能工具。",
+          "url": "https://flash.jin10.com/detail/20260102193205213800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         }
       ]
     },
@@ -184,26 +218,6 @@
       ]
     },
     {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-01-02）",
-          "url": "https://flash.jin10.com/detail/20260102115528113800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            9,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时35分 ~ 14时16分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI",
       "match_count": 1,
       "titles": [
@@ -219,8 +233,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[08时46分 ~ 19时35分]"
+          "appearance_count": 23,
+          "time_info": "[08时46分 ~ 20时18分]"
         }
       ]
     }
