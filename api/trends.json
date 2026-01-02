@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-02T07:27:43.641432+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2026-01-02T10:12:02.546553+08:00",
+  "total_titles_processed": 637,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "决定从三个城市撤走国民警卫队，特朗普政策反复为哪般？",
@@ -103,21 +103,43 @@
           "time_info": "[00时36分 ~ 01时26分]"
         },
         {
+          "title": "马杜罗证实曾与特朗普通话10分钟 重申“要和平不要战争”",
+          "url": "https://flash.jin10.com/detail/20260102083147084800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
+        },
+        {
           "title": "特朗普宣布从芝加哥等三座城市撤军",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E4%BB%8E%E8%8A%9D%E5%8A%A0%E5%93%A5%E7%AD%89%E4%B8%89%E5%BA%A7%E5%9F%8E%E5%B8%82%E6%92%A4%E5%86%9B",
           "source": "百度热搜",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
+        },
+        {
+          "title": "马杜罗证实曾与特朗普通话10分钟，重申“要和平不要战争”",
+          "url": "https://wallstreetcn.com/livenews/3029681",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时12分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "伊朗总统发声：伊朗正处于一场全面战争中",
@@ -158,6 +180,17 @@
           "time_info": "[00时36分 ~ 02时39分]"
         },
         {
+          "title": "伊朗多省示威致6死，总统发声",
+          "url": "https://news.ifeng.com/c/8pa0NxsOAWN",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
           "title": "伊朗总统发表讲话：“伊朗正处于一场全面战争之中”",
           "url": "https://wallstreetcn.com/livenews/3029613",
           "source": "华尔街见闻-快讯",
@@ -168,12 +201,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时36分 ~ 01时26分]"
+        },
+        {
+          "title": "伊朗总统：伊朗正处于一场全面战争中",
+          "url": "https://www.toutiao.com/trending/7589289833319694378/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "梁文锋署名，DeepSeek元旦新论文要开启架构新篇章",
@@ -184,8 +228,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 10时12分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -197,8 +241,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 10时12分]"
         },
         {
           "title": "DeepSeek开年发布新论文",
@@ -215,6 +259,28 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时35分 ~ 07时27分]"
+        },
+        {
+          "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
+          "url": "https://www.zhihu.com/question/1990084005744362243",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
+        },
+        {
+          "title": "UP主解读DeepSeek梁文锋新论文",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%A7%A3%E8%AF%BBDeepSeek%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 10时12分]"
         }
       ]
     },
@@ -279,8 +345,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 07时27分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 10时12分]"
         },
         {
           "title": "美股三大股指期货周五开盘微涨。",
@@ -289,7 +355,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
         }
