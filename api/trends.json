@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-02T16:15:19.347239+08:00",
-  "total_titles_processed": 840,
+  "generated_at": "2026-01-02T16:49:51.699396+08:00",
+  "total_titles_processed": 906,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时46分 ~ 16时15分]"
+          "appearance_count": 15,
+          "time_info": "[08时46分 ~ 16时49分]"
         },
         {
           "title": "UP主解读DeepSeek梁文锋新论文",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时52分 ~ 16时15分]"
+          "appearance_count": 13,
+          "time_info": "[10时52分 ~ 16时49分]"
         },
         {
           "title": "如何理解 DeepSeek 最新提出的 mHC 架构？",
@@ -38,11 +38,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时52分 ~ 16时15分]"
+          "appearance_count": 13,
+          "time_info": "[10时52分 ~ 16时49分]"
         },
         {
           "title": "DeepSeek梁文锋又发论文了",
@@ -56,8 +57,66 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时46分 ~ 16时15分]"
+          "appearance_count": 15,
+          "time_info": "[08时46分 ~ 16时49分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "消息称OpenAI大力研发音频AI模型",
+          "url": "https://www.toutiao.com/trending/7589869384954150963/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时46分 ~ 08时47分]"
+        },
+        {
+          "title": "AI入口之战！OpenAI下重注：音频会是未来的交互界面",
+          "url": "https://wallstreetcn.com/articles/3762439",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克称脑机设备今年启动“大规模生产” 植入方式也有关键进步",
+          "url": "https://www.cls.cn/detail/2246232",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[10时52分 ~ 16时49分]"
+        },
+        {
+          "title": "星链疯狂扩张后，马斯克SpaceX宣布史上最大卫星降轨行动",
+          "url": "https://www.cls.cn/detail/2246325",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时49分"
         }
       ]
     },
@@ -76,23 +135,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时54分 ~ 15时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "消息称OpenAI大力研发音频AI模型",
-          "url": "https://www.toutiao.com/trending/7589869384954150963/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时46分 ~ 08时47分]"
         }
       ]
     },
@@ -117,25 +159,6 @@
       ]
     },
     {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克称脑机设备今年启动“大规模生产” 植入方式也有关键进步",
-          "url": "https://www.cls.cn/detail/2246232",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时52分 ~ 16时15分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI",
       "match_count": 1,
       "titles": [
@@ -150,8 +173,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时46分 ~ 16时15分]"
+          "appearance_count": 15,
+          "time_info": "[08时46分 ~ 16时49分]"
         }
       ]
     }
