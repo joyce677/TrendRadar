@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-04T12:32:12.673842+08:00",
-  "total_titles_processed": 543,
+  "generated_at": "2026-01-04T13:18:30.895122+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             12,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时03分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[11时03分 ~ 13时18分]"
         },
         {
           "title": "美联储保尔森：人工智能的潜在应用可能导致强劲增长和就业创造乏力。",
@@ -29,6 +30,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek 发布开年新论文，提出全新 MHC 架构，有何创新与应用前景？",
+          "url": "https://www.zhihu.com/question/1990117220391622363",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时18分"
         }
       ]
     },
@@ -45,8 +63,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时52分 ~ 12时32分]"
+          "appearance_count": 6,
+          "time_info": "[08时52分 ~ 13时18分]"
         }
       ]
     },
