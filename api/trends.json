@@ -1,8 +1,39 @@
 {
-  "generated_at": "2026-01-04T14:16:06.936459+08:00",
-  "total_titles_processed": 648,
+  "generated_at": "2026-01-04T14:52:35.436877+08:00",
+  "total_titles_processed": 687,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "grok",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "法国对马斯克旗下聊天机器人 Grok 涉嫌生成色情内容启动调查，具体情况如何？",
+          "url": "https://www.zhihu.com/question/1990786085630998063",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3,
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[08时52分 ~ 14时52分]"
+        },
+        {
+          "title": "马斯克：Grok的新版本已发布。",
+          "url": "https://flash.jin10.com/detail/20260104141330230800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        }
+      ]
+    },
     {
       "keyword_group": "人工智能",
       "match_count": 2,
@@ -16,11 +47,12 @@
             18,
             21,
             23,
-            25
+            25,
+            29
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时03分 ~ 14时16分]"
+          "appearance_count": 6,
+          "time_info": "[11时03分 ~ 14时52分]"
         },
         {
           "title": "美联储保尔森：人工智能的潜在应用可能导致强劲增长和就业创造乏力。",
@@ -51,25 +83,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时18分 ~ 14时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "grok",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "法国对马斯克旗下聊天机器人 Grok 涉嫌生成色情内容启动调查，具体情况如何？",
-          "url": "https://www.zhihu.com/question/1990786085630998063",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时52分 ~ 14时16分]"
         }
       ]
     },
