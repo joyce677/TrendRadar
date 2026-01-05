@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T02:23:50.015175+08:00",
-  "total_titles_processed": 462,
+  "generated_at": "2026-01-06T03:17:34.500724+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时17分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -26,11 +26,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             30,
-            18
+            18,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时17分]"
         },
         {
           "title": "AI说啥我穿啥",
@@ -38,11 +39,12 @@
           "source": "抖音",
           "ranks": [
             30,
-            22
+            22,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时20分 ~ 02时23分]"
+          "appearance_count": 4,
+          "time_info": "[00时20分 ~ 03时17分]"
         },
         {
           "title": "三星推出以AI为核心的电视和家电",
@@ -62,7 +64,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         },
@@ -73,15 +75,26 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
+        },
+        {
+          "title": "惠普新3K笔记本比Macbook Air更薄",
+          "url": "https://wallstreetcn.com/livenews/3031053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "马斯克放出“量产时间表”，脑机接口集体涨停，商业化拐点来了？",
@@ -91,8 +104,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时20分 ~ 02时23分]"
+          "appearance_count": 6,
+          "time_info": "[00时20分 ~ 03时17分]"
+        },
+        {
+          "title": "马斯克宣布Neuralink推进大规模生产 目标帮助瘫痪与神经疾病患者",
+          "url": "https://flash.jin10.com/detail/20260106024744750800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
+        {
+          "title": "马斯克宣布Neuralink推进大规模生产，目标帮助瘫痪与神经疾病患者",
+          "url": "https://wallstreetcn.com/livenews/3031068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
         },
         {
           "title": "马斯克确认X平台的网页版聊天应用将新增音视频通话功能。",
@@ -109,8 +144,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "OpenAI家务机器人售价2万美元",
+          "url": "https://wallstreetcn.com/livenews/3031066",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时17分"
+        },
         {
           "title": "亚马逊开放部分用户网页端对话 Alexa+，剑指ChatGPT",
           "url": "https://wallstreetcn.com/livenews/3031031",
@@ -118,7 +164,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
         }
