@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T05:16:10.081441+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2026-01-06T06:15:33.703615+08:00",
+  "total_titles_processed": 633,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "AI需求太火爆，三星、SK海力士拟将DRAM提价60%–70%",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 05时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 06时15分]"
         },
         {
           "title": "B站AI大赛开始了",
@@ -29,11 +29,12 @@
             18,
             10,
             14,
-            8
+            8,
+            1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 05时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 06时15分]"
         },
         {
           "title": "AI说啥我穿啥",
@@ -43,11 +44,34 @@
             30,
             22,
             17,
-            28
+            28,
+            19
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时20分 ~ 05时16分]"
+          "appearance_count": 8,
+          "time_info": "[00时20分 ~ 06时15分]"
+        },
+        {
+          "title": "英伟达发布首个专为自动驾驶汽车设计的“推理”AI",
+          "url": "https://wallstreetcn.com/livenews/3031121",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
+          "title": "英伟达(NVDA.O)：推出全新Clara AI模型，架起数字探索与现实医疗之间的桥梁。",
+          "url": "https://flash.jin10.com/detail/20260106060052070800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "惠普新3K笔记本比Macbook Air更薄",
@@ -62,6 +86,17 @@
           "time_info": "[03时17分 ~ 04时18分]"
         },
         {
+          "title": "英伟达CEO黄仁勋：模型“Alpamayo”是全球首款具备思考、推理和自主驾驶能力的智能汽车AI系统。该系统采用端到端训练模式，从摄像头输入到执行器输出实现全流程训练。",
+          "url": "https://flash.jin10.com/detail/20260106055327542800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
+        },
+        {
           "title": "三星推出以AI为核心的电视和家电",
           "url": "https://wallstreetcn.com/livenews/3030980",
           "source": "华尔街见闻-快讯",
@@ -71,6 +106,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "英伟达推出Alpamayo系列开源AI模型与工具，加速安全及基于推理的自动驾驶汽车开发",
+          "url": "https://wallstreetcn.com/livenews/3031109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "波士顿动力机器人首次进厂干活，现代汽车正式公布集团级AI机器人战略",
@@ -108,8 +154,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时20分 ~ 05时16分]"
+          "appearance_count": 10,
+          "time_info": "[00时20分 ~ 06时15分]"
         },
         {
           "title": "马斯克宣布Neuralink推进大规模生产 目标帮助瘫痪与神经疾病患者",
@@ -151,7 +197,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI家务机器人售价2万美元",
@@ -165,6 +211,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时17分 ~ 05时16分]"
+        },
+        {
+          "title": "Zeta Global与OpenAI组团，双方将交付由答案驱动的市场。 Zeta美股盘后涨6%。",
+          "url": "https://wallstreetcn.com/livenews/3031108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时15分"
         },
         {
           "title": "亚马逊开放部分用户网页端对话 Alexa+，剑指ChatGPT",
@@ -190,7 +247,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时16分"
         }
