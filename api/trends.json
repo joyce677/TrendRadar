@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-06T22:13:10.760483+08:00",
-  "total_titles_processed": 1728,
+  "generated_at": "2026-01-06T22:46:21.044813+08:00",
+  "total_titles_processed": 1798,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "欧盟怒斥“令人作呕”、多国启动调查 马斯克的AI又闯祸",
@@ -97,6 +97,17 @@
           "time_info": "[11时56分 ~ 11时57分]"
         },
         {
+          "title": "英伟达做了个FSD？马斯克淡定回应：我不会为此失眠",
+          "url": "https://wallstreetcn.com/articles/3762641",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
+        },
+        {
           "title": "特朗普说马斯克八成是超级天才",
           "url": "https://wallstreetcn.com/livenews/3031682",
           "source": "华尔街见闻-快讯",
@@ -122,7 +133,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "蹭“人工智能”热点，16倍大牛股被上交所监管警示",
@@ -145,8 +156,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时12分 ~ 22时13分]"
+          "appearance_count": 3,
+          "time_info": "[22时12分 ~ 22时46分]"
+        },
+        {
+          "title": "美联储巴尔金：人工智能的一个积极方面是让人们有资格从事更复杂的任务。",
+          "url": "https://flash.jin10.com/detail/20260106223259706800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-06）",
@@ -229,8 +251,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[10时51分 ~ 22时13分]"
+          "appearance_count": 31,
+          "time_info": "[10时51分 ~ 22时46分]"
         },
         {
           "title": "委内瑞拉副总统宣誓就任代总统 OpenAI支持的公司推出家务机器人 | 环球市场",
@@ -273,6 +295,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时56分 ~ 15时17分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Snowflake在Snowflake Cortex AI中提供谷歌公司Gemini 3。",
+          "url": "https://wallstreetcn.com/livenews/3031737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时46分"
         }
       ]
     }
