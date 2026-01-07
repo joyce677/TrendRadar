@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-07T15:16:54.583899+08:00",
-  "total_titles_processed": 906,
+  "generated_at": "2026-01-07T15:43:46.822896+08:00",
+  "total_titles_processed": 972,
   "failed_sources": [],
   "trends": [
     {
@@ -57,6 +57,35 @@
       ]
     },
     {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英伟达做了个FSD？马斯克淡定回应：我不会为此失眠",
+          "url": "https://wallstreetcn.com/articles/3762641",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[08时46分 ~ 15时43分]"
+        },
+        {
+          "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
+          "url": "https://wallstreetcn.com/articles/3762706",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -75,20 +104,19 @@
       ]
     },
     {
-      "keyword_group": "马斯克",
+      "keyword_group": "抖音",
       "match_count": 1,
       "titles": [
         {
-          "title": "英伟达做了个FSD？马斯克淡定回应：我不会为此失眠",
-          "url": "https://wallstreetcn.com/articles/3762641",
-          "source": "华尔街见闻",
+          "title": "抖音第二总部落子深圳南山，将同步建设字节跳动AI lab研究中心",
+          "url": "https://wallstreetcn.com/livenews/3032214",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            5
+            16
           ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时46分 ~ 15时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时43分"
         }
       ]
     }
