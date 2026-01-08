@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T14:17:23.332560+08:00",
-  "total_titles_processed": 805,
+  "generated_at": "2026-01-08T14:55:27.377026+08:00",
+  "total_titles_processed": 874,
   "failed_sources": [],
   "trends": [
     {
@@ -57,6 +57,34 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌 2019 年以来首次市值超苹果公司，反映出怎样的市场逻辑？",
+          "url": "https://www.zhihu.com/question/1992511254795870608",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 14时55分]"
+        },
+        {
+          "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
+          "url": "https://wallstreetcn.com/articles/3762755",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "人工智能",
       "match_count": 2,
       "titles": [
@@ -82,23 +110,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌 2019 年以来首次市值超苹果公司，反映出怎样的市场逻辑？",
-          "url": "https://www.zhihu.com/question/1992511254795870608",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时17分"
         }
       ]
     },
