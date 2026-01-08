@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-08T13:19:10.057986+08:00",
-  "total_titles_processed": 701,
+  "generated_at": "2026-01-08T13:46:21.995858+08:00",
+  "total_titles_processed": 745,
   "failed_sources": [],
   "trends": [
     {
@@ -57,6 +57,35 @@
       ]
     },
     {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-08）",
+          "url": "https://flash.jin10.com/detail/20260108115540261800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 13时19分]"
+        },
+        {
+          "title": "日本央行：一些地区表示，出口和产出受到美国关税的影响，但其他地区则表示，主要由人工智能相关商品推动的强劲全球需求在支撑订单。",
+          "url": "https://flash.jin10.com/detail/20260108130500883800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -70,24 +99,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-01-08）",
-          "url": "https://flash.jin10.com/detail/20260108115540261800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 13时19分]"
         }
       ]
     },
