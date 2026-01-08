@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-08T14:55:27.377026+08:00",
-  "total_titles_processed": 874,
+  "generated_at": "2026-01-08T15:16:37.957880+08:00",
+  "total_titles_processed": 931,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "马斯克的2026愿景：我们已处于“技术奇点”，AI和机器人不可阻挡，短期是动荡和挑战，长期是丰盛时代",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[08时46分 ~ 12时31分]"
+        },
+        {
+          "title": "卷王遇硬茬,马斯克开除加班党",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348833&amp;topic_name=%E5%8D%B7%E7%8E%8B%E9%81%87%E7%A1%AC%E8%8C%AC%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BC%80%E9%99%A4%E5%8A%A0%E7%8F%AD%E5%85%9A",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         },
         {
           "title": "美股再现“马斯克式”天价薪酬包 游戏驿站抛出百亿美元CEO激励计划",
@@ -68,19 +79,20 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时17分 ~ 14时55分]"
+          "appearance_count": 3,
+          "time_info": "[14时17分 ~ 15时16分]"
         },
         {
           "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
           "url": "https://wallstreetcn.com/articles/3762755",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时55分 ~ 15时16分]"
         }
       ]
     },
@@ -110,6 +122,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "智谱AI CEO张鹏谈梁文锋选择彻底开源：有技术上的理想，没想靠它挣钱",
+          "url": "https://wallstreetcn.com/livenews/3033026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时16分"
         }
       ]
     },
