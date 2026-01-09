@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T15:22:00.984702+08:00",
-  "total_titles_processed": 1413,
+  "generated_at": "2026-01-09T16:22:43.924957+08:00",
+  "total_titles_processed": 1516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "利率 汇率",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "房贷利率又迎下调",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时20分 ~ 15时22分]"
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 16时22分]"
         },
         {
           "title": "“美联储传声筒”Nick Timiraos：特朗普称，他已指示代表购买价值2000亿美元的住房抵押贷款支持证券，以缩小抵押贷款利差并降低利率。实现这一目标的主要机制是通过房利美和房地美的自留投资组合，根据它们与美国财政部的现有协议，这两家公司（每家公司）持有的抵押贷款投资不得超过2250亿美元。截至2025年11月，两家公司在这些投资组合中各持有约1240亿美元，这意味着它们各自可以再购买1000亿美元的住房抵押贷款支持证券。",
@@ -131,6 +131,17 @@
           "time_info": "[03时15分 ~ 04时18分]"
         },
         {
+          "title": "捷克央行会议纪要：捷克央行副行长指出，货币政策目前配置良好。委员会成员塞德勒表示，目前宜采取适度紧缩的货币政策，并在一定程度上通过捷克克朗汇率来实施。",
+          "url": "https://flash.jin10.com/detail/20260109160605163800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "美联储1月维持利率不变的概率为86.2%",
           "url": "https://flash.jin10.com/detail/20260109064223521800",
           "source": "金十数据",
@@ -148,7 +159,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         },
@@ -280,7 +291,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
         }
@@ -288,7 +299,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "便利店卖“鞋底豆干” 网友：以为是AI",
@@ -324,11 +335,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时20分 ~ 15时22分]"
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 16时22分]"
         },
         {
           "title": "小鹏汽车成功注册图灵AI座舱商标",
@@ -353,6 +365,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时15分 ~ 09时10分]"
+        },
+        {
+          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨80%",
+          "url": "https://wallstreetcn.com/articles/3762915",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "市值近900亿港元！MiniMax今日上市 AI大模型进入“上海时刻”",
+          "url": "https://www.cls.cn/detail/2252812",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "微软与Shopify、PayPal、Stripe推出零售AI Copilot Checkout。 微软将在Copilot.com内赋能“会话内购买”，而无需引导购物者切换到外部网站。",
@@ -413,7 +447,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "卷王遇硬茬,马斯克开除加班党",
@@ -425,11 +459,12 @@
             16,
             22,
             24,
-            26
+            26,
+            29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 15时22分]"
+          "appearance_count": 15,
+          "time_info": "[00时21分 ~ 16时22分]"
         },
         {
           "title": "马斯克一句话“引爆”脑机接口",
@@ -491,6 +526,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        },
+        {
+          "title": "马斯克：大力发展电动汽车、光伏储能，我说的那些设想都被中国实现了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32342568",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         }
       ]
     },
@@ -608,7 +654,7 @@
     },
     {
       "keyword_group": "房价 楼市 房地产",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "独家|房地产融资协调机制迎重磅调整 符合条件“白名单”项目贷款可展期5年",
@@ -616,11 +662,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时20分 ~ 15时22分]"
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 16时22分]"
         },
         {
           "title": "深圳楼市去年成交9.4万套住宅 二手住宅成交占比首次突破60%",
@@ -633,6 +680,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时35分 ~ 13时20分]"
+        },
+        {
+          "title": "金十数据整理：每日房地产行业动态汇总（2026-01-09）",
+          "url": "https://flash.jin10.com/detail/20260109155032199800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         }
       ]
     }
