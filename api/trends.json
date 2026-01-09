@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T18:17:29.275626+08:00",
-  "total_titles_processed": 1716,
+  "generated_at": "2026-01-09T19:15:02.450725+08:00",
+  "total_titles_processed": 1823,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "利率 汇率",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "房贷利率又迎下调",
@@ -188,6 +188,17 @@
           "time_info": "02时20分"
         },
         {
+          "title": "票据利率飙升 开年上涨100BP",
+          "url": "https://wallstreetcn.com/livenews/3034043",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
+        },
+        {
           "title": "刚果民主共和国央行将主要利率下调至15%。",
           "url": "https://flash.jin10.com/detail/20260109014544068800",
           "source": "金十数据",
@@ -205,7 +216,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
@@ -312,7 +323,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "便利店卖“鞋底豆干” 网友：以为是AI",
@@ -331,6 +342,20 @@
           "time_info": "[09时10分 ~ 15时22分]"
         },
         {
+          "title": "如何分辨AI音乐骗局",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%88%86%E8%BE%A8AI%E9%9F%B3%E4%B9%90%E9%AA%97%E5%B1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            7,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时20分 ~ 19时15分]"
+        },
+        {
           "title": "【焦点复盘】创业板指弱势震荡跌0.82%，金融等权重股低迷，国产算力、AI应用逆势活跃",
           "url": "https://www.cls.cn/detail/2251902",
           "source": "财联社热门",
@@ -343,17 +368,26 @@
           "time_info": "[00时21分 ~ 04时17分]"
         },
         {
-          "title": "如何分辨AI音乐骗局",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%88%86%E8%BE%A8AI%E9%9F%B3%E4%B9%90%E9%AA%97%E5%B1%80",
-          "source": "bilibili 热搜",
+          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
+          "url": "https://wallstreetcn.com/articles/3762915",
+          "source": "华尔街见闻",
           "ranks": [
-            4,
-            7,
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时20分 ~ 17时22分]"
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 19时15分]"
+        },
+        {
+          "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
+          "url": "https://news.ifeng.com/c/8piRkGGmo9f",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时14分 ~ 19时15分]"
         },
         {
           "title": "小鹏汽车成功注册图灵AI座舱商标",
@@ -373,20 +407,23 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时17分"
         },
         {
-          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
-          "url": "https://wallstreetcn.com/articles/3762915",
-          "source": "华尔街见闻",
+          "title": "市值近900亿港元！MiniMax今日上市 AI大模型进入“上海时刻”",
+          "url": "https://www.cls.cn/detail/2252812",
+          "source": "财联社热门",
           "ranks": [
-            5
+            11,
+            9,
+            6,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时22分 ~ 19时15分]"
         },
         {
           "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨80%",
@@ -414,29 +451,29 @@
           "time_info": "[06时15分 ~ 09时10分]"
         },
         {
-          "title": "市值近900亿港元！MiniMax今日上市 AI大模型进入“上海时刻”",
-          "url": "https://www.cls.cn/detail/2252812",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 18时17分]"
-        },
-        {
           "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
           "url": "https://www.cls.cn/detail/2253101",
           "source": "财联社热门",
           "ranks": [
             12,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 18时17分]"
+          "appearance_count": 4,
+          "time_info": "[17时22分 ~ 19时15分]"
+        },
+        {
+          "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
+          "url": "https://www.cls.cn/detail/2253208",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时17分 ~ 19时15分]"
         },
         {
           "title": "广西：加快建设“AI＋金属新材料”、“AI＋生物育种””等标杆级应用平台",
@@ -461,17 +498,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[17时22分 ~ 18时17分]"
-        },
-        {
-          "title": "【数据看盘】顶级游资扎堆金风科技 北向资金联手机构“爆买”AI应用概念股",
-          "url": "https://www.cls.cn/detail/2253208",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时17分"
         },
         {
           "title": "微软与Shopify、PayPal、Stripe推出零售AI Copilot Checkout。 微软将在Copilot.com内赋能“会话内购买”，而无需引导购物者切换到外部网站。",
@@ -751,7 +777,7 @@
     },
     {
       "keyword_group": "房价 楼市 房地产",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "独家|房地产融资协调机制迎重磅调整 符合条件“白名单”项目贷款可展期5年",
@@ -788,6 +814,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
+        },
+        {
+          "title": "广州珠江新城楼市连续8周量价双升",
+          "url": "https://wallstreetcn.com/livenews/3034012",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时15分"
         }
       ]
     }
