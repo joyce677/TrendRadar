@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T02:42:50.440547+08:00",
-  "total_titles_processed": 474,
+  "generated_at": "2026-01-10T03:26:37.886917+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普：取消对委内瑞拉第二波打击",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 03时26分]"
         },
         {
           "title": "外交部回应特朗普涉台言论",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 03时26分]"
         },
         {
           "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
@@ -37,8 +37,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 03时26分]"
         },
         {
           "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
@@ -49,8 +49,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 03时26分]"
         },
         {
           "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
@@ -60,8 +60,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 03时26分]"
         },
         {
           "title": "美国亚特兰大联储主席Bostic：大量（价格）成本压力发生在特朗普关税之外。 我担心，民众会对“美联储实现2%通胀目标”丧失信心。 需要专注于让通胀受控。",
@@ -83,19 +83,75 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时30分 ~ 02时42分]"
+          "appearance_count": 4,
+          "time_info": "[01时30分 ~ 03时26分]"
         },
         {
           "title": "美国法官：将暂时阻止特朗普政府取消至少1万名拉美移民合法身份的举措。",
           "url": "https://wallstreetcn.com/livenews/3034346",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时26分]"
+        },
+        {
+          "title": "特朗普：白宫宴会厅还没完工 为无法接待所有石油公司道歉",
+          "url": "https://flash.jin10.com/detail/20260110030325703800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时42分"
+          "time_info": "03时26分"
+        },
+        {
+          "title": "特朗普的“房管局长”Pulte：需要处理鲍威尔",
+          "url": "https://wallstreetcn.com/livenews/3034361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
+        {
+          "title": "美国联邦住房金融局（FHFA）局长Bill Pulte：相信总统特朗普将在达沃斯宣布一些不错的想法。 （2026年即将举办的）达沃斯将因（美国）住房市场而非常兴奋。 （关于房利美+房地美，即两房）信心存在于流动性之中。 两房IPO仍然可能迅速发生。 在推出50年期抵押贷款（产品）之前，我们还有其他的优先议题。 （对于抵押贷款债券）我们已经购买大约30亿美元。 正处于执行2000亿美元购买的过程中。 抵押贷款债券购买能够利好两房。 特朗普对金融机构购买独栋住宅的禁令很重要。",
+          "url": "https://wallstreetcn.com/livenews/3034360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
+        {
+          "title": "美国总统特朗普：今天的石油会议主要讨论关于委内瑞拉的（投资）问题。 能源部长Wright和Burgum下周将会见其他的石油公司。",
+          "url": "https://wallstreetcn.com/livenews/3034359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
+        {
+          "title": "美国总统特朗普：将在2月份第一周会见哥伦比亚总统Petro。",
+          "url": "https://wallstreetcn.com/livenews/3034358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
         },
         {
           "title": "哥伦比亚总统：“特朗普对我说已在策划军事行动”",
@@ -107,6 +163,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "美国总统特朗普：在这次与会中，一个非常重要的因素将是为美国人民降低油价。",
+          "url": "https://flash.jin10.com/detail/20260110024748175800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
+        {
+          "title": "美国总统特朗普：今天的会议几乎完全围绕委内瑞拉石油以及我们与委内瑞拉的长期关系展开讨论。",
+          "url": "https://flash.jin10.com/detail/20260110024730597800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
+        {
+          "title": "美国总统特朗普：我们为今天无法接待（所有）石油公司而道歉，但能源部长和内政部长将在下周会见他们。",
+          "url": "https://flash.jin10.com/detail/20260110024722779800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
+        {
+          "title": "美国总统特朗普：期待在二月第一周与哥伦比亚总统佩特罗在白宫会面。",
+          "url": "https://flash.jin10.com/detail/20260110024635635800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
         },
         {
           "title": "美国抵押贷款利率创将近三年新低，现阶段总统特朗普正推动住房经适性。",
@@ -192,7 +292,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
         }
@@ -200,19 +300,8 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "黎真主党领导人会见伊朗外长，双方讨论加强合作",
-          "url": "https://wallstreetcn.com/livenews/3034356",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时42分"
-        },
         {
           "title": "伊朗大范围断网，澳大利亚曾发警告，要求其公民尽快离伊，大规模断网是什么原因？如何解读当前伊朗局势？",
           "url": "https://www.zhihu.com/question/1992897642179552544",
@@ -221,19 +310,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 02时42分]"
-        },
-        {
-          "title": "黎真主党领导人会见伊朗外长 双方讨论加强合作",
-          "url": "https://flash.jin10.com/detail/20260110023159728800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时42分"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 03时26分]"
         },
         {
           "title": "伊朗指责美以策划动乱",
@@ -244,8 +322,54 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 03时26分]"
+        },
+        {
+          "title": "法国总统府：法国、英国和德国敦促伊朗当局保持克制。",
+          "url": "https://flash.jin10.com/detail/20260110030546198800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
+        {
+          "title": "法国总统办公室：法国、英国和德国强烈谴责伊朗“杀害抗议者”。法国、英国和德国对伊朗安全部队暴力行为的报道深表关切。",
+          "url": "https://flash.jin10.com/detail/20260110030445921800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
+        {
+          "title": "黎真主党领导人会见伊朗外长，双方讨论加强合作",
+          "url": "https://wallstreetcn.com/livenews/3034356",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时26分]"
+        },
+        {
+          "title": "黎真主党领导人会见伊朗外长 双方讨论加强合作",
+          "url": "https://flash.jin10.com/detail/20260110023159728800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时26分]"
         },
         {
           "title": "布伦特原油站上64美元/桶，为去年12月8日以来首次，日内涨1.72%。投资者注意力从委内瑞拉转向伊朗。",
@@ -270,6 +394,17 @@
           "time_info": "01时31分"
         },
         {
+          "title": "哈梅内伊就伊朗多地骚乱表态",
+          "url": "https://www.toutiao.com/trending/7593189459336924691/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队：将彻底挫败敌人阴谋，保障民众安全",
           "url": "https://wallstreetcn.com/livenews/3034269",
           "source": "华尔街见闻-快讯",
@@ -279,6 +414,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI和软银向“星门”合作伙伴SB Energy投资10亿美元",
+          "url": "https://flash.jin10.com/detail/20260110030900508800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
+        {
+          "title": "OpenAI与软银向“星际之门”合作伙伴SB Energy投资10亿美元",
+          "url": "https://wallstreetcn.com/livenews/3034365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
+        {
+          "title": "OpenAI和软银向合作伙伴SB Energy投资10亿美元。",
+          "url": "https://flash.jin10.com/detail/20260110030422872800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时26分"
         }
       ]
     },
@@ -293,11 +467,12 @@
           "ranks": [
             1,
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 03时26分]"
         },
         {
           "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
@@ -305,22 +480,24 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时37分 ~ 02时42分]"
+          "appearance_count": 6,
+          "time_info": "[00时37分 ~ 03时26分]"
         },
         {
           "title": "美国家庭财富升至纪录新高，得益于美股上涨，但房地产市场低迷",
           "url": "https://wallstreetcn.com/livenews/3034339",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时26分]"
         }
       ]
     },
