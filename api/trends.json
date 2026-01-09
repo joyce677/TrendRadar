@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T16:22:43.924957+08:00",
-  "total_titles_processed": 1516,
+  "generated_at": "2026-01-09T17:22:44.005524+08:00",
+  "total_titles_processed": 1623,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "source": "百度热搜",
           "ranks": [
             14,
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时20分 ~ 16时22分]"
+          "appearance_count": 6,
+          "time_info": "[13时20分 ~ 17时22分]"
         },
         {
           "title": "“美联储传声筒”Nick Timiraos：特朗普称，他已指示代表购买价值2000亿美元的住房抵押贷款支持证券，以缩小抵押贷款利差并降低利率。实现这一目标的主要机制是通过房利美和房地美的自留投资组合，根据它们与美国财政部的现有协议，这两家公司（每家公司）持有的抵押贷款投资不得超过2250亿美元。截至2025年11月，两家公司在这些投资组合中各持有约1240亿美元，这意味着它们各自可以再购买1000亿美元的住房抵押贷款支持证券。",
@@ -137,7 +138,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         },
@@ -299,7 +300,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "便利店卖“鞋底豆干” 网友：以为是AI",
@@ -339,8 +340,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时20分 ~ 16时22分]"
+          "appearance_count": 6,
+          "time_info": "[13时20分 ~ 17时22分]"
         },
         {
           "title": "小鹏汽车成功注册图灵AI座舱商标",
@@ -352,6 +353,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        },
+        {
+          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨80%",
+          "url": "https://wallstreetcn.com/articles/3762915",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 17时22分]"
         },
         {
           "title": "“短缺终将导致过剩”！a16z安德森2026年展望：AI芯片将迎来产能爆发与价格崩塌",
@@ -367,26 +380,16 @@
           "time_info": "[06时15分 ~ 09时10分]"
         },
         {
-          "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨80%",
-          "url": "https://wallstreetcn.com/articles/3762915",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
           "title": "市值近900亿港元！MiniMax今日上市 AI大模型进入“上海时刻”",
           "url": "https://www.cls.cn/detail/2252812",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 17时22分]"
         },
         {
           "title": "微软与Shopify、PayPal、Stripe推出零售AI Copilot Checkout。 微软将在Copilot.com内赋能“会话内购买”，而无需引导购物者切换到外部网站。",
@@ -400,6 +403,28 @@
           "time_info": "04时18分"
         },
         {
+          "title": "【每日收评】沪指时隔10年重新站上4100点！ 两市成交额突破3万亿，AI应用迎全线爆发",
+          "url": "https://www.cls.cn/detail/2253101",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
+          "title": "广西：加快建设“AI＋金属新材料”、“AI＋生物育种””等标杆级应用平台",
+          "url": "https://wallstreetcn.com/livenews/3033950",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "深成指涨超1%，沪指涨0.7%，创业板指涨0.24%，北证50指数涨超2%，AI应用、商业航天、军工等方向涨幅居前，沪深京三市上涨个股近3700只。",
           "url": "https://wallstreetcn.com/livenews/3033706",
           "source": "华尔街见闻-快讯",
@@ -409,6 +434,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "机构：在AI与关税夹击下，美国12月非农就业增长料疲弱",
+          "url": "https://flash.jin10.com/detail/20260109170031939800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         },
         {
           "title": "Eleveight AI在亚美尼亚部署英伟达B300 Blackwell GPUs。",
@@ -442,6 +478,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
+        },
+        {
+          "title": "金靖章若楠剧宣诡异的像AI",
+          "url": "https://www.douyin.com/hot/2362078",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
         }
       ]
     },
@@ -506,6 +553,18 @@
           "time_info": "[00时21分 ~ 01时23分]"
         },
         {
+          "title": "马斯克：大力发展电动汽车、光伏储能，我说的那些设想都被中国实现了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32342568",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时22分 ~ 17时22分]"
+        },
+        {
           "title": "市场消息：马斯克旗下的xAI在2025年前9个月共耗费了80亿美元现金。",
           "url": "https://flash.jin10.com/detail/20260109081429301800",
           "source": "金十数据",
@@ -526,17 +585,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
-        },
-        {
-          "title": "马斯克：大力发展电动汽车、光伏储能，我说的那些设想都被中国实现了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32342568",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时22分"
         }
       ]
     },
@@ -666,8 +714,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时20分 ~ 16时22分]"
+          "appearance_count": 6,
+          "time_info": "[13时20分 ~ 17时22分]"
         },
         {
           "title": "深圳楼市去年成交9.4万套住宅 二手住宅成交占比首次突破60%",
@@ -688,7 +736,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时22分"
         }
