@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-09T20:19:51.247543+08:00",
-  "total_titles_processed": 1583,
+  "generated_at": "2026-01-09T21:11:41.873411+08:00",
+  "total_titles_processed": 1665,
   "failed_sources": [],
   "trends": [
     {
@@ -174,6 +174,45 @@
       ]
     },
     {
+      "keyword_group": "AI",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
+          "url": "https://news.ifeng.com/c/8piRkGGmo9f",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时46分 ~ 21时11分]"
+        },
+        {
+          "title": "《纽约时报》整版报道中国AI胰腺癌早筛",
+          "url": "https://news.ifeng.com/c/8piRkGGmo9f",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时47分 ~ 18时12分]"
+        },
+        {
+          "title": "海思科：与AirNexis签署HSK39004项目授权许可协议，授予AirNexis在除中国大陆、香港特别行政区、澳门特别行政区及台湾地区以外的全球范围内开发、生产和商业化HSK39004的独家权利。AirNexis将向海思科支付1.08亿美元首付款（含4,000万美元现金及等值约6,800万美元的AirNexis公司19.9%股权）及最高9.55亿美元的额外里程碑付款、特许权使用费。",
+          "url": "https://wallstreetcn.com/livenews/3034133",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时11分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -198,34 +237,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "《纽约时报》整版报道中国AI胰腺癌早筛，美国网友震惊",
-          "url": "https://news.ifeng.com/c/8piRkGGmo9f",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时46分 ~ 20时19分]"
-        },
-        {
-          "title": "《纽约时报》整版报道中国AI胰腺癌早筛",
-          "url": "https://news.ifeng.com/c/8piRkGGmo9f",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时47分 ~ 18时12分]"
         }
       ]
     },
