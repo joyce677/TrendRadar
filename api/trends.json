@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-10T20:17:24.914520+08:00",
-  "total_titles_processed": 1076,
+  "generated_at": "2026-01-10T21:04:45.327845+08:00",
+  "total_titles_processed": 1128,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "为什么 deepseek 深度思考过程中总要先「嗯」一声？",
@@ -34,8 +34,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[10时45分 ~ 20时17分]"
+          "appearance_count": 26,
+          "time_info": "[10时45分 ~ 21时04分]"
         },
         {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[08时45分 ~ 20时17分]"
+          "appearance_count": 28,
+          "time_info": "[08时45分 ~ 21时04分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -62,8 +62,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[14时50分 ~ 20时17分]"
+          "appearance_count": 16,
+          "time_info": "[14时50分 ~ 21时04分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -79,8 +79,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[14时50分 ~ 20时17分]"
+          "appearance_count": 16,
+          "time_info": "[14时50分 ~ 21时04分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -132,6 +132,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时45分 ~ 10时46分]"
+        },
+        {
+          "title": "DeepSeek 计划二月中旬发布新模型 DeepSeek-V4，有哪些技术亮点？能第二次震惊世界吗？",
+          "url": "https://www.zhihu.com/question/1993329446883651767",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         }
       ]
     },
@@ -234,11 +245,12 @@
           "ranks": [
             1,
             4,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 20时17分]"
+          "appearance_count": 4,
+          "time_info": "[19时02分 ~ 21时04分]"
         },
         {
           "title": "重庆启动人工智能湾区建设",
@@ -247,11 +259,12 @@
           "ranks": [
             3,
             5,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时02分 ~ 20时17分]"
+          "appearance_count": 4,
+          "time_info": "[19时02分 ~ 21时04分]"
         },
         {
           "title": "内部备忘录显示：美国司法部成立人工智能（AI）执法工作组，希望借机对抗州一级的监管。（CBS）",
@@ -287,6 +300,23 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[10时46分 ~ 14时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "曝xAI员工竟用Claude写代码",
+          "url": "https://www.toutiao.com/trending/7593537620953595947/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时04分"
         }
       ]
     }
