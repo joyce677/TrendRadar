@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-10T09:08:13.871700+08:00",
-  "total_titles_processed": 812,
+  "generated_at": "2026-01-10T11:20:00.103558+08:00",
+  "total_titles_processed": 930,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 09时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 11时20分]"
         },
         {
           "title": "A股史上第六次成交额突破3万亿，沪指16连阳、站稳4100点，AI应用爆发，港股MiniMax上市首日大涨超100%",
@@ -37,11 +37,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 09时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 11时20分]"
         },
         {
           "title": "【焦点复盘】沪指放量涨近1%，全市场超150股涨逾10%，AI应用人气股实现20cm5连板",
@@ -52,8 +53,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 09时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 11时20分]"
         },
         {
           "title": "如何分辨AI音乐骗局",
@@ -112,39 +113,42 @@
           "time_info": "[00时19分 ~ 06时15分]"
         },
         {
-          "title": "内部备忘录显示：美国司法部成立人工智能（AI）执法工作组，希望借机对抗州一级的监管。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3034456",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时15分 ~ 09时08分]"
-        },
-        {
           "title": "报道：DeepSeek将于2月发布下一代AI模型V4，具备“强大”的编程能力",
           "url": "https://wallstreetcn.com/articles/3762982",
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时15分 ~ 09时08分]"
+          "appearance_count": 5,
+          "time_info": "[07时15分 ~ 11时20分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
           "url": "https://search.bilibili.com/all?keyword=Deepseek%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83%E6%96%B0AI%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时07分 ~ 09时08分]"
+          "appearance_count": 4,
+          "time_info": "[09时07分 ~ 11时20分]"
+        },
+        {
+          "title": "内部备忘录显示：美国司法部成立人工智能（AI）执法工作组，希望借机对抗州一级的监管。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3034456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时15分 ~ 11时20分]"
         },
         {
           "title": "AI 技术的核心本质是什么？背后的技术原理有哪些？",
@@ -171,8 +175,139 @@
       ]
     },
     {
+      "keyword_group": "利率 汇率",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了6个对手方的32.8亿美元。",
+          "url": "https://flash.jin10.com/detail/20260110021749449800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时23分"
+        },
+        {
+          "title": "知名对冲基金经理比尔·阿克曼：美国总统特朗普呼吁将信用卡利率上限设定为10%“是一个错误”。",
+          "url": "https://flash.jin10.com/detail/20260110102018762800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "美国抵押贷款利率创将近三年新低，现阶段总统特朗普正推动住房经适性。",
+          "url": "https://wallstreetcn.com/livenews/3034308",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时19分"
+        },
+        {
+          "title": "房贷利率又迎下调",
+          "url": "https://s.weibo.com/weibo?q=%E6%88%BF%E8%B4%B7%E5%88%A9%E7%8E%87%E5%8F%88%E8%BF%8E%E4%B8%8B%E8%B0%83&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23,
+            28,
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时19分 ~ 09时08分]"
+        },
+        {
+          "title": "隔夜互换市场交易员仍预计，加拿大央行将在今年大部分时间内把关键利率维持在2.25%。 此前，决策者表示，只要经济增长和通胀走势符合预期，当前利率就处于“大致合适的水平”。 加拿大央行下一次利率决议及货币政策报告将于1月28日公布。",
+          "url": "https://wallstreetcn.com/livenews/3034292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时19分 ~ 01时19分]"
+        },
+        {
+          "title": "特朗普：将推行为期一年的信用卡利率上限政策，限定为10%",
+          "url": "https://flash.jin10.com/detail/20260110092636627800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "比尔·阿克曼：特朗普呼吁将信用卡利率限制在10%是“一个错误”。 如果不能收取足够的利率来弥补损失，赚取足够的股本回报，信用卡贷方将对消费者取消信用卡服务。",
+          "url": "https://wallstreetcn.com/livenews/3034477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "特朗普：我解决了拜登留下的高房贷利率难题，为美国家庭减轻负担",
+          "url": "https://flash.jin10.com/detail/20260110092012620800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "美国总统特朗普：自2026年1月20日起，作为美国总统，我将要求实施为期一年的信用卡利率上限政策，利率不得超过10%。",
+          "url": "https://flash.jin10.com/detail/20260110091128037800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "特朗普：将推行为期一年的信用卡利率上限政策，限定为10%",
+          "url": "https://wallstreetcn.com/livenews/3034471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "美国抵押贷款利率多年来首次跌破6%",
+          "url": "https://flash.jin10.com/detail/20260110031731842800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "马斯克：人类可以实现半永生",
@@ -204,11 +339,12 @@
           "source": "澎湃新闻",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时19分 ~ 09时08分]"
+          "appearance_count": 14,
+          "time_info": "[00时19分 ~ 11时20分]"
         },
         {
           "title": "马斯克旗下初创公司xAI限制Grok图像生成功能。 此前，Grok生成与儿童相关的性化图片，招致欧洲强烈反感。",
@@ -244,6 +380,91 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时07分 ~ 09时08分]"
+        },
+        {
+          "title": "马斯克：白领劳动力将最先消失",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E7%99%BD%E9%A2%86%E5%8A%B3%E5%8A%A8%E5%8A%9B%E5%B0%86%E6%9C%80%E5%85%88%E6%B6%88%E5%A4%B1",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 11时20分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "OpenAI和软银向合作伙伴SB Energy投资10亿美元。",
+          "url": "https://flash.jin10.com/detail/20260110030422872800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时16分"
+        },
+        {
+          "title": "OpenAI和软银向“星门”合作伙伴SB Energy投资10亿美元",
+          "url": "https://flash.jin10.com/detail/20260110030900508800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时18分]"
+        },
+        {
+          "title": "OpenAI与软银向“星际之门”合作伙伴SB Energy投资10亿美元",
+          "url": "https://wallstreetcn.com/livenews/3034365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时16分 ~ 04时18分]"
+        },
+        {
+          "title": "据华尔街日报：OpenAI承诺投入1000万美元支持投票提案，与倡导组织就儿童安全措施达成和解。",
+          "url": "https://flash.jin10.com/detail/20260110094533475800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
+        },
+        {
+          "title": "SB ENERGY：OpenAI、软银集团和公司还建立了一种非排他性的首选合作伙伴关系，以开发数据中心建设的新模式。",
+          "url": "https://flash.jin10.com/detail/20260110031815505800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时18分"
+        },
+        {
+          "title": "SB ENERGY：OpenAI签署1.2吉瓦数据中心租赁协议，用于初始数据中心建设。",
+          "url": "https://flash.jin10.com/detail/20260110031752436800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时18分"
         }
       ]
     },
@@ -305,134 +526,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "OpenAI和软银向合作伙伴SB Energy投资10亿美元。",
-          "url": "https://flash.jin10.com/detail/20260110030422872800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "OpenAI和软银向“星门”合作伙伴SB Energy投资10亿美元",
-          "url": "https://flash.jin10.com/detail/20260110030900508800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时18分]"
-        },
-        {
-          "title": "OpenAI与软银向“星际之门”合作伙伴SB Energy投资10亿美元",
-          "url": "https://wallstreetcn.com/livenews/3034365",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时18分]"
-        },
-        {
-          "title": "SB ENERGY：OpenAI、软银集团和公司还建立了一种非排他性的首选合作伙伴关系，以开发数据中心建设的新模式。",
-          "url": "https://flash.jin10.com/detail/20260110031815505800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "SB ENERGY：OpenAI签署1.2吉瓦数据中心租赁协议，用于初始数据中心建设。",
-          "url": "https://flash.jin10.com/detail/20260110031752436800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "利率 汇率",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了6个对手方的32.8亿美元。",
-          "url": "https://flash.jin10.com/detail/20260110021749449800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "美国抵押贷款利率创将近三年新低，现阶段总统特朗普正推动住房经适性。",
-          "url": "https://wallstreetcn.com/livenews/3034308",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "房贷利率又迎下调",
-          "url": "https://s.weibo.com/weibo?q=%E6%88%BF%E8%B4%B7%E5%88%A9%E7%8E%87%E5%8F%88%E8%BF%8E%E4%B8%8B%E8%B0%83&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            28,
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时19分 ~ 09时08分]"
-        },
-        {
-          "title": "隔夜互换市场交易员仍预计，加拿大央行将在今年大部分时间内把关键利率维持在2.25%。 此前，决策者表示，只要经济增长和通胀走势符合预期，当前利率就处于“大致合适的水平”。 加拿大央行下一次利率决议及货币政策报告将于1月28日公布。",
-          "url": "https://wallstreetcn.com/livenews/3034292",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 01时19分]"
-        },
-        {
-          "title": "美国抵押贷款利率多年来首次跌破6%",
-          "url": "https://flash.jin10.com/detail/20260110031731842800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时18分"
         }
       ]
     },
