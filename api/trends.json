@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-11T13:02:44.238212+08:00",
-  "total_titles_processed": 565,
+  "generated_at": "2026-01-11T13:46:02.413283+08:00",
+  "total_titles_processed": 604,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             5,
             7,
             13,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时52分 ~ 13时02分]"
+          "appearance_count": 7,
+          "time_info": "[08时52分 ~ 13时46分]"
         },
         {
           "title": "AI“电荒”未解：马斯克“加单”燃气轮机 部分数据中心电网连线需等7年",
@@ -30,8 +31,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时52分 ~ 13时02分]"
+          "appearance_count": 7,
+          "time_info": "[08时52分 ~ 13时46分]"
         },
         {
           "title": "马斯克：X平台将于七天内开源其算法",
@@ -40,11 +41,24 @@
           "ranks": [
             4,
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时02分 ~ 13时02分]"
+          "appearance_count": 4,
+          "time_info": "[11时02分 ~ 13时46分]"
+        },
+        {
+          "title": "马斯克宣布“X将在7天内公开所有算法”，包括推荐算法，以后每四周1次",
+          "url": "https://wallstreetcn.com/articles/3763028",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 13时46分]"
         },
         {
           "title": "全球首次，印尼暂时封禁马斯克旗下AI聊天机器人",
@@ -57,17 +71,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时53分 ~ 11时02分]"
-        },
-        {
-          "title": "马斯克宣布“X将在7天内公开所有算法”，包括推荐算法，以后每四周1次",
-          "url": "https://wallstreetcn.com/articles/3763028",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时02分]"
         },
         {
           "title": "马斯克：推特将在七天内开源其算法",
@@ -96,8 +99,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时52分 ~ 13时02分]"
+          "appearance_count": 7,
+          "time_info": "[08时52分 ~ 13时46分]"
         },
         {
           "title": "Deepseek或将发布新AI模型",
@@ -107,8 +110,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时52分 ~ 13时02分]"
+          "appearance_count": 7,
+          "time_info": "[08时52分 ~ 13时46分]"
         },
         {
           "title": "有新论文暗示 DeepSeekV4 已完成训练，这对未来 AI 大模型发展意味着什么？",
@@ -116,11 +119,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时31分 ~ 13时46分]"
         },
         {
           "title": "DeepSeek 计划二月中旬发布新模型 DeepSeek-V4，有哪些技术亮点？能第二次震惊世界吗？",
@@ -157,11 +161,12 @@
           "ranks": [
             1,
             21,
-            22
+            22,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时02分 ~ 13时02分]"
+          "appearance_count": 5,
+          "time_info": "[11时02分 ~ 13时46分]"
         },
         {
           "title": "邵宇：人工智能或是人类历史上最大的一次泡沫",
@@ -169,11 +174,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 13时02分]"
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 13时46分]"
         }
       ]
     },
@@ -208,6 +214,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国“AI四巨头”罕见同台，阿里、腾讯、Kimi与智谱“论剑”：大模型的下一步与中国反超的可能性",
+          "url": "https://wallstreetcn.com/articles/3763033",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时45分 ~ 13时46分]"
         }
       ]
     }
