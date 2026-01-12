@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T14:20:15.595556+08:00",
-  "total_titles_processed": 774,
+  "generated_at": "2026-01-12T14:59:32.643500+08:00",
+  "total_titles_processed": 836,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "马斯克最新访谈豪赌未来",
@@ -28,8 +28,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时04分 ~ 14时20分]"
+          "appearance_count": 5,
+          "time_info": "[13时04分 ~ 14时59分]"
         },
         {
           "title": "疑似LOL马斯克AI英雄有多强",
@@ -54,6 +54,28 @@
           "time_info": "08时51分"
         },
         {
+          "title": "疑似马斯克AI登顶LOL韩服集锦",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        },
+        {
+          "title": "UP主复盘疑似马斯克AI操作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        },
+        {
           "title": "美国总统特朗普：我们可能会让互联网（在伊朗）恢复运行，会与马斯克沟通。",
           "url": "https://flash.jin10.com/detail/20260112082447101800",
           "source": "金十数据",
@@ -74,6 +96,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
+          "url": "https://flash.jin10.com/detail/20260112123727337800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            16,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时04分 ~ 14时20分]"
+        },
+        {
+          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
+          "url": "https://wallstreetcn.com/articles/3763059",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
         }
       ]
     },
@@ -149,25 +201,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
-          "url": "https://flash.jin10.com/detail/20260112123727337800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            16,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时04分 ~ 14时20分]"
         }
       ]
     },
