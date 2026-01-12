@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T12:09:46.304224+08:00",
-  "total_titles_processed": 592,
+  "generated_at": "2026-01-12T13:04:28.699325+08:00",
+  "total_titles_processed": 668,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "马斯克最新访谈豪赌未来",
@@ -41,6 +41,17 @@
           "time_info": "08时51分"
         },
         {
+          "title": "马斯克称星舰将每年量产 1 万枚，这目标能否实现？对航天业有何影响？",
+          "url": "https://www.zhihu.com/question/1992680924475835169",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        },
+        {
           "title": "美国总统特朗普：我们可能会让互联网（在伊朗）恢复运行，会与马斯克沟通。",
           "url": "https://flash.jin10.com/detail/20260112082447101800",
           "source": "金十数据",
@@ -65,6 +76,35 @@
       ]
     },
     {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "工信部部长李乐成：深入实施“人工智能+制造”专项行动 培育一批重点行业智能体、智能原生企业",
+          "url": "https://wallstreetcn.com/livenews/3034941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时09分 ~ 13时04分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-12）",
+          "url": "https://flash.jin10.com/detail/20260112115512556800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI",
       "match_count": 2,
       "titles": [
@@ -84,11 +124,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A",
           "source": "bilibili 热搜",
           "ranks": [
-            30
+            30,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时00分 ~ 11时01分]"
+          "appearance_count": 3,
+          "time_info": "[11时00分 ~ 13时04分]"
         }
       ]
     },
@@ -110,19 +151,19 @@
       ]
     },
     {
-      "keyword_group": "人工智能",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "工信部部长李乐成：深入实施“人工智能+制造”专项行动 培育一批重点行业智能体、智能原生企业",
-          "url": "https://wallstreetcn.com/livenews/3034941",
-          "source": "华尔街见闻-快讯",
+          "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
+          "url": "https://flash.jin10.com/detail/20260112123727337800",
+          "source": "金十数据",
           "ranks": [
-            14
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时09分"
+          "time_info": "13时04分"
         }
       ]
     },
