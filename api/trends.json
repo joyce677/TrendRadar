@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-01-12T15:45:39.193082+08:00",
-  "total_titles_processed": 937,
+  "generated_at": "2026-01-12T16:17:03.935128+08:00",
+  "total_titles_processed": 973,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
       "match_count": 8,
       "titles": [
+        {
+          "title": "马斯克称星舰将每年量产 1 万枚，这目标能否实现？对航天业有何影响？",
+          "url": "https://www.zhihu.com/question/1992680924475835169",
+          "source": "知乎",
+          "ranks": [
+            12,
+            15,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时04分 ~ 16时17分]"
+        },
         {
           "title": "马斯克最新访谈豪赌未来",
           "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9C%80%E6%96%B0%E8%AE%BF%E8%B0%88%E8%B1%AA%E8%B5%8C%E6%9C%AA%E6%9D%A5",
@@ -19,19 +33,6 @@
           "time_info": "[11时00分 ~ 11时01分]"
         },
         {
-          "title": "马斯克称星舰将每年量产 1 万枚，这目标能否实现？对航天业有何影响？",
-          "url": "https://www.zhihu.com/question/1992680924475835169",
-          "source": "知乎",
-          "ranks": [
-            12,
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时04分 ~ 15时23分]"
-        },
-        {
           "title": "疑似马斯克AI登顶LOL韩服集锦",
           "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
           "source": "bilibili 热搜",
@@ -39,8 +40,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时59分 ~ 15时45分]"
+          "appearance_count": 5,
+          "time_info": "[14时59分 ~ 16时17分]"
         },
         {
           "title": "UP主复盘疑似马斯克AI操作",
@@ -48,11 +49,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            22
+            22,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时59分 ~ 15时45分]"
+          "appearance_count": 5,
+          "time_info": "[14时59分 ~ 16时17分]"
         },
         {
           "title": "疑似LOL马斯克AI英雄有多强",
@@ -105,6 +107,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
+          "url": "https://wallstreetcn.com/articles/3763059",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时59分 ~ 16时17分]"
+        },
+        {
           "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
           "url": "https://flash.jin10.com/detail/20260112123727337800",
           "source": "金十数据",
@@ -116,18 +130,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时04分 ~ 14时20分]"
-        },
-        {
-          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
-          "url": "https://wallstreetcn.com/articles/3763059",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时59分 ~ 15时45分]"
         }
       ]
     },
