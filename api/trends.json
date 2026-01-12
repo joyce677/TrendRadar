@@ -1,12 +1,38 @@
 {
-  "generated_at": "2026-01-12T16:54:07.715795+08:00",
-  "total_titles_processed": 1051,
+  "generated_at": "2026-01-12T17:21:27.969046+08:00",
+  "total_titles_processed": 1100,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "疑似马斯克AI登顶LOL韩服集锦",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时59分 ~ 17时21分]"
+        },
+        {
+          "title": "UP主复盘疑似马斯克AI操作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            22,
+            20,
+            26,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时59分 ~ 17时21分]"
+        },
         {
           "title": "马斯克称星舰将每年量产 1 万枚，这目标能否实现？对航天业有何影响？",
           "url": "https://www.zhihu.com/question/1992680924475835169",
@@ -20,31 +46,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时04分 ~ 16时17分]"
-        },
-        {
-          "title": "疑似马斯克AI登顶LOL韩服集锦",
-          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时59分 ~ 16时54分]"
-        },
-        {
-          "title": "UP主复盘疑似马斯克AI操作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            22,
-            20,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时59分 ~ 16时54分]"
         },
         {
           "title": "马斯克最新访谈豪赌未来",
@@ -67,6 +68,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时00分 ~ 11时01分]"
+        },
+        {
+          "title": "马斯克再抛颠覆性预言：20年内攒钱养老将变得“毫无意义”！",
+          "url": "https://www.cls.cn/detail/2254347",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时20分 ~ 17时21分]"
         },
         {
           "title": "疑似马斯克AI登顶LOL韩服",
@@ -116,7 +128,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
@@ -128,8 +140,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时59分 ~ 16时54分]"
+          "appearance_count": 9,
+          "time_info": "[14时59分 ~ 17时21分]"
         },
         {
           "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
@@ -143,6 +155,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时04分 ~ 14时20分]"
+        },
+        {
+          "title": "美股盘前，明星科技股普跌，英伟达(NVDA.O)跌1.2%、谷歌C(GOOG.O)跌0.95%、甲骨文(ORCL.N)跌1.7%、英特尔(INTC.O)跌2%。",
+          "url": "https://flash.jin10.com/detail/20260112170114771800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时21分"
         }
       ]
     },
@@ -265,11 +288,12 @@
           "url": "https://wallstreetcn.com/articles/3763085",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 16时54分]"
+          "appearance_count": 4,
+          "time_info": "[16时53分 ~ 17时21分]"
         }
       ]
     }
