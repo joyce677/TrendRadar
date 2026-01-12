@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T16:17:03.935128+08:00",
-  "total_titles_processed": 973,
+  "generated_at": "2026-01-12T16:54:07.715795+08:00",
+  "total_titles_processed": 1051,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "马斯克称星舰将每年量产 1 万枚，这目标能否实现？对航天业有何影响？",
@@ -22,6 +22,31 @@
           "time_info": "[13时04分 ~ 16时17分]"
         },
         {
+          "title": "疑似马斯克AI登顶LOL韩服集锦",
+          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时59分 ~ 16时54分]"
+        },
+        {
+          "title": "UP主复盘疑似马斯克AI操作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            22,
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时59分 ~ 16时54分]"
+        },
+        {
           "title": "马斯克最新访谈豪赌未来",
           "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%9C%80%E6%96%B0%E8%AE%BF%E8%B0%88%E8%B1%AA%E8%B5%8C%E6%9C%AA%E6%9D%A5",
           "source": "bilibili 热搜",
@@ -33,30 +58,6 @@
           "time_info": "[11时00分 ~ 11时01分]"
         },
         {
-          "title": "疑似马斯克AI登顶LOL韩服集锦",
-          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时59分 ~ 16时17分]"
-        },
-        {
-          "title": "UP主复盘疑似马斯克AI操作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            22,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时59分 ~ 16时17分]"
-        },
-        {
           "title": "疑似LOL马斯克AI英雄有多强",
           "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BCLOL%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%8B%B1%E9%9B%84%E6%9C%89%E5%A4%9A%E5%BC%BA",
           "source": "bilibili 热搜",
@@ -66,6 +67,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时00分 ~ 11时01分]"
+        },
+        {
+          "title": "疑似马斯克AI登顶LOL韩服",
+          "url": "https://www.douyin.com/hot/2364470",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 16时54分]"
         },
         {
           "title": "马斯克宣布“X将在7天内公开所有算法”，包括推荐算法，以后每四周1次",
@@ -112,11 +124,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时59分 ~ 16时17分]"
+          "appearance_count": 7,
+          "time_info": "[14时59分 ~ 16时54分]"
         },
         {
           "title": "谷歌联合沃尔玛等零售商扩展AI模型购物功能",
@@ -240,6 +253,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时00分 ~ 12时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "营销",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
+          "url": "https://wallstreetcn.com/articles/3763085",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时53分 ~ 16时54分]"
         }
       ]
     }
