@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-13T15:21:43.257652+08:00",
-  "total_titles_processed": 1335,
+  "generated_at": "2026-01-13T16:22:51.409489+08:00",
+  "total_titles_processed": 1431,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
         {
           "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
@@ -37,11 +37,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 15时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 16时22分]"
         },
         {
           "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
@@ -127,8 +128,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 15时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 16时22分]"
         },
         {
           "title": "AI登顶LOL韩服,Faker劲敌来袭",
@@ -207,8 +208,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时35分 ~ 15时21分]"
+          "appearance_count": 6,
+          "time_info": "[12时35分 ~ 16时22分]"
+        },
+        {
+          "title": "马来西亚通信监管机构：X和xAI未能执行自身政策和内部控制，可能助长了在马来西亚的非法在线活动。",
+          "url": "https://flash.jin10.com/detail/20260113161050388800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "港股AI应用概念股回调，智谱午后持续下挫，跌超13%，MINIMAX跌超8%。",
@@ -233,6 +245,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时19分 ~ 04时18分]"
+        },
+        {
+          "title": "张文宏称拒绝将AI引入医院病历系统",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E6%8B%92%E7%BB%9D%E5%B0%86AI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F%23&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 16时22分]"
+        },
+        {
+          "title": "【午报】三大指数小幅下挫，AI医疗方向全线爆发，商业航天概念股大幅分化",
+          "url": "https://www.cls.cn/detail/2255873",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 16时22分]"
+        },
+        {
+          "title": "英伟达和礼来成立AI药物实验室 AI驱动医疗产业形成新增长极",
+          "url": "https://www.cls.cn/detail/2255569",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 16时22分]"
         },
         {
           "title": "辉瑞计划在所有业务中加强AI的应用。",
@@ -280,37 +328,15 @@
           "time_info": "07时13分"
         },
         {
-          "title": "张文宏称拒绝将AI引入医院病历系统",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E6%8B%92%E7%BB%9D%E5%B0%86AI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
-          "title": "英伟达和礼来成立AI药物实验室 AI驱动医疗产业形成新增长极",
-          "url": "https://www.cls.cn/detail/2255569",
+          "title": "AI引爆存储芯片需求！SK海力士将豪掷近130亿美元建设封装厂",
+          "url": "https://www.cls.cn/detail/2255787",
           "source": "财联社热门",
           "ranks": [
-            12
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
-          "title": "【午报】三大指数小幅下挫，AI医疗方向全线爆发，商业航天概念股大幅分化",
-          "url": "https://www.cls.cn/detail/2255873",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
+          "time_info": "16时22分"
         },
         {
           "title": "Alphabet盘中市值突破4万亿美元，受益于AI热潮",
@@ -371,8 +397,23 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "人民币汇率创近32个月新高",
+          "url": "https://www.douyin.com/hot/2365877",
+          "source": "抖音",
+          "ranks": [
+            9,
+            14,
+            10,
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时06分 ~ 16时22分]"
+        },
         {
           "title": "银行短期大额存单利率进入「0 字头」，你还会把钱存在银行吗？普通老百姓的钱该去哪儿？",
           "url": "https://www.zhihu.com/question/1993043578574889805",
@@ -389,18 +430,18 @@
           "time_info": "[00时21分 ~ 09时07分]"
         },
         {
-          "title": "人民币汇率创近32个月新高",
-          "url": "https://www.douyin.com/hot/2365877",
-          "source": "抖音",
+          "title": "川普下霸王令:信用卡利率砍半",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349044&amp;topic_name=%E5%B7%9D%E6%99%AE%E4%B8%8B%E9%9C%B8%E7%8E%8B%E4%BB%A4%3A%E4%BF%A1%E7%94%A8%E5%8D%A1%E5%88%A9%E7%8E%87%E7%A0%8D%E5%8D%8A",
+          "source": "贴吧",
           "ranks": [
-            9,
-            14,
-            10,
-            8
+            6,
+            5,
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 15时21分]"
+          "appearance_count": 5,
+          "time_info": "[12时35分 ~ 16时22分]"
         },
         {
           "title": "美国至1月12日3年期国债竞拍-得标利率 3.609%，前值3.61%。",
@@ -412,19 +453,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时23分"
-        },
-        {
-          "title": "川普下霸王令:信用卡利率砍半",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349044&amp;topic_name=%E5%B7%9D%E6%99%AE%E4%B8%8B%E9%9C%B8%E7%8E%8B%E4%BB%A4%3A%E4%BF%A1%E7%94%A8%E5%8D%A1%E5%88%A9%E7%8E%87%E7%A0%8D%E5%8D%8A",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时35分 ~ 15时21分]"
         },
         {
           "title": "美国至1月12日10年期国债竞拍-得标利率配置百分比 93.91%，前值70.5%。",
@@ -537,7 +565,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
         },
@@ -705,6 +733,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时13分"
+        },
+        {
+          "title": "日本经济团体联合会会长筒井义信：认为日元的跌势有点过头了，相信向日元升值的方向调整是必要的。 在极端环境下，外汇干预可能是合理的。 汇率波动应该反映基本面。 汇率总体上应该由市场力量驱动。",
+          "url": "https://wallstreetcn.com/livenews/3035907",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         }
       ]
     },
@@ -720,20 +759,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 15时21分]"
-        },
-        {
-          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
-          "url": "https://wallstreetcn.com/articles/3763059",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 09时07分]"
+          "appearance_count": 10,
+          "time_info": "[09时06分 ~ 16时22分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -746,8 +773,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时06分 ~ 15时21分]"
+          "appearance_count": 10,
+          "time_info": "[09时06分 ~ 16时22分]"
+        },
+        {
+          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
+          "url": "https://wallstreetcn.com/articles/3763059",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 09时07分]"
         },
         {
           "title": "金银再创历史新高 谷歌市值首破4万亿美元 | 环球市场",
@@ -774,26 +813,27 @@
           "time_info": "07时13分"
         },
         {
-          "title": "苹果联姻谷歌意味着什么",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E8%81%94%E5%A7%BB%E8%B0%B7%E6%AD%8C%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
           "title": "苹果接入Gemini模型想做啥",
           "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%8E%A5%E5%85%A5Gemini%E6%A8%A1%E5%9E%8B%E6%83%B3%E5%81%9A%E5%95%A5",
           "source": "bilibili 热搜",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时21分"
+        },
+        {
+          "title": "苹果联姻谷歌意味着什么",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E8%81%94%E5%A7%BB%E8%B0%B7%E6%AD%8C%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 16时22分]"
         },
         {
           "title": "谷歌：Gemini模型将为未来的苹果智能功能提供支持，包括今年即将推出的更个性化的Siri。",
@@ -951,11 +991,12 @@
             15,
             19,
             20,
-            30
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 15时21分]"
+          "appearance_count": 21,
+          "time_info": "[00时21分 ~ 16时22分]"
         },
         {
           "title": "马斯克最新访谈：瓦特是未来货币，电力优势将令中国AI算力一骑绝尘",
@@ -1098,11 +1139,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时24分 ~ 15时21分]"
+          "appearance_count": 4,
+          "time_info": "[14时24分 ~ 16时22分]"
         },
         {
           "title": "OpenAI宣布，收购了医疗保健初创公司Torch。 据The Information报道，这笔交易大约1亿美元。",
@@ -1153,7 +1195,7 @@
     },
     {
       "keyword_group": "房价 楼市 房地产",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "天津新房价格管控收紧，楼盘价格“过低”或限制网签",
@@ -1166,6 +1208,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时21分 ~ 14时25分]"
+        },
+        {
+          "title": "中国社科院张斌：相信2026年房地产一定会有政策",
+          "url": "https://wallstreetcn.com/livenews/3035919",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
         },
         {
           "title": "戴德梁行胡峰：房地产大规模增量扩张的时代已经结束，存量提质增效的新阶段已然开启",
