@@ -1,1642 +1,321 @@
 {
-  "generated_at": "2026-01-13T23:20:02.872478+08:00",
-  "total_titles_processed": 2133,
+  "generated_at": "2026-01-14T00:23:32.048019+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 49,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO",
-          "url": "https://wallstreetcn.com/articles/3763085",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 15时21分]"
-        },
-        {
-          "title": "新“易中天”行情来势汹汹 业内忧GEO低质滥用引发AI“水军”现象",
-          "url": "https://www.cls.cn/detail/2255330",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 09时07分]"
-        },
-        {
-          "title": "A股成交额再创新高！沪指豪取17连阳，AI应用、商业航天大爆发，港股智谱狂飙30%，沪银涨超14%",
-          "url": "https://wallstreetcn.com/articles/3763068",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时21分 ~ 17时23分]"
-        },
-        {
-          "title": "【数据看盘】多只中证A500相关ETF上周份额大减 机构和游资激烈博弈AI应用概念股",
-          "url": "https://www.cls.cn/detail/2255010",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 07时13分]"
-        },
-        {
-          "title": "【焦点复盘】北证50放量涨超5%，全市场超300股涨超10%，GEO概念领涨AI应用端",
-          "url": "https://www.cls.cn/detail/2254978",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 07时13分]"
-        },
-        {
-          "title": "下一个万亿级AI应用？浙江数字规划力挺AI4S 助推科研范式变革",
-          "url": "https://www.cls.cn/detail/2254799",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 07时13分]"
-        },
-        {
-          "title": "张文宏：拒绝把AI引入医院病历系统",
-          "url": "https://www.baidu.com/s?wd=%E5%BC%A0%E6%96%87%E5%AE%8F%EF%BC%9A%E6%8B%92%E7%BB%9D%E6%8A%8AAI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F",
-          "source": "百度热搜",
-          "ranks": [
-            4,
-            5,
-            15,
-            16,
-            17,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时21分 ~ 15时21分]"
-        },
-        {
-          "title": "中国核聚变装置融入AI技术",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E8%A3%85%E7%BD%AE%E8%9E%8D%E5%85%A5AI%E6%8A%80%E6%9C%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            6,
-            10,
-            8,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时23分 ~ 23时20分]"
-        },
-        {
-          "title": "万字解析中国AI产业",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%87%E5%AD%97%E8%A7%A3%E6%9E%90%E4%B8%AD%E5%9B%BDAI%E4%BA%A7%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            9,
-            17,
-            19,
-            26,
-            23,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[05时15分 ~ 15时21分]"
-        },
-        {
-          "title": "UP主分析AI将如何影响电竞行业",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            16,
-            13,
-            15,
-            17,
-            14,
-            29,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时35分 ~ 23时20分]"
-        },
-        {
-          "title": "韩服93%胜率账号是AI吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D93%25%E8%83%9C%E7%8E%87%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            15,
-            18,
-            21,
-            16,
-            12,
-            13,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 30,
-          "time_info": "[00时21分 ~ 23时20分]"
-        },
-        {
-          "title": "AI登顶LOL韩服,Faker劲敌来袭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348968&amp;topic_name=AI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%2CFaker%E5%8A%B2%E6%95%8C%E6%9D%A5%E8%A2%AD",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            23,
-            25,
-            28,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时21分 ~ 15时21分]"
-        },
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
           "url": "https://www.cls.cn/detail/2256448",
           "source": "财联社热门",
           "ranks": [
-            3,
-            2,
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时32分 ~ 23时20分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
           "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
           "url": "https://www.cls.cn/detail/2256264",
           "source": "财联社热门",
           "ranks": [
-            10,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时15分 ~ 23时20分]"
-        },
-        {
-          "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
-          "url": "https://www.zhihu.com/question/1994352106249873378",
-          "source": "知乎",
-          "ranks": [
-            20,
-            19,
-            18,
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时23分 ~ 23时20分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
           "title": "【焦点复盘】科创50低开低走跌近3%，全市场超500股跌超5%，AI医疗概念强势依旧",
           "url": "https://www.cls.cn/detail/2256259",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12,
-            10,
-            9,
-            8,
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[18时17分 ~ 23时20分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
-          "title": "扎克伯格启动Meta Compute项目 2030年前狂建数十吉瓦AI基建",
-          "url": "https://www.cls.cn/detail/2255512",
-          "source": "财联社热门",
+          "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
+          "url": "https://www.zhihu.com/question/1994352106249873378",
+          "source": "知乎",
           "ranks": [
-            11,
-            13,
-            12
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时06分 ~ 14时25分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
-          "title": "英伟达与礼来共投10亿美元 建设AI药物研发实验室",
-          "url": "https://www.cls.cn/detail/2255501",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时06分 ~ 13时21分]"
-        },
-        {
-          "title": "张文宏称拒绝把AI引入医院病历系统",
-          "url": "https://www.toutiao.com/trending/7594611746107854346/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            8,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时06分 ~ 12时35分]"
-        },
-        {
-          "title": "EDG官宣Maokai回归",
-          "url": "https://search.bilibili.com/all?keyword=EDG%E5%AE%98%E5%AE%A3Maokai%E5%9B%9E%E5%BD%92",
+          "title": "韩服93%胜率账号是AI吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D93%25%E8%83%9C%E7%8E%87%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E5%90%97",
           "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时17分 ~ 21时37分]"
-        },
-        {
-          "title": "【午报】三大指数小幅下挫，AI医疗方向全线爆发，商业航天概念股大幅分化",
-          "url": "https://www.cls.cn/detail/2255873",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时21分 ~ 19时15分]"
-        },
-        {
-          "title": "AI应用概念股掀起涨停潮，一图看懂利好催化有哪些？",
-          "url": "https://www.cls.cn/detail/2254949",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "马来西亚通信监管机构：X和xAI未能执行自身政策和内部控制，可能助长了在马来西亚的非法在线活动。",
-          "url": "https://flash.jin10.com/detail/20260113161050388800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "张文宏称拒绝将AI引入医院病历系统",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E7%A7%B0%E6%8B%92%E7%BB%9D%E5%B0%86AI%E5%BC%95%E5%85%A5%E5%8C%BB%E9%99%A2%E7%97%85%E5%8E%86%E7%B3%BB%E7%BB%9F%23&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8,
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时21分 ~ 18时18分]"
-        },
-        {
-          "title": "港股AI应用概念股回调，智谱午后持续下挫，跌超13%，MINIMAX跌超8%。",
-          "url": "https://wallstreetcn.com/livenews/3035821",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 14时25分]"
-        },
-        {
-          "title": "AI引爆存储芯片需求！SK海力士将豪掷近130亿美元建设封装厂",
-          "url": "https://www.cls.cn/detail/2255787",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时22分 ~ 18时18分]"
-        },
-        {
-          "title": "追赶AI浪潮 Meta斥资数百亿打造全球顶级算力版图",
-          "url": "https://flash.jin10.com/detail/20260113024637591800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时18分]"
-        },
-        {
-          "title": "英伟达和礼来成立AI药物实验室 AI驱动医疗产业形成新增长极",
-          "url": "https://www.cls.cn/detail/2255569",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 16时22分]"
-        },
-        {
-          "title": "辉瑞计划在所有业务中加强AI的应用。",
-          "url": "https://wallstreetcn.com/livenews/3035503",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 03时19分]"
-        },
-        {
-          "title": "一图看懂 | AI应用概念股持续活跃 核心赛道与代表企业全梳理",
-          "url": "https://www.cls.cn/detail/2256150",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时32分 ~ 21时37分]"
-        },
-        {
-          "title": "苹果官宣iPhone将搭载最强AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%8B%B9%E6%9E%9C%E5%AE%98%E5%AE%A3iPhone%E5%B0%86%E6%90%AD%E8%BD%BD%E6%9C%80%E5%BC%BAAI%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时23分 ~ 11时24分]"
-        },
-        {
-          "title": "电网基建与AIDC需求共振，变压器行业高景气延续",
-          "url": "https://wallstreetcn.com/livenews/3035608",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "催化事件不断，AI应用从“可用”迈向“好用”",
-          "url": "https://wallstreetcn.com/livenews/3035605",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "微软：推出以社区为核心的AI基础设施新举措。 将投资新的合作伙伴关系，为当地居民在建设和运营阶段提供技能培训和就业机会。 将要求公用事业公司和公共委员会将我们的费率设定得足够高，以覆盖数据中心的电力成本。",
-          "url": "https://wallstreetcn.com/livenews/3036210",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
-          "title": "市场延续结构性行情，AI 应用与商业航天成资金共识，把握核心方向轮动机会",
-          "url": "https://www.cls.cn/detail/2255684",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
-          "title": "美股Q4财报季前瞻：市场预期偏低或有惊喜，AI交易和科技巨头迎考验！",
-          "url": "https://www.cls.cn/detail/2255885",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
-          "title": "Alphabet盘中市值突破4万亿美元，受益于AI热潮",
-          "url": "https://wallstreetcn.com/livenews/3035442",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "从AI眼镜到脑机接口，智能终端升级大有可为",
-          "url": "https://wallstreetcn.com/livenews/3035598",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "天龙集团：近期公司注意到“AI应用”相关概念受市场关注较大。现阶段，公司相关AI工具主要应用于公司内部使用的广告创意素材和传播内容的创作，当前未因AI工具产生额外的收入，对公司整体经营情况没有重大影响。",
-          "url": "https://wallstreetcn.com/livenews/3036054",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "Meta寻求2026年将AI眼镜Ray-Ban产量提高至2000万。 Meta与法国眼镜制造商依视路陆逊梯卡EssilorLuxottica洽谈扩大智能眼镜的产能。 Meta已经暗示，如果存在市场需求，产能将超过3000万。 依视路陆逊梯卡接近现阶段的2026年为Meta生产1000万的产能目标。",
-          "url": "https://wallstreetcn.com/livenews/3036254",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时20分"
+          "time_info": "00时23分"
         },
         {
-          "title": "东方明珠：公司不直接从事AI业务，AI应用不直接产生营收",
-          "url": "https://wallstreetcn.com/livenews/3036050",
+          "title": "“末日博士”鲁比尼：AI繁荣正抵消包括美国总统和地缘政治在内的一系列风险。 AI将开创“美国例外论”的新篇章。",
+          "url": "https://wallstreetcn.com/livenews/3036285",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时15分"
+          "time_info": "00时23分"
         },
         {
-          "title": "普元信息：公司AI软件基础平台产品目前处于初步商业化阶段",
-          "url": "https://wallstreetcn.com/livenews/3036039",
-          "source": "华尔街见闻-快讯",
+          "title": "UP主分析AI将如何影响电竞行业",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
+          "source": "bilibili 热搜",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时15分"
+          "time_info": "00时23分"
         },
         {
-          "title": "英伟达与礼来制药宣布联合创新AI实验室。 （双方）未来五年将向AI医药实验室投资至多10亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3035434",
-          "source": "华尔街见闻-快讯",
+          "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32368064",
+          "source": "澎湃新闻",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "00时23分"
         },
         {
-          "title": "张文宏对AI系统性引入诊疗保留意见",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%BC%A0%E6%96%87%E5%AE%8F%E5%AF%B9AI%E7%B3%BB%E7%BB%9F%E6%80%A7%E5%BC%95%E5%85%A5%E8%AF%8A%E7%96%97%E4%BF%9D%E7%95%99%E6%84%8F%E8%A7%81%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "中国核聚变装置融入AI技术",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E8%A3%85%E7%BD%AE%E8%9E%8D%E5%85%A5AI%E6%8A%80%E6%9C%AF",
+          "source": "bilibili 热搜",
           "ranks": [
-            20
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时21分"
+          "time_info": "00时23分"
         },
         {
-          "title": "评论员谈张文宏的AI技术边界忧思",
-          "url": "https://www.toutiao.com/trending/7594714282483256842/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "1688平台发布2025产业带报告：2028年起产业带将开启“AI原生”时代",
-          "url": "https://wallstreetcn.com/livenews/3036110",
+          "title": "报道：Meta启动裁员，战略中心从元宇宙转向AI设备",
+          "url": "https://wallstreetcn.com/livenews/3036272",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "日均30万商家使用1688平台AI产品与技术 1688向商家推出“三保”服务",
-          "url": "https://wallstreetcn.com/livenews/3036109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时32分"
-        },
-        {
-          "title": "可灵AI 12月收入超过2000万美元，ARR突破2.4亿美元",
-          "url": "https://wallstreetcn.com/livenews/3036244",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "苹果官宣iPhone将搭载最强AI",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E5%AE%98%E5%AE%A3iPhone%E5%B0%86%E6%90%AD%E8%BD%BD%E6%9C%80%E5%BC%BAAI",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时21分"
+          "time_info": "00时23分"
         }
       ]
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 38,
+      "match_count": 10,
       "titles": [
         {
-          "title": "人民币汇率创近32个月新高",
-          "url": "https://www.douyin.com/hot/2365877",
-          "source": "抖音",
+          "title": "摩根士丹利策略师Heather Berger和Carolyn Campbell：美国总统特朗普呼吁信用卡发卡机构将利率上限设为10%且为期一年，这可能会促使借款人转向“目前无处不在的‘先买后付’（BNPL）产品”。",
+          "url": "https://wallstreetcn.com/livenews/3036292",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            14,
-            10,
-            8,
-            4
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时06分 ~ 16时22分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "特朗普“信用卡利率上限”方案持续发酵，支付公司Visa跌幅扩大至5.5%，创6月18日以来最大盘中跌幅。 MasterCard跌5.8%。",
+          "url": "https://wallstreetcn.com/livenews/3036291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
           "title": "川普下霸王令:信用卡利率砍半",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349044&amp;topic_name=%E5%B7%9D%E6%99%AE%E4%B8%8B%E9%9C%B8%E7%8E%8B%E4%BB%A4%3A%E4%BF%A1%E7%94%A8%E5%8D%A1%E5%88%A9%E7%8E%87%E7%A0%8D%E5%8D%8A",
           "source": "贴吧",
           "ranks": [
-            6,
-            5,
-            7,
-            9,
-            10,
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时35分 ~ 23时20分]"
-        },
-        {
-          "title": "银行短期大额存单利率进入「0 字头」，你还会把钱存在银行吗？普通老百姓的钱该去哪儿？",
-          "url": "https://www.zhihu.com/question/1993043578574889805",
-          "source": "知乎",
-          "ranks": [
-            13,
-            9,
-            7,
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 09时07分]"
-        },
-        {
-          "title": "美国至1月12日3年期国债竞拍-得标利率 3.609%，前值3.61%。",
-          "url": "https://flash.jin10.com/detail/20260113020225349800",
-          "source": "金十数据",
-          "ranks": [
-            1
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时23分"
+          "time_info": "00时23分"
         },
         {
-          "title": "美国至1月12日10年期国债竞拍-得标利率配置百分比 93.91%，前值70.5%。",
-          "url": "https://flash.jin10.com/detail/20260113020204590800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "美国至1月12日10年期国债竞拍-得标利率 4.173%，前值4.18%。",
-          "url": "https://flash.jin10.com/detail/20260113020204567800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "日本经济财政大臣城内实：外汇汇率由多种因素决定，长期利率也由市场上的各种因素决定，不能说财政政策单独决定市场走势。",
-          "url": "https://flash.jin10.com/detail/20260113135056591800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "美国圣路易联储主席Musalem：我认为，短期内没理由继续放松货币政策。 我的感觉是，（FOMC利率）政策恰好处于中性水平附近。 政策将在两个方向上平衡风险。 政策在“对任何方向做出反应”方面准备就绪。 美国仍然存在通胀顽固的风险。",
-          "url": "https://wallstreetcn.com/livenews/3036265",
+          "title": "美国众议院议长约翰逊：已经与总统特朗普讨论10%的信用卡利率上限方案。 在这个问题上（的立法）需要大量沟通。 必须在信用卡利率上限方案方面非常深思熟虑。",
+          "url": "https://wallstreetcn.com/livenews/3036287",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时20分"
-        },
-        {
-          "title": "美国财政部拍卖三个月期国债，得标利率3.570%，投标倍数2.79。",
-          "url": "https://wallstreetcn.com/livenews/3035510",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 03时19分]"
-        },
-        {
-          "title": "美国财政部拍390亿美元10年期国债，得标利率4.173%（12月9日为4.175%），投标倍数2.55（前次为2.55）。",
-          "url": "https://wallstreetcn.com/livenews/3035509",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 03时19分]"
-        },
-        {
-          "title": "美国银行：因利率周期而上调巴西股票评级至超配。",
-          "url": "https://wallstreetcn.com/livenews/3035507",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 03时19分]"
-        },
-        {
-          "title": "农发行发行91天期债券，规模20亿元，发行利率1.4934%，预期1.5000%，投标倍数3.40倍，边际倍数1.36倍； 农发行发行5年期债券，规模80亿元，发行利率1.7367%，预期1.7600%，投标倍数4.23倍，边际倍数1.56倍。",
-          "url": "https://wallstreetcn.com/livenews/3035768",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时35分]"
-        },
-        {
-          "title": "美国参议院民主党成员Warren：接到总统特朗普的电话。 我已经告诉特朗普，我会支持参议院通过信用卡利率上限。",
-          "url": "https://wallstreetcn.com/livenews/3035537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时18分 ~ 05时15分]"
-        },
-        {
-          "title": "美联储主席“潜在接班人”放话：必须将利率降至3%！",
-          "url": "https://www.cls.cn/detail/2256095",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时37分 ~ 22时20分]"
-        },
-        {
-          "title": "港元兑美元汇率跌至7.8，触及交易区间中点。",
-          "url": "https://wallstreetcn.com/livenews/3035974",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时23分 ~ 18时18分]"
-        },
-        {
-          "title": "CPI公布前 美联储1月维持利率不变的概率为95%",
-          "url": "https://flash.jin10.com/detail/20260113211610253800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时37分"
-        },
-        {
-          "title": "美国至1月12日3个月国债竞拍-得标利率配置百分比 12.52%，前值77.13%。",
-          "url": "https://flash.jin10.com/detail/20260113020203866800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "农发行发行2年期债券，规模30亿元，发行利率1.6335%，预期1.6200%，投标倍数3.89倍，边际倍数4.02倍； 农发行发行2年期债券，规模40亿元，发行利率1.5823%，预期1.6000%，投标倍数3.31倍，边际倍数1.71倍； 农发行发行7年期债券，规模20亿元，发行利率1.8732%，预期1.8900%，投标倍数3.93倍，边际倍数2.60倍。",
-          "url": "https://wallstreetcn.com/livenews/3035893",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
-          "title": "据美国纽约联储数据，上个交易日（1月12日）担保隔夜融资利率（SOFR）报3.64%，之前一天报3.64%。",
-          "url": "https://wallstreetcn.com/livenews/3036214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
-          "title": "美国至1月12日3个月国债竞拍-得标利率 3.57%，前值3.54%。",
-          "url": "https://flash.jin10.com/detail/20260113020203830800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "美国纽约联储主席威廉姆斯：美联储没有面临改变利率的强大压力。 美联储的独立性带来了巨大好处。 在央行独立性之争中市场相对平静，反映出对结果的不确定性。 预计下一任美联储主席将理解这一职位的重要性。 所有进入美联储的人都明白这份工作的重要性。 目前的经济形势相当不错。",
-          "url": "https://wallstreetcn.com/livenews/3035670",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
-          "title": "美联储威廉姆斯：美联储没有面临改变利率的强大压力。在央行独立性之争中市场相对平静，反映出对结果的不确定性。",
-          "url": "https://flash.jin10.com/detail/20260113085602494800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
-          "title": "宝盛银行经济学家：尽管利率差距有所缩小 日元料仍将保持疲软态势",
-          "url": "https://flash.jin10.com/detail/20260113173007834800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时18分"
-        },
-        {
-          "title": "美国财政部拍卖六个月期国债，得标利率3.490%，投标倍数3.17。",
-          "url": "https://wallstreetcn.com/livenews/3035467",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "美国至1月12日6个月国债竞拍-得标利率 3.49%，前值3.48%。",
-          "url": "https://flash.jin10.com/detail/20260113003205436800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "美国至1月12日10年期国债竞拍-得标利率、投标倍数将于十分钟后公布。",
-          "url": "https://flash.jin10.com/detail/20260113015000000800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时23分"
-        },
-        {
-          "title": "摩根大通首席财务官巴纳姆：对信用卡利率设限对消费者来说非常不利。",
-          "url": "https://flash.jin10.com/detail/20260113211042657800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时37分"
-        },
-        {
-          "title": "美国财政部拍卖580亿美元三年期国债，得标利率3.609%，投标倍数2.65。",
-          "url": "https://wallstreetcn.com/livenews/3035466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "美国至1月12日6个月国债竞拍-得标利率配置百分比 42.32%，前值12.96%。",
-          "url": "https://flash.jin10.com/detail/20260113003205340800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "特朗普施压美联储引发担忧 债券巨头称利率或反而上行",
-          "url": "https://wallstreetcn.com/livenews/3035552",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "摩根大通CEO戴蒙：信用卡利率上限的影响将“非常巨大”。",
-          "url": "https://flash.jin10.com/detail/20260113220257161800",
-          "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时20分"
+          "time_info": "00时23分"
         },
         {
-          "title": "美联储主席潜在候选人、贝莱德首席投资官Rick Rieder：美联储必须将利率降至3%。",
-          "url": "https://flash.jin10.com/detail/20260113041453583800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "路透调查：所有34位经济学家表示，韩国央行将于1月15日将基准利率维持在2.50%。韩国央行基准利率预计将维持在2.50%至2026年（11月调查为2.25%）。",
-          "url": "https://flash.jin10.com/detail/20260113083816650800",
+          "title": "美国众议院议长约翰逊：任何限制信用卡利率的举措都可能产生“负面的连锁反应”，并指出需要通过立法来设定上限。",
+          "url": "https://flash.jin10.com/detail/20260113234213964800",
           "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时07分"
+          "time_info": "00时23分"
         },
         {
-          "title": "周一（1月12日，非农次日），降息赢家指数跌0.52%，报106.72点，鲍威尔被美国总统特朗普的司法部刑事调查之后跳空低开，美股早盘跌幅收窄，大部分时间“高位”震荡。 “特朗普关税输家”指数跳空低开之后收涨0.26%，报119.72点，盘后特朗普宣布与伊朗相关的关税。 “特朗普金融指数”跌1.83%，报175.98点，特朗普信用卡利率消息造成跳空低开，全天呈现出宽底U形走势。 散户抱团概念股指数/迷因股（meme stock）指数涨0.14%，报16.69点。",
-          "url": "https://wallstreetcn.com/livenews/3035592",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "国开行发行2年期债券，规模40亿元，发行利率1.5046%，预期1.4900%，投标倍数6.43倍，边际倍数2.78倍； 国开行发行5年期债券，规模90亿元，发行利率1.7832%，预期1.7800%，投标倍数3.74倍，边际倍数2.58倍； 国开行发行10年期债券，规模150亿元，发行利率1.9927%，预期1.9800%，投标倍数2.59倍，边际倍数4.81倍。",
-          "url": "https://wallstreetcn.com/livenews/3035745",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了11个对手方的34.02亿美元。",
-          "url": "https://flash.jin10.com/detail/20260113022027617800",
+          "title": "美国众议院议长约翰逊：在信用卡利率上限问题上必须格外审慎。",
+          "url": "https://flash.jin10.com/detail/20260113233950832800",
           "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时19分"
+          "time_info": "00时23分"
         },
         {
-          "title": "美联储1月维持利率不变的概率为95%",
-          "url": "https://flash.jin10.com/detail/20260113060134015800",
+          "title": "美国众议院议长约翰逊：在信贷利率上限问题上达成共识仍需大量工作。",
+          "url": "https://flash.jin10.com/detail/20260113233941487800",
           "source": "金十数据",
           "ranks": [
-            25
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时13分"
+          "time_info": "00时23分"
         },
         {
-          "title": "日本经济团体联合会会长筒井义信：认为日元的跌势有点过头了，相信向日元升值的方向调整是必要的。 在极端环境下，外汇干预可能是合理的。 汇率波动应该反映基本面。 汇率总体上应该由市场力量驱动。",
-          "url": "https://wallstreetcn.com/livenews/3035907",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 20,
-      "titles": [
-        {
-          "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
-          "url": "https://wallstreetcn.com/articles/3763053",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时06分 ~ 23时20分]"
-        },
-        {
-          "title": "苹果选中Gemini，谷歌登上“4万亿”",
-          "url": "https://wallstreetcn.com/articles/3763115",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            8,
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时06分 ~ 23时20分]"
-        },
-        {
-          "title": "备受关注的“AI商业模式”：谷歌率先在Gemini中引入广告",
-          "url": "https://wallstreetcn.com/articles/3763059",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 09时07分]"
-        },
-        {
-          "title": "金银再创历史新高 谷歌市值首破4万亿美元 | 环球市场",
-          "url": "https://www.cls.cn/detail/2255551",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时06分 ~ 14时25分]"
-        },
-        {
-          "title": "美股走V新高，谷歌破4万亿，中概大涨，人民币创2023年5月来最高，金银大涨创新高",
-          "url": "https://wallstreetcn.com/articles/3763053",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时13分"
-        },
-        {
-          "title": "苹果接入Gemini模型想做啥",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E6%8E%A5%E5%85%A5Gemini%E6%A8%A1%E5%9E%8B%E6%83%B3%E5%81%9A%E5%95%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
-          "title": "谷歌今年将在越南研发并生产高端手机。",
-          "url": "https://flash.jin10.com/detail/20260113170321463800",
+          "title": "美国众议院议长约翰逊：周一就信用卡利率上限设定为10%一事与美国总统特朗普通话。",
+          "url": "https://flash.jin10.com/detail/20260113233739122800",
           "source": "金十数据",
           "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        },
-        {
-          "title": "UP主锐评苹果谷歌合作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时37分 ~ 23时20分]"
-        },
-        {
-          "title": "苹果联姻谷歌意味着什么",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B9%E6%9E%9C%E8%81%94%E5%A7%BB%E8%B0%B7%E6%AD%8C%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时21分 ~ 16时22分]"
-        },
-        {
-          "title": "谷歌：Gemini模型将为未来的苹果智能功能提供支持，包括今年即将推出的更个性化的Siri。",
-          "url": "https://flash.jin10.com/detail/20260113001246569800",
-          "source": "金十数据",
-          "ranks": [
-            2,
             24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时19分]"
+          "appearance_count": 1,
+          "time_info": "00时23分"
         },
         {
-          "title": "Alphabet旗下谷歌公司：与苹果进入一份多年合作协议。 新款苹果基础模型将建立在谷歌Gemini基础之上。 模型将有助于支持未来的苹果智能功能。",
-          "url": "https://wallstreetcn.com/livenews/3035456",
+          "title": "美国参议院多数党领袖John Thune：并不建议实施（特朗普政府主张的）信用卡利率上限政策。 这样的政策可能会让许多人丧失获取信用（融资）的渠道。 预计将对信用卡竞争法案投票。",
+          "url": "https://wallstreetcn.com/livenews/3036279",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时19分]"
-        },
-        {
-          "title": "谷歌：苹果与谷歌已达成多年期合作协议；下一代苹果基础模型将基于谷歌的Gemini模型。苹果认定，谷歌的人工智能技术为苹果的基础模型提供了最强大的基础。苹果智能将继续在苹果设备和私有云计算上运行。",
-          "url": "https://flash.jin10.com/detail/20260113001151493800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时19分]"
-        },
-        {
-          "title": "iPhone官宣接入Gemini",
-          "url": "https://search.bilibili.com/all?keyword=iPhone%E5%AE%98%E5%AE%A3%E6%8E%A5%E5%85%A5Gemini",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时23分 ~ 14时25分]"
-        },
-        {
-          "title": "美股七巨头收盘播报｜谷歌涨1%，收盘市值达到4万亿美元，Meta跌1.7%",
-          "url": "https://wallstreetcn.com/livenews/3035583",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时15分 ~ 07时13分]"
-        },
-        {
-          "title": "苹果选择谷歌Gemini驱动将于今年面世的AI版Siri",
-          "url": "https://wallstreetcn.com/livenews/3035441",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "00时23分"
         },
         {
-          "title": "马斯克：（谈及苹果与谷歌的合作）鉴于谷歌还拥有安卓和Chrome，这似乎是对谷歌权力的不合理集中。",
-          "url": "https://flash.jin10.com/detail/20260113030706645800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时18分"
-        },
-        {
-          "title": "投资公司Wedbush表示，2026年将成为苹果的关键之年。届时苹果将推出全新的Siri、达成与谷歌Gemini的新交易，并发布全新的iPhone 18系列。",
-          "url": "https://wallstreetcn.com/livenews/3035440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "美国在线家居零售商Wayfair与谷歌合作，推动以人工智能驱动的家居购物。",
-          "url": "https://flash.jin10.com/detail/20260113050153642800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时15分"
-        },
-        {
-          "title": "蚂蚁国际和谷歌共推“通用商业协议”，打通“AI购物”全流程",
-          "url": "https://wallstreetcn.com/livenews/3035425",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "谷歌C(GOOG.O)短线上扬，现涨0.5%，苹果(AAPL.O)选择谷歌(GOOG.O)的Gemini来驱动今年推出的人工智能Siri。",
-          "url": "https://flash.jin10.com/detail/20260112232350979800",
+          "title": "美国参议院共和党领袖图恩：信用卡利率上限可能导致许多人失去信贷渠道。",
+          "url": "https://flash.jin10.com/detail/20260113233332966800",
           "source": "金十数据",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "00时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美股走V新高，谷歌破4万亿，阿里暴涨10%领衔中概大涨，金银大涨创新高",
+          "url": "https://wallstreetcn.com/articles/3763053",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "苹果选中Gemini，谷歌登上“4万亿”",
+          "url": "https://wallstreetcn.com/articles/3763115",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "UP主锐评苹果谷歌合作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 17,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "疑似马斯克AI登顶LOL韩服集锦",
-          "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E7%99%BB%E9%A1%B6LOL%E9%9F%A9%E6%9C%8D%E9%9B%86%E9%94%A6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 09时07分]"
-        },
-        {
-          "title": "UP主复盘疑似马斯克AI操作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%A4%8D%E7%9B%98%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E6%93%8D%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24,
-            22,
-            28,
-            26,
-            23,
-            15,
-            19,
-            20,
-            30,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时21分 ~ 17时23分]"
-        },
         {
           "title": "技术拆解疑似马斯克AI账号",
           "url": "https://search.bilibili.com/all?keyword=%E6%8A%80%E6%9C%AF%E6%8B%86%E8%A7%A3%E7%96%91%E4%BC%BC%E9%A9%AC%E6%96%AF%E5%85%8BAI%E8%B4%A6%E5%8F%B7",
           "source": "bilibili 热搜",
           "ranks": [
-            3,
-            1,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时15分 ~ 23时20分]"
-        },
-        {
-          "title": "马斯克最新访谈：瓦特是未来货币，电力优势将令中国AI算力一骑绝尘",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32368937",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时18分 ~ 09时07分]"
-        },
-        {
-          "title": "英国科技大臣Liz Kendall：马斯克旗下Grok生成的图片是“滥用非法武器”。",
-          "url": "https://flash.jin10.com/detail/20260113005056146800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时19分"
-        },
-        {
-          "title": "英国科技部长Liz Kendall：马斯克旗下Grok生成的图片是“滥用非法武器”。 英国政府将持续审查马斯克旗下社交媒体平台X（原名推特）。",
-          "url": "https://wallstreetcn.com/livenews/3035476",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时19分"
+          "time_info": "00时23分"
         },
         {
-          "title": "如何看待马斯克AI预言",
-          "url": "https://www.douyin.com/hot/2366116",
-          "source": "抖音",
-          "ranks": [
-            8,
-            10,
-            13,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时35分 ~ 15时21分]"
-        },
-        {
-          "title": "韩服马斯克AI事件疑点解析",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E9%A9%AC%E6%96%AF%E5%85%8BAI%E4%BA%8B%E4%BB%B6%E7%96%91%E7%82%B9%E8%A7%A3%E6%9E%90",
-          "source": "bilibili 热搜",
+          "title": "马斯克：电力是AI时代唯一的“军备”",
+          "url": "https://www.toutiao.com/trending/7594102715242250276/",
+          "source": "今日头条",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时18分]"
-        },
-        {
-          "title": "如何评价马斯克在 2026 初接受的三小时采访所传递出的观念？",
-          "url": "https://www.zhihu.com/question/1993427985173349062",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时06分 ~ 09时07分]"
-        },
-        {
-          "title": "英国：誓言将马斯克的Grok生成的“脱衣”图像定为非法",
-          "url": "https://wallstreetcn.com/livenews/3035500",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时23分 ~ 03时19分]"
-        },
-        {
-          "title": "美防长称马斯克旗下AI聊天机器人将接入五角大楼系统",
-          "url": "https://wallstreetcn.com/livenews/3035759",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时24分 ~ 12时35分]"
-        },
-        {
-          "title": "白宫新闻秘书Leavitt：伊朗对美国公开披露的信息与私底下沟通的不一样。 总统特朗普有兴趣探索伊朗方面的信息。 特朗普已经与星链Starlink老板马斯克讨论伊朗的网络问题。 空袭伊朗是众多选项之一。 在通过外交手段处理伊朗问题方面，美国特使Witkoff是一个重要的“玩家”。",
-          "url": "https://wallstreetcn.com/livenews/3035517",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时19分 ~ 04时18分]"
-        },
-        {
-          "title": "马斯克最新访谈的五大终极预言",
-          "url": "https://www.toutiao.com/trending/7594652905852898857/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 18时18分]"
-        },
-        {
-          "title": "美防长访问SpaceX 马斯克热情迎接",
-          "url": "https://www.toutiao.com/trending/7594412913869586470/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
-          "title": "2026年跟着马斯克炒股的人赚翻了",
-          "url": "https://www.toutiao.com/trending/7594641229174804019/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
-          "title": "白宫新闻秘书利维特：特朗普总统已与马斯克就互联网问题进行了沟通。",
-          "url": "https://flash.jin10.com/detail/20260113022328859800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时19分"
-        },
-        {
-          "title": "马斯克的能源焦虑与“中国震撼”",
-          "url": "https://www.toutiao.com/trending/7594711705578376747/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "加码“AI+医疗”！OpenAI又有大动作：收购医疗保健初创公司Torch",
-          "url": "https://www.cls.cn/detail/2255695",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时24分 ~ 18时18分]"
-        },
-        {
-          "title": "OpenAI宣布，收购了医疗保健初创公司Torch。 据The Information报道，这笔交易大约1亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3035563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 06时15分]"
-        },
-        {
-          "title": "据The Information：OpenAI同意以约1亿美元收购AI医疗应用Torch。",
-          "url": "https://flash.jin10.com/detail/20260113044327822800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "OpenAI：我们收购了Torch，一家整合实验室结果、药物和就诊记录的医疗初创公司。",
-          "url": "https://flash.jin10.com/detail/20260113044010049800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "OpenAI收购医疗保健初创公司Torch",
-          "url": "https://www.toutiao.com/trending/7594644941129940998/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
+          "time_info": "00时23分"
         }
       ]
     },
     {
       "keyword_group": "房价 楼市 房地产",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "太子集团在柬埔寨的房地产项目被禁止销售",
           "url": "https://news.ifeng.com/c/8psqNg8tozg",
           "source": "凤凰网",
           "ranks": [
-            9,
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时23分 ~ 23时20分]"
-        },
-        {
-          "title": "天津新房价格管控收紧，楼盘价格“过低”或限制网签",
-          "url": "https://wallstreetcn.com/livenews/3035827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时21分 ~ 14时25分]"
-        },
-        {
-          "title": "中国社科院张斌：相信2026年房地产一定会有政策",
-          "url": "https://wallstreetcn.com/livenews/3035919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时22分"
-        },
-        {
-          "title": "戴德梁行胡峰：房地产大规模增量扩张的时代已经结束，存量提质增效的新阶段已然开启",
-          "url": "https://wallstreetcn.com/livenews/3035742",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时24分"
+          "time_info": "00时23分"
         }
       ]
     }
