@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T18:19:12.764231+08:00",
-  "total_titles_processed": 1686,
+  "generated_at": "2026-01-14T19:16:38.890533+08:00",
+  "total_titles_processed": 1782,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "利率 汇率",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "川普下霸王令:信用卡利率砍半",
@@ -367,6 +367,17 @@
           "time_info": "11时42分"
         },
         {
+          "title": "英国央行货币政策委员会（MPC）成员Taylor：利率应该尽早回归至中性水平，而非延后。 劳动力市场下行的局面已经出现。",
+          "url": "https://wallstreetcn.com/livenews/3036927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "美国至1月13日6周国债竞拍-得标利率配置百分比 69.91%，前值0.41%。",
           "url": "https://flash.jin10.com/detail/20260114003435900800",
           "source": "金十数据",
@@ -392,7 +403,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -430,8 +441,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时42分 ~ 18时19分]"
+          "appearance_count": 13,
+          "time_info": "[11时42分 ~ 19时16分]"
         },
         {
           "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
@@ -442,11 +453,29 @@
             14,
             13,
             10,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时42分 ~ 18时19分]"
+          "appearance_count": 13,
+          "time_info": "[11时42分 ~ 19时16分]"
+        },
+        {
+          "title": "韩服登顶账号是AI操作的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            28,
+            11,
+            14,
+            19,
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时19分 ~ 19时16分]"
         },
         {
           "title": "韩服93%胜率账号是AI吗",
@@ -502,20 +531,16 @@
           "time_info": "[00时23分 ~ 04时18分]"
         },
         {
-          "title": "韩服登顶账号是AI操作的吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
-          "source": "bilibili 热搜",
+          "title": "92胜率屠榜,老马AI杀穿韩服",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
+          "source": "贴吧",
           "ranks": [
-            13,
-            28,
-            11,
-            14,
-            19,
-            18
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时19分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 19时16分]"
         },
         {
           "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
@@ -547,17 +572,6 @@
           "time_info": "[09时12分 ~ 14时25分]"
         },
         {
-          "title": "92胜率屠榜,老马AI杀穿韩服",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
-          "source": "贴吧",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 18时19分]"
-        },
-        {
           "title": "中国核聚变装置融入AI技术",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%A0%B8%E8%81%9A%E5%8F%98%E8%A3%85%E7%BD%AE%E8%9E%8D%E5%85%A5AI%E6%8A%80%E6%9C%AF",
           "source": "bilibili 热搜",
@@ -572,6 +586,19 @@
           "time_info": "[00时23分 ~ 06时16分]"
         },
         {
+          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
+          "url": "https://wallstreetcn.com/articles/3763239",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时22分 ~ 19时16分]"
+        },
+        {
           "title": "花旗：快手旗下可灵AI的12月收入高于预期 预示公司今年营收前景稳健",
           "url": "https://wallstreetcn.com/livenews/3036521",
           "source": "华尔街见闻-快讯",
@@ -583,16 +610,15 @@
           "time_info": "09时12分"
         },
         {
-          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
-          "url": "https://wallstreetcn.com/articles/3763239",
-          "source": "华尔街见闻",
+          "title": "彩讯股份：拟发行可转债募资不超过14.6亿元，用于智算中心建设项目、Rich AIBox平台研发升级项目、企业级AI智能体应用开发项目。",
+          "url": "https://wallstreetcn.com/livenews/3036972",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8,
-            6
+            4
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时22分 ~ 18时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         },
         {
           "title": "1月14日午间收评：创业板指半日涨超2%，AI应用方向持续爆发",
@@ -619,6 +645,18 @@
           "time_info": "[11时42分 ~ 12时42分]"
         },
         {
+          "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
+          "url": "https://www.cls.cn/detail/2257499",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 19时16分]"
+        },
+        {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32368064",
           "source": "澎湃新闻",
@@ -628,18 +666,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时23分 ~ 03时16分]"
-        },
-        {
-          "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
-          "url": "https://www.cls.cn/detail/2257499",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 18时19分]"
         },
         {
           "title": "【焦点复盘】科创50低开低走跌近3%，全市场超500股跌超5%，AI医疗概念强势依旧",
@@ -730,6 +756,17 @@
           "time_info": "12时42分"
         },
         {
+          "title": "瑞银：中国AI不堆卡、重效率，2026年用性价比收割全球份额",
+          "url": "https://wallstreetcn.com/livenews/3036939",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
+        },
+        {
           "title": "创业板指涨2%。沪指涨近1%。商业航天反弹，AI应用、AI医疗等板块涨幅居前。沪深京三市上涨个股近4500只。",
           "url": "https://wallstreetcn.com/livenews/3036584",
           "source": "华尔街见闻-快讯",
@@ -761,6 +798,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "中国科传：公司不直接从事AI业务，AI应用不直接产生营收。",
+          "url": "https://wallstreetcn.com/livenews/3036923",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         }
       ]
     },
@@ -826,11 +874,12 @@
           "ranks": [
             19,
             20,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时22分 ~ 18时19分]"
+          "appearance_count": 5,
+          "time_info": "[16时22分 ~ 19时16分]"
         },
         {
           "title": "Apple 芯片设计全球领先，为何大模型训练却认输外包给 Google？",
@@ -926,8 +975,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时21分 ~ 18时19分]"
+          "appearance_count": 6,
+          "time_info": "[15时21分 ~ 19时16分]"
         },
         {
           "title": "金十数据整理：每日房地产行业动态汇总（2026-01-14）",
