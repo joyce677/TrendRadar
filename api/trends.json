@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-14T11:42:57.672198+08:00",
-  "total_titles_processed": 1022,
+  "generated_at": "2026-01-14T12:42:10.763803+08:00",
+  "total_titles_processed": 1121,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "利率 汇率",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "川普下霸王令:信用卡利率砍半",
@@ -14,11 +14,12 @@
           "ranks": [
             14,
             15,
-            24
+            24,
+            25
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 11时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 12时42分]"
         },
         {
           "title": "美国总统特朗普：我希望美联储主席根据好消息而决定降息。 以往，利率就因良好的数据而下跌。 当市场上涨时，美联储应该降低利率。",
@@ -150,6 +151,17 @@
           "time_info": "09时12分"
         },
         {
+          "title": "交易员称，印度央行已在外汇市场抛售美元以支撑卢比汇率。",
+          "url": "https://wallstreetcn.com/livenews/3036649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
           "title": "美国财政部拍卖六周期国债，得标利率3.585%，投标倍数2.97。",
           "url": "https://wallstreetcn.com/livenews/3036310",
           "source": "华尔街见闻-快讯",
@@ -181,6 +193,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "中国财政部发行91天期债券，规模400亿元，发行利率1.1726%，边际利率1.2110%，预期1.2100%，投标倍数3.13倍，边际倍数3.57倍； 中国财政部发行1年期债券，规模1350亿元，发行利率1.2200%，边际利率1.2700%，预期1.3500%，投标倍数2.29倍，边际倍数1.22倍； 中国财政部发行30年期债券，规模320亿元，发行利率2.3800%，预期2.3600%，投标倍数5.17倍，边际倍数22.16倍。",
+          "url": "https://wallstreetcn.com/livenews/3036635",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         },
         {
           "title": "美国众议院议长约翰逊：在信用卡利率上限问题上必须格外审慎。",
@@ -266,7 +289,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -296,7 +319,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -322,11 +345,12 @@
             14,
             16,
             18,
-            23
+            23,
+            21
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 11时42分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 12时42分]"
         },
         {
           "title": "一图看懂 | GEO爆火，AI新时代打破搜索“旧秩序”",
@@ -355,6 +379,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时23分 ~ 11时42分]"
+        },
+        {
+          "title": "国内首起 AI 涉黄案开发者获刑，开发者需要承担哪些法律责任？用户使用此类 AI 需担责吗？",
+          "url": "https://www.zhihu.com/question/1994009798958657948",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 12时42分]"
         },
         {
           "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
@@ -386,17 +421,6 @@
           "time_info": "[00时23分 ~ 06时16分]"
         },
         {
-          "title": "国内首起 AI 涉黄案开发者获刑，开发者需要承担哪些法律责任？用户使用此类 AI 需担责吗？",
-          "url": "https://www.zhihu.com/question/1994009798958657948",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 11时42分]"
-        },
-        {
           "title": "花旗：快手旗下可灵AI的12月收入高于预期 预示公司今年营收前景稳健",
           "url": "https://wallstreetcn.com/livenews/3036521",
           "source": "华尔街见闻-快讯",
@@ -412,22 +436,37 @@
           "url": "https://wallstreetcn.com/livenews/3036629",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 12时42分]"
         },
         {
           "title": "阿里巴巴：1月15日10:00将召开千问APP发布会，见证AI如何“开启办事时代”。",
           "url": "https://wallstreetcn.com/livenews/3036624",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时42分 ~ 12时42分]"
+        },
+        {
+          "title": "Meta拟将AI智能眼镜产能翻倍 年产量或直冲2000万副",
+          "url": "https://www.cls.cn/detail/2256809",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时12分 ~ 12时42分]"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -441,16 +480,28 @@
           "time_info": "[00时23分 ~ 03时16分]"
         },
         {
-          "title": "Meta拟将AI智能眼镜产能翻倍 年产量或直冲2000万副",
-          "url": "https://www.cls.cn/detail/2256809",
-          "source": "财联社热门",
+          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
+          "source": "澎湃新闻",
           "ranks": [
-            11,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 11时42分]"
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 12时42分]"
+        },
+        {
+          "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
+          "url": "https://www.zhihu.com/question/1994088546865284778",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时42分 ~ 12时42分]"
         },
         {
           "title": "【焦点复盘】科创50低开低走跌近3%，全市场超500股跌超5%，AI医疗概念强势依旧",
@@ -462,17 +513,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
-        },
-        {
-          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时42分"
         },
         {
           "title": "人工智能（AI）芯片初创公司Etched融资5亿美元，将挑战英伟达。",
@@ -519,15 +559,15 @@
           "time_info": "00时23分"
         },
         {
-          "title": "张文宏拒绝将 AI 引入医院病历系统，称会影响医生的诊断思维，如何评价？ 医疗诊断中应该怎么用 AI？",
-          "url": "https://www.zhihu.com/question/1994088546865284778",
-          "source": "知乎",
+          "title": "阿里云2026年目标：拿下中国AI云市场增量的80%",
+          "url": "https://wallstreetcn.com/livenews/3036634",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时42分"
+          "time_info": "12时42分"
         },
         {
           "title": "创业板指涨2%。沪指涨近1%。商业航天反弹，AI应用、AI医疗等板块涨幅居前。沪深京三市上涨个股近4500只。",
@@ -536,7 +576,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时42分"
         },
@@ -589,8 +629,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 11时42分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 12时42分]"
         },
         {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
@@ -633,11 +673,12 @@
             3,
             25,
             22,
-            30
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 11时42分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 12时42分]"
         },
         {
           "title": "马斯克：电力是AI时代唯一的“军备”",
