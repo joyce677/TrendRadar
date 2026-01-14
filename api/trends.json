@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-01-14T07:15:45.171336+08:00",
-  "total_titles_processed": 710,
+  "generated_at": "2026-01-14T09:12:49.345749+08:00",
+  "total_titles_processed": 866,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "利率 汇率",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "川普下霸王令:信用卡利率砍半",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349044&amp;topic_name=%E5%B7%9D%E6%99%AE%E4%B8%8B%E9%9C%B8%E7%8E%8B%E4%BB%A4%3A%E4%BF%A1%E7%94%A8%E5%8D%A1%E5%88%A9%E7%8E%87%E7%A0%8D%E5%8D%8A",
           "source": "贴吧",
           "ranks": [
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 07时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 09时12分]"
         },
         {
           "title": "美国总统特朗普：我希望美联储主席根据好消息而决定降息。 以往，利率就因良好的数据而下跌。 当市场上涨时，美联储应该降低利率。",
@@ -135,6 +136,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时16分"
+        },
+        {
+          "title": "鲍威尔被起诉后，美联储三把手发声：美联储没有面临改变利率的强大压力",
+          "url": "https://wallstreetcn.com/articles/3763145",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         },
         {
           "title": "美国财政部拍卖六周期国债，得标利率3.585%，投标倍数2.97。",
@@ -272,7 +284,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "事关AI应用、GEO概念，上市公司密集回应",
@@ -298,6 +310,24 @@
           "time_info": "[00时23分 ~ 04时18分]"
         },
         {
+          "title": "韩服93%胜率账号是AI吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D93%25%E8%83%9C%E7%8E%87%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15,
+            13,
+            12,
+            17,
+            19,
+            14,
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 09时12分]"
+        },
+        {
           "title": "张文宏不支持把 AI 引入病历系统，恐造成医生诊断能力缺失，这种担忧是否合理？在其他专业领域也类似么？",
           "url": "https://www.zhihu.com/question/1994352106249873378",
           "source": "知乎",
@@ -313,23 +343,6 @@
           "time_info": "[00时23分 ~ 07时15分]"
         },
         {
-          "title": "韩服93%胜率账号是AI吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D93%25%E8%83%9C%E7%8E%87%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15,
-            13,
-            12,
-            17,
-            19,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 07时15分]"
-        },
-        {
           "title": "UP主分析AI将如何影响电竞行业",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
           "source": "bilibili 热搜",
@@ -338,11 +351,12 @@
             15,
             17,
             13,
-            26
+            26,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 07时15分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 09时12分]"
         },
         {
           "title": "中国核聚变装置融入AI技术",
@@ -357,6 +371,28 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时23分 ~ 06时16分]"
+        },
+        {
+          "title": "花旗：快手旗下可灵AI的12月收入高于预期 预示公司今年营收前景稳健",
+          "url": "https://wallstreetcn.com/livenews/3036521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "国内首起 AI 涉黄案开发者获刑，开发者需要承担哪些法律责任？用户使用此类 AI 需担责吗？",
+          "url": "https://www.zhihu.com/question/1994009798958657948",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         },
         {
           "title": "AI应用概念股暴涨背后：“变现”和“放量落地”之年要来了？",
@@ -381,6 +417,17 @@
           "time_info": "00时23分"
         },
         {
+          "title": "Meta拟将AI智能眼镜产能翻倍 年产量或直冲2000万副",
+          "url": "https://www.cls.cn/detail/2256809",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
           "title": "人工智能（AI）芯片初创公司Etched融资5亿美元，将挑战英伟达。",
           "url": "https://wallstreetcn.com/livenews/3036406",
           "source": "华尔街见闻-快讯",
@@ -401,6 +448,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "中信证券：AI医疗开启商业化，加速重构十万亿级医药市场",
+          "url": "https://wallstreetcn.com/livenews/3036504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时12分"
         },
         {
           "title": "“末日博士”鲁比尼：AI繁荣正抵消包括美国总统和地缘政治在内的一系列风险。 AI将开创“美国例外论”的新篇章。",
@@ -474,8 +532,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 07时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 09时12分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
@@ -504,11 +562,12 @@
             4,
             1,
             3,
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 07时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 09时12分]"
         },
         {
           "title": "马斯克：电力是AI时代唯一的“军备”",
@@ -546,8 +605,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 07时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 09时12分]"
         }
       ]
     }
