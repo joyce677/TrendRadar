@@ -1,1388 +1,210 @@
 {
-  "generated_at": "2026-01-15T23:19:31.572651+08:00",
-  "total_titles_processed": 2251,
+  "generated_at": "2026-01-16T00:28:02.566547+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "利率 汇率",
-      "match_count": 54,
-      "titles": [
-        {
-          "title": "央行：下调货币政策工具利率0.25个百分点，今年降准降息还有一定空间",
-          "url": "https://wallstreetcn.com/articles/3763367",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时22分 ~ 23时19分]"
-        },
-        {
-          "title": "央行：1月19日起，下调再贷款、再贴现利率0.25个百分点",
-          "url": "https://www.cls.cn/detail/2258802",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时22分 ~ 22时20分]"
-        },
-        {
-          "title": "各类再贷款一年期利率降至1.25%",
-          "url": "https://www.toutiao.com/trending/7595482416799268870/",
-          "source": "今日头条",
-          "ranks": [
-            1,
-            5,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时22分 ~ 23时19分]"
-        },
-        {
-          "title": "央行决定下调再贷款、再贴现利率",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E5%86%B3%E5%AE%9A%E4%B8%8B%E8%B0%83%E5%86%8D%E8%B4%B7%E6%AC%BE%E3%80%81%E5%86%8D%E8%B4%B4%E7%8E%B0%E5%88%A9%E7%8E%87",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            2,
-            6,
-            10,
-            12,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时22分 ~ 23时19分]"
-        },
-        {
-          "title": "各类再贷款一年期利率降至1.25%",
-          "url": "https://www.douyin.com/hot/2368572",
-          "source": "抖音",
-          "ranks": [
-            1,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时22分 ~ 21时36分]"
-        },
-        {
-          "title": "各类再贷款一年期利率降至1.25%",
-          "url": "https://search.bilibili.com/all?keyword=%E5%90%84%E7%B1%BB%E5%86%8D%E8%B4%B7%E6%AC%BE%E4%B8%80%E5%B9%B4%E6%9C%9F%E5%88%A9%E7%8E%87%E9%99%8D%E8%87%B31.25%25",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            10,
-            11,
-            18,
-            9,
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时22分 ~ 23时19分]"
-        },
-        {
-          "title": "央行将下调各类结构性货币政策工具利率 0.25 个百分点，一年期再贷款利率降至 1.25%，如何解读？",
-          "url": "https://www.zhihu.com/question/1995153394889949568",
-          "source": "知乎",
-          "ranks": [
-            15,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时17分 ~ 23时19分]"
-        },
-        {
-          "title": "结构性货币政策工具利率下调",
-          "url": "https://www.douyin.com/hot/2368595",
-          "source": "抖音",
-          "ranks": [
-            8,
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时15分 ~ 23时19分]"
-        },
-        {
-          "title": "贝森特和日本财务大臣片山皋月就汇率与矿产问题举行会谈",
-          "url": "https://wallstreetcn.com/livenews/3037344",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "韩国央行维持基准利率不变，为2.50%，符合市场预期。",
-          "url": "https://flash.jin10.com/detail/20260115085046391800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "美联储1月维持利率不变的概率为95%",
-          "url": "https://flash.jin10.com/detail/20260115060300126800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时16分"
-        },
-        {
-          "title": "韩国至1月15日央行利率决定 2.5%，预期2.50%，前值2.50%。",
-          "url": "https://flash.jin10.com/detail/20260115085003843800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "台积电：预计2026年资本支出520亿美元至560亿美元。 未来三年资本支出将大幅增加。 长期毛利率达到56%及以上是可实现的。",
-          "url": "https://wallstreetcn.com/livenews/3037601",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时24分"
-        },
-        {
-          "title": "公积金贷款利率接近历史低点",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%85%AC%E7%A7%AF%E9%87%91%E8%B4%B7%E6%AC%BE%E5%88%A9%E7%8E%87%E6%8E%A5%E8%BF%91%E5%8E%86%E5%8F%B2%E4%BD%8E%E7%82%B9%23&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9,
-            6,
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时22分 ~ 20时31分]"
-        },
-        {
-          "title": "英国央行副行长拉姆斯登：中性利率处于2%-4%区间的中间位置。",
-          "url": "https://flash.jin10.com/detail/20260115004316023800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "路透调查：预估中值显示日本央行利率峰值将为1.50%，高于2025年2月调查预估的1.00%。",
-          "url": "https://flash.jin10.com/detail/20260115121342367800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 13时22分]"
-        },
-        {
-          "title": "10年期英债收益率创13个月新低，投资者关注英国央行利率前景",
-          "url": "https://wallstreetcn.com/livenews/3037245",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时25分 ~ 04时15分]"
-        },
-        {
-          "title": "辽宁发行30年期普通专项地方债，规模170.0000亿元，发行利率2.5100%，边际倍数2.19倍，倍数预期2.51。",
-          "url": "https://wallstreetcn.com/livenews/3037528",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 13时22分]"
-        },
-        {
-          "title": "路透调查：97%的经济学家（67位中有65位）预计日本央行3月前将维持利率不变。",
-          "url": "https://flash.jin10.com/detail/20260115121323026800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 13时22分]"
-        },
-        {
-          "title": "进出口行发行15月期债券，规模130亿元，发行利率1.4387%，预期1.4400%，投标倍数2.63倍，边际倍数1.00倍； 进出口行发行66月期债券，规模30亿元，发行利率1.7481%，预期1.8000%，投标倍数6.39倍，边际倍数7.20倍。",
-          "url": "https://wallstreetcn.com/livenews/3037499",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时26分 ~ 12时35分]"
-        },
-        {
-          "title": "辽宁发行10年期一般债地方债，规模85.6862亿元，发行利率2.0200%，边际倍数2.81倍，倍数预期2.08。",
-          "url": "https://wallstreetcn.com/livenews/3037526",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 13时22分]"
-        },
-        {
-          "title": "报道：日本央行更加关注日元疲软，预计1月份将维持利率不变",
-          "url": "https://wallstreetcn.com/livenews/3037847",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时22分 ~ 18时17分]"
-        },
-        {
-          "title": "各类再贷款一年期利率降至1.25%",
-          "url": "https://www.baidu.com/s?wd=%E5%90%84%E7%B1%BB%E5%86%8D%E8%B4%B7%E6%AC%BE%E4%B8%80%E5%B9%B4%E6%9C%9F%E5%88%A9%E7%8E%87%E9%99%8D%E8%87%B31.25%25",
-          "source": "百度热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时22分 ~ 18时17分]"
-        },
-        {
-          "title": "美国财政部拍卖四个月期国债，得标利率3.560%，投标倍数3。",
-          "url": "https://wallstreetcn.com/livenews/3037211",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 02时25分]"
-        },
-        {
-          "title": "知情人士：日本央行1月份可能维持利率不变。",
-          "url": "https://flash.jin10.com/detail/20260115171647991800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时22分"
-        },
-        {
-          "title": "2026年结构性货币政策工具“加量降价” 单设1万亿再贷款加码民营企业 市场预计政策利率存下调空间",
-          "url": "https://www.cls.cn/detail/2259330",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "TJM Institutional Services LLC利率策略师David Robin：美国就业形势有点不明确，同时我们又有通胀问题。从数据角度看，美联储至少按兵不动到3月的概率上升了。 而随着每一次会议从日程表上划去，美联储继续维持不动的概率就变得更大。” Robin说：“无论市场是否相信美联储会按兵不动 —— 无论这个概率是5%、10%还是20% —— 这些交易都很便宜；如果你是纪律严明的风险管理者，你就会有需求。”",
-          "url": "https://wallstreetcn.com/livenews/3037188",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "台积电：预计第一季度销售额346亿美元至358亿美元，市场预估332.2亿美元。 预计第一季度毛利率63％至65％，市场预估59.6％。 预计第一季度营业利益率54％至56％，市场预估49.7％。",
-          "url": "https://wallstreetcn.com/livenews/3037593",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时24分"
-        },
-        {
-          "title": "越来越多期权投资者押注，美联储今年一整年都将维持利率不变",
-          "url": "https://wallstreetcn.com/livenews/3037187",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "韩国央行将基准利率维持在2.50%不变，预期为2.50%。",
-          "url": "https://wallstreetcn.com/livenews/3037394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "韩国央行行长李昌镛：如果我们要通过政策利率来稳定外汇市场，利率需要上调大约200到300个基点。",
-          "url": "https://wallstreetcn.com/livenews/3037493",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "央行：下调各类结构性货币政策工具利率0.25个百分点",
-          "url": "https://wallstreetcn.com/livenews/3037677",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
-        {
-          "title": "中国人民银行决定下调再贷款、再贴现利率",
-          "url": "https://wallstreetcn.com/articles/3763370",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "韩国央行行长李昌镛：如果我们想通过政策利率来稳定外汇市场，利率必须上调约200个基点至300个基点。",
-          "url": "https://flash.jin10.com/detail/20260115105739026800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "据美国纽约联储数据，上个交易日（1月14日）担保隔夜融资利率（SOFR）报3.64%，之前一天报3.65%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
-          "url": "https://wallstreetcn.com/livenews/3038054",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
-          "title": "央行：总体约60%的进出口贸易受汇率变动影响较小",
-          "url": "https://wallstreetcn.com/livenews/3037776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "韩国央行行长李昌镛：韩元兑美元走弱可能影响通胀，进而可能导致政策利率上调。",
-          "url": "https://flash.jin10.com/detail/20260115105340891800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "券商两融额度告急？中小券商利率优惠不再，有大券商已低于4%",
-          "url": "https://wallstreetcn.com/livenews/3037864",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        },
-        {
-          "title": "美国至1月14日4个月国债竞拍-得标利率配置百分比 43.95%，前值60.45%。",
-          "url": "https://flash.jin10.com/detail/20260115003514470800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "央行：人民币汇率预计将继续双向浮动，保持弹性",
-          "url": "https://wallstreetcn.com/livenews/3037771",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了15个对手方的32.23亿美元。",
-          "url": "https://flash.jin10.com/detail/20260115024616241800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
-        },
-        {
-          "title": "花旗警告称特朗普设置信用卡利率上限的想法可能导致经济放缓",
-          "url": "https://wallstreetcn.com/livenews/3037280",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "美国芝加哥联储主席Goolsbee：仍然认为美国经济表现强劲。 将通胀率恢复到2%是最重要的目标。 如果通胀有望回到2%，利率仍有下调空间。",
-          "url": "https://wallstreetcn.com/livenews/3038045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
-          "title": "美国至1月14日4个月国债竞拍-得标利率 3.56%，前值3.51%。",
-          "url": "https://flash.jin10.com/detail/20260115003503470800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "外汇局：下一步将会同有关方面持续加强企业汇率避险服务",
-          "url": "https://wallstreetcn.com/livenews/3037769",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "美国财政部：美国财长贝森特在与日本同行会晤中指出“汇率过度波动不可取”，并“强调了稳健制定和沟通货币政策的必要性”。",
-          "url": "https://flash.jin10.com/detail/20260115064025158800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "国开行发行3年期债券，规模60亿元，发行利率1.6675%，预期1.6800%，投标倍数3.03倍，边际倍数2.65倍； 国开行发行7年期债券，规模30亿元，发行利率1.9086%，预期1.9300%，投标倍数4.11倍，边际倍数1.00倍。",
-          "url": "https://wallstreetcn.com/livenews/3037476",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "湖南发行10年期一般债地方债，规模46.4056亿元，发行利率2.0000%，边际倍数1.04倍，倍数预期2.03。",
-          "url": "https://wallstreetcn.com/livenews/3037766",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "韩元兑美元汇率下跌0.6%，至1,472.60。",
-          "url": "https://flash.jin10.com/detail/20260115112529231800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
-          "title": "韩国央行行长李昌镛：今天维持利率不变的决定是一致通过的。5名委员认为未来3个月有“很高的可能性”维持利率不变。",
-          "url": "https://wallstreetcn.com/livenews/3037471",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "美联储卡什卡利：不确定当前就业市场的盈亏平衡利率是多少。",
-          "url": "https://flash.jin10.com/detail/20260115012558339800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "美银CEO：对信用卡利率设定绝对上限，将使本应获得信贷支持的人群失去信贷机会。",
-          "url": "https://flash.jin10.com/detail/20260115033044087800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "央行：中国没有必要也无意通过汇率贬值来获取国际贸易的竞争优势",
-          "url": "https://wallstreetcn.com/livenews/3037763",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "央行：人民币汇率预计将继续双向浮动",
-          "url": "https://www.toutiao.com/trending/7594812956157362182/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI",
-      "match_count": 47,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "阿里千问放大招！全球首发多重AI购物功能 又一场电商革命近了？",
-          "url": "https://www.cls.cn/detail/2258421",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            3,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时35分 ~ 19时15分]"
-        },
-        {
-          "title": "AI服务涉黄第一案背后：AI陪聊的边界在哪里？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32325619",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 07时14分]"
-        },
-        {
-          "title": "阿里千问将上线“AI生活助理”，可一句话点外卖",
-          "url": "https://www.cls.cn/detail/2258255",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时26分 ~ 17时22分]"
-        },
-        {
-          "title": "浙江用AI抓出贪官",
-          "url": "https://www.baidu.com/s?wd=%E6%B5%99%E6%B1%9F%E7%94%A8AI%E6%8A%93%E5%87%BA%E8%B4%AA%E5%AE%98",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            6,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 11时26分]"
-        },
-        {
-          "title": "时隔十年融资保证金比例再提高！A股全天成交逼近4万亿，AI应用大涨，港股阿里拉升超5%，沪锡涨停、沪银涨超8%",
-          "url": "https://wallstreetcn.com/articles/3763239",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时22分 ~ 16时23分]"
-        },
-        {
-          "title": "巴菲特再发警示：AI的危险不亚于核武器",
-          "url": "https://www.cls.cn/detail/2258013",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11,
-            6,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时25分 ~ 14时24分]"
-        },
-        {
-          "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
-          "url": "https://www.cls.cn/detail/2258223",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            6,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时35分 ~ 19时15分]"
-        },
-        {
-          "title": "AI查贪官准确率相当高",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E6%9F%A5%E8%B4%AA%E5%AE%98%E5%87%86%E7%A1%AE%E7%8E%87%E7%9B%B8%E5%BD%93%E9%AB%98%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
-          "ranks": [
-            23,
-            2,
-            7,
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时23分 ~ 09时08分]"
-        },
-        {
-          "title": "92胜率屠榜,老马AI杀穿韩服",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            14,
-            17,
-            18,
-            19,
-            21,
-            22,
-            24,
-            26,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时23分 ~ 23时19分]"
-        },
-        {
-          "title": "UP主分析AI将如何影响电竞行业",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%88%86%E6%9E%90AI%E5%B0%86%E5%A6%82%E4%BD%95%E5%BD%B1%E5%93%8D%E7%94%B5%E7%AB%9E%E8%A1%8C%E4%B8%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18,
-            14,
-            28,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 07时14分]"
-        },
-        {
-          "title": "韩服登顶账号是AI操作的吗",
-          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            20,
-            16,
-            12,
-            13,
-            14,
-            27,
-            15,
-            17,
-            30,
-            28,
-            18,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[00时22分 ~ 23时19分]"
-        },
-        {
-          "title": "9天飙涨44%，基金喜提业绩开门红，AI与商业航天两最热主线分歧来了？",
-          "url": "https://www.cls.cn/detail/2258599",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时24分 ~ 20时31分]"
-        },
         {
           "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
           "url": "https://www.cls.cn/detail/2259059",
           "source": "财联社热门",
           "ranks": [
-            9,
-            8,
-            5,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时17分 ~ 23时19分]"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
         },
         {
-          "title": "摄影比赛第一名疑似 AI 照片，骗过 5 位专业评委，如何评价？这种比赛能引入识别 AI 的技术吗？",
-          "url": "https://www.zhihu.com/question/1993756665422509304",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3,
-            14,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时17分 ~ 23时19分]"
-        },
-        {
-          "title": "【每日收评】沪指冲高回落小幅收跌，两市成交额逼近4万亿，AI应用概念股持续活跃",
-          "url": "https://www.cls.cn/detail/2257499",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时23分 ~ 07时14分]"
-        },
-        {
-          "title": "浙江用AI抓出贪官",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%B5%99%E6%B1%9F%E7%94%A8AI%E6%8A%93%E5%87%BA%E8%B4%AA%E5%AE%98%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27,
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 07时14分]"
-        },
-        {
-          "title": "高盛王亚军最新发声：中国AI还不存在泡沫",
-          "url": "https://wallstreetcn.com/livenews/3038062",
+          "title": "台积电三季度业绩报告要点总结：AI巨头需求引爆，Q4利润激增35%再破纪录",
+          "url": "https://wallstreetcn.com/livenews/3038126",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时20分"
-        },
-        {
-          "title": "多平台公布涉“AI魔改”违规视频第二批处置结果",
-          "url": "https://wallstreetcn.com/livenews/3038102",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "【每日收评】三大指数震荡整理涨跌互现，单日成交额萎缩超万亿，商业航天、AI应用端遭重挫",
-          "url": "https://www.cls.cn/detail/2258951",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时31分 ~ 23时19分]"
+          "time_info": "00时28分"
         },
         {
           "title": "AI需求猛如虎！台积电财报会实录：大幅投资扩产仍难缓解供应短缺",
           "url": "https://www.cls.cn/detail/2259073",
           "source": "财联社热门",
           "ranks": [
-            13,
-            12
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时36分 ~ 23时19分]"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
         },
         {
-          "title": "如何评价 Anthropic 发布通用 AI 代理 Claude Cowork，目前实际使用怎么样？",
-          "url": "https://www.zhihu.com/question/1994356851211515794",
+          "title": "摄影比赛第一名疑似 AI 照片，骗过 5 位专业评委，如何评价？这种比赛能引入识别 AI 的技术吗？",
+          "url": "https://www.zhihu.com/question/1993756665422509304",
           "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时35分 ~ 14时24分]"
-        },
-        {
-          "title": "加州总检察长对xAI和Grok展开调查",
-          "url": "https://wallstreetcn.com/livenews/3037233",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 03时16分]"
-        },
-        {
-          "title": "美国主要电网运营商因AI热潮过热调低用电需求预测",
-          "url": "https://wallstreetcn.com/livenews/3037291",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时15分 ~ 06时16分]"
-        },
-        {
-          "title": "于正秀腹肌被判定AI",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%8E%E6%AD%A3%E7%A7%80%E8%85%B9%E8%82%8C%E8%A2%AB%E5%88%A4%E5%AE%9AAI%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 13时22分]"
-        },
-        {
-          "title": "美国亚特兰大联储主席Bostic：与美联储通胀目标仍然相去甚远。 在利率政策上仍然需要限制性立场。 劳动力市场走软，但并不明显。 入门级招聘疲软，可能与人工智能（AI）有关。 美联储主席鲍威尔对美国司法部调查的反应“非常直接”。",
-          "url": "https://wallstreetcn.com/livenews/3037229",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 03时16分]"
-        },
-        {
-          "title": "千问App接入支付宝，上线AI付款",
-          "url": "https://wallstreetcn.com/livenews/3037516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 13时22分]"
-        },
-        {
-          "title": "1月15日午间收评：创业板指半日跌超1%，商业航天、AI应用集体退潮",
-          "url": "https://wallstreetcn.com/livenews/3037508",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 13时22分]"
-        },
-        {
-          "title": "从“读懂中国”到“算力解码”，外资巨头加码中国市场AI投研",
-          "url": "https://wallstreetcn.com/livenews/3037339",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "瑞银：短期中国出现AI泡沫概率低 看好半导体与机器人上游产业链",
-          "url": "https://wallstreetcn.com/livenews/3037989",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时31分"
-        },
-        {
-          "title": "华胜天成：公司关注到市场将公司列入AI相关热点概念。公司目前涉及AI业务的相关收入占公司整体营业收入的比例较低，对公司业绩预计不构成重大影响。",
-          "url": "https://wallstreetcn.com/livenews/3037984",
-          "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时31分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
         },
         {
-          "title": "贝莱德与微软的AI合作项目筹集了125亿美元，目标为300亿美元。",
-          "url": "https://flash.jin10.com/detail/20260115205715750800",
-          "source": "金十数据",
+          "title": "【每日收评】三大指数震荡整理涨跌互现，单日成交额萎缩超万亿，商业航天、AI应用端遭重挫",
+          "url": "https://www.cls.cn/detail/2258951",
+          "source": "财联社热门",
           "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时36分"
-        },
-        {
-          "title": "贝莱德首席执行官：贝莱德与微软的AI合作已筹集125亿美元，目标为300亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3038018",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时36分"
-        },
-        {
-          "title": "美联储卡什卡利：目前大多数企业的AI应用仍处于实验阶段，尚未导致裁员。",
-          "url": "https://flash.jin10.com/detail/20260115013502708800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "AI点的第一杯奶茶",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E7%82%B9%E7%9A%84%E7%AC%AC%E4%B8%80%E6%9D%AF%E5%A5%B6%E8%8C%B6%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时35分"
-        },
-        {
-          "title": "千问AI打电话订餐厅",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E9%97%AEAI%E6%89%93%E7%94%B5%E8%AF%9D%E8%AE%A2%E9%A4%90%E5%8E%85%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时22分"
-        },
-        {
-          "title": "加州总检察长：我们要求xAI就其阻止深度伪造内容生成与传播的计划立即作出回应。",
-          "url": "https://flash.jin10.com/detail/20260115013205939800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "贝莱德集团CEO Larry Fink：美国未来数年的增速将超过趋势。 我认为并不存在人工智能（AI）泡沫。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3038085",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时19分"
-        },
-        {
-          "title": "中信证券：“自主可控、AI算力”有望成为电子行业贯穿全年的绝对强主线",
-          "url": "https://wallstreetcn.com/livenews/3037380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "美国加州州长纽森：呼吁司法部长立即调查xAI并追究其责任。",
-          "url": "https://flash.jin10.com/detail/20260115013044140800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "创业板指跌超1%，沪指跌0.45%，深成指跌0.38%，商业航天、AI应用等方向跌幅居前，沪深京三市下跌个股近3400只，其中近110股跌超9%。",
-          "url": "https://wallstreetcn.com/livenews/3037473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "美国佛州州长加大对AI与数据中心“现实风险”的警告力度",
-          "url": "https://wallstreetcn.com/livenews/3037201",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        },
-        {
-          "title": "特朗普：对未用于美国AI的进口芯片征收25%关税",
-          "url": "https://flash.jin10.com/detail/20260115043632565800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "办案人员通过AI提示揪出贪官",
-          "url": "https://www.toutiao.com/trending/7595197160711946266/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "阿里要做全球第一个AI电商？淘宝、飞猪等已接入千问App",
-          "url": "https://wallstreetcn.com/livenews/3037373",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "李斌开年内部讲话：预计2025年第四季度盈利目标可实现，推动AI在全业务链条落地",
-          "url": "https://wallstreetcn.com/livenews/3037912",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        },
-        {
-          "title": "聂卫平曾谈AI对围棋的影响",
-          "url": "https://www.toutiao.com/trending/7595183245084835903/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时24分"
-        },
-        {
-          "title": "千问App全球首发点外卖、买东西、订机票等AI购物功能",
-          "url": "https://wallstreetcn.com/livenews/3037462",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房价 楼市 房地产",
-      "match_count": 12,
-      "titles": [
-        {
-          "title": "携程涉嫌垄断遭市监总局立案，此前被曝借“调价助手”修改上架酒店房价",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32383308",
-          "source": "澎湃新闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时22分 ~ 19时15分]"
-        },
-        {
-          "title": "专家：房价调整幅度已超国际水平",
-          "url": "https://www.toutiao.com/trending/7595176049659350582/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时22分 ~ 07时14分]"
-        },
-        {
-          "title": "马光远：2026年房地产大概率见底",
-          "url": "https://www.toutiao.com/trending/7594701672845836307/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            26,
-            22,
-            20,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时22分 ~ 07时14分]"
-        },
-        {
-          "title": "报告：2025年上海甲级办公楼市场需求逐季递增，2026年供应压力有望边际缓解",
-          "url": "https://wallstreetcn.com/livenews/3038031",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时36分"
-        },
-        {
-          "title": "天津新房价格管控收紧，楼盘价格「过低」或限制网签，透露哪些信息？",
-          "url": "https://www.zhihu.com/question/1994402848788669247",
-          "source": "知乎",
-          "ranks": [
-            5,
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[09时08分 ~ 11时26分]"
+          "time_info": "[00时27分 ~ 00时28分]"
         },
         {
-          "title": "房贷贴息呼声再起，“1年700亿可撬动280万亿居民房地产资产”？银行业内：可行性很低",
-          "url": "https://www.cls.cn/detail/2257323",
+          "title": "阿里千问 App 接入淘宝、闪购，测试 AI 购物，将对消费购物体验带来哪些改变？具有哪些行业意义？",
+          "url": "https://www.zhihu.com/question/1995085840762758424",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
+        },
+        {
+          "title": "韩服登顶账号是AI操作的吗",
+          "url": "https://search.bilibili.com/all?keyword=%E9%9F%A9%E6%9C%8D%E7%99%BB%E9%A1%B6%E8%B4%A6%E5%8F%B7%E6%98%AFAI%E6%93%8D%E4%BD%9C%E7%9A%84%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
+        },
+        {
+          "title": "报告：AI推动半导体行业营收在2026年首次突破1万亿美元",
+          "url": "https://flash.jin10.com/detail/20260115234252489800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "多平台公布涉“AI魔改”违规视频第二批处置结果",
+          "url": "https://wallstreetcn.com/livenews/3038102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        },
+        {
+          "title": "92胜率屠榜,老马AI杀穿韩服",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
+          "source": "贴吧",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "利率 汇率",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "央行：下调货币政策工具利率0.25个百分点，今年降准降息还有一定空间",
+          "url": "https://wallstreetcn.com/articles/3763367",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
+        },
+        {
+          "title": "央行将下调各类结构性货币政策工具利率 0.25 个百分点，一年期再贷款利率降至 1.25%，如何解读？",
+          "url": "https://www.zhihu.com/question/1995153394889949568",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
+        },
+        {
+          "title": "各类再贷款一年期利率降至1.25%",
+          "url": "https://search.bilibili.com/all?keyword=%E5%90%84%E7%B1%BB%E5%86%8D%E8%B4%B7%E6%AC%BE%E4%B8%80%E5%B9%B4%E6%9C%9F%E5%88%A9%E7%8E%87%E9%99%8D%E8%87%B31.25%25",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
+        },
+        {
+          "title": "2026年结构性货币政策工具“加量降价” 单设1万亿再贷款加码民营企业 市场预计政策利率存下调空间",
+          "url": "https://www.cls.cn/detail/2259330",
           "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
+        },
+        {
+          "title": "结构性货币政策工具利率下调",
+          "url": "https://www.douyin.com/hot/2368595",
+          "source": "抖音",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
+        },
+        {
+          "title": "中国人民银行决定下调再贷款、再贴现利率",
+          "url": "https://wallstreetcn.com/articles/3763370",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
+        },
+        {
+          "title": "央行决定下调再贷款、再贴现利率",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A1%8C%E5%86%B3%E5%AE%9A%E4%B8%8B%E8%B0%83%E5%86%8D%E8%B4%B7%E6%AC%BE%E3%80%81%E5%86%8D%E8%B4%B4%E7%8E%B0%E5%88%A9%E7%8E%87",
+          "source": "百度热搜",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
-        },
-        {
-          "title": "租售比模型为何在国内楼市失灵",
-          "url": "https://www.toutiao.com/trending/7595502793251638835/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时17分 ~ 19时15分]"
-        },
-        {
-          "title": "英国12月三个月RICS房价指数 -14，预期-16，前值由-16.00修正为-14。",
-          "url": "https://flash.jin10.com/detail/20260115080102230800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "金十数据整理：每日房地产行业动态汇总（2026-01-15）",
-          "url": "https://flash.jin10.com/detail/20260115155213215800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时23分"
-        },
-        {
-          "title": "韩国央行行长李昌镛：不认为仅靠更高的利率就能平息房价上涨。",
-          "url": "https://flash.jin10.com/detail/20260115104259488800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
-          "title": "据华尔街日报：黑石集团(BX.N)面向个人投资者的旗舰房地产基金在2025年取得了三年来最强劲的业绩，主要得益于其在数据中心领域的投资。黑石房地产收益信托（BREIT）全年实现8.1%的总回报，资产规模增至逾540亿美元。",
-          "url": "https://flash.jin10.com/detail/20260115074302157800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
-        },
-        {
-          "title": "英国12月三个月RICS房价指数 -14，预期 -17，前值 -16。",
-          "url": "https://wallstreetcn.com/livenews/3037371",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时08分"
+          "time_info": "[00时27分 ~ 00时28分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
@@ -1392,141 +214,36 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时36分 ~ 23时19分]"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
         },
         {
-          "title": "OpenAI：将与Cerebras合作，在我们的平台上新增750兆瓦的超低时延人工智能算力。产能将分多个批次在2028年前上线。",
-          "url": "https://flash.jin10.com/detail/20260115041052630800",
-          "source": "金十数据",
+          "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
+          "url": "https://wallstreetcn.com/livenews/3038124",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "据华尔街日报，OpenAI与Cerebras敲定超100亿美元协议，承诺购买至多750 MW算力。 另据彭博，OpenAI确认与Cerebras构建合作伙伴关系，但条款没有披露。",
-          "url": "https://wallstreetcn.com/livenews/3037274",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时15分 ~ 05时15分]"
-        },
-        {
-          "title": "Anthropic与OpenAI就IPO采取初步行动。 马斯克旗下太空探索Spacex已经为IPO面试了多家承销行。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3037234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时25分 ~ 03时16分]"
-        },
-        {
-          "title": "OpenAI与Cerebras达成百亿美元算力合作",
-          "url": "https://flash.jin10.com/detail/20260115045202393800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时15分"
-        },
-        {
-          "title": "据华尔街日报：OpenAI将在三年内从初创公司Cerebras购买多达750兆瓦的算力。",
-          "url": "https://flash.jin10.com/detail/20260115040115164800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
-        },
-        {
-          "title": "据华尔街日报：OpenAI与初创公司Cerebras达成计算合作，OpenAI将使用Cerebras设计的芯片为ChatGPT提供动力。OpenAI与Cerebras的交易价值超过100亿美元。",
-          "url": "https://flash.jin10.com/detail/20260115040037235800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时15分"
+          "time_info": "00时28分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "复盘苹果AI为何转投谷歌",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%8D%E7%9B%98%E8%8B%B9%E6%9E%9CAI%E4%B8%BA%E4%BD%95%E8%BD%AC%E6%8A%95%E8%B0%B7%E6%AD%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            12,
-            10,
-            14,
-            8,
-            16,
-            9,
-            19,
-            23,
-            24,
-            17
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时35分 ~ 23时19分]"
-        },
-        {
-          "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
-          "url": "https://wallstreetcn.com/livenews/3037200",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时23分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "市场消息：美国加州总检察长对马斯克旗下xAI和Grok启动调查。",
-          "url": "https://flash.jin10.com/detail/20260115013111465800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时25分"
-        },
-        {
-          "title": "马斯克旗下xAI遭加州调查 Grok涉嫌生成违规图像",
-          "url": "https://flash.jin10.com/detail/20260115021524216800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时16分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 00时28分]"
         }
       ]
     }
