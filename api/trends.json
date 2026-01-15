@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-15T16:16:14.808795+08:00",
-  "total_titles_processed": 1118,
+  "generated_at": "2026-01-15T16:51:56.903962+08:00",
+  "total_titles_processed": 1187,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-15）",
@@ -29,6 +29,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "美国政府将批准向中国出售H200人工智能芯片 外交部回应",
+          "url": "https://www.cls.cn/detail/2258750",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
         },
         {
           "title": "台积电：人工智能真实存在，并已开始融入我们的日常生活。",
@@ -131,8 +142,25 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时59分 ~ 16时16分]"
+          "appearance_count": 12,
+          "time_info": "[11时59分 ~ 16时51分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "grok",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英国监管机构Ofcom：欢迎X在Grok问题上的政策变更，但正式调查仍在进行中。",
+          "url": "https://flash.jin10.com/detail/20260115163947201800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时51分"
         }
       ]
     },
@@ -171,8 +199,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时37分 ~ 16时16分]"
+          "appearance_count": 11,
+          "time_info": "[12时37分 ~ 16时51分]"
         }
       ]
     },
