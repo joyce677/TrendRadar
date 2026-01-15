@@ -1,11 +1,895 @@
 {
-  "generated_at": "2026-01-15T18:33:30.371646+08:00",
-  "total_titles_processed": 1691,
+  "generated_at": "2026-01-15T19:28:45.297561+08:00",
+  "total_titles_processed": 1787,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "伊朗",
+      "match_count": 76,
+      "titles": [
+        {
+          "title": "美军机沿伊朗边界飞行",
+          "url": "https://news.ifeng.com/c/8pufl7S6EV4",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 04时30分]"
+        },
+        {
+          "title": "沙特带头，劝美国不要对伊朗动武",
+          "url": "https://news.ifeng.com/c/8puV4iW19Yi",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时40分 ~ 04时30分]"
+        },
+        {
+          "title": "伊朗：骚乱事件主要幕后人员落网",
+          "url": "https://news.ifeng.com/c/8pv17Vq3RFg",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时29分 ~ 10时11分]"
+        },
+        {
+          "title": "美媒：美国已制定多套方案，或直接针对伊朗最高领导层",
+          "url": "https://news.ifeng.com/c/8pvokQP3xu7",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时33分 ~ 17时35分]"
+        },
+        {
+          "title": "伊朗宣布暂时关闭领空，美国一航母打击群正被调往中东地区，意味着什么？目前伊朗局势如何？",
+          "url": "https://www.zhihu.com/question/1995060884632987422",
+          "source": "知乎",
+          "ranks": [
+            10,
+            11,
+            3,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时08分 ~ 19时28分]"
+        },
+        {
+          "title": "美国会对伊朗动武吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            7,
+            9,
+            22,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时40分 ~ 06时31分]"
+        },
+        {
+          "title": "伊朗情报部门：骚乱事件主要幕后人员落网",
+          "url": "https://news.ifeng.com/c/8pvx2THKanp",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时43分 ~ 18时33分]"
+        },
+        {
+          "title": "伊朗对德黑兰飞行情报区空域管控",
+          "url": "https://www.douyin.com/hot/2368070",
+          "source": "抖音",
+          "ranks": [
+            16,
+            14,
+            10,
+            7,
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时08分 ~ 19时28分]"
+        },
+        {
+          "title": "伊朗高级将领：伊朗处于最高战备状态",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%AB%98%E7%BA%A7%E5%B0%86%E9%A2%86%EF%BC%9A%E4%BC%8A%E6%9C%97%E5%A4%84%E4%BA%8E%E6%9C%80%E9%AB%98%E6%88%98%E5%A4%87%E7%8A%B6%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            15,
+            16,
+            12,
+            20,
+            26,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时40分 ~ 07时25分]"
+        },
+        {
+          "title": "伊朗高级将领：伊朗处于最高战备状态",
+          "url": "https://www.toutiao.com/trending/7595176797369679910/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            15,
+            16,
+            14,
+            18,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[01时33分 ~ 07时25分]"
+        },
+        {
+          "title": "凤凰直击丨伊朗举行大规模公开葬礼，民众高喊打倒美以口号",
+          "url": "https://news.ifeng.com/c/8pv5H7n3Wrv",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时29分 ~ 06时31分]"
+        },
+        {
+          "title": "“星链”在伊朗免费部署，境内已有约5万台终端，伊方公布缴获的设备！",
+          "url": "https://news.ifeng.com/c/8pv10MDZVXI",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时29分 ~ 06时31分]"
+        },
+        {
+          "title": "“星链”在伊朗免费部署，已有约5万台终端，伊方公布缴获设备",
+          "url": "https://news.ifeng.com/c/8pv10MDZVXI",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时24分 ~ 12时08分]"
+        },
+        {
+          "title": "伊朗宣布暂时关闭领空",
+          "url": "https://news.ifeng.com/c/8pvbgYIqXSz",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 12时08分]"
+        },
+        {
+          "title": "王毅同伊朗外长通电话",
+          "url": "https://news.ifeng.com/c/8pwK9ZHpt9w",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
+          "title": "聚焦中东局势：美军从乌代德空军基地撤人 伊朗警告若发动打击将实施报复",
+          "url": "https://www.cls.cn/detail/2258108",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时11分 ~ 14时44分]"
+        },
+        {
+          "title": "据BNO新闻：德国警告航空公司避开伊朗领空，因存在“冲突升级和反航空武器”风险。",
+          "url": "https://flash.jin10.com/detail/20260115040940398800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        },
+        {
+          "title": "伊朗外长：政府已完全掌控局面 局势已平静",
+          "url": "https://wallstreetcn.com/livenews/3037453",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "伊朗：骚乱事件主要幕后人员落网",
+          "url": "https://flash.jin10.com/detail/20260115002015292800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        },
+        {
+          "title": "航班雷达网站称，伊朗上空的空域似乎正在迅速清空，目前没有航班获准进入伊朗领空。",
+          "url": "https://flash.jin10.com/detail/20260115060040144800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "王毅同伊朗外长阿拉格齐通电话",
+          "url": "https://wallstreetcn.com/livenews/3037946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
+          "title": "伊朗重新开放领空",
+          "url": "https://wallstreetcn.com/livenews/3037518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时08分 ~ 13时34分]"
+        },
+        {
+          "title": "伊朗：骚乱事件主要幕后人员落网",
+          "url": "https://wallstreetcn.com/livenews/3037207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 01时34分]"
+        },
+        {
+          "title": "英国驻伊朗大使馆暂时关闭",
+          "url": "https://wallstreetcn.com/livenews/3037298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时31分]"
+        },
+        {
+          "title": "胡塞武装：伊朗目前局势系美以“制造的动荡”",
+          "url": "https://wallstreetcn.com/livenews/3037273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时30分 ~ 05时30分]"
+        },
+        {
+          "title": "伊朗重新开放领空",
+          "url": "https://www.toutiao.com/trending/7595433484718719002/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时43分 ~ 15时32分]"
+        },
+        {
+          "title": "伊朗外长：政府已完全掌控局面",
+          "url": "https://www.toutiao.com/trending/7595402470608621094/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时08分 ~ 14时44分]"
+        },
+        {
+          "title": "撤走侨民、调动航母、出动侦察机，美军准备好对伊朗“动武”了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32390075",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 19时28分]"
+        },
+        {
+          "title": "伊朗外交部：美国对伊朗经济制裁构成“反人类罪”",
+          "url": "https://wallstreetcn.com/livenews/3037258",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 04时30分]"
+        },
+        {
+          "title": "美国停办 75 国签证，其中包括巴西、伊朗、埃及，这在未来会影响 2026 年世界杯正常举办吗？",
+          "url": "https://www.zhihu.com/question/1995083094298944420",
+          "source": "知乎",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 19时28分]"
+        },
+        {
+          "title": "“星链”已向伊朗用户免费提供互联网服务",
+          "url": "https://wallstreetcn.com/livenews/3037288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时30分 ~ 06时31分]"
+        },
+        {
+          "title": "伊朗密集展开外交沟通",
+          "url": "https://wallstreetcn.com/livenews/3037255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时26分 ~ 04时30分]"
+        },
+        {
+          "title": "美国国务院：确认对伊朗等国暂停签证受理。",
+          "url": "https://wallstreetcn.com/livenews/3037216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时34分 ~ 02时43分]"
+        },
+        {
+          "title": "伊朗宣布暂时关闭领空",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E6%9A%82%E6%97%B6%E5%85%B3%E9%97%AD%E9%A2%86%E7%A9%BA%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时11分 ~ 12时08分]"
+        },
+        {
+          "title": "伊朗约2000枚导弹可覆盖美以基地",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%BA%A62000%E6%9E%9A%E5%AF%BC%E5%BC%B9%E5%8F%AF%E8%A6%86%E7%9B%96%E7%BE%8E%E4%BB%A5%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时43分 ~ 14时44分]"
+        },
+        {
+          "title": "印度建议本国公民离开伊朗",
+          "url": "https://www.toutiao.com/trending/7595251575863132166/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时33分 ~ 13时34分]"
+        },
+        {
+          "title": "伊朗外长重申将维护国家主权，反对任何外来干预",
+          "url": "https://wallstreetcn.com/livenews/3037213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时34分 ~ 02时43分]"
+        },
+        {
+          "title": "印度靛蓝航空：由于伊朗突然关闭空域，部分国际航班受到影响。",
+          "url": "https://flash.jin10.com/detail/20260115070042240800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "王毅同伊朗外长通电话",
+          "url": "https://www.douyin.com/hot/2368882",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
+          "title": "伊朗关闭领空",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%85%B3%E9%97%AD%E9%A2%86%E7%A9%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "美军机沿伊朗边界飞行",
+          "url": "https://www.douyin.com/hot/2367771",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        },
+        {
+          "title": "伊朗承诺不执行死刑 暂时避免了美国的打击行动",
+          "url": "https://flash.jin10.com/detail/20260115181942100800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        },
+        {
+          "title": "伊朗密切监视地区美军动向",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%AF%86%E5%88%87%E7%9B%91%E8%A7%86%E5%9C%B0%E5%8C%BA%E7%BE%8E%E5%86%9B%E5%8A%A8%E5%90%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时32分"
+        },
+        {
+          "title": "伊朗外交部长：现在局势平静下来了。我们完全掌控了局面。",
+          "url": "https://flash.jin10.com/detail/20260115045623599800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时30分"
+        },
+        {
+          "title": "台积电财报点燃市场情绪，纳指期货转涨，伊朗局势暂时降温，原油跌4%，白银一度跌7%",
+          "url": "https://wallstreetcn.com/articles/3763348",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
+          "title": "据华尔街日报：欧洲高级外交官对美国在伊朗问题上的相关计划感到“完全混乱”。",
+          "url": "https://flash.jin10.com/detail/20260115045450369800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时30分"
+        },
+        {
+          "title": "伊朗发布通告暂时关闭领空",
+          "url": "https://www.douyin.com/hot/2368079",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "伊朗外长称该国局势已恢复平静",
+          "url": "https://flash.jin10.com/detail/20260115054713694800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时31分"
+        },
+        {
+          "title": "市场消息：西班牙要求公民离开伊朗。",
+          "url": "https://flash.jin10.com/detail/20260115040228347800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        },
+        {
+          "title": "德国空中交通管制部门：飞机应避开伊朗领空，直​​至2月10日。",
+          "url": "https://flash.jin10.com/detail/20260115172602158800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "Flightradar24：伊朗发布航行通告，除非获得许可，否则所有航班一律不得进入其领空。 经批准的往返伊朗的国际航班除外。该通告效期略超过两小时。",
+          "url": "https://wallstreetcn.com/livenews/3037332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "伊朗延长领空关闭时间",
+          "url": "https://wallstreetcn.com/livenews/3037441",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "印度驻伊朗大使馆：建议目前身处伊朗的印度公民通过可行的交通方式离开伊朗",
+          "url": "https://flash.jin10.com/detail/20260115121028937800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "美航母打击群调往中东 伊朗最高战备",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%88%AA%E6%AF%8D%E6%89%93%E5%87%BB%E7%BE%A4%E8%B0%83%E5%BE%80%E4%B8%AD%E4%B8%9C+%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E6%88%98%E5%A4%87",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
+          "title": "伊朗外交部长和沙特外交大臣通电话 讨论地区局势",
+          "url": "https://flash.jin10.com/detail/20260115181026083800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时33分"
+        },
+        {
+          "title": "欧洲多国敦促其公民离开伊朗 英国关闭大使馆",
+          "url": "https://flash.jin10.com/detail/20260115044403879800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时30分"
+        },
+        {
+          "title": "土耳其外交部长：我们将继续就伊朗问题开展外交倡议，当务之急是避免局势动荡。",
+          "url": "https://flash.jin10.com/detail/20260115172312104800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "土耳其外交部长：土耳其不容忍对伊朗使用暴力的可能性。",
+          "url": "https://flash.jin10.com/detail/20260115172301722800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "G7声明：七国集团仍准备在伊朗继续压制抗议活动时实施额外限制措施。",
+          "url": "https://flash.jin10.com/detail/20260115024535202800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
+        {
+          "title": "G7声明：七国集团对伊朗持续抗议活动的相关事态发展深表关切。",
+          "url": "https://flash.jin10.com/detail/20260115024514486800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
+        {
+          "title": "据实时航班追踪器FlightRadar24，德国当局发布了新的航行通告，警告德国航空公司谨慎进入伊朗领空。",
+          "url": "https://flash.jin10.com/detail/20260115035253506800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        },
+        {
+          "title": "印度航空证实，从德里飞往纽约的AI101航班起飞后，因伊朗领空意外关闭，被迫返回德里。",
+          "url": "https://flash.jin10.com/detail/20260115172210698800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "外媒：伊朗关闭领空",
+          "url": "https://flash.jin10.com/detail/20260115063911246800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "消息人士：外交官们曾寻求真主党的保证，以确保在伊朗遭受袭击时，该组织不会采取行动。真主党虽未提供保证，但若伊朗遭受的打击并非毁灭性的，该组织并无采取行动的计划。",
+          "url": "https://flash.jin10.com/detail/20260115000719830800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        },
+        {
+          "title": "伊朗外交部：美国对伊朗经济制裁构成“反人类罪”",
+          "url": "https://flash.jin10.com/detail/20260115023154682800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
+        {
+          "title": "印度驻伊朗大使馆14日晚在社交媒体发文说，建议目前身处伊朗的印度公民通过可行的交通方式离开伊朗。 (新华社)",
+          "url": "https://wallstreetcn.com/livenews/3037521",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "伊朗：骚乱事件主要幕后人员落网",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E9%AA%9A%E4%B9%B1%E4%BA%8B%E4%BB%B6%E4%B8%BB%E8%A6%81%E5%B9%95%E5%90%8E%E4%BA%BA%E5%91%98%E8%90%BD%E7%BD%91",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "FLIGHTRADAR24：随着关闭伊朗空域的航行通告到期，部分航班正前往德黑兰。",
+          "url": "https://flash.jin10.com/detail/20260115110539754800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "Flightradar24：伊朗发布航行通告，除非获得许可，否则所有航班一律不得进入其领空。经批准的往返伊朗的国际航班除外。该通告效期略超过两小时。",
+          "url": "https://flash.jin10.com/detail/20260115062414721800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "伊朗民航组织称该国航班正常运行",
+          "url": "https://wallstreetcn.com/livenews/3037816",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时35分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：已做好充分准备 将回应敌人行动",
+          "url": "https://flash.jin10.com/detail/20260115022024261800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时26分"
+        },
+        {
+          "title": "伊朗对德黑兰飞行情报区空域管控",
+          "url": "https://www.toutiao.com/trending/7594297855331057702/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时11分"
+        },
+        {
+          "title": "美军机沿伊朗边界飞行",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E6%9C%BA%E6%B2%BF%E4%BC%8A%E6%9C%97%E8%BE%B9%E7%95%8C%E9%A3%9E%E8%A1%8C%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        },
+        {
+          "title": "波兰外交部：敦促波兰公民立即离开伊朗。",
+          "url": "https://flash.jin10.com/detail/20260115031912131800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        },
+        {
+          "title": "市场消息：伊朗外长阿拉格齐强烈谴责美国官员的挑衅性言论。",
+          "url": "https://flash.jin10.com/detail/20260114234309637800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时40分"
+        },
+        {
+          "title": "意大利外交部：敦促其公民撤离伊朗。",
+          "url": "https://flash.jin10.com/detail/20260115031827656800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时30分"
+        }
+      ]
+    },
+    {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 75,
       "titles": [
         {
           "title": "特朗普特使秘密见了伊朗末代王储",
@@ -63,8 +947,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时11分 ~ 18时33分]"
+          "appearance_count": 11,
+          "time_info": "[10时11分 ~ 19时28分]"
         },
         {
           "title": "事关AI！特朗普政府官宣对“某些半导体”加征25%关税",
@@ -85,11 +969,12 @@
           "url": "https://news.ifeng.com/c/8pw6KwgQUWD",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时40分 ~ 18时33分]"
+          "appearance_count": 4,
+          "time_info": "[16时40分 ~ 19时28分]"
         },
         {
           "title": "多国敦促公民离开伊朗 特朗普称将观望伊朗局势发展 | 环球市场",
@@ -103,6 +988,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[10时11分 ~ 15时32分]"
+        },
+        {
+          "title": "美军航母开往中东，特朗普要“速战速决”？",
+          "url": "https://news.ifeng.com/c/8pw5GkQd9wz",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 19时28分]"
         },
         {
           "title": "白宫新闻秘书莱维特：特朗普将于美国东部时间下午2点签署法案，允许学校提供全脂牛奶和2%低脂牛奶。",
@@ -136,17 +1032,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时30分"
-        },
-        {
-          "title": "美军航母开往中东，特朗普要“速战速决”？",
-          "url": "https://news.ifeng.com/c/8pw5GkQd9wz",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
         },
         {
           "title": "特朗普称取消与伊朗官员所有会面，美国到底会不会对伊朗发动军事行动？目前局势如何？美国为何「死盯」伊朗？",
@@ -233,6 +1118,30 @@
           "time_info": "[12时08分 ~ 13时34分]"
         },
         {
+          "title": "美对委行动后特朗普支持率仍在低点",
+          "url": "https://www.toutiao.com/trending/7594447882443898943/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时35分 ~ 19时28分]"
+        },
+        {
+          "title": "特朗普批准英伟达芯片对华出口，美国会山吵翻天",
+          "url": "https://news.ifeng.com/c/8pvxjHceg37",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时33分 ~ 19时28分]"
+        },
+        {
           "title": "特朗普邀请记者喝放了5天的牛奶",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E9%82%80%E8%AF%B7%E8%AE%B0%E8%80%85%E5%96%9D%E6%94%BE%E4%BA%865%E5%A4%A9%E7%9A%84%E7%89%9B%E5%A5%B6%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -305,17 +1214,6 @@
           "time_info": "[03时26分 ~ 04时30分]"
         },
         {
-          "title": "美对委行动后特朗普支持率仍在低点",
-          "url": "https://www.toutiao.com/trending/7594447882443898943/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 18时33分]"
-        },
-        {
           "title": "美国总统特朗普：与丹麦关系很好。",
           "url": "https://wallstreetcn.com/livenews/3037286",
           "source": "华尔街见闻-快讯",
@@ -349,17 +1247,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 04时30分]"
-        },
-        {
-          "title": "特朗普批准英伟达芯片对华出口，美国会山吵翻天",
-          "url": "https://news.ifeng.com/c/8pvxjHceg37",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
         },
         {
           "title": "美国总统特朗普：泄密委内瑞拉消息的人已被找到，目前身陷囹圄。",
@@ -404,6 +1291,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时31分"
+        },
+        {
+          "title": "民调显示，特朗普支持率从1月初的42%下滑至41%。",
+          "url": "https://flash.jin10.com/detail/20260115190107698800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "美联储卡什卡利拒绝就美国总统特朗普政府购买抵押贷款债券发表评论。",
@@ -742,7 +1640,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时33分"
         },
@@ -848,835 +1746,8 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 71,
-      "titles": [
-        {
-          "title": "美军机沿伊朗边界飞行",
-          "url": "https://news.ifeng.com/c/8pufl7S6EV4",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 04时30分]"
-        },
-        {
-          "title": "沙特带头，劝美国不要对伊朗动武",
-          "url": "https://news.ifeng.com/c/8puV4iW19Yi",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 04时30分]"
-        },
-        {
-          "title": "伊朗：骚乱事件主要幕后人员落网",
-          "url": "https://news.ifeng.com/c/8pv17Vq3RFg",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时29分 ~ 10时11分]"
-        },
-        {
-          "title": "美媒：美国已制定多套方案，或直接针对伊朗最高领导层",
-          "url": "https://news.ifeng.com/c/8pvokQP3xu7",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时33分 ~ 17时35分]"
-        },
-        {
-          "title": "美国会对伊朗动武吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            7,
-            9,
-            22,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 06时31分]"
-        },
-        {
-          "title": "伊朗情报部门：骚乱事件主要幕后人员落网",
-          "url": "https://news.ifeng.com/c/8pvx2THKanp",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时43分 ~ 18时33分]"
-        },
-        {
-          "title": "伊朗宣布暂时关闭领空，美国一航母打击群正被调往中东地区，意味着什么？目前伊朗局势如何？",
-          "url": "https://www.zhihu.com/question/1995060884632987422",
-          "source": "知乎",
-          "ranks": [
-            10,
-            11,
-            3,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时08分 ~ 18时33分]"
-        },
-        {
-          "title": "伊朗高级将领：伊朗处于最高战备状态",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%AB%98%E7%BA%A7%E5%B0%86%E9%A2%86%EF%BC%9A%E4%BC%8A%E6%9C%97%E5%A4%84%E4%BA%8E%E6%9C%80%E9%AB%98%E6%88%98%E5%A4%87%E7%8A%B6%E6%80%81",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            15,
-            16,
-            12,
-            20,
-            26,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时40分 ~ 07时25分]"
-        },
-        {
-          "title": "伊朗高级将领：伊朗处于最高战备状态",
-          "url": "https://www.toutiao.com/trending/7595176797369679910/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            15,
-            16,
-            14,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时33分 ~ 07时25分]"
-        },
-        {
-          "title": "伊朗对德黑兰飞行情报区空域管控",
-          "url": "https://www.douyin.com/hot/2368070",
-          "source": "抖音",
-          "ranks": [
-            16,
-            14,
-            10,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时08分 ~ 18时33分]"
-        },
-        {
-          "title": "凤凰直击丨伊朗举行大规模公开葬礼，民众高喊打倒美以口号",
-          "url": "https://news.ifeng.com/c/8pv5H7n3Wrv",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时29分 ~ 06时31分]"
-        },
-        {
-          "title": "“星链”在伊朗免费部署，境内已有约5万台终端，伊方公布缴获的设备！",
-          "url": "https://news.ifeng.com/c/8pv10MDZVXI",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时29分 ~ 06时31分]"
-        },
-        {
-          "title": "“星链”在伊朗免费部署，已有约5万台终端，伊方公布缴获设备",
-          "url": "https://news.ifeng.com/c/8pv10MDZVXI",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时24分 ~ 12时08分]"
-        },
-        {
-          "title": "伊朗宣布暂时关闭领空",
-          "url": "https://news.ifeng.com/c/8pvbgYIqXSz",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 12时08分]"
-        },
-        {
-          "title": "聚焦中东局势：美军从乌代德空军基地撤人 伊朗警告若发动打击将实施报复",
-          "url": "https://www.cls.cn/detail/2258108",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时11分 ~ 14时44分]"
-        },
-        {
-          "title": "据BNO新闻：德国警告航空公司避开伊朗领空，因存在“冲突升级和反航空武器”风险。",
-          "url": "https://flash.jin10.com/detail/20260115040940398800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时30分"
-        },
-        {
-          "title": "伊朗外长：政府已完全掌控局面 局势已平静",
-          "url": "https://wallstreetcn.com/livenews/3037453",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "伊朗：骚乱事件主要幕后人员落网",
-          "url": "https://flash.jin10.com/detail/20260115002015292800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "航班雷达网站称，伊朗上空的空域似乎正在迅速清空，目前没有航班获准进入伊朗领空。",
-          "url": "https://flash.jin10.com/detail/20260115060040144800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "伊朗重新开放领空",
-          "url": "https://wallstreetcn.com/livenews/3037518",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 13时34分]"
-        },
-        {
-          "title": "伊朗：骚乱事件主要幕后人员落网",
-          "url": "https://wallstreetcn.com/livenews/3037207",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时40分 ~ 01时34分]"
-        },
-        {
-          "title": "英国驻伊朗大使馆暂时关闭",
-          "url": "https://wallstreetcn.com/livenews/3037298",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时30分 ~ 06时31分]"
-        },
-        {
-          "title": "胡塞武装：伊朗目前局势系美以“制造的动荡”",
-          "url": "https://wallstreetcn.com/livenews/3037273",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时30分 ~ 05时30分]"
-        },
-        {
-          "title": "伊朗重新开放领空",
-          "url": "https://www.toutiao.com/trending/7595433484718719002/",
-          "source": "今日头条",
-          "ranks": [
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时43分 ~ 15时32分]"
-        },
-        {
-          "title": "伊朗外长：政府已完全掌控局面",
-          "url": "https://www.toutiao.com/trending/7595402470608621094/",
-          "source": "今日头条",
-          "ranks": [
-            10,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 14时44分]"
-        },
-        {
-          "title": "伊朗外交部：美国对伊朗经济制裁构成“反人类罪”",
-          "url": "https://wallstreetcn.com/livenews/3037258",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时26分 ~ 04时30分]"
-        },
-        {
-          "title": "“星链”已向伊朗用户免费提供互联网服务",
-          "url": "https://wallstreetcn.com/livenews/3037288",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时30分 ~ 06时31分]"
-        },
-        {
-          "title": "撤走侨民、调动航母、出动侦察机，美军准备好对伊朗“动武”了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32390075",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时35分 ~ 18时33分]"
-        },
-        {
-          "title": "伊朗密集展开外交沟通",
-          "url": "https://wallstreetcn.com/livenews/3037255",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时26分 ~ 04时30分]"
-        },
-        {
-          "title": "美国国务院：确认对伊朗等国暂停签证受理。",
-          "url": "https://wallstreetcn.com/livenews/3037216",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 02时43分]"
-        },
-        {
-          "title": "伊朗宣布暂时关闭领空",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E6%9A%82%E6%97%B6%E5%85%B3%E9%97%AD%E9%A2%86%E7%A9%BA%23&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时11分 ~ 12时08分]"
-        },
-        {
-          "title": "伊朗约2000枚导弹可覆盖美以基地",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%BA%A62000%E6%9E%9A%E5%AF%BC%E5%BC%B9%E5%8F%AF%E8%A6%86%E7%9B%96%E7%BE%8E%E4%BB%A5%E5%9F%BA%E5%9C%B0%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时43分 ~ 14时44分]"
-        },
-        {
-          "title": "印度建议本国公民离开伊朗",
-          "url": "https://www.toutiao.com/trending/7595251575863132166/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时33分 ~ 13时34分]"
-        },
-        {
-          "title": "伊朗外长重申将维护国家主权，反对任何外来干预",
-          "url": "https://wallstreetcn.com/livenews/3037213",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 02时43分]"
-        },
-        {
-          "title": "印度靛蓝航空：由于伊朗突然关闭空域，部分国际航班受到影响。",
-          "url": "https://flash.jin10.com/detail/20260115070042240800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "伊朗关闭领空",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%85%B3%E9%97%AD%E9%A2%86%E7%A9%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "美军机沿伊朗边界飞行",
-          "url": "https://www.douyin.com/hot/2367771",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "伊朗承诺不执行死刑 暂时避免了美国的打击行动",
-          "url": "https://flash.jin10.com/detail/20260115181942100800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "伊朗密切监视地区美军动向",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%AF%86%E5%88%87%E7%9B%91%E8%A7%86%E5%9C%B0%E5%8C%BA%E7%BE%8E%E5%86%9B%E5%8A%A8%E5%90%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时32分"
-        },
-        {
-          "title": "伊朗外交部长：现在局势平静下来了。我们完全掌控了局面。",
-          "url": "https://flash.jin10.com/detail/20260115045623599800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "据华尔街日报：欧洲高级外交官对美国在伊朗问题上的相关计划感到“完全混乱”。",
-          "url": "https://flash.jin10.com/detail/20260115045450369800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "伊朗发布通告暂时关闭领空",
-          "url": "https://www.douyin.com/hot/2368079",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "伊朗外长称该国局势已恢复平静",
-          "url": "https://flash.jin10.com/detail/20260115054713694800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时31分"
-        },
-        {
-          "title": "美国停办 75 国签证，其中包括巴西、伊朗、埃及，这在未来会影响 2026 年世界杯正常举办吗？",
-          "url": "https://www.zhihu.com/question/1995083094298944420",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "市场消息：西班牙要求公民离开伊朗。",
-          "url": "https://flash.jin10.com/detail/20260115040228347800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时30分"
-        },
-        {
-          "title": "德国空中交通管制部门：飞机应避开伊朗领空，直​​至2月10日。",
-          "url": "https://flash.jin10.com/detail/20260115172602158800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
-          "title": "Flightradar24：伊朗发布航行通告，除非获得许可，否则所有航班一律不得进入其领空。 经批准的往返伊朗的国际航班除外。该通告效期略超过两小时。",
-          "url": "https://wallstreetcn.com/livenews/3037332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "伊朗延长领空关闭时间",
-          "url": "https://wallstreetcn.com/livenews/3037441",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "印度驻伊朗大使馆：建议目前身处伊朗的印度公民通过可行的交通方式离开伊朗",
-          "url": "https://flash.jin10.com/detail/20260115121028937800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时34分"
-        },
-        {
-          "title": "伊朗外交部长和沙特外交大臣通电话 讨论地区局势",
-          "url": "https://flash.jin10.com/detail/20260115181026083800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时33分"
-        },
-        {
-          "title": "欧洲多国敦促其公民离开伊朗 英国关闭大使馆",
-          "url": "https://flash.jin10.com/detail/20260115044403879800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时30分"
-        },
-        {
-          "title": "土耳其外交部长：我们将继续就伊朗问题开展外交倡议，当务之急是避免局势动荡。",
-          "url": "https://flash.jin10.com/detail/20260115172312104800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
-          "title": "土耳其外交部长：土耳其不容忍对伊朗使用暴力的可能性。",
-          "url": "https://flash.jin10.com/detail/20260115172301722800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
-          "title": "G7声明：七国集团仍准备在伊朗继续压制抗议活动时实施额外限制措施。",
-          "url": "https://flash.jin10.com/detail/20260115024535202800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
-        },
-        {
-          "title": "G7声明：七国集团对伊朗持续抗议活动的相关事态发展深表关切。",
-          "url": "https://flash.jin10.com/detail/20260115024514486800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
-        },
-        {
-          "title": "据实时航班追踪器FlightRadar24，德国当局发布了新的航行通告，警告德国航空公司谨慎进入伊朗领空。",
-          "url": "https://flash.jin10.com/detail/20260115035253506800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时30分"
-        },
-        {
-          "title": "印度航空证实，从德里飞往纽约的AI101航班起飞后，因伊朗领空意外关闭，被迫返回德里。",
-          "url": "https://flash.jin10.com/detail/20260115172210698800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
-          "title": "外媒：伊朗关闭领空",
-          "url": "https://flash.jin10.com/detail/20260115063911246800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "消息人士：外交官们曾寻求真主党的保证，以确保在伊朗遭受袭击时，该组织不会采取行动。真主党虽未提供保证，但若伊朗遭受的打击并非毁灭性的，该组织并无采取行动的计划。",
-          "url": "https://flash.jin10.com/detail/20260115000719830800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "伊朗外交部：美国对伊朗经济制裁构成“反人类罪”",
-          "url": "https://flash.jin10.com/detail/20260115023154682800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
-        },
-        {
-          "title": "印度驻伊朗大使馆14日晚在社交媒体发文说，建议目前身处伊朗的印度公民通过可行的交通方式离开伊朗。 (新华社)",
-          "url": "https://wallstreetcn.com/livenews/3037521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时34分"
-        },
-        {
-          "title": "伊朗：骚乱事件主要幕后人员落网",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E9%AA%9A%E4%B9%B1%E4%BA%8B%E4%BB%B6%E4%B8%BB%E8%A6%81%E5%B9%95%E5%90%8E%E4%BA%BA%E5%91%98%E8%90%BD%E7%BD%91",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "FLIGHTRADAR24：随着关闭伊朗空域的航行通告到期，部分航班正前往德黑兰。",
-          "url": "https://flash.jin10.com/detail/20260115110539754800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "Flightradar24：伊朗发布航行通告，除非获得许可，否则所有航班一律不得进入其领空。经批准的往返伊朗的国际航班除外。该通告效期略超过两小时。",
-          "url": "https://flash.jin10.com/detail/20260115062414721800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时25分"
-        },
-        {
-          "title": "伊朗民航组织称该国航班正常运行",
-          "url": "https://wallstreetcn.com/livenews/3037816",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时35分"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队：已做好充分准备 将回应敌人行动",
-          "url": "https://flash.jin10.com/detail/20260115022024261800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时26分"
-        },
-        {
-          "title": "伊朗对德黑兰飞行情报区空域管控",
-          "url": "https://www.toutiao.com/trending/7594297855331057702/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
-        },
-        {
-          "title": "美军机沿伊朗边界飞行",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%86%9B%E6%9C%BA%E6%B2%BF%E4%BC%8A%E6%9C%97%E8%BE%B9%E7%95%8C%E9%A3%9E%E8%A1%8C%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "波兰外交部：敦促波兰公民立即离开伊朗。",
-          "url": "https://flash.jin10.com/detail/20260115031912131800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时30分"
-        },
-        {
-          "title": "市场消息：伊朗外长阿拉格齐强烈谴责美国官员的挑衅性言论。",
-          "url": "https://flash.jin10.com/detail/20260114234309637800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "意大利外交部：敦促其公民撤离伊朗。",
-          "url": "https://flash.jin10.com/detail/20260115031827656800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时30分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -1686,8 +1757,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时11分 ~ 18时33分]"
+          "appearance_count": 11,
+          "time_info": "[10时11分 ~ 19时28分]"
         },
         {
           "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
@@ -1834,6 +1905,17 @@
           "time_info": "[06时31分 ~ 07时25分]"
         },
         {
+          "title": "贝莱德第四财季管理资产总额14.04万亿美元，同比增长22%，市场预期13.94万亿美元。 第四财季调整后每股收益（EPS）13.16美元，去年同期为11.93美元，市场预期12.28美元。 第四财季营收70.1亿美元，同比增长23%，市场预期67.8亿美元。 第四财季股票类净流入1260.5亿美元，固定收益类净流入837.7亿美元。 贝莱德美股盘前涨超1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3037945",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
+        },
+        {
           "title": "美股盘前，明星科技股普涨，台积电涨超4%，台积电业绩指引全线超预期，未来三年资本支出将显著增加；阿斯麦涨超5%，英特尔涨超1%，美光科技涨超2%。SanDisk涨超3%，伯恩斯坦将其目标价从300调整到580美元。",
           "url": "https://wallstreetcn.com/livenews/3037834",
           "source": "华尔街见闻-快讯",
@@ -1854,6 +1936,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时43分"
+        },
+        {
+          "title": "台积电美股盘前涨超6%。",
+          "url": "https://wallstreetcn.com/livenews/3037925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时28分"
         },
         {
           "title": "金十图示：2026年01月14日（周三）热门中概股行情一览（美股盘中）",
@@ -2020,8 +2113,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时08分 ~ 18时33分]"
+          "appearance_count": 10,
+          "time_info": "[12时08分 ~ 19时28分]"
         },
         {
           "title": "谷歌：在Gemini推出个人智能。 用户可以通过APPs将Gemini个性化。 让Gemini更加个性化，更加主动，更加强大。",
