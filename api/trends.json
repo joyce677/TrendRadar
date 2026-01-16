@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T09:11:06.067638+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2026-01-16T11:25:39.196961+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "利率 汇率",
-      "match_count": 30,
+      "match_count": 31,
       "titles": [
         {
           "title": "央行：下调货币政策工具利率0.25个百分点，今年降准降息还有一定空间",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 09时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 11时25分]"
         },
         {
           "title": "2026年结构性货币政策工具“加量降价” 单设1万亿再贷款加码民营企业 市场预计政策利率存下调空间",
@@ -51,11 +51,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 09时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 11时25分]"
         },
         {
           "title": "结构性货币政策工具利率下调",
@@ -67,8 +68,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 09时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 11时25分]"
         },
         {
           "title": "各类再贷款一年期利率降至1.25%",
@@ -81,11 +82,12 @@
             10,
             16,
             14,
-            8
+            8,
+            21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 09时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 11时25分]"
         },
         {
           "title": "央行决定下调再贷款、再贴现利率",
@@ -117,6 +119,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时28分 ~ 07时15分]"
+        },
+        {
+          "title": "进出口行发行3年期债券，规模60亿元，发行利率1.6176%，预期1.6200%，投标倍数4.66倍，边际倍数5.32倍。",
+          "url": "https://wallstreetcn.com/livenews/3038433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         },
         {
           "title": "美联储1月维持利率不变的概率为95%",
@@ -243,7 +256,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -265,7 +278,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -287,7 +300,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -298,7 +311,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -372,7 +385,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 21,
       "titles": [
         {
           "title": "【数据看盘】顶级游资集体出逃金风科技 机构逆势加仓AI应用概念股",
@@ -420,6 +433,19 @@
           "time_info": "[00时27分 ~ 09时11分]"
         },
         {
+          "title": "92胜率屠榜,老马AI杀穿韩服",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
+          "source": "贴吧",
+          "ranks": [
+            24,
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时28分 ~ 11时25分]"
+        },
+        {
           "title": "AI需求猛如虎！台积电财报会实录：大幅投资扩产仍难缓解供应短缺",
           "url": "https://www.cls.cn/detail/2259073",
           "source": "财联社热门",
@@ -432,18 +458,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 07时15分]"
-        },
-        {
-          "title": "92胜率屠榜,老马AI杀穿韩服",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349116&amp;topic_name=92%E8%83%9C%E7%8E%87%E5%B1%A0%E6%A6%9C%2C%E8%80%81%E9%A9%ACAI%E6%9D%80%E7%A9%BF%E9%9F%A9%E6%9C%8D",
-          "source": "贴吧",
-          "ranks": [
-            24,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时28分 ~ 09时11分]"
         },
         {
           "title": "阿里千问 App 接入淘宝、闪购，测试 AI 购物，将对消费购物体验带来哪些改变？具有哪些行业意义？",
@@ -468,8 +482,21 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时15分 ~ 11时25分]"
+        },
+        {
+          "title": "1月16日投资避雷针：又一只AI应用概念人气股今起停牌核查",
+          "url": "https://www.cls.cn/detail/2259727",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[07时15分 ~ 09时11分]"
+          "time_info": "[09时10分 ~ 11时25分]"
         },
         {
           "title": "美国里士满联储主席Barkin：当前经济有两个引擎，人工智能（AI）和富人。 难以判断过去三个月的数据。",
@@ -510,28 +537,17 @@
           "time_info": "[00时27分 ~ 02时28分]"
         },
         {
-          "title": "1月16日投资避雷针：又一只AI应用概念人气股今起停牌核查",
-          "url": "https://www.cls.cn/detail/2259727",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 09时11分]"
-        },
-        {
           "title": "铜资源争夺加剧！力拓将向亚马逊AI数据中心供应铜",
           "url": "https://www.cls.cn/detail/2259623",
           "source": "财联社热门",
           "ranks": [
             8,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时10分 ~ 09时11分]"
+          "appearance_count": 3,
+          "time_info": "[09时10分 ~ 11时25分]"
         },
         {
           "title": "AI芯片需求持续火热，台积电Q4净利润大幅增长35%，2025年全年资本支出达409亿美元 | 财报见闻",
@@ -557,6 +573,17 @@
           "time_info": "[05时16分 ~ 06时16分]"
         },
         {
+          "title": "美国政府批准向中国出口英伟达 H200 芯片，这对中国 AI 算力市场和国产芯片发展意味着什么？",
+          "url": "https://www.zhihu.com/question/1994735533826471246",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
+        },
+        {
           "title": "报告：AI推动半导体行业营收在2026年首次突破1万亿美元",
           "url": "https://flash.jin10.com/detail/20260115234252489800",
           "source": "金十数据",
@@ -566,6 +593,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "AI基建+能源转型+电网阻塞三重驱动 储能行业开启增长新周期",
+          "url": "https://www.cls.cn/detail/2259692",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         },
         {
           "title": "Cloudflare(NET.N)收购AI数据市场Human Native，以扩大在人工智能开发者和内容创作者之间开展交易的步伐。",
@@ -599,6 +637,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
+        },
+        {
+          "title": "A股三大指数集体翻绿，创业板指此前一度涨超1%，AI应用、保险、油气、医药医疗等方向跌幅居前，沪深京三市下跌个股超3000只。",
+          "url": "https://wallstreetcn.com/livenews/3038389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时25分"
         }
       ]
     },
@@ -613,11 +662,12 @@
           "ranks": [
             5,
             3,
-            1
+            1,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时27分 ~ 09时11分]"
+          "appearance_count": 12,
+          "time_info": "[00时27分 ~ 11时25分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -639,7 +689,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -735,7 +785,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         }
