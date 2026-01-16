@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T14:44:52.579333+08:00",
-  "total_titles_processed": 1219,
+  "generated_at": "2026-01-16T15:31:56.185230+08:00",
+  "total_titles_processed": 1305,
   "failed_sources": [],
   "trends": [
     {
@@ -38,8 +38,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时13分 ~ 14时44分]"
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 15时31分]"
         },
         {
           "title": "她给特朗普献了份大礼，诺奖气坏了",
@@ -49,8 +49,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时13分 ~ 14时44分]"
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 15时31分]"
         },
         {
           "title": "特朗普暂缓对伊朗动武决定",
@@ -61,19 +61,33 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时06分 ~ 14时44分]"
+          "appearance_count": 4,
+          "time_info": "[12时06分 ~ 15时31分]"
         },
         {
           "title": "梦想成真!特朗普喜提二手诺奖",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349232&amp;topic_name=%E6%A2%A6%E6%83%B3%E6%88%90%E7%9C%9F%21%E7%89%B9%E6%9C%97%E6%99%AE%E5%96%9C%E6%8F%90%E4%BA%8C%E6%89%8B%E8%AF%BA%E5%A5%96",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 15时31分]"
+        },
+        {
+          "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
+          "url": "https://wallstreetcn.com/articles/3763392",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时29分 ~ 15时31分]"
         },
         {
           "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
@@ -151,19 +165,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
-        },
-        {
-          "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
-          "url": "https://wallstreetcn.com/articles/3763392",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时29分 ~ 14时44分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普愿意与任何人共同解决信用卡利率上限问题。",
@@ -325,6 +326,18 @@
           "time_info": "[00时44分 ~ 01时40分]"
         },
         {
+          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
+          "url": "https://wallstreetcn.com/articles/3763411",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时06分 ~ 15时31分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普希望，有朝一日能看到委内瑞拉举行选举。",
           "url": "https://wallstreetcn.com/livenews/3038164",
           "source": "华尔街见闻-快讯",
@@ -385,18 +398,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时44分 ~ 01时40分]"
-        },
-        {
-          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
-          "url": "https://wallstreetcn.com/articles/3763411",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 13时33分]"
         },
         {
           "title": "美国总统特朗普：欧盟对美国科技公司非常不公平。 对美国公司和美国人来说，欧盟科技罚款都非常不公平。",
@@ -925,7 +926,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 33,
+      "match_count": 34,
       "titles": [
         {
           "title": "王毅同伊朗外长通话，连说3个“反对”",
@@ -945,11 +946,12 @@
           "ranks": [
             4,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[01时39分 ~ 14时44分]"
+          "appearance_count": 14,
+          "time_info": "[01时39分 ~ 15时31分]"
         },
         {
           "title": "王毅同伊朗外长通电话",
@@ -960,11 +962,12 @@
             7,
             5,
             16,
-            22
+            22,
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时44分 ~ 14时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时44分 ~ 15时31分]"
         },
         {
           "title": "王毅同伊朗外长阿拉格齐通电话",
@@ -978,8 +981,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时44分 ~ 14时44分]"
+          "appearance_count": 15,
+          "time_info": "[00时44分 ~ 15时31分]"
         },
         {
           "title": "美国宣布对伊朗实施新制裁",
@@ -1079,6 +1082,42 @@
           "time_info": "[00时44分 ~ 06时30分]"
         },
         {
+          "title": "伊朗外长：美国无法通过召开安理会会议来掩盖其罪行",
+          "url": "https://wallstreetcn.com/livenews/3038586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "伊朗民众据报抢购物资，卫星天线疑被拆走",
+          "url": "https://news.ifeng.com/c/8pxCx8d6NyK",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 15时31分]"
+        },
+        {
+          "title": "中方呼吁美方对伊朗放下武力执念",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%91%BC%E5%90%81%E7%BE%8E%E6%96%B9%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%94%BE%E4%B8%8B%E6%AD%A6%E5%8A%9B%E6%89%A7%E5%BF%B5",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            20,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 15时31分]"
+        },
+        {
           "title": "美国停办 75 国签证，其中包括巴西、伊朗、埃及，这在未来会影响 2026 年世界杯正常举办吗？",
           "url": "https://www.zhihu.com/question/1995083094298944420",
           "source": "知乎",
@@ -1104,30 +1143,6 @@
           "time_info": "[12时06分 ~ 13时33分]"
         },
         {
-          "title": "伊朗民众据报抢购物资，卫星天线疑被拆走",
-          "url": "https://news.ifeng.com/c/8pxCx8d6NyK",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时13分 ~ 14时44分]"
-        },
-        {
-          "title": "中方呼吁美方对伊朗放下武力执念",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%91%BC%E5%90%81%E7%BE%8E%E6%96%B9%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%94%BE%E4%B8%8B%E6%AD%A6%E5%8A%9B%E6%89%A7%E5%BF%B5",
-          "source": "百度热搜",
-          "ranks": [
-            12,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时13分 ~ 14时44分]"
-        },
-        {
           "title": "据福克斯新闻：美国空军、陆军和海军军事力量正向中东转移。美国军方正在针对伊朗制定一系列应对方案。",
           "url": "https://flash.jin10.com/detail/20260116054902649800",
           "source": "金十数据",
@@ -1138,6 +1153,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时30分 ~ 07时29分]"
+        },
+        {
+          "title": "据新西兰媒体报道，新西兰外交部发言人16日表示，已暂时关闭该国驻伊朗大使馆并撤离外交人员。 ​​​",
+          "url": "https://flash.jin10.com/detail/20260116142813324800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时44分 ~ 15时31分]"
         },
         {
           "title": "美国财政部对伊朗实施新制裁 马士基宣布将恢复红海航线 | 环球市场",
@@ -1197,17 +1224,6 @@
           "time_info": "10时13分"
         },
         {
-          "title": "据新西兰媒体报道，新西兰外交部发言人16日表示，已暂时关闭该国驻伊朗大使馆并撤离外交人员。 ​​​",
-          "url": "https://flash.jin10.com/detail/20260116142813324800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        },
-        {
           "title": "伊朗常驻联合国副代表：任何直接或间接的侵略行为都将遭到果断、相称、合法的回应。",
           "url": "https://flash.jin10.com/detail/20260116063554457800",
           "source": "金十数据",
@@ -1247,7 +1263,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时44分"
         },
@@ -1363,11 +1379,12 @@
           "url": "https://wallstreetcn.com/articles/3763348",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时13分 ~ 14时44分]"
+          "appearance_count": 5,
+          "time_info": "[10时13分 ~ 15时31分]"
         },
         {
           "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
@@ -1471,11 +1488,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时33分 ~ 14时44分]"
+          "appearance_count": 3,
+          "time_info": "[13时33分 ~ 15时31分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.36%，报394.75点，继续创收盘历史新高。 （全球时段）纽约证交所ARCA金矿开采商指数涨0.18%，报2762.08点，也继续创收盘历史新高，北京时间22:30美股开盘之前主要维持微跌状态、持稳于2750点上方，之后跳水至2718.19点，03:24刷新日高至2775点上方。 （美股）原材料指数涨0.13%，报252.76点。 （美股）金属与矿业指数涨0.65%，报244.57点。",
@@ -1542,8 +1560,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时13分 ~ 14时44分]"
+          "appearance_count": 4,
+          "time_info": "[10时13分 ~ 15时31分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -1638,7 +1656,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "金价彻底杀疯了",
@@ -1663,6 +1681,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时47分 ~ 05时29分]"
+        },
+        {
+          "title": "分析师：伊朗局势放缓及降息预期减弱令黄金价格有所回落",
+          "url": "https://flash.jin10.com/detail/20260116144201337800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "金价上涨银行保管箱一箱难求",
