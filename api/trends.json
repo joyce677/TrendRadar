@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-16T10:53:43.444788+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-01-16T11:57:59.773812+08:00",
+  "total_titles_processed": 568,
   "failed_sources": [],
   "trends": [
     {
@@ -36,36 +36,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
-          "url": "https://www.zhihu.com/question/1995072589756901062",
-          "source": "知乎",
-          "ranks": [
-            1,
-            4
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时47分 ~ 10时53分]"
-        },
-        {
-          "title": "清华姚班陈立杰加入OpenAI",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%E9%99%88%E7%AB%8B%E6%9D%B0%E5%8A%A0%E5%85%A5OpenAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "10时53分"
         }
@@ -73,8 +44,19 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-16）",
+          "url": "https://flash.jin10.com/detail/20260116114820528800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
         {
           "title": "六连板人工智能概念牛股异动核查完毕 明起复牌|盘后公告集锦",
           "url": "https://www.cls.cn/detail/2259373",
@@ -100,6 +82,36 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
+          "url": "https://www.zhihu.com/question/1995072589756901062",
+          "source": "知乎",
+          "ranks": [
+            1,
+            4,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时47分 ~ 11时57分]"
+        },
+        {
+          "title": "清华姚班陈立杰加入OpenAI",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%E9%99%88%E7%AB%8B%E6%9D%B0%E5%8A%A0%E5%85%A5OpenAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "增长",
       "match_count": 2,
       "titles": [
@@ -111,19 +123,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时47分 ~ 10时53分]"
+          "appearance_count": 4,
+          "time_info": "[08时47分 ~ 11时57分]"
         },
         {
           "title": "AI基建+能源转型+电网阻塞三重驱动 储能行业开启增长新周期",
           "url": "https://www.cls.cn/detail/2259692",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 11时57分]"
         }
       ]
     },
@@ -153,11 +166,12 @@
           "url": "https://www.toutiao.com/trending/7595442607514206271/",
           "source": "今日头条",
           "ranks": [
-            16
+            16,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 11时57分]"
         }
       ]
     },
@@ -189,7 +203,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时53分"
         }
@@ -208,8 +222,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时47分 ~ 10时53分]"
+          "appearance_count": 4,
+          "time_info": "[08时47分 ~ 11时57分]"
         }
       ]
     },
@@ -224,9 +238,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时53分 ~ 11时57分]"
         }
       ]
     }
