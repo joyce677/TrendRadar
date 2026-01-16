@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T15:20:41.234664+08:00",
-  "total_titles_processed": 1337,
+  "generated_at": "2026-01-16T16:22:09.402113+08:00",
+  "total_titles_processed": 1439,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "利率 汇率",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "央行：下调货币政策工具利率0.25个百分点，今年降准降息还有一定空间",
@@ -46,6 +46,19 @@
           "time_info": "[00时27分 ~ 04时18分]"
         },
         {
+          "title": "中国人民银行决定下调再贷款、再贴现利率",
+          "url": "https://wallstreetcn.com/articles/3763370",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[00时27分 ~ 15时20分]"
+        },
+        {
           "title": "各类再贷款一年期利率降至1.25%",
           "url": "https://search.bilibili.com/all?keyword=%E5%90%84%E7%B1%BB%E5%86%8D%E8%B4%B7%E6%AC%BE%E4%B8%80%E5%B9%B4%E6%9C%9F%E5%88%A9%E7%8E%87%E9%99%8D%E8%87%B31.25%25",
           "source": "bilibili 热搜",
@@ -59,24 +72,12 @@
             8,
             21,
             13,
-            5
+            5,
+            23
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 15时20分]"
-        },
-        {
-          "title": "中国人民银行决定下调再贷款、再贴现利率",
-          "url": "https://wallstreetcn.com/articles/3763370",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时27分 ~ 15时20分]"
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 16时22分]"
         },
         {
           "title": "结构性货币政策工具利率下调",
@@ -322,6 +323,17 @@
           "time_info": "09时11分"
         },
         {
+          "title": "瑞典央行行长特登：高债务和短期利率固定期限使瑞典家庭易受冲击。",
+          "url": "https://flash.jin10.com/detail/20260116153134120800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
           "title": "美国至1月15日8周国债竞拍-得标利率配置百分比 64.42%，前值73.77%。",
           "url": "https://flash.jin10.com/detail/20260116003247466800",
           "source": "金十数据",
@@ -406,6 +418,21 @@
           "time_info": "[00时27分 ~ 07时15分]"
         },
         {
+          "title": "1月16日投资避雷针：又一只AI应用概念人气股今起停牌核查",
+          "url": "https://www.cls.cn/detail/2259727",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[09时10分 ~ 16时22分]"
+        },
+        {
           "title": "摄影比赛第一名疑似 AI 照片，骗过 5 位专业评委，如何评价？这种比赛能引入识别 AI 的技术吗？",
           "url": "https://www.zhihu.com/question/1993756665422509304",
           "source": "知乎",
@@ -451,8 +478,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时28分 ~ 15时20分]"
+          "appearance_count": 15,
+          "time_info": "[00时28分 ~ 16时22分]"
         },
         {
           "title": "AI需求猛如虎！台积电财报会实录：大幅投资扩产仍难缓解供应短缺",
@@ -467,21 +494,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时27分 ~ 07时15分]"
-        },
-        {
-          "title": "1月16日投资避雷针：又一只AI应用概念人气股今起停牌核查",
-          "url": "https://www.cls.cn/detail/2259727",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            4,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时10分 ~ 15时20分]"
         },
         {
           "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
@@ -508,6 +520,20 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时27分 ~ 06时16分]"
+        },
+        {
+          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
+          "url": "https://www.cls.cn/detail/2259861",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时35分 ~ 16时22分]"
         },
         {
           "title": "AI基建+能源转型+电网阻塞三重驱动 储能行业开启增长新周期",
@@ -563,20 +589,6 @@
           "time_info": "[09时10分 ~ 12时35分]"
         },
         {
-          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
-          "url": "https://www.cls.cn/detail/2259861",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时35分 ~ 15时20分]"
-        },
-        {
           "title": "【每日收评】三大指数震荡整理涨跌互现，单日成交额萎缩超万亿，商业航天、AI应用端遭重挫",
           "url": "https://www.cls.cn/detail/2258951",
           "source": "财联社热门",
@@ -587,6 +599,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 02时28分]"
+        },
+        {
+          "title": "存储芯片是最佳押注！知名基金经理高呼：市场低估了AI需求",
+          "url": "https://www.cls.cn/detail/2259986",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 16时22分]"
+        },
+        {
+          "title": "市场延续震荡分化，AI应用再陷调整，商业航天回流强度值得关注",
+          "url": "https://www.cls.cn/detail/2259812",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时20分 ~ 16时22分]"
         },
         {
           "title": "美国政府批准向中国出口英伟达 H200 芯片，这对中国 AI 算力市场和国产芯片发展意味着什么？",
@@ -644,28 +680,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时28分"
-        },
-        {
-          "title": "存储芯片是最佳押注！知名基金经理高呼：市场低估了AI需求",
-          "url": "https://www.cls.cn/detail/2259986",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "市场延续震荡分化，AI应用再陷调整，商业航天回流强度值得关注",
-          "url": "https://www.cls.cn/detail/2259812",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时20分"
         },
         {
           "title": "玩鹅鸭杀让AI辨忠奸",
@@ -745,6 +759,19 @@
           "time_info": "[00时27分 ~ 13时20分]"
         },
         {
+          "title": "清华姚班陈立杰加入OpenAI",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%E9%99%88%E7%AB%8B%E6%9D%B0%E5%8A%A0%E5%85%A5OpenAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时35分 ~ 16时22分]"
+        },
+        {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
           "url": "https://wallstreetcn.com/livenews/3038124",
           "source": "华尔街见闻-快讯",
@@ -756,19 +783,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时28分 ~ 02时28分]"
-        },
-        {
-          "title": "清华姚班陈立杰加入OpenAI",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%E9%99%88%E7%AB%8B%E6%9D%B0%E5%8A%A0%E5%85%A5OpenAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时35分 ~ 15时20分]"
         },
         {
           "title": "美国联邦法官在OpenAI与马斯克的诉讼斗争中下令，该案将于4月开庭审理。OpenAI与微软失去避战马斯克的最后机会。",
@@ -819,8 +833,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时20分 ~ 15时20分]"
+          "appearance_count": 5,
+          "time_info": "[13时20分 ~ 16时22分]"
         },
         {
           "title": "马斯克明确要每年生产1万艘星舰飞船 商业航天中长期成长空间巨大",
@@ -870,6 +884,57 @@
       ]
     },
     {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "上海写字楼市场需求回暖，2025年四季度净吸纳量环比增长9.3%",
+          "url": "https://wallstreetcn.com/livenews/3038464",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时35分 ~ 13时20分]"
+        },
+        {
+          "title": "倪虹：城市政府要用足用好房地产调控自主权，适时调整优化房地产政策",
+          "url": "https://wallstreetcn.com/livenews/3038502",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时25分"
+        },
+        {
+          "title": "金十数据整理：每日房地产行业动态汇总（2026-01-16）",
+          "url": "https://flash.jin10.com/detail/20260116153324941800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时22分"
+        },
+        {
+          "title": "央行放大招 楼市汇市将迎哪些变化",
+          "url": "https://www.toutiao.com/trending/7595786080465456659/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -912,46 +977,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房价 楼市 房地产",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "上海写字楼市场需求回暖，2025年四季度净吸纳量环比增长9.3%",
-          "url": "https://wallstreetcn.com/livenews/3038464",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时35分 ~ 13时20分]"
-        },
-        {
-          "title": "倪虹：城市政府要用足用好房地产调控自主权，适时调整优化房地产政策",
-          "url": "https://wallstreetcn.com/livenews/3038502",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "央行放大招 楼市汇市将迎哪些变化",
-          "url": "https://www.toutiao.com/trending/7595786080465456659/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时20分"
         }
       ]
     }
