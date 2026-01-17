@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-17T19:12:55.851060+08:00",
-  "total_titles_processed": 1314,
+  "generated_at": "2026-01-17T20:27:50.264604+08:00",
+  "total_titles_processed": 1400,
   "failed_sources": [],
   "trends": [
     {
@@ -186,6 +186,19 @@
       "match_count": 10,
       "titles": [
         {
+          "title": "解读ChatGPT加入广告背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时15分 ~ 20时27分]"
+        },
+        {
           "title": "清华姚班陈立杰加入OpenAI",
           "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%E9%99%88%E7%AB%8B%E6%9D%B0%E5%8A%A0%E5%85%A5OpenAI",
           "source": "bilibili 热搜",
@@ -197,18 +210,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时21分 ~ 09时07分]"
-        },
-        {
-          "title": "解读ChatGPT加入广告背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时15分 ~ 19时12分]"
         },
         {
           "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
@@ -307,11 +308,12 @@
           "url": "https://wallstreetcn.com/livenews/3039109",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            17,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时12分 ~ 20时27分]"
         }
       ]
     },
@@ -432,6 +434,87 @@
       ]
     },
     {
+      "keyword_group": "马斯克",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "马斯克「脑机第一人」首爆！不开颅在线升级，永生代码已写入",
+          "url": "https://wallstreetcn.com/articles/3763508",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时22分 ~ 20时27分]"
+        },
+        {
+          "title": "马斯克称三年内星舰将超每小时一发，这有可能实现吗？",
+          "url": "https://www.zhihu.com/question/1995163992667222440",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13,
+            14,
+            12,
+            8,
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 09时07分]"
+        },
+        {
+          "title": "马斯克表示 2 月 14 日后特斯拉将停售 FSD 服务，此后仅以月度订阅方式提供，如何看待此举？",
+          "url": "https://www.zhihu.com/question/1994806802546705531",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 07时15分]"
+        },
+        {
+          "title": "马斯克：未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
+          "url": "https://flash.jin10.com/detail/20260117195257548800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
+          "url": "https://wallstreetcn.com/livenews/3039127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        },
+        {
+          "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。",
+          "url": "https://flash.jin10.com/detail/20260117195232354800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时27分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
@@ -473,53 +556,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时07分 ~ 12时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "马斯克称三年内星舰将超每小时一发，这有可能实现吗？",
-          "url": "https://www.zhihu.com/question/1995163992667222440",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13,
-            14,
-            12,
-            8,
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 09时07分]"
-        },
-        {
-          "title": "马斯克表示 2 月 14 日后特斯拉将停售 FSD 服务，此后仅以月度订阅方式提供，如何看待此举？",
-          "url": "https://www.zhihu.com/question/1994806802546705531",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 07时15分]"
-        },
-        {
-          "title": "马斯克「脑机第一人」首爆！不开颅在线升级，永生代码已写入",
-          "url": "https://wallstreetcn.com/articles/3763508",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时22分 ~ 19时12分]"
         }
       ]
     },
