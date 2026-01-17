@@ -1,626 +1,94 @@
 {
-  "generated_at": "2026-01-17T23:14:50.914301+08:00",
-  "total_titles_processed": 1592,
+  "generated_at": "2026-01-18T00:16:30.947375+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "特朗普拟紧急干预电力市场：强压AI巨头签15年长约，为150亿美元新电厂买单",
-          "url": "https://wallstreetcn.com/articles/3763449",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时21分 ~ 14时22分]"
-        },
-        {
-          "title": "【焦点复盘】沪指日线4连跌失守10日线，AI软硬件分化加剧，机器人概念持续活跃",
-          "url": "https://www.cls.cn/detail/2260421",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 07时15分]"
-        },
-        {
-          "title": "胜宏科技2025年业绩预增260.35%-295.00%，AI算力需求推动PCB业务爆发 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3763470",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时07分 ~ 19时12分]"
-        },
-        {
-          "title": "【每日收评】沪指小幅收跌险守4100点，半导体产业链逆势走强，AI应用持续调整",
-          "url": "https://www.cls.cn/detail/2260348",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 05时16分]"
-        },
-        {
-          "title": "美政府推动科技巨头为AI用电买单",
-          "url": "https://flash.jin10.com/detail/20260117082311101800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            19,
-            21,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 14时22分]"
-        },
-        {
-          "title": "FTC严查AI领域“人才收购” 欲堵死硅谷巨头反垄断漏洞",
-          "url": "https://flash.jin10.com/detail/20260117034809871800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时16分"
-        },
-        {
-          "title": "日本首相高市早苗将考虑暂停实施食品销售税。（每日新闻Mainichi）",
-          "url": "https://wallstreetcn.com/livenews/3039057",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            19,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 13时16分]"
-        },
-        {
-          "title": "加利福尼亚州总检察长Rob Bonta向 xAI公司发出停止并终止信函，要求该公司立即停止非法行为。",
-          "url": "https://flash.jin10.com/detail/20260117043322271800",
-          "source": "金十数据",
-          "ranks": [
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时16分 ~ 09时07分]"
-        },
-        {
-          "title": "周五（1月16日），信息科技指数收涨0.85%，报283.16点，本周累计上涨0.78%，1月13-15日呈现出U形反转。 人工智能（AI）赢家指数涨0.62%，报292.01点，本周累涨0.93%，1月14日前后呈现出U形反转。 AI软件先驱指数跌0.78%，报116.15点，本周累跌5.71%，1月12日微幅上扬，随后持续下挫。",
-          "url": "https://wallstreetcn.com/livenews/3039052",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            23,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 12时28分]"
-        },
-        {
-          "title": "博主：AI应用将成2026年投资新风口",
-          "url": "https://www.toutiao.com/trending/7595899025040084543/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "Anthropic刚发布了一份「AI抢饭碗报告」：学历越高越「被抢」",
-          "url": "https://wallstreetcn.com/articles/3763484",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时15分"
-        },
-        {
-          "title": "AI初创公司ElevenLabs洽谈按110亿美元估值融资。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3039008",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "美国制裁Barash Aviation、Sama Airline、以及油轮Albarraq Z。",
-          "url": "https://wallstreetcn.com/livenews/3038900",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "梁朝伟白酒广告被网友怀疑是AI",
-          "url": "https://www.toutiao.com/trending/7595066643185696822/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "解读ChatGPT加入广告背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[15时15分 ~ 23时14分]"
-        },
-        {
-          "title": "清华姚班陈立杰加入OpenAI",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%E9%99%88%E7%AB%8B%E6%9D%B0%E5%8A%A0%E5%85%A5OpenAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 09时07分]"
-        },
-        {
-          "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
-          "url": "https://wallstreetcn.com/livenews/3039069",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            13,
-            18,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时18分 ~ 15时15分]"
-        },
-        {
-          "title": "ChatGPT将加入广告",
-          "url": "https://search.bilibili.com/all?keyword=ChatGPT%E5%B0%86%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            11,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时16分 ~ 15时15分]"
-        },
-        {
-          "title": "OpenAI：目前尚未推出广告，但我们计划在未来几周内开始在美国针对ChatGPT免费版和Go层级的已登录成年人进行测试。",
-          "url": "https://flash.jin10.com/detail/20260117020334950800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            16,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 04时16分]"
-        },
-        {
-          "title": "OpenAI：计划很快在美国开始对免费版的广告以及ChatGPT Go进行测试。",
-          "url": "https://flash.jin10.com/detail/20260117020324542800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 04时16分]"
-        },
-        {
-          "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元，目前已在全球范围内上线。",
-          "url": "https://flash.jin10.com/detail/20260117020212481800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            19,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 04时16分]"
-        },
-        {
-          "title": "OpenAI推出ChatGPT Go，美国订阅费用为每个月8美元。 在全球范围内对ChatGPT提供三层订阅方案。 ChatGPT Plus月租20美元，ChatGPT Pro月租200美元。 Plus、Pro、Bussiness、Enterprise都不包含广告。 还没有在ChatGPT推出广告。 将免费测试广告功能，将在成年人群体实施分层订阅方案。 未来数周将开始测试第一批广告格式。 将在ChatGPT答案的底部测试广告。 广告将有清晰的标签，与答案有分隔。",
-          "url": "https://wallstreetcn.com/livenews/3038964",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时24分 ~ 04时16分]"
-        },
-        {
-          "title": "变现压力下的“最后手段” OpenAI开启ChatGPT广告测试",
-          "url": "https://flash.jin10.com/detail/20260117021136642800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时16分 ~ 04时16分]"
-        },
-        {
-          "title": "马斯克就 \"不当得利 \"向 OpenAI和微软索赔高达1340亿美元",
-          "url": "https://wallstreetcn.com/livenews/3039109",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时12分 ~ 20时27分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "利率 汇率",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "各类再贷款一年期利率降至1.25%",
-          "url": "https://search.bilibili.com/all?keyword=%E5%90%84%E7%B1%BB%E5%86%8D%E8%B4%B7%E6%AC%BE%E4%B8%80%E5%B9%B4%E6%9C%9F%E5%88%A9%E7%8E%87%E9%99%8D%E8%87%B31.25%25",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            22,
-            21,
-            20,
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时21分 ~ 15时15分]"
-        },
-        {
-          "title": "美国白宫考虑采取行政措施限制信用卡利率",
-          "url": "https://flash.jin10.com/detail/20260117081411929800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            20,
-            22,
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 14时22分]"
-        },
-        {
-          "title": "美联储副主席杰斐逊：当前的政策立场使我们处于有利位置，可以确定政策利率的调整幅度和时机。",
-          "url": "https://flash.jin10.com/detail/20260117043204809800",
-          "source": "金十数据",
-          "ranks": [
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时16分 ~ 09时07分]"
-        },
-        {
-          "title": "美联储副主席杰斐逊：不希望预先判断一月份的利率决议。",
-          "url": "https://flash.jin10.com/detail/20260117043154902800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时16分 ~ 07时15分]"
-        },
-        {
-          "title": "美联储副主席杰斐逊：自2024年以来的美联储降息已使政策利率进入与中性一致的区间。",
-          "url": "https://flash.jin10.com/detail/20260117043128220800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时16分 ~ 07时15分]"
-        },
-        {
-          "title": "摩根士丹利上调美元兑日元汇率预期",
-          "url": "https://wallstreetcn.com/livenews/3038923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时21分 ~ 01时20分]"
-        },
-        {
-          "title": "房贷利率已下调你享受到了吗",
-          "url": "https://www.toutiao.com/trending/7594814141644783658/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "摩根士丹利上调美元兑日元汇率预期。",
-          "url": "https://flash.jin10.com/detail/20260116235131338800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时21分"
-        },
-        {
-          "title": "美联储副主席Philip Jefferson：FOMC货币政策准备就绪。 新的资产购买并不以“刺激经济”为目标。 预计失业率将在2026年持稳。 预计通胀将重新朝着2%这一目标靠拢。 核心商品价格上涨，但关税造成的冲击持续不了多长时间。 虽然回购利率偏高，但交易仍然有序。",
-          "url": "https://wallstreetcn.com/livenews/3038994",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "马斯克",
-      "match_count": 8,
+      "match_count": 6,
       "titles": [
         {
           "title": "马斯克「脑机第一人」首爆！不开颅在线升级，永生代码已写入",
           "url": "https://wallstreetcn.com/articles/3763508",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            6,
-            5,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[14时22分 ~ 23时14分]"
-        },
-        {
-          "title": "马斯克称三年内星舰将超每小时一发，这有可能实现吗？",
-          "url": "https://www.zhihu.com/question/1995163992667222440",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13,
-            14,
-            12,
-            8,
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 09时07分]"
-        },
-        {
-          "title": "马斯克表示 2 月 14 日后特斯拉将停售 FSD 服务，此后仅以月度订阅方式提供，如何看待此举？",
-          "url": "https://www.zhihu.com/question/1994806802546705531",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 07时15分]"
-        },
-        {
-          "title": "马斯克：未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
-          "url": "https://flash.jin10.com/detail/20260117195257548800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            5,
-            13,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时27分 ~ 23时14分]"
-        },
-        {
-          "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。",
-          "url": "https://flash.jin10.com/detail/20260117195232354800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            6,
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时27分 ~ 23时14分]"
-        },
-        {
-          "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
-          "url": "https://wallstreetcn.com/livenews/3039127",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            9,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时27分 ~ 23时14分]"
-        },
-        {
-          "title": "马斯克：Colossus 2超级计算机现已投入运行。这是全球首个吉瓦级训练集群，四月将升级至1.5吉瓦。",
-          "url": "https://flash.jin10.com/detail/20260117202600571800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            9,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时26分 ~ 23时14分]"
+          "appearance_count": 1,
+          "time_info": "00时16分"
         },
         {
           "title": "马斯克：用于Grok的“ Colossus 2 ”超级计算机现已投入运行。全球首个吉瓦级训练集群，将于4月升级至1.5吉瓦。",
           "url": "https://wallstreetcn.com/livenews/3039131",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            9,
             16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时26分 ~ 23时14分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
         {
-          "title": "谷歌提交通知，就司法部搜索裁决提起上诉。",
-          "url": "https://flash.jin10.com/detail/20260117050916317800",
+          "title": "马斯克：Colossus 2超级计算机现已投入运行。这是全球首个吉瓦级训练集群，四月将升级至1.5吉瓦。",
+          "url": "https://flash.jin10.com/detail/20260117202600571800",
           "source": "金十数据",
           "ranks": [
-            3,
-            12,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时16分 ~ 11时18分]"
-        },
-        {
-          "title": "谷歌公司将针对美国法院判决“搜索中出现的非法操纵”提出上诉。",
-          "url": "https://wallstreetcn.com/livenews/3039041",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            11,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时16分 ~ 09时07分]"
-        },
-        {
-          "title": "字节跳动发布SeedFold，蛋白质结构预测相关多任务超越谷歌AlphaFold 3，揭示大模型缩放新秘诀",
-          "url": "https://wallstreetcn.com/livenews/3039053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时07分 ~ 12时28分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房价 楼市 房地产",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "专家：二手房价格已到底部",
-          "url": "https://www.toutiao.com/trending/7595411110481608745/",
-          "source": "今日头条",
-          "ranks": [
-            30,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 06时16分]"
-        },
-        {
-          "title": "本周，标普累跌0.2%，道指累跌0.2%，纳指累跌0.5%，半导体指数涨3.9%，科技股七巨头指数跌1.4%，华尔街大行拉开四季度业绩报告序幕之际，银行指数跌1.6%。 周五当天，标普500指数初步微幅收跌，房地产板块涨1.2%，科技板块涨0.2%，电信板块跌0.7%。 纳斯达克100指数初步微幅收跌，成分股中，核电股CEG跌9.6%，Atlassian跌6.4%，Applovin跌6.4%，Palantir跌3.3%，博通涨2.6%，吉利德科学涨3.1%，美光科技涨7.4%。 Salesforce初步收跌2.8%，联合健康、3M跌超2%，领跌道指成分股，苹果跌1%，微软涨0.7%，霍尼韦尔、美国运通、IBM涨超2%。 费城半导体指数涨1.1%，银行指数跌0.3%。",
-          "url": "https://wallstreetcn.com/livenews/3039002",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时16分"
+          "time_info": "00时16分"
+        },
+        {
+          "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
+          "url": "https://wallstreetcn.com/livenews/3039127",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "马斯克：未来将出现AI7、AI8、AI9；目标是9个月的设计周期。",
+          "url": "https://flash.jin10.com/detail/20260117195257548800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "马斯克：我们的AI5芯片设计已接近完成，AI6尚处于早期阶段。",
+          "url": "https://flash.jin10.com/detail/20260117195232354800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "解读ChatGPT加入广告背后",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
         }
       ]
     }
