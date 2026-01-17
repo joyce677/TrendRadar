@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-17T18:02:44.064055+08:00",
-  "total_titles_processed": 919,
+  "generated_at": "2026-01-17T18:42:44.257194+08:00",
+  "total_titles_processed": 959,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "解读ChatGPT加入广告背后",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时10分 ~ 18时02分]"
+          "appearance_count": 9,
+          "time_info": "[15时10分 ~ 18时42分]"
         },
         {
           "title": "OpenAI联合创始人兼总裁Greg Brockman：马斯克曾表示他需要持有OpenAI的多数股权。",
@@ -65,6 +65,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
+        },
+        {
+          "title": "马斯克就 \"不当得利 \"向 OpenAI和微软索赔高达1340亿美元",
+          "url": "https://wallstreetcn.com/livenews/3039109",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时42分"
         }
       ]
     },
@@ -84,8 +95,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[13时42分 ~ 18时02分]"
+          "appearance_count": 12,
+          "time_info": "[13时42分 ~ 18时42分]"
         },
         {
           "title": "马斯克表示 2 月 14 日后特斯拉将停售 FSD 服务，此后仅以月度订阅方式提供，如何看待此举？",
@@ -175,11 +186,12 @@
           "url": "https://www.zhihu.com/question/1995200812075480347",
           "source": "知乎",
           "ranks": [
-            12
+            12,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时02分 ~ 18时42分]"
         }
       ]
     },
