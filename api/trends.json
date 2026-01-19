@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T14:29:57.376706+08:00",
-  "total_titles_processed": 1037,
+  "generated_at": "2026-01-19T15:25:33.269659+08:00",
+  "total_titles_processed": 1130,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "当“AI编程”越来越容易，新浪潮正出现：人人可做的“微应用”和一人顶团队的“超级程序员”",
@@ -36,11 +36,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时45分 ~ 14时29分]"
+          "appearance_count": 5,
+          "time_info": "[11时45分 ~ 15时25分]"
         },
         {
           "title": "人工智能企业SharonAI签署最终约束性收购协议，完成出售其在得州关键数据中心50%股权的交易，作价7000万美元。",
@@ -56,6 +57,18 @@
           "time_info": "[05时13分 ~ 07时15分]"
         },
         {
+          "title": "A股三大股指午后均转跌，创业板指日内跌幅达1%，深证成指跌0.19%，沪指跌0.01%。AI应用、保险、银行、半导体等方向跌幅居前，沪深京三市下跌个股近2100只。",
+          "url": "https://wallstreetcn.com/livenews/3039556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 15时25分]"
+        },
+        {
           "title": "绩优基金2025年四季度调仓动向：聚焦景气度，优化AI持仓",
           "url": "https://wallstreetcn.com/livenews/3039323",
           "source": "华尔街见闻-快讯",
@@ -67,17 +80,6 @@
           "time_info": "07时15分"
         },
         {
-          "title": "A股三大股指午后均转跌，创业板指日内跌幅达1%，深证成指跌0.19%，沪指跌0.01%。AI应用、保险、银行、半导体等方向跌幅居前，沪深京三市下跌个股近2100只。",
-          "url": "https://wallstreetcn.com/livenews/3039556",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时29分"
-        },
-        {
           "title": "飞书史上第一次硬件合作，和安克创新做了一款“AI录音豆”",
           "url": "https://wallstreetcn.com/livenews/3039374",
           "source": "华尔街见闻-快讯",
@@ -87,6 +89,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时14分"
+        },
+        {
+          "title": "默克中国与镁睿化学签署合作备忘录，将共同开发定制化AI模型",
+          "url": "https://wallstreetcn.com/livenews/3039588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
         },
         {
           "title": "浙江广电华智数媒推出短剧AI智能剪辑系统DramaFlow",
@@ -113,6 +126,78 @@
       ]
     },
     {
+      "keyword_group": "利率 汇率",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "农发行发行378天期债券，规模100亿元，发行利率1.4966%，预期1.5200%，投标倍数3.41倍，边际倍数4.00倍； 农发行发行3年期债券，规模100亿元，发行利率1.5778%，预期1.6800%，投标倍数2.34倍，边际倍数1.82倍； 农发行发行3年期债券，规模40亿元，发行利率1.6318%，预期1.6700%，投标倍数5.79倍，边际倍数3.71倍。",
+          "url": "https://wallstreetcn.com/livenews/3039599",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "农发行发行10年期债券，规模90亿元，发行利率1.9892%，预期2.0000%，投标倍数4.30倍，边际倍数3.07倍。",
+          "url": "https://wallstreetcn.com/livenews/3039596",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "美联储1月维持利率不变的概率为95%",
+          "url": "https://flash.jin10.com/detail/20260119060229075800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时15分"
+        },
+        {
+          "title": "中国外汇交易中心（CFETS）：1月16日人民币汇率指数按周涨0.25至98.79。",
+          "url": "https://wallstreetcn.com/livenews/3039373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时14分"
+        },
+        {
+          "title": "浙江发行10年期普通专项地方债，规模51.5276亿元，发行利率2.0000%，边际倍数4.38倍，倍数预期1.98； 浙江发行7年期普通专项地方债，规模125.0100亿元，发行利率1.7900%，边际倍数2.27倍，倍数预期1.80； 浙江发行10年期普通专项地方债，规模181.3200亿元，发行利率2.0000%，边际倍数1.23倍，倍数预期1.99； 浙江发行20年期普通专项地方债，规模257.6700亿元，发行利率2.4600%，边际倍数6.04倍，倍数预期2.42。",
+          "url": "https://wallstreetcn.com/livenews/3039585",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "浙江发行3年期一般债地方债，规模24.6580亿元，发行利率1.5000%，边际倍数5.14倍，倍数预期1.50； 浙江发行10年期一般债地方债，规模54.5705亿元，发行利率1.9500%，边际倍数1.08倍，倍数预期1.97； 浙江发行3年期普通专项地方债，规模15.8623亿元，发行利率1.5000%，边际倍数4.36倍，倍数预期1.50。",
+          "url": "https://wallstreetcn.com/livenews/3039582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克",
       "match_count": 5,
       "titles": [
@@ -125,8 +210,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时14分 ~ 14时29分]"
+          "appearance_count": 6,
+          "time_info": "[09时14分 ~ 15时25分]"
         },
         {
           "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
@@ -134,11 +219,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时45分 ~ 14时29分]"
+          "appearance_count": 5,
+          "time_info": "[11时45分 ~ 15时25分]"
         },
         {
           "title": "马斯克：AI5双芯配置接近Blackwell级别，但成本极低",
@@ -178,6 +264,46 @@
       ]
     },
     {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中指研究院：房地产市场有望在“十五五”中后期逐步完成筑底",
+          "url": "https://wallstreetcn.com/livenews/3039518",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时46分 ~ 13时27分]"
+        },
+        {
+          "title": "12月70城房价：一二三线城市环比总体下降、同比降幅扩大",
+          "url": "https://wallstreetcn.com/articles/3763560",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时25分"
+        },
+        {
+          "title": "统计局：2025年，全国房地产开发投资82788亿元，比上年下降17.2%",
+          "url": "https://wallstreetcn.com/livenews/3039443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -204,63 +330,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时20分 ~ 03时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房价 楼市 房地产",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中指研究院：房地产市场有望在“十五五”中后期逐步完成筑底",
-          "url": "https://wallstreetcn.com/livenews/3039518",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时46分 ~ 13时27分]"
-        },
-        {
-          "title": "统计局：2025年，全国房地产开发投资82788亿元，比上年下降17.2%",
-          "url": "https://wallstreetcn.com/livenews/3039443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "利率 汇率",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美联储1月维持利率不变的概率为95%",
-          "url": "https://flash.jin10.com/detail/20260119060229075800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "中国外汇交易中心（CFETS）：1月16日人民币汇率指数按周涨0.25至98.79。",
-          "url": "https://wallstreetcn.com/livenews/3039373",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时14分"
         }
       ]
     }
