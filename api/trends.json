@@ -1,155 +1,44 @@
 {
-  "generated_at": "2026-01-18T22:40:48.340046+08:00",
-  "total_titles_processed": 1230,
+  "generated_at": "2026-01-19T08:51:52.882892+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "keyword_group": "马斯克",
+      "match_count": 3,
       "titles": [
         {
-          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
-          "url": "https://wallstreetcn.com/articles/3763533",
-          "source": "华尔街见闻",
+          "title": "马斯克提出天价索赔！最多将获9300亿元",
+          "url": "https://news.ifeng.com/c/8q291JJH6vj",
+          "source": "凤凰网",
           "ranks": [
-            7,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[14时15分 ~ 22时40分]"
-        },
-        {
-          "title": "马斯克以「构成欺诈」为由向 OpenAI 、微软索赔 1340 亿美元，具体是怎么回事？他能索赔成功吗？",
-          "url": "https://www.zhihu.com/question/1995914466735388213",
-          "source": "知乎",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[12时56分 ~ 22时40分]"
-        },
-        {
-          "title": "解读ChatGPT加入广告背后",
-          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBChatGPT%E5%8A%A0%E5%85%A5%E5%B9%BF%E5%91%8A%E8%83%8C%E5%90%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时52分"
+          "time_info": "08时51分"
         },
         {
-          "title": "翁家翌谈OpenAI模型跃迁",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BF%81%E5%AE%B6%E7%BF%8C%E8%B0%88OpenAI%E6%A8%A1%E5%9E%8B%E8%B7%83%E8%BF%81",
-          "source": "bilibili 热搜",
+          "title": "马斯克：鉴于AI5芯片设计已进展顺利，特斯拉(TSLA.O)将重启Dojo3项目。",
+          "url": "https://flash.jin10.com/detail/20260119075109965800",
+          "source": "金十数据",
           "ranks": [
-            3,
-            21,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时51分"
+        },
+        {
+          "title": "马斯克称，鉴于AI5芯片设计已进展顺利，特斯拉将重启Dojo3项目。",
+          "url": "https://wallstreetcn.com/livenews/3039352",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时52分 ~ 15时38分]"
-        },
-        {
-          "title": "AI巨头正式对簿公堂：马斯克向OpenAI、微软索赔最高1340亿美元",
-          "url": "https://wallstreetcn.com/articles/3763519",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时06分 ~ 13时15分]"
-        },
-        {
-          "title": "ChatGPT 官宣将加入广告，怎样看待这一决定？对使用体验影响有多大？",
-          "url": "https://www.zhihu.com/question/1995898061478651512",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Anthropic",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "报道：Anthropic拟筹资250亿美元或更多 红杉资本将参与融资",
-          "url": "https://wallstreetcn.com/livenews/3039242",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11,
-            18,
-            24,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[20时17分 ~ 22时40分]"
-        },
-        {
-          "title": "英媒：Anthropic拟筹资250亿美元或更多 红杉资本将参与融资",
-          "url": "https://flash.jin10.com/detail/20260118190940868800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时17分 ~ 22时03分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美国EPA 堵住监管漏洞，xAI依靠燃气轮机快速扩张数据中心的模式终结",
-          "url": "https://wallstreetcn.com/livenews/3039173",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            7,
-            8,
-            10,
-            11,
-            17,
-            19,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时01分 ~ 18时03分]"
-        },
-        {
-          "title": "“飙升的电费”成为美国中选焦点，AI数据中心站上“政治火山口”",
-          "url": "https://wallstreetcn.com/articles/3763531",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[12时56分 ~ 22时40分]"
+          "time_info": "08时51分"
         }
       ]
     },
@@ -162,75 +51,28 @@
           "url": "https://wallstreetcn.com/articles/3763534",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[19时02分 ~ 22时40分]"
+          "appearance_count": 1,
+          "time_info": "08时51分"
         }
       ]
     },
     {
-      "keyword_group": "人工智能",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "为什么很多律师不承认法律是受人工智能影响最大的行业之一？",
-          "url": "https://www.zhihu.com/question/659369541",
-          "source": "知乎",
-          "ranks": [
-            8,
-            5,
-            4,
-            10,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时52分 ~ 15时38分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克「脑机第一人」首爆！不开颅在线升级，永生代码已写入",
-          "url": "https://wallstreetcn.com/articles/3763508",
+          "title": "编程从此不再有门槛！Claude Code火爆出圈，接近“ChatGPT的横空出世”",
+          "url": "https://wallstreetcn.com/articles/3763533",
           "source": "华尔街见闻",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Anthropic将Claude Cowork扩展至20美元Pro订阅用户",
-          "url": "https://wallstreetcn.com/livenews/3039168",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            3,
-            5,
-            6,
-            8,
-            9,
-            15,
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[08时52分 ~ 18时03分]"
+          "time_info": "08时51分"
         }
       ]
     }
