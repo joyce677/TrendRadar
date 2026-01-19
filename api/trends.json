@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-01-19T12:12:31.704947+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2026-01-19T13:06:02.626353+08:00",
+  "total_titles_processed": 646,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "马斯克：AI5双芯配置接近Blackwell级别，但成本极低",
+          "url": "https://wallstreetcn.com/livenews/3039528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时06分"
+        },
         {
           "title": "马斯克提出天价索赔！最多将获9300亿元",
           "url": "https://news.ifeng.com/c/8q291JJH6vj",
@@ -16,19 +27,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时51分 ~ 12时12分]"
+          "appearance_count": 5,
+          "time_info": "[08时51分 ~ 13时06分]"
         },
         {
           "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行，距离开工建设不到1年！",
           "url": "https://wallstreetcn.com/articles/3763537",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时12分 ~ 13时06分]"
         },
         {
           "title": "马斯克：鉴于AI5芯片设计已进展顺利，特斯拉(TSLA.O)将重启Dojo3项目。",
@@ -63,11 +75,12 @@
           "url": "https://flash.jin10.com/detail/20260119115731413800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 13时06分]"
         },
         {
           "title": "韩国青瓦台：韩国与意大利签署芯片产业合作谅解备忘录，涵盖人工智能领域。",
@@ -76,7 +89,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -87,7 +100,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         }
@@ -107,8 +120,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时51分 ~ 12时12分]"
+          "appearance_count": 5,
+          "time_info": "[08时51分 ~ 13时06分]"
         }
       ]
     },
@@ -139,11 +152,12 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 12时12分]"
+          "appearance_count": 4,
+          "time_info": "[11时01分 ~ 13时06分]"
         }
       ]
     },
