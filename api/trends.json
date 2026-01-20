@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T12:03:03.627862+08:00",
-  "total_titles_processed": 564,
+  "generated_at": "2026-01-20T13:02:09.213923+08:00",
+  "total_titles_processed": 649,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 12时03分]"
+          "appearance_count": 5,
+          "time_info": "[10时54分 ~ 13时02分]"
         },
         {
           "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
@@ -25,11 +26,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时54分 ~ 12时03分]"
+          "appearance_count": 5,
+          "time_info": "[10时54分 ~ 13时02分]"
         },
         {
           "title": "OpenAI首席财务官：2025年年化营收突破200亿美元",
@@ -46,8 +48,19 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-20）",
+          "url": "https://flash.jin10.com/detail/20260120115005476800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时02分"
+        },
         {
           "title": "上海浦东新区：推进张江人工智能创新小镇建设 到2027年集聚人工智能垂类大模型应用企业超800家",
           "url": "https://wallstreetcn.com/livenews/3040042",
@@ -72,7 +85,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时03分"
         }
