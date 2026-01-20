@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T13:02:09.213923+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2026-01-20T13:50:46.977004+08:00",
+  "total_titles_processed": 729,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时54分 ~ 13时02分]"
+          "appearance_count": 6,
+          "time_info": "[10时54分 ~ 13时50分]"
         },
         {
           "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
@@ -30,8 +30,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时54分 ~ 13时02分]"
+          "appearance_count": 6,
+          "time_info": "[10时54分 ~ 13时50分]"
         },
         {
           "title": "OpenAI首席财务官：2025年年化营收突破200亿美元",
@@ -48,7 +48,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-20）",
@@ -57,9 +57,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时02分"
+        },
+        {
+          "title": "阿布扎比人工智能公司G42：推出“数字使馆”框架以及Greenshield，一个新的主权运营模式。",
+          "url": "https://flash.jin10.com/detail/20260120125924326800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         },
         {
           "title": "上海浦东新区：推进张江人工智能创新小镇建设 到2027年集聚人工智能垂类大模型应用企业超800家",
@@ -71,6 +82,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "grok",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "社交媒体平台X工程团队表示，已将新的X算法开源，该算法采用与Grok模型相同的Transformer架构。马斯克转发称，这个算法很笨拙，需要大幅改进，但可以实时、透明地看到改进过程。",
+          "url": "https://flash.jin10.com/detail/20260120133012767800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时50分"
         }
       ]
     },
