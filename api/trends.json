@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T20:34:39.555497+08:00",
-  "total_titles_processed": 1817,
+  "generated_at": "2026-01-20T21:42:26.822733+08:00",
+  "total_titles_processed": 1925,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时23分 ~ 20时34分]"
+          "appearance_count": 9,
+          "time_info": "[16时23分 ~ 21时42分]"
         },
         {
           "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
@@ -231,7 +231,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时34分"
         },
@@ -283,7 +283,7 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "1月LPR报价出炉：5年期和1年期利率均维持不变",
@@ -501,6 +501,17 @@
           "time_info": "16时23分"
         },
         {
+          "title": "中国保险行业协会：当前普通型人身保险产品预定利率研究值为1.89%",
+          "url": "https://wallstreetcn.com/livenews/3040477",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
           "title": "甘肃发行5年期一般债地方债，规模56.3490亿元，发行利率1.6700%，边际倍数1.16倍，倍数预期1.72； 甘肃发行10年期普通专项地方债，规模30.0000亿元，发行利率2.0300%，边际倍数1.52倍，倍数预期2.03。",
           "url": "https://wallstreetcn.com/livenews/3040058",
           "source": "华尔街见闻-快讯",
@@ -526,7 +537,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
@@ -575,6 +586,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        },
+        {
+          "title": "ServiceNow美股盘前涨近5%，报道称OpenAI与ServiceNow在商业软件领域达成AI Agent合作协议。",
+          "url": "https://wallstreetcn.com/livenews/3040488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
+        {
+          "title": "OpenAI与ServiceNow在商业软件领域达成AI Agent合作协议。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3040487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
         },
         {
           "title": "OpenAI首席财务官：2025年年化营收突破200亿美元",
@@ -665,11 +698,12 @@
           "ranks": [
             13,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时27分 ~ 20时34分]"
+          "appearance_count": 8,
+          "time_info": "[17时27分 ~ 21时42分]"
         },
         {
           "title": "谷歌Gemini商业化高歌猛进 API调用量5个月暴增140%",
@@ -738,8 +772,19 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "马斯克财富暴涨至近8000亿美元",
+          "url": "https://www.toutiao.com/trending/7596876333710360586/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时42分"
+        },
         {
           "title": "社交媒体平台X工程团队表示，已将新的X算法开源，该算法采用与Grok模型相同的Transformer架构。马斯克转发称，这个算法很笨拙，需要大幅改进，但可以实时、透明地看到改进过程。",
           "url": "https://flash.jin10.com/detail/20260120133012767800",
