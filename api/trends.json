@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-20T20:21:29.538749+08:00",
-  "total_titles_processed": 1556,
+  "generated_at": "2026-01-20T21:17:25.853498+08:00",
+  "total_titles_processed": 1635,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美国银行全球基金经理调查：地缘政治冲突自2024年10月以来首次成为最大的尾部风险，人工智能泡沫位居第二。",
@@ -28,6 +28,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时52分"
+        },
+        {
+          "title": "微软：作出定价承诺，旨在提升联合国系统对产品的可负担性，微软将向所有联合国工作人员免费提供数字和人工智能素养培训及认证。",
+          "url": "https://flash.jin10.com/detail/20260120210605970800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         },
         {
           "title": "日本财务大臣片山皋月：我们计划在人工智能和芯片领域投资超过3300亿美元。",
@@ -101,7 +112,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 8,
       "titles": [
         {
           "title": "三年10倍！OpenAI年化营收突破200亿美元 今年重点推实际应用",
@@ -132,6 +143,28 @@
           "time_info": "[10时54分 ~ 15时23分]"
         },
         {
+          "title": "ServiceNow美股盘前涨近5%，报道称OpenAI与ServiceNow在商业软件领域达成AI Agent合作协议。",
+          "url": "https://wallstreetcn.com/livenews/3040488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
+          "title": "OpenAI与ServiceNow在商业软件领域达成AI Agent合作协议。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3040487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
           "title": "OpenAI首席财务官：2025年年化营收突破200亿美元",
           "url": "https://flash.jin10.com/detail/20260120080414505800",
           "source": "金十数据",
@@ -141,6 +174,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时46分"
+        },
+        {
+          "title": "ServiceNow股价在有关OpenAI交易的报道发布后上涨4.4%。",
+          "url": "https://flash.jin10.com/detail/20260120204752440800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI与ServiceNow达成协议，在商业软件中使用人工智能代理。",
+          "url": "https://flash.jin10.com/detail/20260120204541894800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
+          "title": "奥特曼的“印钞机”与“吞金兽”：OpenAI年化营收超200亿美元背后的豪赌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32417139",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         }
       ]
     },
@@ -157,11 +223,12 @@
             13,
             9,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[16时54分 ~ 20时21分]"
+          "appearance_count": 13,
+          "time_info": "[16时54分 ~ 21时17分]"
         },
         {
           "title": "谷歌Gemini商业化高歌猛进 API调用量5个月暴增140%",
@@ -173,6 +240,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克与瑞安航空CEO隔空对骂 威胁要收购后者",
+          "url": "https://flash.jin10.com/detail/20260120161930995800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时55分"
+        },
+        {
+          "title": "马斯克财富暴涨至近8000亿美元",
+          "url": "https://www.toutiao.com/trending/7596876333710360586/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时17分"
         }
       ]
     },
@@ -191,8 +286,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[16时16分 ~ 20时21分]"
+          "appearance_count": 15,
+          "time_info": "[16时16分 ~ 21时17分]"
         },
         {
           "title": "“星条旗插在格陵兰土地上” 特朗普用AI描绘自己的领土野心",
@@ -252,23 +347,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时50分 ~ 14时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克与瑞安航空CEO隔空对骂 威胁要收购后者",
-          "url": "https://flash.jin10.com/detail/20260120161930995800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时55分"
         }
       ]
     }
