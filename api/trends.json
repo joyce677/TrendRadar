@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-20T14:27:31.907298+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2026-01-20T15:23:21.160975+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
-        {
-          "title": "医生给1岁娃开小众药被AI提醒慎用",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%BB%991%E5%B2%81%E5%A8%83%E5%BC%80%E5%B0%8F%E4%BC%97%E8%8D%AF%E8%A2%ABAI%E6%8F%90%E9%86%92%E6%85%8E%E7%94%A8%23&t=31&band_rank=2&Refer=top",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时24分 ~ 14时27分]"
-        },
         {
           "title": "【焦点复盘】创业板指冲高回落跌0.7%，AI软硬件双双低迷，贵金属板块再度爆发",
           "url": "https://www.cls.cn/detail/2262334",
@@ -29,6 +18,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时21分 ~ 03时16分]"
+        },
+        {
+          "title": "医生给1岁娃开小众药被AI提醒慎用",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8C%BB%E7%94%9F%E7%BB%991%E5%B2%81%E5%A8%83%E5%BC%80%E5%B0%8F%E4%BC%97%E8%8D%AF%E8%A2%ABAI%E6%8F%90%E9%86%92%E6%85%8E%E7%94%A8%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时24分 ~ 15时23分]"
         },
         {
           "title": "“蝙蝠侠”站队“大空头”：AI相关股票被严重高估",
@@ -147,7 +148,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -183,6 +184,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "外媒谈AI竞争：中国会笑到最后",
+          "url": "https://www.douyin.com/hot/2373802",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "泛欧交易所Euronext EQD PT122在欧洲中部时间（CET）15:18触发故障转移机制（failover mechanism）。",
@@ -221,7 +233,7 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "中国1月五年期贷款市场报价利率(LPR) 3.5%，前值 3.5%。",
@@ -246,6 +258,18 @@
           "time_info": "09时09分"
         },
         {
+          "title": "1月LPR报价出炉：5年期和1年期利率均维持不变",
+          "url": "https://www.cls.cn/detail/2262983",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时40分 ~ 15时23分]"
+        },
+        {
           "title": "福建发行7年期一般债地方债，规模30.6444亿元，发行利率1.7800%，边际倍数1.35倍，倍数预期1.83。",
           "url": "https://wallstreetcn.com/livenews/3040103",
           "source": "华尔街见闻-快讯",
@@ -256,17 +280,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时29分 ~ 12时40分]"
-        },
-        {
-          "title": "1月LPR报价出炉：5年期和1年期利率均维持不变",
-          "url": "https://www.cls.cn/detail/2262983",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 14时27分]"
         },
         {
           "title": "农发行发行91天期债券，规模20亿元，发行利率1.4836%，预期1.4800%，投标倍数3.88倍，边际倍数1.22倍。",
@@ -315,6 +328,28 @@
           "time_info": "09时09分"
         },
         {
+          "title": "农发行发行2年期债券，规模40亿元，发行利率1.6210%，预期1.6300%，投标倍数4.10倍，边际倍数3.01倍； 农发行发行2年期债券，规模40亿元，发行利率1.5753%，预期1.5800%，投标倍数4.15倍，边际倍数5.67倍； 农发行发行7年期债券，规模20亿元，发行利率1.8199%，预期1.8600%，投标倍数5.22倍，边际倍数3.00倍。",
+          "url": "https://wallstreetcn.com/livenews/3040236",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "路透调查：马来西亚央行将于1月22日将隔夜政策利率维持在2.75%。马来西亚央行隔夜政策利率预计在2026年维持在2.75%。",
+          "url": "https://flash.jin10.com/detail/20260120151524406800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "印度卢比兑美元汇率自去年12月17日以来首次跌破91。",
           "url": "https://flash.jin10.com/detail/20260120124105616800",
           "source": "金十数据",
@@ -324,6 +359,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "日本内阁官房长官木原稔：正密切关注包括长期利率在内的市场走势。长期利率走势由市场决定。",
+          "url": "https://flash.jin10.com/detail/20260120151120308800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "1 月 LPR 报价出炉，5 年期和 1 年期利率均维持不变，如何解读？",
+          "url": "https://www.zhihu.com/question/1996877850301712237",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         },
         {
           "title": "国开行发行2年期债券，规模50亿元，发行利率1.4963%，预期1.5100%，投标倍数4.18倍，边际倍数8.81倍； 国开行发行5年期债券，规模100亿元，发行利率1.7465%，预期1.7600%，投标倍数4.17倍，边际倍数1.56倍； 国开行发行10年期债券，规模170亿元，发行利率1.9786%，预期1.9900%，投标倍数3.19倍，边际倍数1.28倍。",
@@ -368,6 +425,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
+        },
+        {
+          "title": "交易员：印度央行在外汇市场抛售美元以支撑卢比汇率",
+          "url": "https://wallstreetcn.com/livenews/3040210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         }
       ]
     },
@@ -384,8 +452,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时29分 ~ 14时27分]"
+          "appearance_count": 6,
+          "time_info": "[11时29分 ~ 15时23分]"
         },
         {
           "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
@@ -397,8 +465,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时09分 ~ 14时27分]"
+          "appearance_count": 7,
+          "time_info": "[09时09分 ~ 15时23分]"
         },
         {
           "title": "在 DeepMind 或 OpenAI 工作是什么体验？",
@@ -437,7 +505,7 @@
     },
     {
       "keyword_group": "房价 楼市 房地产",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "上海新房价格独涨 二手房成交井喷",
@@ -486,6 +554,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        },
+        {
+          "title": "广州：改善和稳定房地产市场预期 持续用力促进市场平稳健康发展",
+          "url": "https://wallstreetcn.com/livenews/3040209",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         }
       ]
     },
@@ -558,7 +637,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         }
