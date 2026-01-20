@@ -1,11 +1,105 @@
 {
-  "generated_at": "2026-01-21T00:27:09.197131+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-21T01:24:11.661705+08:00",
+  "total_titles_processed": 402,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "利率 汇率",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美国商务部长卢特尼克：我们拥有一个伟大的经济体，完全能够应对较低的利率。",
+          "url": "https://flash.jin10.com/detail/20260121004306205800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国商务部长卢特尼克：我们（美联储）的利率太高，高出好几百个基点。 如果将利率下调100个基点，将看到美国经济增速至少达到6%。",
+          "url": "https://wallstreetcn.com/livenews/3040600",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国商务部长卢特尼克：利率需要降低，以便年轻人更容易负担得起购房。",
+          "url": "https://flash.jin10.com/detail/20260121004132932800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国商务部长卢特尼克：我们的利率太高了。如果我们下调利率100个基点，你将会看到美国经济增速达到6%甚至更高。",
+          "url": "https://flash.jin10.com/detail/20260121003912867800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国商务部长卢特尼克：新房建造停滞，因为利率很高。",
+          "url": "https://flash.jin10.com/detail/20260121003716890800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国财政部拍卖三个月期国债，得标利率3.590%，投标倍数2.70。 拍卖六个月期国债，得标利率3.520%，投标倍数2.95。 本次债券发行因周一休市而延后一天。",
+          "url": "https://wallstreetcn.com/livenews/3040594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国至1月20日3个月国债竞拍-得标利率 3.59%，前值3.57%。",
+          "url": "https://flash.jin10.com/detail/20260121003206935800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国至1月20日3个月国债竞拍-得标利率配置百分比 52.27%，前值12.52%。",
+          "url": "https://flash.jin10.com/detail/20260121003206883800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "上海中小学开设AI课程",
@@ -19,15 +113,54 @@
           "time_info": "[00时26分 ~ 00时27分]"
         },
         {
+          "title": "惠誉：美国信用形势温和，AI、消费者、贸易问题都构成风险。",
+          "url": "https://wallstreetcn.com/livenews/3040614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
           "title": "G42的CEO Peng Xiao：预计阿联酋将在未来数月获得第一批由（由英伟达、Cerebras Inc.等供应的）高级AI芯片。",
           "url": "https://wallstreetcn.com/livenews/3040577",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "ServiceNow 与OpenAI 达成合作 为期三年",
+          "url": "https://flash.jin10.com/detail/20260121010536923800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "马斯克建议：不要让你的亲人使用ChatGPT",
+          "url": "https://wallstreetcn.com/livenews/3040591",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
         }
       ]
     },
@@ -43,8 +176,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时26分 ~ 00时27分]"
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 01时24分]"
         }
       ]
     },
@@ -57,11 +190,12 @@
           "url": "https://wallstreetcn.com/livenews/3040589",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时24分]"
         }
       ]
     },
