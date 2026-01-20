@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-20T15:47:38.601105+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2026-01-20T16:17:39.647422+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
@@ -65,11 +65,12 @@
             11,
             6,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时54分 ~ 15时47分]"
+          "appearance_count": 13,
+          "time_info": "[10时54分 ~ 16时17分]"
         },
         {
           "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
@@ -98,6 +99,34 @@
       ]
     },
     {
+      "keyword_group": "特朗普",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "关税、热战、AI！世界目光齐聚达沃斯 特朗普携“史上最大代表团”参会",
+          "url": "https://www.cls.cn/detail/2263371",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时16分 ~ 16时17分]"
+        },
+        {
+          "title": "“星条旗插在格陵兰土地上” 特朗普用AI描绘自己的领土野心",
+          "url": "https://flash.jin10.com/detail/20260120140732774800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI",
       "match_count": 2,
       "titles": [
@@ -107,11 +136,12 @@
           "source": "抖音",
           "ranks": [
             16,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 15时47分]"
+          "appearance_count": 4,
+          "time_info": "[15时23分 ~ 16时17分]"
         },
         {
           "title": "中国中车旗下八维通与宇树科技战略合作 深度布局“机器人+AI+行业场景”",
@@ -141,23 +171,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时50分 ~ 14时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“星条旗插在格陵兰土地上” 特朗普用AI描绘自己的领土野心",
-          "url": "https://flash.jin10.com/detail/20260120140732774800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时59分"
         }
       ]
     }
