@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-21T13:20:39.054056+08:00",
-  "total_titles_processed": 693,
+  "generated_at": "2026-01-21T13:49:45.579404+08:00",
+  "total_titles_processed": 762,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "【数读2025上海经济年报】GDP增长5.4%，集成电路、人工智能产业表现亮眼",
+          "url": "https://www.cls.cn/detail/2264608",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时43分 ~ 13时49分]"
+        },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-21）",
           "url": "https://flash.jin10.com/detail/20260121115736289800",
@@ -19,18 +32,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时02分 ~ 13时20分]"
-        },
-        {
-          "title": "【数读2025上海经济年报】GDP增长5.4%，集成电路、人工智能产业表现亮眼",
-          "url": "https://www.cls.cn/detail/2264608",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 13时20分]"
         },
         {
           "title": "美国总统特朗普：允许人工智能公司自行发电。 用关税收入取代所得税是一个选项。",
@@ -99,12 +100,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
+        },
+        {
+          "title": "软银公司发布用于人工智能数据中心的软件栈。",
+          "url": "https://flash.jin10.com/detail/20260121130522419800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI已开始向数十家广告商展示其全新的聊天机器人广告。OpenAI将于2月份正式推出聊天机器人广告，并将根据广告曝光量（浏览量）进行计费。（The Information）",
@@ -142,6 +154,17 @@
           "time_info": "12时02分"
         },
         {
+          "title": "盖茨基金会和OpenAI计划投资5000万美元 资助非洲AI医疗",
+          "url": "https://flash.jin10.com/detail/20260121131506452800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时49分"
+        },
+        {
           "title": "据华尔街日报：消息人士称，人工智能初创公司Thinking Machines（由前OpenAI员工创立）首席技术官Barret Zoph在披露与一名员工的关系后，其工作职责发生调整。Zoph在一次会议上表示自己正考虑离职并寻求更多权力后被解雇。Zoph及同事随后离职并重新加盟OpenAI。",
           "url": "https://flash.jin10.com/detail/20260121100758131800",
           "source": "金十数据",
@@ -165,11 +188,12 @@
           "ranks": [
             4,
             6,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时02分 ~ 13时20分]"
+          "appearance_count": 5,
+          "time_info": "[12时02分 ~ 13时49分]"
         },
         {
           "title": "DeepSeek新模型MODEL1曝光 代码预示新架构",
@@ -210,8 +234,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时48分 ~ 13时20分]"
+          "appearance_count": 8,
+          "time_info": "[08时48分 ~ 13时49分]"
         },
         {
           "title": "“令人震惊”！马斯克大手笔曝光",
@@ -250,8 +274,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时43分 ~ 13时20分]"
+          "appearance_count": 4,
+          "time_info": "[12时43分 ~ 13时49分]"
         }
       ]
     }
