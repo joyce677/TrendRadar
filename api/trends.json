@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T17:28:08.611994+08:00",
-  "total_titles_processed": 1608,
+  "generated_at": "2026-01-21T18:22:05.205461+08:00",
+  "total_titles_processed": 1689,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "利率 汇率",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "日本劳动组合总联合会会长吉野智子：对目前为止5%的工资增长充满信心。 当前的日元疲软加速了进口驱动型通胀。 今年薪资谈判环境还不错。 希望政府和日本央行稳定物价和汇率。",
@@ -28,17 +28,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时16分"
-        },
-        {
-          "title": "瑞士央行行长Schlegel：今年“很有可能”出现负通胀。 几个月的负通胀不是问题。 目前地缘政治是主要风险。 过去几个月瑞士法郎实际汇率相当稳定。 我对杰伊·鲍威尔怀有“最高敬意”。",
-          "url": "https://wallstreetcn.com/livenews/3041162",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时28分"
         },
         {
           "title": "美国至1月20日6周国债竞拍-得标利率配置百分比 92.66%，前值69.91%。",
@@ -75,6 +64,18 @@
           "time_info": "[02时27分 ~ 04时07分]"
         },
         {
+          "title": "瑞士央行行长Schlegel：今年“很有可能”出现负通胀。 几个月的负通胀不是问题。 目前地缘政治是主要风险。 过去几个月瑞士法郎实际汇率相当稳定。 我对杰伊·鲍威尔怀有“最高敬意”。",
+          "url": "https://wallstreetcn.com/livenews/3041162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时28分 ~ 18时22分]"
+        },
+        {
           "title": "俄罗斯12月卢布有效汇率环比上2.1%。",
           "url": "https://wallstreetcn.com/livenews/3040621",
           "source": "华尔街见闻-快讯",
@@ -97,6 +98,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时24分 ~ 02时27分]"
+        },
+        {
+          "title": "瑞士央行副行长Schlegel：迈向负利率的门槛很高，但如有需要仍可转为负利率。",
+          "url": "https://flash.jin10.com/detail/20260121174722269800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "美国至1月20日1年期国债竞拍-得标利率配置百分比 29.55%，前值70.25%。",
@@ -149,7 +161,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时28分"
         },
@@ -322,7 +334,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 20,
       "titles": [
         {
           "title": "疑似AI玩家确认是Roamer",
@@ -331,11 +343,12 @@
           "ranks": [
             3,
             1,
-            5
+            5,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时40分 ~ 17时28分]"
+          "appearance_count": 10,
+          "time_info": "[12时40分 ~ 18时22分]"
         },
         {
           "title": "UP主带你玩转全球顶级AI现场",
@@ -346,11 +359,12 @@
             7,
             8,
             10,
-            16
+            16,
+            9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时40分 ~ 17时28分]"
+          "appearance_count": 10,
+          "time_info": "[12时40分 ~ 18时22分]"
         },
         {
           "title": "俄罗斯暴雪堆出9层楼高的雪坡？中国留学生：假的，视频为AI生成",
@@ -360,8 +374,32 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时40分 ~ 17时28分]"
+          "appearance_count": 10,
+          "time_info": "[12时40分 ~ 18时22分]"
+        },
+        {
+          "title": "图灵的猫回应预测韩服AI疑云",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E7%9A%84%E7%8C%AB%E5%9B%9E%E5%BA%94%E9%A2%84%E6%B5%8B%E9%9F%A9%E6%9C%8DAI%E7%96%91%E4%BA%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时23分 ~ 18时22分]"
+        },
+        {
+          "title": "Meta CTO：新AI团队已交付首批人工智能模型",
+          "url": "https://flash.jin10.com/detail/20260121175112329800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "快手可灵AI月活突破1200万",
@@ -373,18 +411,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
-        },
-        {
-          "title": "图灵的猫回应预测韩服AI疑云",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E7%9A%84%E7%8C%AB%E5%9B%9E%E5%BA%94%E9%A2%84%E6%B5%8B%E9%9F%A9%E6%9C%8DAI%E7%96%91%E4%BA%91",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时23分 ~ 17时28分]"
         },
         {
           "title": "上海中小学开设AI课程",
@@ -422,6 +448,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时24分 ~ 02时27分]"
+        },
+        {
+          "title": "【焦点复盘】沪指冲高回落微幅收涨，AI硬件端卷土重来，机器人概念人气股罕见走出16连板",
+          "url": "https://www.cls.cn/detail/2265232",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 18时22分]"
         },
         {
           "title": "学科带头人称老师要把AI当成对手",
@@ -468,6 +505,17 @@
           "time_info": "11时29分"
         },
         {
+          "title": "Meta首席技术官：超智能实验室已于1月在内部交付了首批关键人工智能模型，新AI模型表现“非常出色”。",
+          "url": "https://wallstreetcn.com/livenews/3041173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
           "title": "AnthropicCEO：AI发展未来可能导致10%失业率 政府必须有所作为",
           "url": "https://flash.jin10.com/detail/20260121014844232800",
           "source": "金十数据",
@@ -488,6 +536,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
+        },
+        {
+          "title": "Meta首席技术官：超智能实验室已于1月在内部交付了首批关键人工智能模型，新AI模型表现“非常出色”。",
+          "url": "https://flash.jin10.com/detail/20260121173033236800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "泰国央行行长Vitai：泰国央行近期出手干预以平抑泰铢汇率波动。 泰国央行认为泰铢应随着基本面因素而贬值。 泰国银行未发现异常资本流入。",
@@ -515,8 +574,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "OpenAI：作为“OpenAI面向各国”倡议的一部分，推出面向各国的OpenAI教育项目。",
+          "url": "https://flash.jin10.com/detail/20260121175350755800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
         {
           "title": "OpenAI披露其关于年龄预测的方式。 公司在ChatGPT消费者计划推出年龄预测。 未来数周，将在欧洲市场推出年龄预测功能。",
           "url": "https://wallstreetcn.com/livenews/3040648",
@@ -539,6 +609,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "OpenAI：作为“OpenAI面向各国”倡议的一部分，推出面向各国的OpenAI教育项目。",
+          "url": "https://wallstreetcn.com/livenews/3041189",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "据The Information：OpenAI将于二月推出聊天机器人广告，并根据广告浏览量收费。",
@@ -599,7 +680,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "与瑞安航空CEO骂战升级 马斯克发起投票探讨收购可能",
@@ -613,6 +694,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时11分 ~ 13时25分]"
+        },
+        {
+          "title": "马斯克：人工智能是一场超音速海啸。",
+          "url": "https://flash.jin10.com/detail/20260121175218510800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         },
         {
           "title": "欧盟委员会科技事务主管Virkkunen：正分析马斯克旗下社交媒体平台X公司（原名推特）的Grok政策变更是否仍然违反数字服务法案（DSA）。",
@@ -660,6 +752,70 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时11分 ~ 09时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "一线城市房价企稳信号已现",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E6%88%BF%E4%BB%B7%E4%BC%81%E7%A8%B3%E4%BF%A1%E5%8F%B7%E5%B7%B2%E7%8E%B0",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            20,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时26分 ~ 05时16分]"
+        },
+        {
+          "title": "住建部部长：今年将着力稳定房地产市场，支持房企合理的融资需求",
+          "url": "https://wallstreetcn.com/livenews/3040937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时40分 ~ 13时25分]"
+        },
+        {
+          "title": "英国11月DCLG房价指数同比 2.5%，前值 1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3041170",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "英国国家统计局：截至2025年11月的一年中，英国平均房价上涨2.5%。",
+          "url": "https://flash.jin10.com/detail/20260121173305290800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
+        },
+        {
+          "title": "英国11月DCLG房价指数年率 2.5%，前值1.70%。",
+          "url": "https://flash.jin10.com/detail/20260121173020861800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时22分"
         }
       ]
     },
@@ -714,37 +870,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房价 楼市 房地产",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "一线城市房价企稳信号已现",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%80%E7%BA%BF%E5%9F%8E%E5%B8%82%E6%88%BF%E4%BB%B7%E4%BC%81%E7%A8%B3%E4%BF%A1%E5%8F%B7%E5%B7%B2%E7%8E%B0",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时26分 ~ 05时16分]"
-        },
-        {
-          "title": "住建部部长：今年将着力稳定房地产市场，支持房企合理的融资需求",
-          "url": "https://wallstreetcn.com/livenews/3040937",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时40分 ~ 13时25分]"
         }
       ]
     },
