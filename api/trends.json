@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T09:12:00.150831+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2026-01-21T11:29:37.363220+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "利率 汇率",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "汇丰大幅调整日元预测：从看涨150转向看跌160，传统利率关联失效",
@@ -176,6 +176,17 @@
           "time_info": "01时24分"
         },
         {
+          "title": "进出口行发行3年期债券，规模30亿元，发行利率1.6180%，预期1.6500%，投标倍数4.34倍，边际倍数1.45倍。",
+          "url": "https://wallstreetcn.com/livenews/3040871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
           "title": "美国至1月20日3个月国债竞拍-得标利率 3.59%，前值3.57%。",
           "url": "https://flash.jin10.com/detail/20260121003206935800",
           "source": "金十数据",
@@ -196,6 +207,103 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "进出口行发行2年期债券，规模20亿元，发行利率1.5293%，预期1.5700%，投标倍数5.36倍，边际倍数4.00倍。",
+          "url": "https://wallstreetcn.com/livenews/3040866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "上海中小学开设AI课程",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BC%80%E8%AE%BEAI%E8%AF%BE%E7%A8%8B",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 07时16分]"
+        },
+        {
+          "title": "惠誉：美国信用形势温和，AI、消费者、贸易问题都构成风险。",
+          "url": "https://wallstreetcn.com/livenews/3040614",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 02时27分]"
+        },
+        {
+          "title": "微软CEO纳德拉：能源成本将决定哪些国家能赢得AI竞赛",
+          "url": "https://www.cls.cn/detail/2264174",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "G42的CEO Peng Xiao：预计阿联酋将在未来数月获得第一批由（由英伟达、Cerebras Inc.等供应的）高级AI芯片。",
+          "url": "https://wallstreetcn.com/livenews/3040577",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时27分"
+        },
+        {
+          "title": "上海国际学校的孩子都在使用AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%8A%E6%B5%B7%E5%9B%BD%E9%99%85%E5%AD%A6%E6%A0%A1%E7%9A%84%E5%AD%A9%E5%AD%90%E9%83%BD%E5%9C%A8%E4%BD%BF%E7%94%A8AI%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
+        },
+        {
+          "title": "AnthropicCEO：AI发展未来可能导致10%失业率 政府必须有所作为",
+          "url": "https://flash.jin10.com/detail/20260121014844232800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时27分"
+        },
+        {
+          "title": "英伟达对AI初创公司Baseten投资1.5亿美元，对后者的估值为50亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3040636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时07分"
         }
       ]
     },
@@ -262,73 +370,21 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "上海中小学开设AI课程",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%8A%E6%B5%B7%E4%B8%AD%E5%B0%8F%E5%AD%A6%E5%BC%80%E8%AE%BEAI%E8%AF%BE%E7%A8%8B",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 07时16分]"
-        },
-        {
-          "title": "惠誉：美国信用形势温和，AI、消费者、贸易问题都构成风险。",
-          "url": "https://wallstreetcn.com/livenews/3040614",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 02时27分]"
-        },
-        {
-          "title": "G42的CEO Peng Xiao：预计阿联酋将在未来数月获得第一批由（由英伟达、Cerebras Inc.等供应的）高级AI芯片。",
-          "url": "https://wallstreetcn.com/livenews/3040577",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
-        },
-        {
-          "title": "AnthropicCEO：AI发展未来可能导致10%失业率 政府必须有所作为",
-          "url": "https://flash.jin10.com/detail/20260121014844232800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时27分"
-        },
-        {
-          "title": "英伟达对AI初创公司Baseten投资1.5亿美元，对后者的估值为50亿美元。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3040636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "马斯克",
       "match_count": 4,
       "titles": [
+        {
+          "title": "与瑞安航空CEO骂战升级 马斯克发起投票探讨收购可能",
+          "url": "https://www.cls.cn/detail/2264274",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时11分 ~ 11时29分]"
+        },
         {
           "title": "欧盟委员会科技事务主管Virkkunen：正分析马斯克旗下社交媒体平台X公司（原名推特）的Grok政策变更是否仍然违反数字服务法案（DSA）。",
           "url": "https://wallstreetcn.com/livenews/3040589",
@@ -342,26 +398,16 @@
           "time_info": "[00时27分 ~ 01时24分]"
         },
         {
-          "title": "与瑞安航空CEO骂战升级 马斯克发起投票探讨收购可能",
-          "url": "https://www.cls.cn/detail/2264274",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时11分 ~ 09时12分]"
-        },
-        {
           "title": "“令人震惊”！马斯克大手笔曝光",
           "url": "https://news.ifeng.com/c/8q4yjAnRTBj",
           "source": "凤凰网",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时11分 ~ 09时12分]"
+          "appearance_count": 3,
+          "time_info": "[09时11分 ~ 11时29分]"
         },
         {
           "title": "马斯克给参议员候选人开千万美元支票",
@@ -373,6 +419,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时11分 ~ 09时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "iphone apple",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "状态页面显示故障，苹果(AAPL.O)应用商店、Apple TV和 iTunes商店部分用户遭遇服务中断。",
+          "url": "https://flash.jin10.com/detail/20260121080654170800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时12分"
+        },
+        {
+          "title": "曝iPhone18Pro灵动岛居中并缩小",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18Pro%E7%81%B5%E5%8A%A8%E5%B2%9B%E5%B1%85%E4%B8%AD%E5%B9%B6%E7%BC%A9%E5%B0%8F%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时29分"
         }
       ]
     },
@@ -413,23 +487,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时26分 ~ 05时16分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "iphone apple",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "状态页面显示故障，苹果(AAPL.O)应用商店、Apple TV和 iTunes商店部分用户遭遇服务中断。",
-          "url": "https://flash.jin10.com/detail/20260121080654170800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时12分"
         }
       ]
     }
