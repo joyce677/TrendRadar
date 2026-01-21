@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-01-21T08:48:30.933116+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-01-21T10:54:03.502271+08:00",
+  "total_titles_processed": 464,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "工信部张云明：技术进步常伴随就业重构，将充分发挥人工智能融合作用",
+          "url": "https://wallstreetcn.com/livenews/3040874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "外资重返印度科技股，押注人工智能增长",
+          "url": "https://flash.jin10.com/detail/20260121102812354800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "2025年我国人工智能核心产业规模预计突破1.2万亿元",
+          "url": "https://wallstreetcn.com/livenews/3040867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
+        {
+          "title": "广州：聚焦低空经济与航空航天、人工智能等有基础、有空间的腰部行业集中发力",
+          "url": "https://wallstreetcn.com/livenews/3040859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        }
+      ]
+    },
     {
       "keyword_group": "马斯克",
       "match_count": 3,
@@ -12,22 +62,24 @@
           "url": "https://www.cls.cn/detail/2264274",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时48分"
+          "appearance_count": 3,
+          "time_info": "[08时48分 ~ 10时54分]"
         },
         {
           "title": "“令人震惊”！马斯克大手笔曝光",
           "url": "https://news.ifeng.com/c/8q4yjAnRTBj",
           "source": "凤凰网",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时48分"
+          "appearance_count": 3,
+          "time_info": "[08时48分 ~ 10时54分]"
         },
         {
           "title": "马斯克给参议员候选人开千万美元支票",
@@ -67,6 +119,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据华尔街日报：消息人士称，人工智能初创公司Thinking Machines（由前OpenAI员工创立）首席技术官Barret Zoph在披露与一名员工的关系后，其工作职责发生调整。Zoph在一次会议上表示自己正考虑离职并寻求更多权力后被解雇。Zoph及同事随后离职并重新加盟OpenAI。",
+          "url": "https://flash.jin10.com/detail/20260121100758131800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         }
       ]
     }
