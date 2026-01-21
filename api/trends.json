@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-21T14:27:56.053734+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2026-01-21T15:23:39.650494+08:00",
+  "total_titles_processed": 1390,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "利率 汇率",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "日本劳动组合总联合会会长吉野智子：对目前为止5%的工资增长充满信心。 当前的日元疲软加速了进口驱动型通胀。 今年薪资谈判环境还不错。 希望政府和日本央行稳定物价和汇率。",
@@ -121,13 +121,24 @@
           "time_info": "02时27分"
         },
         {
+          "title": "农发行发行378天期债券，规模100亿元，发行利率1.4844%，预期1.5000%，投标倍数3.29倍，边际倍数2.27倍； 农发行发行3年期债券，规模70亿元，发行利率1.6152%，预期1.6200%，投标倍数3.44倍，边际倍数1.16倍； 农发行发行10年期债券，规模90亿元，发行利率1.9525%，预期1.9600%，投标倍数5.25倍，边际倍数3.38倍。",
+          "url": "https://wallstreetcn.com/livenews/3041048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
           "title": "日本最大工会组织敦促日本政府稳定汇率",
           "url": "https://flash.jin10.com/detail/20260121140021679800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -248,7 +259,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -278,18 +289,19 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "疑似AI玩家确认是Roamer",
           "url": "https://search.bilibili.com/all?keyword=%E7%96%91%E4%BC%BCAI%E7%8E%A9%E5%AE%B6%E7%A1%AE%E8%AE%A4%E6%98%AFRoamer",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 14时27分]"
+          "appearance_count": 5,
+          "time_info": "[12时40分 ~ 15时23分]"
         },
         {
           "title": "UP主带你玩转全球顶级AI现场",
@@ -298,11 +310,12 @@
           "ranks": [
             5,
             7,
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 14时27分]"
+          "appearance_count": 5,
+          "time_info": "[12时40分 ~ 15时23分]"
         },
         {
           "title": "快手可灵AI月活突破1200万",
@@ -311,7 +324,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时27分"
         },
@@ -323,8 +336,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 14时27分]"
+          "appearance_count": 5,
+          "time_info": "[12时40分 ~ 15时23分]"
         },
         {
           "title": "上海中小学开设AI课程",
@@ -416,6 +429,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时07分"
+        },
+        {
+          "title": "泰国央行行长Vitai：泰国央行近期出手干预以平抑泰铢汇率波动。 泰国央行认为泰铢应随着基本面因素而贬值。 泰国银行未发现异常资本流入。",
+          "url": "https://wallstreetcn.com/livenews/3041030",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
+        },
+        {
+          "title": "拳头程序员分析人类对战AI胜算",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8B%B3%E5%A4%B4%E7%A8%8B%E5%BA%8F%E5%91%98%E5%88%86%E6%9E%90%E4%BA%BA%E7%B1%BB%E5%AF%B9%E6%88%98AI%E8%83%9C%E7%AE%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时23分"
         }
       ]
     },
@@ -567,11 +602,12 @@
           "source": "微博",
           "ranks": [
             12,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 14时27分]"
+          "appearance_count": 5,
+          "time_info": "[12时40分 ~ 15时23分]"
         },
         {
           "title": "苹果状态页面显示，App Store、Apple TV和iTunes商店的故障已解决。",
