@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-23T04:19:42.770572+08:00",
-  "total_titles_processed": 573,
+  "generated_at": "2026-01-23T05:17:59.864184+08:00",
+  "total_titles_processed": 622,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 04时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 05时17分]"
+        },
+        {
+          "title": "达沃斯迎来意外“客人”：马斯克首次现身 今晚发表讲话",
+          "url": "https://www.cls.cn/detail/2266699",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 05时17分]"
         },
         {
           "title": "特斯拉涨3.3%，刷新日高，马斯克称在美国得州的无人驾驶出租车RoboTaxi取消安全监督员。",
@@ -28,18 +40,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时22分"
-        },
-        {
-          "title": "达沃斯迎来意外“客人”：马斯克首次现身 今晚发表讲话",
-          "url": "https://www.cls.cn/detail/2266699",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 04时19分]"
         },
         {
           "title": "马斯克旗下SpaceX的IPO已经吸引到四家（承销/簿记）银行。（英国金融时报）",
@@ -287,11 +287,12 @@
           "url": "https://flash.jin10.com/detail/20260123040242165800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时19分 ~ 05时17分]"
         },
         {
           "title": "报道：OpenAI拟从客户AI辅助研发成果中分成",
@@ -346,7 +347,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时19分"
         }
@@ -479,51 +480,32 @@
       ]
     },
     {
-      "keyword_group": "房价 楼市 房地产",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "一天3场高层重磅发布 楼市重大利好",
-          "url": "https://www.toutiao.com/trending/7596864353657307190/",
-          "source": "今日头条",
-          "ranks": [
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 04时19分]"
-        },
-        {
-          "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
-          "url": "https://wallstreetcn.com/articles/3763860",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时26分 ~ 04时19分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "英特尔四季度数据中心和AI营收47.4亿美元，预期44.2亿美元。预计一季度营收117亿-127亿美元，分析师预期125.6亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3042302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
         {
           "title": "AI电力需求激增，加速美国得州及中西部碳捕集产业发展",
           "url": "https://wallstreetcn.com/livenews/3042270",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            7
+            7,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 04时19分]"
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 05时17分]"
         },
         {
           "title": "美国参议员沃伦警告AI债务隐忧，敦促特朗普政府调查“不透明”的数据中心融资",
@@ -535,6 +517,60 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时26分"
+        },
+        {
+          "title": "咻咻满COS翻唱icantwait",
+          "url": "https://search.bilibili.com/all?keyword=%E5%92%BB%E5%92%BB%E6%BB%A1COS%E7%BF%BB%E5%94%B1icantwait",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
+          "url": "https://wallstreetcn.com/articles/3763860",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时26分 ~ 05时17分]"
+        },
+        {
+          "title": "一天3场高层重磅发布 楼市重大利好",
+          "url": "https://www.toutiao.com/trending/7596864353657307190/",
+          "source": "今日头条",
+          "ranks": [
+            2,
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 05时17分]"
+        },
+        {
+          "title": "标普500指数初步收涨0.5%，电信、可选消费板块涨超1%，科技板块涨0.6%，房地产板块跌1%。 纳斯达克100指数初步收涨0.7%，成分股中，Datadog涨6.5%，Meta涨5.6%，MercadoLibre涨5%，特斯拉涨4%，奈飞跌2.3%，新思科技跌2.4%，罗斯百货跌2.6%，拉姆研究跌3.4%。 Salesforce初步收涨2.9%，3M涨2.9%，宝洁涨2.7%，美国运通涨2.1%，联合健康涨1.9%，霍尼韦尔涨1.5%，领跑道指成分股，IBM、沃尔玛、SHW、Merck则至少跌约1%。",
+          "url": "https://wallstreetcn.com/livenews/3042299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时17分"
         }
       ]
     }
