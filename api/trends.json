@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T22:25:10.295071+08:00",
-  "total_titles_processed": 2080,
+  "generated_at": "2026-01-22T23:24:26.924068+08:00",
+  "total_titles_processed": 2175,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
@@ -114,11 +114,12 @@
             18,
             29,
             28,
-            24
+            24,
+            30
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时31分 ~ 21时42分]"
+          "appearance_count": 21,
+          "time_info": "[00时31分 ~ 23时24分]"
         },
         {
           "title": "观察｜专业裁撤、学生减招？AI时代艺术类高校的教育转型",
@@ -355,6 +356,17 @@
           "time_info": "00时31分"
         },
         {
+          "title": "传vivo叫停AI眼镜项目，官方暂无回应",
+          "url": "https://wallstreetcn.com/livenews/3042155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        },
+        {
           "title": "黄仁勋：AI发展将带来大规模基建投资潮",
           "url": "https://wallstreetcn.com/livenews/3041732",
           "source": "华尔街见闻-快讯",
@@ -424,7 +436,7 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 27,
+      "match_count": 28,
       "titles": [
         {
           "title": "美国至1月21日20年期国债竞拍-得标利率 4.846%，前值4.80%。",
@@ -436,6 +448,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        },
+        {
+          "title": "美国11月PCE数据保持稳定 美联储下周料维持利率不变",
+          "url": "https://flash.jin10.com/detail/20260122231238773800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "土耳其央行将基准回购利率下调100个基点至37.00%，预期 36.5%。",
@@ -455,7 +478,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时25分"
         },
@@ -745,8 +768,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时19分 ~ 22时25分]"
+          "appearance_count": 7,
+          "time_info": "[19时19分 ~ 23时24分]"
         },
         {
           "title": "马斯克据悉希望在7月前让SpaceX上市 力争率先实现数据中心上太空",
@@ -873,17 +896,6 @@
           "time_info": "[11时42分 ~ 15时22分]"
         },
         {
-          "title": "房地产利好消息不断落地",
-          "url": "https://www.baidu.com/s?wd=%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%88%A9%E5%A5%BD%E6%B6%88%E6%81%AF%E4%B8%8D%E6%96%AD%E8%90%BD%E5%9C%B0",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时42分 ~ 13时24分]"
-        },
-        {
           "title": "张坤4100点上首“发声”：消费、房价、AI和国运，究竟该怎么看？",
           "url": "https://wallstreetcn.com/articles/3763860",
           "source": "华尔街见闻",
@@ -893,8 +905,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时22分 ~ 22时25分]"
+          "appearance_count": 10,
+          "time_info": "[16时22分 ~ 23时24分]"
+        },
+        {
+          "title": "房地产利好消息不断落地",
+          "url": "https://www.baidu.com/s?wd=%E6%88%BF%E5%9C%B0%E4%BA%A7%E5%88%A9%E5%A5%BD%E6%B6%88%E6%81%AF%E4%B8%8D%E6%96%AD%E8%90%BD%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时42分 ~ 13时24分]"
         },
         {
           "title": "一天三场发布会 楼市迎重要利好",
@@ -1024,8 +1047,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时19分 ~ 22时25分]"
+          "appearance_count": 7,
+          "time_info": "[19时19分 ~ 23时24分]"
         }
       ]
     }
