@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-22T18:21:58.674768+08:00",
-  "total_titles_processed": 1682,
+  "generated_at": "2026-01-22T19:19:28.126058+08:00",
+  "total_titles_processed": 1785,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普达沃斯演讲：炮轰欧洲和加拿大 支持发展核能为AI供能",
@@ -75,6 +75,20 @@
           "time_info": "[12时43分 ~ 18时21分]"
         },
         {
+          "title": "AMD一年来最长连涨、英特尔四年新高！AI狂热烧向CPU 明晨大考来临",
+          "url": "https://www.cls.cn/detail/2266084",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时25分 ~ 19时19分]"
+        },
+        {
           "title": "无惧失败先例 曝苹果拟入局AI Pin 明年或与iPhone捆绑销售",
           "url": "https://www.cls.cn/detail/2265956",
           "source": "财联社热门",
@@ -119,20 +133,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时31分 ~ 09时12分]"
-        },
-        {
-          "title": "AMD一年来最长连涨、英特尔四年新高！AI狂热烧向CPU 明晨大考来临",
-          "url": "https://www.cls.cn/detail/2266084",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时25分 ~ 18时21分]"
         },
         {
           "title": "沪指震荡，上证50ETF成交创历史天量，AI算力产业链爆发、黄金股掀涨停潮，30年期国债大涨，沪金一度突破1100元",
@@ -183,6 +183,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时11分 ~ 13时24分]"
+        },
+        {
+          "title": "美光科技(MU.O)盘前股价上涨2.5%，此前William Blair首次给予“跑赢大盘”评级。",
+          "url": "https://flash.jin10.com/detail/20260122191404959800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "Grok AI引发争议后 马来西亚考虑修改社交媒体规则",
@@ -382,7 +393,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时21分"
         }
@@ -390,7 +401,7 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "美国至1月21日20年期国债竞拍-得标利率 4.846%，前值4.80%。",
@@ -402,6 +413,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        },
+        {
+          "title": "土耳其央行将基准回购利率下调100个基点至37.00%，预期 36.5%。",
+          "url": "https://wallstreetcn.com/livenews/3042018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "美国至1月21日20年期国债竞拍-得标利率配置百分比 3.89%，前值3.16%。",
@@ -575,6 +597,17 @@
           "time_info": "16时23分"
         },
         {
+          "title": "土耳其央行降息100个基点，将一周回购利率降至37%，市场预期为36.5%。",
+          "url": "https://flash.jin10.com/detail/20260122190049614800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
+        },
+        {
           "title": "马来西亚政策利率维持在2.75%，符合预期。",
           "url": "https://wallstreetcn.com/livenews/3041841",
           "source": "华尔街见闻-快讯",
@@ -584,6 +617,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时22分"
+        },
+        {
+          "title": "土耳其至1月22日一周回购利率 37%，预期36.50%，前值38.00%。",
+          "url": "https://flash.jin10.com/detail/20260122190015324800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "美国参议院民主党成员Warren针对信用卡利率发布声明：呼吁国会山针对（总统特朗普主张的）信用卡利率上限方案采取行动。",
@@ -644,7 +688,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "马斯克据悉希望在7月前让SpaceX上市 力争率先实现数据中心上太空",
@@ -695,6 +739,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时42分 ~ 13时24分]"
+        },
+        {
+          "title": "一图看懂 | 马斯克开年忙落子，太空、AI、机器人都有大动作",
+          "url": "https://www.cls.cn/detail/2266641",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         },
         {
           "title": "事关AI聊天机器人和自动驾驶！马斯克和奥尔特曼隔空互喷",
@@ -786,11 +841,12 @@
           "url": "https://wallstreetcn.com/articles/3763860",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 17时27分]"
+          "appearance_count": 4,
+          "time_info": "[16时22分 ~ 19时19分]"
         },
         {
           "title": "一线城市楼市成交回暖，上海二手房库存挂牌量连续9个月下降",
@@ -891,6 +947,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "iphone apple",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "iPhoneFold售价曝光",
+          "url": "https://s.weibo.com/weibo?q=%23iPhoneFold%E5%94%AE%E4%BB%B7%E6%9B%9D%E5%85%89%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时19分"
         }
       ]
     }
