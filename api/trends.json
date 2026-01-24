@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-24T09:08:22.559733+08:00",
-  "total_titles_processed": 686,
+  "generated_at": "2026-01-24T11:22:52.468201+08:00",
+  "total_titles_processed": 821,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "AI需求兑现但供应将至“最低点”，英特尔Q1指引逊色，盘后大跌超10% | 财报见闻",
@@ -31,8 +31,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 09时08分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 11时22分]"
         },
         {
           "title": "据科技媒体TechCrunsh：Meta公司暂停青少年访问AI角色，同时将开发专门定制的版本。",
@@ -77,15 +77,37 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时08分"
+        },
+        {
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友“惊呆”：格陵兰岛没有企鹅啊……",
+          "url": "https://wallstreetcn.com/livenews/3043204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
+        },
+        {
+          "title": "让AI来安排我的一天",
+          "url": "https://s.weibo.com/weibo?q=%E8%AE%A9AI%E6%9D%A5%E5%AE%89%E6%8E%92%E6%88%91%E7%9A%84%E4%B8%80%E5%A4%A9&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI的CEO Altman计划2月中旬前往印度。（TechCrunch）",
@@ -108,6 +130,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时22分"
+        },
+        {
+          "title": "OpenAI的API业务上个月增长了10亿美元年度经常性收入",
+          "url": "https://wallstreetcn.com/livenews/3043198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         },
         {
           "title": "据科技媒体TechCrunsh：OpenAI创始人Altman计划于二月中旬访问印度。",
@@ -142,22 +175,107 @@
           "url": "https://wallstreetcn.com/premium/articles/3764000?layout=wscn-layout",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 11时22分]"
         },
         {
           "title": "特朗普自创委员会后，马斯克灵魂发问：和平还是瓜分？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32448273",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时08分 ~ 11时22分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "“老破小”逆袭 楼市到底在变什么",
+          "url": "https://www.toutiao.com/trending/7598543749794237994/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            14,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时22分 ~ 07时16分]"
+        },
+        {
+          "title": "北京楼市新政满月，二手房日均成交超500套",
+          "url": "https://wallstreetcn.com/livenews/3043200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时08分"
+          "time_info": "11时22分"
+        },
+        {
+          "title": "2026年房地产市场怎么走",
+          "url": "https://www.toutiao.com/trending/7598426511518993966/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "利率 汇率",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的9.27亿美元。",
+          "url": "https://flash.jin10.com/detail/20260124021703788800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时21分 ~ 07时16分]"
+        },
+        {
+          "title": "法兴银行：决定将下次日本央行加息的预测提前至4月份，并预计日本央行将在六个月后于10月份将政策利率上调至1.25%。",
+          "url": "https://flash.jin10.com/detail/20260124021424985800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时21分 ~ 07时16分]"
+        },
+        {
+          "title": "央行行长：完善人民币汇率形成机制，坚持市场在汇率形成中的决定性作用，保持汇率弹性，同时防范汇率超调风险",
+          "url": "https://wallstreetcn.com/livenews/3043197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时22分"
         }
       ]
     },
@@ -192,67 +310,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时19分 ~ 05时15分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房价 楼市 房地产",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "“老破小”逆袭 楼市到底在变什么",
-          "url": "https://www.toutiao.com/trending/7598543749794237994/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            14,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 07时16分]"
-        },
-        {
-          "title": "2026年房地产市场怎么走",
-          "url": "https://www.toutiao.com/trending/7598426511518993966/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "利率 汇率",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的9.27亿美元。",
-          "url": "https://flash.jin10.com/detail/20260124021703788800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时21分 ~ 07时16分]"
-        },
-        {
-          "title": "法兴银行：决定将下次日本央行加息的预测提前至4月份，并预计日本央行将在六个月后于10月份将政策利率上调至1.25%。",
-          "url": "https://flash.jin10.com/detail/20260124021424985800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时21分 ~ 07时16分]"
         }
       ]
     },
