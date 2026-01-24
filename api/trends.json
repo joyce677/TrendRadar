@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-24T08:46:31.012410+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-01-24T10:48:35.801901+08:00",
+  "total_titles_processed": 438,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,41 @@
           "url": "https://wallstreetcn.com/premium/articles/3764000?layout=wscn-layout",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时46分"
+          "appearance_count": 2,
+          "time_info": "[08时46分 ~ 10时48分]"
         },
         {
           "title": "特朗普自创委员会后，马斯克灵魂发问：和平还是瓜分？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32448273",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            17,
+            19
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时46分 ~ 10时48分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI的API业务上个月增长了10亿美元年度经常性收入",
+          "url": "https://wallstreetcn.com/livenews/3043198",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时46分"
+          "time_info": "10时48分"
         }
       ]
     },
@@ -43,8 +62,25 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时46分 ~ 10时48分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "白宫发特朗普在格陵兰岛牵企鹅AI图，网友“惊呆”：格陵兰岛没有企鹅啊……",
+          "url": "https://wallstreetcn.com/livenews/3043204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时46分"
+          "time_info": "10时48分"
         }
       ]
     }
