@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-25T13:24:34.445555+08:00",
-  "total_titles_processed": 794,
+  "generated_at": "2026-01-25T14:23:34.104709+08:00",
+  "total_titles_processed": 848,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "AI应用龙头月内涨超100% 梳理AI应用收入及占比居前A股名单",
@@ -17,8 +17,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时17分 ~ 13时24分]"
+          "appearance_count": 18,
+          "time_info": "[00时17分 ~ 14时23分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -85,11 +85,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            7
+            7,
+            2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时48分 ~ 13时24分]"
+          "appearance_count": 5,
+          "time_info": "[11时48分 ~ 14时23分]"
         },
         {
           "title": "AI发展会降低创作者存在意义吗",
@@ -111,8 +112,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时47分 ~ 13时24分]"
+          "appearance_count": 3,
+          "time_info": "[12时47分 ~ 14时23分]"
+        },
+        {
+          "title": "AI为何会一本正经“胡说八道”",
+          "url": "https://www.toutiao.com/trending/7599102960605954086/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
+          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
+          "url": "https://wallstreetcn.com/articles/3764092",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
         }
       ]
     },
@@ -142,6 +165,34 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时48分 ~ 13时24分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "iphone apple",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "科技媒体：iPhone用户开始收到Siri隐私和解案赔偿金 总额9500万美元",
+          "url": "https://flash.jin10.com/detail/20260125132457272800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时23分"
+        },
+        {
+          "title": "iPhone长截屏的3种方式",
+          "url": "https://s.weibo.com/weibo?q=iPhone%E9%95%BF%E6%88%AA%E5%B1%8F%E7%9A%843%E7%A7%8D%E6%96%B9%E5%BC%8F&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
         }
       ]
     },
@@ -203,23 +254,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时18分 ~ 13时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "iphone apple",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "iPhone长截屏的3种方式",
-          "url": "https://s.weibo.com/weibo?q=iPhone%E9%95%BF%E6%88%AA%E5%B1%8F%E7%9A%843%E7%A7%8D%E6%96%B9%E5%BC%8F&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 09时18分]"
         }
       ]
     }
