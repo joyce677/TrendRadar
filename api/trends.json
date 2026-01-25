@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T07:15:07.833629+08:00",
-  "total_titles_processed": 454,
+  "generated_at": "2026-01-25T09:18:00.624286+08:00",
+  "total_titles_processed": 577,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 07时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 09时18分]"
         },
         {
           "title": "“AI编程”里程碑：Claude Code“整顿”全球软件业",
@@ -25,11 +25,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 07时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 09时18分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -53,11 +54,12 @@
           "url": "https://flash.jin10.com/detail/20260124215336107800",
           "source": "金十数据",
           "ranks": [
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时18分 ~ 07时15分]"
+          "appearance_count": 9,
+          "time_info": "[00时18分 ~ 09时18分]"
         },
         {
           "title": "iPhone Air官方价格暴跌2000元",
@@ -122,8 +124,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时17分 ~ 07时15分]"
+          "appearance_count": 13,
+          "time_info": "[00时17分 ~ 09时18分]"
         }
       ]
     },
@@ -145,6 +147,40 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时12分 ~ 07时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "利率 汇率",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "日本首相高市早苗誓言就汇率波动采取行动 应对投机性市场行为",
+          "url": "https://flash.jin10.com/detail/20260125085035422800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "iphone apple",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "iPhone长截屏的3种方式",
+          "url": "https://s.weibo.com/weibo?q=iPhone%E9%95%BF%E6%88%AA%E5%B1%8F%E7%9A%843%E7%A7%8D%E6%96%B9%E5%BC%8F&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 09时18分]"
         }
       ]
     }
