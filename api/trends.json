@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-25T19:36:10.980655+08:00",
-  "total_titles_processed": 950,
+  "generated_at": "2026-01-25T20:18:47.387074+08:00",
+  "total_titles_processed": 993,
   "failed_sources": [],
   "trends": [
     {
@@ -22,11 +22,12 @@
             19,
             21,
             25,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[11时06分 ~ 19时36分]"
+          "appearance_count": 17,
+          "time_info": "[11时06分 ~ 20时18分]"
         },
         {
           "title": "北京市将全面实施“人工智能+”行动，建设国家人工智能应用中试基地",
@@ -127,6 +128,23 @@
       ]
     },
     {
+      "keyword_group": "特朗普",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特朗普抢夺格陵兰岛可能隐藏AI计划",
+          "url": "https://www.toutiao.com/trending/7599245110806580746/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "营销",
       "match_count": 1,
       "titles": [
@@ -139,8 +157,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[12时34分 ~ 19时36分]"
+          "appearance_count": 21,
+          "time_info": "[12时34分 ~ 20时18分]"
         }
       ]
     }
