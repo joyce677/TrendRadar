@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-26T16:17:21.437949+08:00",
-  "total_titles_processed": 990,
+  "generated_at": "2026-01-26T16:55:24.435811+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
@@ -71,8 +71,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时20分 ~ 16时17分]"
+          "appearance_count": 9,
+          "time_info": "[14时20分 ~ 16时55分]"
         },
         {
           "title": "对于 deepseek 即将发布的 V4 模型，不知道各位有什么看法？",
@@ -84,6 +84,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "grok",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据德国商报：三位欧盟高级官员透露称，欧盟委员会将于周一根据《数字服务法》对人工智能聊天机器人Grok启动调查程序。",
+          "url": "https://flash.jin10.com/detail/20260126162201774800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时55分"
         }
       ]
     },
