@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-26T13:29:50.797311+08:00",
-  "total_titles_processed": 922,
+  "generated_at": "2026-01-26T14:28:41.159329+08:00",
+  "total_titles_processed": 1013,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "利率 汇率",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "又一家民营银行拟调降存量存款综合利率？回应：暂未核实到执行方案",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时18分 ~ 05时14分]"
+        },
+        {
+          "title": "李家超：将在港推出离岸国债期货、拓展“沪深港通”下的利率衍生品业务",
+          "url": "https://wallstreetcn.com/livenews/3043720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "重庆发行10年期一般债地方债，规模134.0900亿元，发行利率1.9500%，边际倍数7.52倍，倍数预期1.96； 重庆发行10年期一般债地方债，规模114.3000亿元，发行利率1.9500%，边际倍数1.33倍，倍数预期1.96。",
@@ -189,7 +200,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
@@ -229,8 +240,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时18分 ~ 13时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时18分 ~ 14时28分]"
         },
         {
           "title": "AI热潮点燃金属需求 全球矿业股或迎新一轮“超级周期”",
@@ -274,23 +285,35 @@
           "time_info": "[00时18分 ~ 06时15分]"
         },
         {
-          "title": "你怎么看iPhone Air降价",
-          "url": "https://www.toutiao.com/trending/7599137251189800969/",
-          "source": "今日头条",
+          "title": "白银价格近期大幅上涨，不少人指向 AI 及算力设施建设的巨大消耗，这是主要原因吗？支撑该观点的依据是什么？",
+          "url": "https://www.zhihu.com/question/1998735057154744752",
+          "source": "知乎",
           "ranks": [
-            10,
-            17
+            5
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时51分 ~ 13时29分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "“达沃斯论AI”结语：2026年能源需求和基建将继续狂飙，核能备受关注！",
           "url": "https://www.cls.cn/detail/2269090",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时51分 ~ 14时28分]"
+        },
+        {
+          "title": "你怎么看iPhone Air降价",
+          "url": "https://www.toutiao.com/trending/7599137251189800969/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -318,6 +341,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时51分 ~ 13时29分]"
+        },
+        {
+          "title": "大摩研究：英国受AI影响最深，岗位流失速度达国际平均水平两倍",
+          "url": "https://flash.jin10.com/detail/20260126133454787800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "印奇出任董事长！阶跃星辰超50亿融资刷新大模型赛道纪录 将加码“AI+终端”",
+          "url": "https://www.cls.cn/detail/2269386",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "AI视频丨鹿“回头”，要做三亚“城市合伙人”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32440119",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "马来西亚林吉特升至2018年以来最强 受经济增长、AI乐观情绪所提振",
