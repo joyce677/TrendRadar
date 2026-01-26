@@ -1,92 +1,11 @@
 {
-  "generated_at": "2026-01-26T07:15:43.180458+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-01-26T09:16:53.074120+08:00",
+  "total_titles_processed": 630,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
-          "url": "https://wallstreetcn.com/articles/3764092",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 07时15分]"
-        },
-        {
-          "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
-          "url": "https://www.cls.cn/detail/2268582",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 07时15分]"
-        },
-        {
-          "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
-          "url": "https://www.zhihu.com/question/1998457273891120214",
-          "source": "知乎",
-          "ranks": [
-            11,
-            14,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 07时15分]"
-        },
-        {
-          "title": "AI热潮点燃金属需求 全球矿业股或迎新一轮“超级周期”",
-          "url": "https://www.cls.cn/detail/2268686",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 07时15分]"
-        },
-        {
-          "title": "语法正确，疑似AI：人工智能如何重塑我们的写作与信任",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31819507",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时18分 ~ 07时15分]"
-        },
-        {
-          "title": "百度APP文心助手入局春节AI战，将发放5亿现金、合作2026北京台春晚",
-          "url": "https://wallstreetcn.com/livenews/3043398",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            10,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 06时15分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "利率 汇率",
-      "match_count": 3,
+      "match_count": 11,
       "titles": [
         {
           "title": "又一家民营银行拟调降存量存款综合利率？回应：暂未核实到执行方案",
@@ -101,13 +20,24 @@
           "time_info": "[00时18分 ~ 05时14分]"
         },
         {
+          "title": "分析师：美日协调干预汇率的信号令美元承压",
+          "url": "https://flash.jin10.com/detail/20260126085720377800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
           "title": "央行对货币市场利率关注重点出现变化，隔夜利率或成“新锚”，短端资金面有望保持合理充裕",
           "url": "https://wallstreetcn.com/livenews/3043430",
           "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
         },
@@ -118,9 +48,183 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时15分"
+        },
+        {
+          "title": "港媒：香港金管局认为最优惠利率进一步下调空间有限",
+          "url": "https://flash.jin10.com/detail/20260126082405993800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "日本立宪民主党党首野田佳彦：政府必须避免干预日本央行提高利率的努力。",
+          "url": "https://flash.jin10.com/detail/20260126081721608800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "中信证券：预计政策利率调降时点在二季度",
+          "url": "https://wallstreetcn.com/livenews/3043492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "报道：香港金管局认为最优惠利率进一步下调空间有限",
+          "url": "https://wallstreetcn.com/livenews/3043490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "日本立宪民主党党魁野田佳彦：汇率干预对持续阻止日圆贬值可能效果有限。 政府必须避免妨碍日本央行升息的努力。 日本必须向市场发出更强的信号，表明整顿财政的决心，以阻止日元过度贬值。 政府和央行应修改目前以抗击通缩为重点的联合协议，明确双方在抑制通胀方面各自扮演的角色。",
+          "url": "https://wallstreetcn.com/livenews/3043489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "日本最高外汇事务官员三村淳：拒绝对据报道的汇率干预置评。",
+          "url": "https://flash.jin10.com/detail/20260126080658937800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        },
+        {
+          "title": "日本外汇事务最高官员三村淳：将根据日美联合声明采取适当外汇措施。 就外汇与美国保持密切联系。 无法就是否干预市场发表评论。 不愿意谈论外汇市场的具体动向。 拒绝对有关汇率询价的报道发表评论。",
+          "url": "https://wallstreetcn.com/livenews/3043484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "5个月10倍！闪迪从“U盘牛夫人”变身“AI小甜甜”",
+          "url": "https://wallstreetcn.com/articles/3764092",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 09时16分]"
+        },
+        {
+          "title": "机构密集调研AI营销概念股！龙头月内涨近六成，近一个月接待量居前热门股名单来了",
+          "url": "https://www.cls.cn/detail/2268582",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 09时16分]"
+        },
+        {
+          "title": "AI热潮点燃金属需求 全球矿业股或迎新一轮“超级周期”",
+          "url": "https://www.cls.cn/detail/2268686",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 09时16分]"
+        },
+        {
+          "title": "iPhone Air 官方价格暴跌 2000 元，爆料称激活量不到 20 万，消费者为何不买账？哪里出了问题？",
+          "url": "https://www.zhihu.com/question/1998457273891120214",
+          "source": "知乎",
+          "ranks": [
+            11,
+            14,
+            12,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 09时16分]"
+        },
+        {
+          "title": "语法正确，疑似AI：人工智能如何重塑我们的写作与信任",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31819507",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时18分 ~ 09时16分]"
+        },
+        {
+          "title": "百度APP文心助手入局春节AI战，将发放5亿现金、合作2026北京台春晚",
+          "url": "https://wallstreetcn.com/livenews/3043398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时18分 ~ 06时15分]"
+        },
+        {
+          "title": "马来西亚林吉特升至2018年以来最强 受经济增长、AI乐观情绪所提振",
+          "url": "https://wallstreetcn.com/livenews/3043493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时16分"
         }
       ]
     }
