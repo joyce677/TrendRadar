@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-01-27T12:06:52.099818+08:00",
-  "total_titles_processed": 587,
+  "generated_at": "2026-01-27T13:02:08.694085+08:00",
+  "total_titles_processed": 669,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-27）",
           "url": "https://flash.jin10.com/detail/20260127115319873800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时06分 ~ 13时02分]"
+        },
+        {
+          "title": "应对人工智能影响促就业文件将出台",
+          "url": "https://www.toutiao.com/trending/7599819603426525225/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         },
         {
           "title": "两部门：推进应急管理装备与人工智能、卫星互联网、北斗和先进计算等新技术融合创新",
@@ -55,7 +67,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "连线丨暴风雪肆虐美国24州，中国留学生直呼罕见：大雪灌入地铁像AI画面",
@@ -64,9 +76,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时06分 ~ 13时02分]"
         },
         {
           "title": "瑞银展望2026美国经济：一旦AI泡沫破裂衰退概率将达50%，市场低估了6月前降息的可能性",
@@ -77,8 +89,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时51分 ~ 12时06分]"
+          "appearance_count": 6,
+          "time_info": "[08时51分 ~ 13时02分]"
+        },
+        {
+          "title": "外网AI视频假如中国替代了美国",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%96%E7%BD%91AI%E8%A7%86%E9%A2%91%E5%81%87%E5%A6%82%E4%B8%AD%E5%9B%BD%E6%9B%BF%E4%BB%A3%E4%BA%86%E7%BE%8E%E5%9B%BD%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
         }
       ]
     },
@@ -101,6 +124,23 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "全世界用户都在被 ChatGPT「稳稳接住」，为什么它执着于这样讲话？怎么平衡这种人文关怀和用户体验？",
+          "url": "https://www.zhihu.com/question/1997009213193413444",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时01分 ~ 13时02分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "增长",
       "match_count": 1,
       "titles": [
@@ -112,8 +152,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时59分 ~ 12时06分]"
+          "appearance_count": 5,
+          "time_info": "[10时59分 ~ 13时02分]"
         }
       ]
     }
