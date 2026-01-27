@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-27T14:18:46.771927+08:00",
-  "total_titles_processed": 807,
+  "generated_at": "2026-01-27T14:58:41.484254+08:00",
+  "total_titles_processed": 887,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20260127140117500800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时18分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 14时58分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-27）",
@@ -81,27 +82,17 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "OpenAI首席信息安全官宣布将离职",
-          "url": "https://flash.jin10.com/detail/20260127140630592800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
           "title": "全世界用户都在被 ChatGPT「稳稳接住」，为什么它执着于这样讲话？怎么平衡这种人文关怀和用户体验？",
           "url": "https://www.zhihu.com/question/1997009213193413444",
           "source": "知乎",
           "ranks": [
             9,
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时01分 ~ 14时18分]"
+          "appearance_count": 6,
+          "time_info": "[13时01分 ~ 14时58分]"
         },
         {
           "title": "报道称，OpenAI副总裁奈特即将离职。",
@@ -115,6 +106,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时28分 ~ 14时18分]"
+        },
+        {
+          "title": "OpenAI首席信息安全官宣布将离职",
+          "url": "https://flash.jin10.com/detail/20260127140630592800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 14时58分]"
         }
       ]
     },
@@ -130,8 +133,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时06分 ~ 14时18分]"
+          "appearance_count": 7,
+          "time_info": "[12时06分 ~ 14时58分]"
         },
         {
           "title": "瑞银展望2026美国经济：一旦AI泡沫破裂衰退概率将达50%，市场低估了6月前降息的可能性",
@@ -142,8 +145,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[08时51分 ~ 14时18分]"
+          "appearance_count": 10,
+          "time_info": "[08时51分 ~ 14时58分]"
         },
         {
           "title": "外网AI视频假如中国替代了美国",
@@ -162,18 +165,30 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "DeepSeek发布DeepSeek-OCR 2，AI能够以与人类相同的逻辑顺序“看”一张图片",
           "url": "https://wallstreetcn.com/livenews/3044481",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时18分 ~ 14时58分]"
+        },
+        {
+          "title": "DeepSeek开源OCR 2模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90OCR%202%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时18分"
+          "time_info": "14时58分"
         }
       ]
     },
@@ -204,11 +219,12 @@
           "url": "https://wallstreetcn.com/articles/3764198",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时59分 ~ 14时18分]"
+          "appearance_count": 9,
+          "time_info": "[10时59分 ~ 14时58分]"
         }
       ]
     }
