@@ -1,8 +1,81 @@
 {
-  "generated_at": "2026-01-27T08:51:45.364265+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-01-27T11:00:27.134412+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "两部门：推进应急管理装备与人工智能、卫星互联网、北斗和先进计算等新技术融合创新",
+          "url": "https://wallstreetcn.com/livenews/3044380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        },
+        {
+          "title": "新加坡副总理：新的美光工厂将部署人工智能和自动化。",
+          "url": "https://flash.jin10.com/detail/20260127103149205800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        },
+        {
+          "title": "中国将出台应对人工智能影响促就业文件",
+          "url": "https://wallstreetcn.com/livenews/3044348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "拳打亚马逊、脚踢谷歌TPU 微软发布新一代AI加速器Maia 200",
+          "url": "https://www.cls.cn/detail/2270429",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时00分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "增长",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国AI的“Max时刻”！千问最强模型开启第二增长曲线",
+          "url": "https://wallstreetcn.com/articles/3764198",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时00分]"
+        }
+      ]
+    },
     {
       "keyword_group": "AI",
       "match_count": 1,
@@ -12,11 +85,12 @@
           "url": "https://wallstreetcn.com/articles/3764149",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
+          "appearance_count": 3,
+          "time_info": "[08时51分 ~ 11时00分]"
         }
       ]
     }
