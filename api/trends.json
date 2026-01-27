@@ -1,8 +1,148 @@
 {
-  "generated_at": "2026-01-28T01:24:00.994217+08:00",
-  "total_titles_processed": 406,
+  "generated_at": "2026-01-28T02:29:49.292333+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "利率 汇率",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "美国至1月27日5年期国债竞拍-得标利率配置百分比 27.68%，前值68.45%。",
+          "url": "https://flash.jin10.com/detail/20260128020206103800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "美国至1月27日5年期国债竞拍-得标利率 3.823%，前值3.75%。",
+          "url": "https://flash.jin10.com/detail/20260128020206064800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "美国总统特朗普：（谈美联储）希望利率下降。",
+          "url": "https://flash.jin10.com/detail/20260128010825738800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 02时29分]"
+        },
+        {
+          "title": "美国至1月27日6周国债竞拍-得标利率配置百分比 10.26%，前值92.66%。",
+          "url": "https://flash.jin10.com/detail/20260128003427637800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 02时29分]"
+        },
+        {
+          "title": "美国财政部拍卖700亿美元五年期国债，得标利率3.823%（11月25日为3.562%），投标倍数2.34（前次为2.41）。",
+          "url": "https://wallstreetcn.com/livenews/3044926",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "欧洲央行管委兼德国央行行长Nagel：近期没理由调整政策利率。",
+          "url": "https://wallstreetcn.com/livenews/3044902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "欧洲央行管委内格尔：我同意欧洲央行首席经济学家连恩的观点，即目前在利率方向上没有充分的理由进行调整。",
+          "url": "https://flash.jin10.com/detail/20260128013259225800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "一项新兴市场货币指数连续第四个交易日上涨，彭博追踪的22种发展中市场货币中，有16种兑美元走强。该指数纳入了利率回报因素，随着美元回落，该指数目前处于纪录高位。",
+          "url": "https://wallstreetcn.com/livenews/3044896",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国总统特朗普：希望看到利率下降。",
+          "url": "https://wallstreetcn.com/livenews/3044916",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
+        {
+          "title": "美国财政部拍卖六周期国债，得标利率3.635%，投标倍数2.64。",
+          "url": "https://wallstreetcn.com/livenews/3044890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "美国至1月27日6周国债竞拍-得标利率 3.635%，前值3.63%。",
+          "url": "https://flash.jin10.com/detail/20260128003313861800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时24分"
+        },
+        {
+          "title": "德国央行行长：欧洲央行短期内无需调整利率",
+          "url": "https://wallstreetcn.com/livenews/3044902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        }
+      ]
+    },
     {
       "keyword_group": "AI",
       "match_count": 6,
@@ -12,33 +152,36 @@
           "url": "https://wallstreetcn.com/articles/3764241",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 01时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时29分]"
         },
         {
           "title": "Clawdbot引爆整个AI agent生态",
           "url": "https://wallstreetcn.com/articles/3764269",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 01时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时29分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
           "url": "https://www.cls.cn/detail/2271472",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 01时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时29分]"
         },
         {
           "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
@@ -48,8 +191,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时22分 ~ 01时24分]"
+          "appearance_count": 5,
+          "time_info": "[00时22分 ~ 02时29分]"
         },
         {
           "title": "开源 AI 助手 Clawdbot 到底是什么？为什么能让 Mac mini 突然爆单？",
@@ -76,109 +219,72 @@
       ]
     },
     {
-      "keyword_group": "利率 汇率",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "美国总统特朗普：（谈美联储）希望利率下降。",
-          "url": "https://flash.jin10.com/detail/20260128010825738800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "欧洲央行管委兼德国央行行长Nagel：近期没理由调整政策利率。",
-          "url": "https://wallstreetcn.com/livenews/3044902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "一项新兴市场货币指数连续第四个交易日上涨，彭博追踪的22种发展中市场货币中，有16种兑美元走强。该指数纳入了利率回报因素，随着美元回落，该指数目前处于纪录高位。",
-          "url": "https://wallstreetcn.com/livenews/3044896",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "美国至1月27日6周国债竞拍-得标利率配置百分比 10.26%，前值92.66%。",
-          "url": "https://flash.jin10.com/detail/20260128003427637800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "美国财政部拍卖六周期国债，得标利率3.635%，投标倍数2.64。",
-          "url": "https://wallstreetcn.com/livenews/3044890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        },
-        {
-          "title": "美国至1月27日6周国债竞拍-得标利率 3.635%，前值3.63%。",
-          "url": "https://flash.jin10.com/detail/20260128003313861800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
+          "url": "https://flash.jin10.com/detail/20260128020246054800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
         {
           "title": "谷歌：Gemini 3现已成为全球AI概览的默认模型。",
           "url": "https://flash.jin10.com/detail/20260128010307000800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 02时29分]"
         },
         {
           "title": "谷歌：为手机推出强大的防盗保护功能。",
           "url": "https://flash.jin10.com/detail/20260128010248348800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时24分 ~ 02时29分]"
+        },
+        {
+          "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。 在美国，Google AI Plus月租7.99美元。",
+          "url": "https://wallstreetcn.com/livenews/3044927",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时24分"
+          "time_info": "02时29分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
+          "url": "https://wallstreetcn.com/livenews/3044925",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
+        },
         {
           "title": "OpenAI和Anthropic的老板们支持科技工人，也谴责移民驱逐执法在美国明尼苏达州造成的暴力事件",
           "url": "https://wallstreetcn.com/livenews/3044891",
@@ -186,9 +292,37 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "2026年房价会涨还是跌",
+          "url": "https://s.weibo.com/weibo?q=%232026%E5%B9%B4%E6%88%BF%E4%BB%B7%E4%BC%9A%E6%B6%A8%E8%BF%98%E6%98%AF%E8%B7%8C%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时22分 ~ 00时23分]"
+        },
+        {
+          "title": "2026年房价又要启动上涨了吗",
+          "url": "https://www.toutiao.com/trending/7599944613947772459/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时29分"
         }
       ]
     },
@@ -203,26 +337,9 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房价 楼市 房地产",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "2026年房价会涨还是跌",
-          "url": "https://s.weibo.com/weibo?q=%232026%E5%B9%B4%E6%88%BF%E4%BB%B7%E4%BC%9A%E6%B6%A8%E8%BF%98%E6%98%AF%E8%B7%8C%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时22分 ~ 00时23分]"
         }
       ]
     },
@@ -235,11 +352,12 @@
           "url": "https://www.zhihu.com/question/1999487395494588876",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 02时29分]"
         }
       ]
     },
@@ -255,8 +373,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 01时24分]"
+          "appearance_count": 3,
+          "time_info": "[01时23分 ~ 02时29分]"
         }
       ]
     }
