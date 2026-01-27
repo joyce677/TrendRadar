@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-01-28T06:17:57.712585+08:00",
-  "total_titles_processed": 659,
+  "generated_at": "2026-01-28T07:16:58.487210+08:00",
+  "total_titles_processed": 700,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "利率 汇率",
       "match_count": 14,
       "titles": [
-        {
-          "title": "美联储本周维持利率不变的概率为97.2%",
-          "url": "https://flash.jin10.com/detail/20260128060237343800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时17分"
-        },
         {
           "title": "美国总统特朗普：（谈美联储）希望利率下降。",
           "url": "https://flash.jin10.com/detail/20260128010825738800",
@@ -29,6 +18,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时24分 ~ 02时29分]"
+        },
+        {
+          "title": "美联储本周维持利率不变的概率为97.2%",
+          "url": "https://flash.jin10.com/detail/20260128060237343800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时17分 ~ 07时16分]"
         },
         {
           "title": "美国至1月27日5年期国债竞拍-得标利率配置百分比 27.68%，前值68.45%。",
@@ -171,7 +172,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -182,8 +183,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 06时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 07时16分]"
         },
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -194,8 +195,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 06时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 07时16分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -206,8 +207,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 06时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 07时16分]"
         },
         {
           "title": "【焦点复盘】科创50缩量涨超1.5%，AI硬件端卷土重来，有色板块全天现巨震分歧",
@@ -218,8 +219,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时22分 ~ 06时17分]"
+          "appearance_count": 13,
+          "time_info": "[00时22分 ~ 07时16分]"
         },
         {
           "title": "开源 AI 助手 Clawdbot 到底是什么？为什么能让 Mac mini 突然爆单？",
@@ -242,6 +243,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        },
+        {
+          "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时16分"
         }
       ]
     },
@@ -372,11 +384,12 @@
           "ranks": [
             27,
             19,
-            18
+            18,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时29分 ~ 05时14分]"
+          "appearance_count": 6,
+          "time_info": "[02时29分 ~ 07时16分]"
         },
         {
           "title": "2026年房价会涨还是跌",
@@ -440,11 +453,12 @@
           "ranks": [
             15,
             13,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时23分 ~ 06时17分]"
+          "appearance_count": 11,
+          "time_info": "[01时23分 ~ 07时16分]"
         }
       ]
     }
