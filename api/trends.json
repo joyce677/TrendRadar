@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T09:11:33.476052+08:00",
-  "total_titles_processed": 842,
+  "generated_at": "2026-01-28T11:33:01.344501+08:00",
+  "total_titles_processed": 998,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "利率 汇率",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "美国总统特朗普：（谈美联储）希望利率下降。",
@@ -109,7 +109,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -158,6 +158,17 @@
           "time_info": "01时24分"
         },
         {
+          "title": "新疆发行20年期普通专项地方债，规模108.0000亿元，发行利率2.4000%，边际倍数1.53倍，倍数预期2.43； 新疆发行30年期普通专项地方债，规模108.0000亿元，发行利率2.4400%，边际倍数1.55倍，倍数预期2.45。",
+          "url": "https://wallstreetcn.com/livenews/3045200",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
           "title": "美国至1月27日6周国债竞拍-得标利率 3.635%，前值3.63%。",
           "url": "https://flash.jin10.com/detail/20260128003313861800",
           "source": "金十数据",
@@ -186,15 +197,26 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
+        },
+        {
+          "title": "进出口行发行2年期债券，规模20亿元，发行利率1.5501%，预期1.5500%，投标倍数5.34倍，边际倍数1.10倍； 进出口行发行3年期债券，规模30亿元，发行利率1.6044%，预期1.6200%，投标倍数4.54倍，边际倍数1.24倍。",
+          "url": "https://wallstreetcn.com/livenews/3045179",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "Clawdbot引爆整个AI agent生态",
@@ -203,11 +225,12 @@
           "ranks": [
             5,
             4,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 09时11分]"
+          "appearance_count": 16,
+          "time_info": "[00时22分 ~ 11时33分]"
         },
         {
           "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
@@ -219,8 +242,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时22分 ~ 09时11分]"
+          "appearance_count": 16,
+          "time_info": "[00时22分 ~ 11时33分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -251,11 +274,25 @@
           "url": "https://www.cls.cn/detail/2271840",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时11分 ~ 11时33分]"
+        },
+        {
+          "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时16分 ~ 11时33分]"
         },
         {
           "title": "开源 AI 助手 Clawdbot 到底是什么？为什么能让 Mac mini 突然爆单？",
@@ -269,16 +306,15 @@
           "time_info": "[00时22分 ~ 00时23分]"
         },
         {
-          "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
-          "source": "澎湃新闻",
+          "title": "国内首例「AI 幻觉」案宣判平台无责，背后的法律考量是什么？该如何判断 AI 提供信息的真实性？",
+          "url": "https://www.zhihu.com/question/1999418734398366788",
+          "source": "知乎",
           "ranks": [
-            20,
-            18
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时16分 ~ 09时11分]"
+          "time_info": "[11时32分 ~ 11时33分]"
         },
         {
           "title": "荷兰提出银行奖金制度松绑建议的国会议员娜塔莉·范·贝尔克尔（Nathalie van Berkel）：特定IT知识、AI 专家和数据专家的需求日益增长。 如果你想让荷兰保持竞争力，那么银行就需要有能力留住并吸引合适的人才。（彭博）",
@@ -292,13 +328,24 @@
           "time_info": "00时23分"
         },
         {
+          "title": "国资委：国资央企将更大力度推进“AI+”专项行动",
+          "url": "https://wallstreetcn.com/livenews/3045207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
           "title": "探展CES的50个AI项目",
           "url": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E5%B1%95CES%E7%9A%8450%E4%B8%AAAI%E9%A1%B9%E7%9B%AE",
           "source": "bilibili 热搜",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -309,7 +356,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         }
@@ -317,7 +364,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
@@ -332,13 +379,24 @@
           "time_info": "[02时29分 ~ 03时23分]"
         },
         {
+          "title": "前西班牙主帅因过度依赖 ChatGPT 做决策、战绩惨淡被解雇，如何看待此事？",
+          "url": "https://www.zhihu.com/question/1999186592472986900",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时32分 ~ 11时33分]"
+        },
+        {
           "title": "软银拟向OpenAI追投至多300亿美元",
           "url": "https://flash.jin10.com/detail/20260128085403401800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -360,7 +418,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时11分"
         },
@@ -416,6 +474,17 @@
           "time_info": "[02时29分 ~ 03时23分]"
         },
         {
+          "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
+          "url": "https://wallstreetcn.com/articles/3764292",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时11分 ~ 11时33分]"
+        },
+        {
           "title": "谷歌：Gemini 3现已成为全球AI概览的默认模型。",
           "url": "https://flash.jin10.com/detail/20260128010307000800",
           "source": "金十数据",
@@ -450,17 +519,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时24分 ~ 02时29分]"
-        },
-        {
-          "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
-          "url": "https://wallstreetcn.com/articles/3764292",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时11分"
         }
       ]
     },
