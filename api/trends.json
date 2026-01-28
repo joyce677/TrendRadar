@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-28T07:16:58.487210+08:00",
-  "total_titles_processed": 700,
+  "generated_at": "2026-01-28T09:11:33.476052+08:00",
+  "total_titles_processed": 842,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "利率 汇率",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美国总统特朗普：（谈美联储）希望利率下降。",
@@ -103,6 +103,17 @@
           "time_info": "01时24分"
         },
         {
+          "title": "中信证券：覆铜板有望持续涨价，看好后续毛利率及业绩弹性",
+          "url": "https://wallstreetcn.com/livenews/3045081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
           "title": "一项新兴市场货币指数连续第四个交易日上涨，彭博追踪的22种发展中市场货币中，有16种兑美元走强。该指数纳入了利率回报因素，随着美元回落，该指数目前处于纪录高位。",
           "url": "https://wallstreetcn.com/livenews/3044896",
           "source": "华尔街见闻-快讯",
@@ -167,36 +178,49 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时29分"
+        },
+        {
+          "title": "日本央行12月政策会议纪要：一名委员称，日元、长期利率反映出政策利率过低。 部分委员称日本央行应考虑日元对物价趋势的影响。",
+          "url": "https://wallstreetcn.com/livenews/3045062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
-          "url": "https://wallstreetcn.com/articles/3764241",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 07时16分]"
-        },
         {
           "title": "Clawdbot引爆整个AI agent生态",
           "url": "https://wallstreetcn.com/articles/3764269",
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 07时16分]"
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 09时11分]"
+        },
+        {
+          "title": "DeepSeek-OCR 2重磅发布：AI学会“人类视觉逻辑”，以因果流解读图片",
+          "url": "https://wallstreetcn.com/articles/3764241",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 09时11分]"
         },
         {
           "title": "“如果生成内容有误，我将赔偿您10万元”，全国首例因“AI幻觉”引发侵权案宣判",
@@ -223,6 +247,17 @@
           "time_info": "[00时22分 ~ 07时16分]"
         },
         {
+          "title": "开源AI代理火爆出圈 “互联网门神”Cloudflare沾光连续两日大涨",
+          "url": "https://www.cls.cn/detail/2271840",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
           "title": "开源 AI 助手 Clawdbot 到底是什么？为什么能让 Mac mini 突然爆单？",
           "url": "https://www.zhihu.com/question/1999166962421429182",
           "source": "知乎",
@@ -232,6 +267,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 00时23分]"
+        },
+        {
+          "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时16分 ~ 09时11分]"
         },
         {
           "title": "荷兰提出银行奖金制度松绑建议的国会议员娜塔莉·范·贝尔克尔（Nathalie van Berkel）：特定IT知识、AI 专家和数据专家的需求日益增长。 如果你想让荷兰保持竞争力，那么银行就需要有能力留住并吸引合适的人才。（彭博）",
@@ -245,21 +292,32 @@
           "time_info": "00时23分"
         },
         {
-          "title": "当AI成为圭臬：我们正在制造新的“低端”与新的羞耻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32414828",
-          "source": "澎湃新闻",
+          "title": "探展CES的50个AI项目",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8E%A2%E5%B1%95CES%E7%9A%8450%E4%B8%AAAI%E9%A1%B9%E7%9B%AE",
+          "source": "bilibili 热搜",
           "ranks": [
-            20
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时16分"
+          "time_info": "09时11分"
+        },
+        {
+          "title": "曝iPhone Air 2定制超薄Face ID",
+          "url": "https://www.toutiao.com/trending/7599959760277864511/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI首发免费工具Prism，用于帮助科学家们更容易地应用ChatGPT来草拟研究论文。",
@@ -274,6 +332,17 @@
           "time_info": "[02时29分 ~ 03时23分]"
         },
         {
+          "title": "软银拟向OpenAI追投至多300亿美元",
+          "url": "https://flash.jin10.com/detail/20260128085403401800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
+        },
+        {
           "title": "OpenAI和Anthropic的老板们支持科技工人，也谴责移民驱逐执法在美国明尼苏达州造成的暴力事件",
           "url": "https://wallstreetcn.com/livenews/3044891",
           "source": "华尔街见闻-快讯",
@@ -283,6 +352,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时24分"
+        },
+        {
+          "title": "软银正商谈向OpenAI追加投资高达300亿美元。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3045072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
         },
         {
           "title": "OpenAI：随着时间的推移，更强大的人工智能功能将通过付费的ChatGPT计划提供。",
@@ -321,7 +401,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌：在包括美国在内的35个新国家和地区推出Google AI Plus。在美国，Google AI Plus每月收费7.99美元。",
@@ -370,6 +450,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时24分 ~ 02时29分]"
+        },
+        {
+          "title": "谷歌云正式官宣涨价，其中北美地区翻倍",
+          "url": "https://wallstreetcn.com/articles/3764292",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时11分"
         }
       ]
     },
@@ -454,11 +545,12 @@
             15,
             13,
             14,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时23分 ~ 07时16分]"
+          "appearance_count": 12,
+          "time_info": "[01时23分 ~ 09时11分]"
         }
       ]
     }
