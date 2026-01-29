@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-01-29T15:58:51.832521+08:00",
-  "total_titles_processed": 967,
+  "generated_at": "2026-01-29T16:31:40.844237+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "中国已批准进口首批英伟达H200人工智能芯片？外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3046225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时58分 ~ 16时31分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-29）",
+          "url": "https://flash.jin10.com/detail/20260129115521299800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时52分"
+        },
+        {
+          "title": "民政部：广泛应用人形机器人、脑机接口、人工智能等前沿技术 研制高性能智能养老服务机器人",
+          "url": "https://www.cls.cn/detail/2273653",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        }
+      ]
+    },
     {
       "keyword_group": "马斯克",
       "match_count": 3,
@@ -34,11 +74,12 @@
           "url": "https://www.cls.cn/detail/2273549",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时58分 ~ 16时31分]"
         }
       ]
     },
@@ -99,34 +140,6 @@
       ]
     },
     {
-      "keyword_group": "人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-01-29）",
-          "url": "https://flash.jin10.com/detail/20260129115521299800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时52分"
-        },
-        {
-          "title": "中国已批准进口首批英伟达H200人工智能芯片？外交部回应",
-          "url": "https://wallstreetcn.com/livenews/3046225",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -140,11 +153,12 @@
             7,
             15,
             25,
-            23
+            23,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时18分 ~ 15时58分]"
+          "appearance_count": 9,
+          "time_info": "[11时18分 ~ 16时31分]"
         }
       ]
     },
