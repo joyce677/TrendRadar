@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T20:27:36.541772+08:00",
-  "total_titles_processed": 1471,
+  "generated_at": "2026-01-29T21:37:42.763642+08:00",
+  "total_titles_processed": 1575,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "聚焦人工智能、量子信息等战略性新兴产业 我国质量强链工作成效显著",
@@ -74,12 +74,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
+        },
+        {
+          "title": "报道：字节跳动、阿里巴巴将推出新的人工智能模型",
+          "url": "https://wallstreetcn.com/livenews/3046492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
+        },
+        {
+          "title": "据The Information：字节跳动、阿里巴巴将于二月中旬推出新人工智能模型。",
+          "url": "https://flash.jin10.com/detail/20260129210308833800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
@@ -90,8 +112,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时50分 ~ 20时27分]"
+          "appearance_count": 4,
+          "time_info": "[19时50分 ~ 21时37分]"
         },
         {
           "title": "英伟达、微软和亚马逊正在商谈向OpenAI投资约600亿美元。亚马逊或将扩大与OpenAI的云服务器租赁协议。（The Information）",
@@ -103,6 +125,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时18分"
+        },
+        {
+          "title": "OpenAI 发布基于 GPT-5.2 的 Prism，专注科研领域的 AI 协作。科研人能用它来做些什么？",
+          "url": "https://www.zhihu.com/question/1999888901490304692",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时37分"
         },
         {
           "title": "英伟达CEO黄仁勋：非常愿意投资OpenAI。",
@@ -215,11 +248,12 @@
             12,
             15,
             14,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时06分 ~ 20时27分]"
+          "appearance_count": 8,
+          "time_info": "[17时06分 ~ 21时37分]"
         }
       ]
     },
