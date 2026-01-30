@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T08:56:07.381761+08:00",
-  "total_titles_processed": 316,
+  "generated_at": "2026-01-30T11:20:49.867609+08:00",
+  "total_titles_processed": 481,
   "failed_sources": [],
   "trends": [
     {
@@ -25,7 +25,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时56分"
         }
@@ -45,6 +45,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时55分 ~ 08时56分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "报道：字节跳动、阿里巴巴将于春节前后推出新的人工智能模型",
+          "url": "https://wallstreetcn.com/articles/3764501",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时20分"
         }
       ]
     }
