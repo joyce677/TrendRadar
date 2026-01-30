@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T16:23:40.179089+08:00",
-  "total_titles_processed": 968,
+  "generated_at": "2026-01-30T17:03:22.334919+08:00",
+  "total_titles_processed": 1058,
   "failed_sources": [],
   "trends": [
     {
@@ -47,8 +47,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时20分 ~ 16时23分]"
+          "appearance_count": 9,
+          "time_info": "[11时20分 ~ 17时03分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-30）",
@@ -60,6 +60,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克：特斯拉的最强对手来自中国",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E6%9C%80%E5%BC%BA%E5%AF%B9%E6%89%8B%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            24,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 17时03分]"
+        },
+        {
+          "title": "桑切斯隔空“硬刚”马斯克 人类处境先于星际殖民",
+          "url": "https://flash.jin10.com/detail/20260130163829753800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时03分"
         }
       ]
     },
@@ -81,24 +111,6 @@
       ]
     },
     {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克：特斯拉的最强对手来自中国",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E6%9C%80%E5%BC%BA%E5%AF%B9%E6%89%8B%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时32分 ~ 16时23分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "Anthropic",
       "match_count": 1,
       "titles": [
@@ -109,7 +121,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         }
@@ -126,7 +138,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时23分"
         }
