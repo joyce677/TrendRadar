@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T15:32:46.304052+08:00",
-  "total_titles_processed": 859,
+  "generated_at": "2026-01-30T16:23:40.179089+08:00",
+  "total_titles_processed": 968,
   "failed_sources": [],
   "trends": [
     {
@@ -43,11 +43,12 @@
             6,
             7,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时20分 ~ 15时32分]"
+          "appearance_count": 8,
+          "time_info": "[11时20分 ~ 16时23分]"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-01-30）",
@@ -88,11 +89,46 @@
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E7%89%B9%E6%96%AF%E6%8B%89%E7%9A%84%E6%9C%80%E5%BC%BA%E5%AF%B9%E6%89%8B%E6%9D%A5%E8%87%AA%E4%B8%AD%E5%9B%BD",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时32分 ~ 16时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Anthropic",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Anthropic CEO 发布万字长文《技术的青春期》，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1999506877659178761",
+          "source": "知乎",
+          "ranks": [
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时32分"
+          "time_info": "16时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "营销",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "被称为「跨境电商版 Sora」的 AI 营销视频智能体「Hilight」发布了，有哪些亮点信息值得关注？",
+          "url": "https://www.zhihu.com/question/1999485506963075471",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时23分"
         }
       ]
     }
