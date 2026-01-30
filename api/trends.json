@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T21:52:02.703238+08:00",
-  "total_titles_processed": 2003,
+  "generated_at": "2026-01-30T22:31:48.045177+08:00",
+  "total_titles_processed": 2077,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时20分 ~ 21时52分]"
+          "appearance_count": 18,
+          "time_info": "[09时20分 ~ 22时31分]"
         },
         {
           "title": "特斯拉电话会：停产Model S/X全力转向AI，本季度发布第三代Optimus，今年是资本开支大年",
@@ -61,8 +61,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时41分 ~ 21时52分]"
+          "appearance_count": 14,
+          "time_info": "[13时41分 ~ 22时31分]"
         },
         {
           "title": "特斯拉Q4盈利高于预期，开始局部真正无人驾驶，投资xAI 20亿，Cybecab和机器人待量产，盘后跳涨丨财报见闻",
@@ -93,11 +93,12 @@
             17,
             18,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时35分 ~ 21时52分]"
+          "appearance_count": 20,
+          "time_info": "[00时35分 ~ 22时31分]"
         },
         {
           "title": "澎湃漫评｜AI一本正经胡说八道，谁来担责？",
@@ -254,6 +255,18 @@
           "time_info": "[03时26分 ~ 05时21分]"
         },
         {
+          "title": "AI股民在股市里会如何表现",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%82%A1%E6%B0%91%E5%9C%A8%E8%82%A1%E5%B8%82%E9%87%8C%E4%BC%9A%E5%A6%82%E4%BD%95%E8%A1%A8%E7%8E%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时51分 ~ 22时31分]"
+        },
+        {
           "title": "被称为「跨境电商版 Sora」的 AI 营销视频智能体「Hilight」发布了，有哪些亮点信息值得关注？",
           "url": "https://www.zhihu.com/question/1999485506963075471",
           "source": "知乎",
@@ -309,17 +322,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时39分 ~ 14时40分]"
-        },
-        {
-          "title": "AI股民在股市里会如何表现",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%82%A1%E6%B0%91%E5%9C%A8%E8%82%A1%E5%B8%82%E9%87%8C%E4%BC%9A%E5%A6%82%E4%BD%95%E8%A1%A8%E7%8E%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时51分 ~ 21时52分]"
         },
         {
           "title": "苹果公司按接近20亿美元的估值收购Q.AI。 这家以色列人工智能（AI）公司的产品用于解析面部动作。（英国金融时报）",
@@ -447,8 +449,30 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 23,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "据美国纽约联储数据，上个交易日（1月29日）担保隔夜融资利率（SOFR）报3.65%，之前一天报3.64%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3047433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
+          "title": "美联储理事沃勒：中性利率水平在3%左右",
+          "url": "https://flash.jin10.com/detail/20260130220741476800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
         {
           "title": "巴基斯坦总理谢里夫：出口再融资利率已降至4.5%。",
           "url": "https://flash.jin10.com/detail/20260130151448660800",
@@ -548,6 +572,17 @@
           "time_info": "20时38分"
         },
         {
+          "title": "美联储理事沃勒：货币政策应更接近中性水平，中性水平可能在3%左右，而目前利率区间为3.50%–3.75%。",
+          "url": "https://flash.jin10.com/detail/20260130220258302800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
           "title": "进出口行发行3年期债券，规模60亿元，发行利率1.6099%，预期1.6300%，投标倍数4.62倍，边际倍数2.20倍。",
           "url": "https://wallstreetcn.com/livenews/3046953",
           "source": "华尔街见闻-快讯",
@@ -565,7 +600,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -581,6 +616,28 @@
           "time_info": "01时33分"
         },
         {
+          "title": "美国亚特兰大联储主席Bostic：需要有明确证据表明通胀率已恢复到2%水平。 预计到2026年上半年将受到部分关税影响。 通胀方面仍有很长的路要走，需要保持警惕。 我们应当等待利率的变动，并保持更大的耐心。 仍认为我们需要保持一定的限制性措施。 通胀过高的风险仍然令人担忧。 祝贺凯文·沃什获得提名，不太了解沃什，但听说他是个深思熟虑之人。 目前就业方面的下行风险还很遥远。 目前，美联储资产负债表的规模大致合适。 最终而言，美联储的决策需要12位成员的投票支持。",
+          "url": "https://wallstreetcn.com/livenews/3047419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
+          "title": "巴西雷亚尔兑美元即期汇率跌1%。",
+          "url": "https://flash.jin10.com/detail/20260130215630052800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
           "title": "交易员：印度央行可能正在抛售美元，以防止卢比兑美元汇率跌破92。",
           "url": "https://wallstreetcn.com/livenews/3046979",
           "source": "华尔街见闻-快讯",
@@ -590,6 +647,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时41分"
+        },
+        {
+          "title": "美联储博斯蒂克：每位主席都对世界有自己的看法，但利率决策涉及12人。",
+          "url": "https://flash.jin10.com/detail/20260130214432123800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         },
         {
           "title": "交易员称，印度央行可能抛售美元，以阻止卢比兑美元汇率跌破92大关。",
@@ -715,6 +783,103 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
+          "url": "https://www.zhihu.com/question/1994095464539255007",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时35分 ~ 07时21分]"
+        },
+        {
+          "title": "亚马逊正在洽谈向OpenAI投资高达500亿美元",
+          "url": "https://flash.jin10.com/detail/20260130044452824800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "OpenAI下架（retiring）GPT-4o、GPT-4.1，GPT-4.1 mini，以及OpenAI o4-mini。",
+          "url": "https://wallstreetcn.com/livenews/3046688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时21分 ~ 06时21分]"
+        },
+        {
+          "title": "OpenAI计划四季度上市 已聘请新高管",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E8%AE%A1%E5%88%92%E5%9B%9B%E5%AD%A3%E5%BA%A6%E4%B8%8A%E5%B8%82+%E5%B7%B2%E8%81%98%E8%AF%B7%E6%96%B0%E9%AB%98%E7%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时20分 ~ 09时21分]"
+        },
+        {
+          "title": "亚马逊正商谈向OpenAI投资高达500亿美元。",
+          "url": "https://flash.jin10.com/detail/20260130043431786800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "据AXIOS网站：OpenAI总裁布罗克曼与风险投资公司A16Z向支持人工智能的超级政治行动委员会（Pro-AI Super PAC）捐款。",
+          "url": "https://flash.jin10.com/detail/20260130220348095800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
+          "title": "亚马逊洽谈对OpenAI投资至多500亿美元，后者寻求在新一轮融资中募集高达1000亿美元——估值高达8300亿美元。 亚马逊Jassy牵头公司与OpenAI的CEO Altman磋商。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3046674",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时21分"
+        },
+        {
+          "title": "软银集团股价上涨4.2%，因市场寄望OpenAI上市。",
+          "url": "https://flash.jin10.com/detail/20260130080955089800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "房价 楼市 房地产",
       "match_count": 8,
       "titles": [
@@ -827,8 +992,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时03分 ~ 21时52分]"
+          "appearance_count": 8,
+          "time_info": "[12时03分 ~ 22时31分]"
         },
         {
           "title": "苹果被问及印度市场，CEO库克称：苹果在12月那个财季于印度市场创收入历史新高。 其中，iPhone、Mac、iPad创历史新高。 地区服务也创历史新高。",
@@ -907,92 +1072,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "ChatGPT 流量份额从 86% 降至 65%，这一变化由哪些因素造成？",
-          "url": "https://www.zhihu.com/question/1994095464539255007",
-          "source": "知乎",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时35分 ~ 07时21分]"
-        },
-        {
-          "title": "亚马逊正在洽谈向OpenAI投资高达500亿美元",
-          "url": "https://flash.jin10.com/detail/20260130044452824800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "OpenAI下架（retiring）GPT-4o、GPT-4.1，GPT-4.1 mini，以及OpenAI o4-mini。",
-          "url": "https://wallstreetcn.com/livenews/3046688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时21分 ~ 06时21分]"
-        },
-        {
-          "title": "OpenAI计划四季度上市 已聘请新高管",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E8%AE%A1%E5%88%92%E5%9B%9B%E5%AD%A3%E5%BA%A6%E4%B8%8A%E5%B8%82+%E5%B7%B2%E8%81%98%E8%AF%B7%E6%96%B0%E9%AB%98%E7%AE%A1",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时20分 ~ 09时21分]"
-        },
-        {
-          "title": "亚马逊正商谈向OpenAI投资高达500亿美元。",
-          "url": "https://flash.jin10.com/detail/20260130043431786800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "亚马逊洽谈对OpenAI投资至多500亿美元，后者寻求在新一轮融资中募集高达1000亿美元——估值高达8300亿美元。 亚马逊Jassy牵头公司与OpenAI的CEO Altman磋商。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3046674",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时21分"
-        },
-        {
-          "title": "软银集团股价上涨4.2%，因市场寄望OpenAI上市。",
-          "url": "https://flash.jin10.com/detail/20260130080955089800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时21分"
         }
       ]
     },
