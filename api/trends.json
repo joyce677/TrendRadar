@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-30T11:20:49.867609+08:00",
-  "total_titles_processed": 481,
+  "generated_at": "2026-01-30T12:54:36.991557+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
@@ -32,6 +32,35 @@
       ]
     },
     {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "报道：字节跳动、阿里巴巴将于春节前后推出新的人工智能模型",
+          "url": "https://wallstreetcn.com/articles/3764501",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时20分 ~ 12时54分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-01-30）",
+          "url": "https://flash.jin10.com/detail/20260130115245691800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -45,23 +74,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时55分 ~ 08时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "报道：字节跳动、阿里巴巴将于春节前后推出新的人工智能模型",
-          "url": "https://wallstreetcn.com/articles/3764501",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时20分"
         }
       ]
     }
