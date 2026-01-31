@@ -1,491 +1,139 @@
 {
-  "generated_at": "2026-01-31T23:17:51.248983+08:00",
-  "total_titles_processed": 1537,
+  "generated_at": "2026-02-01T00:20:42.175023+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI",
-      "match_count": 13,
-      "titles": [
-        {
-          "title": "微软AI支出引发忧虑，股价重挫10%拖累美股大盘，金银新高后一度跳水，铜油走强",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时20分]"
-        },
-        {
-          "title": "叫兽易小星报名B站AI大赛",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8F%AB%E5%85%BD%E6%98%93%E5%B0%8F%E6%98%9F%E6%8A%A5%E5%90%8DB%E7%AB%99AI%E5%A4%A7%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            9,
-            5,
-            12,
-            26,
-            28,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时01分 ~ 19时15分]"
-        },
-        {
-          "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
-          "url": "https://www.cls.cn/detail/2275533",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[14时30分 ~ 23时17分]"
-        },
-        {
-          "title": "够飒!AI女团跨界维修通马桶",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28349904&amp;topic_name=%E5%A4%9F%E9%A3%92%21AI%E5%A5%B3%E5%9B%A2%E8%B7%A8%E7%95%8C%E7%BB%B4%E4%BF%AE%E9%80%9A%E9%A9%AC%E6%A1%B6",
-          "source": "贴吧",
-          "ranks": [
-            23,
-            27,
-            29,
-            28,
-            30,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时31分 ~ 22时19分]"
-        },
-        {
-          "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
-          "url": "https://www.zhihu.com/question/2000597877295174051",
-          "source": "知乎",
-          "ranks": [
-            4,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时36分 ~ 23时17分]"
-        },
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850455&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://flash-scdn.jin10.com/fd96b6fe-677f-47dc-b581-479d7d254553.png\" height=\"120\" /></a>",
-          "url": "https://flash.jin10.com/detail/20260131123614314800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            12,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时04分 ~ 16时22分]"
-        },
-        {
-          "title": "北京经济技术开发区：高水平打造AI眼镜创新中心，集成硅基OLED显示、微纳光学等中试平台",
-          "url": "https://wallstreetcn.com/livenews/3047705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时19分 ~ 23时17分]"
-        },
-        {
-          "title": "美国众议院共和党领袖们寻求在2026年年底之前出台AI框架。（PunchBowl）",
-          "url": "https://wallstreetcn.com/livenews/3047557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 05时22分]"
-        },
-        {
-          "title": "AI助手OpenClaw爆火",
-          "url": "https://www.baidu.com/s?wd=AI%E5%8A%A9%E6%89%8BOpenClaw%E7%88%86%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时36分 ~ 23时17分]"
-        },
-        {
-          "title": "SpaceX申请部署百万颗卫星，欲建轨道AI数据中心网络",
-          "url": "https://flash.jin10.com/detail/20260131153449024800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            11,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时22分 ~ 18时18分]"
-        },
-        {
-          "title": "白宫顾问哈塞特：原材料价格上涨是因为AI和数据中心开支的缘故。",
-          "url": "https://wallstreetcn.com/livenews/3047468",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时31分 ~ 01时28分]"
-        },
-        {
-          "title": "豪掷百亿押宝AI 特斯拉没心思造车了",
-          "url": "https://www.baidu.com/s?wd=%E8%B1%AA%E6%8E%B7%E7%99%BE%E4%BA%BF%E6%8A%BC%E5%AE%9DAI+%E7%89%B9%E6%96%AF%E6%8B%89%E6%B2%A1%E5%BF%83%E6%80%9D%E9%80%A0%E8%BD%A6%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "男子被AI诊断梅毒医生否认却不信",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E5%AD%90%E8%A2%ABAI%E8%AF%8A%E6%96%AD%E6%A2%85%E6%AF%92%E5%8C%BB%E7%94%9F%E5%90%A6%E8%AE%A4%E5%8D%B4%E4%B8%8D%E4%BF%A1%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时17分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "OpenAI 计划今年第四季度 IPO，目标抢在 Anthropic 之前，如何解读？",
-          "url": "https://www.zhihu.com/question/2000516785095537569",
-          "source": "知乎",
-          "ranks": [
-            4,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时01分 ~ 14时31分]"
-        },
-        {
-          "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
-          "url": "https://wallstreetcn.com/livenews/3047621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            16,
-            18,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时18分 ~ 15时24分]"
-        },
-        {
-          "title": "知情人士：英伟达与OpenAI高达1000亿美元的巨额合作陷入停滞",
-          "url": "https://flash.jin10.com/detail/20260131190934573800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            6,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 22时19分]"
-        },
         {
           "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
           "url": "https://flash.jin10.com/detail/20260131204002785800",
           "source": "金十数据",
           "ranks": [
-            6,
-            15,
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时37分 ~ 23时17分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
         },
         {
           "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
           "url": "https://wallstreetcn.com/livenews/3047693",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            14,
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时37分 ~ 23时17分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
         },
         {
           "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
           "url": "https://flash.jin10.com/detail/20260131203337844800",
           "source": "金十数据",
           "ranks": [
-            7,
-            16,
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时37分 ~ 23时17分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
         },
         {
           "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
           "url": "https://flash.jin10.com/detail/20260131203248230800",
           "source": "金十数据",
           "ranks": [
-            8,
-            17,
             21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时37分 ~ 23时17分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "利率 汇率",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "2%存款利率几乎已经绝迹",
-          "url": "https://www.toutiao.com/trending/7601327762879548955/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时21分 ~ 18时18分]"
-        },
-        {
-          "title": "哥伦比亚央行上调贷款利率至10.25%，之前为9.25%。",
-          "url": "https://wallstreetcn.com/livenews/3047530",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            17,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时33分 ~ 04时22分]"
-        },
-        {
-          "title": "调查显示对今年加息的呼声减弱，欧洲央行或许维持利率不变到明年底",
-          "url": "https://wallstreetcn.com/livenews/3047553",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时22分 ~ 05时22分]"
-        },
-        {
-          "title": "哥伦比亚央行意外将利率上调100个基点至10.25%。",
-          "url": "https://flash.jin10.com/detail/20260131020911756800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时33分 ~ 03时27分]"
-        },
-        {
-          "title": "美联储理事米兰：我将继续担任理事，直至国会山确认接替我位置的人。 仍然认为FOMC利率太具有限制性。 就业还没有企稳到足以消除担忧。 认为美联储主席提名人沃什能够说服（国会山/美联储的）人们接受他的观点。 要缩减美联储资产负债表，我们需要监管改革。 美联储主席鲍威尔值得所有美国人的感谢。 鲍威尔帮助美国避免陷入第二次大萧条。",
-          "url": "https://wallstreetcn.com/livenews/3047559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时22分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：考虑到赤字下降，市场利率应下调。",
-          "url": "https://flash.jin10.com/detail/20260130232500764800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "00时20分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "特斯拉股价逆市走强 SpaceX上市在即曝马斯克整合大棋",
-          "url": "https://www.cls.cn/detail/2276362",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            8,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[12时01分 ~ 23时17分]"
-        },
         {
           "title": "爆“马斯克曾试图前往爱泼斯坦小岛”，马斯克回应",
           "url": "https://news.ifeng.com/c/8qMn5bUH1gz",
           "source": "凤凰网",
           "ranks": [
-            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时15分 ~ 23时17分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
         },
         {
-          "title": "特斯拉(TSLA.O)涨超5%；此前特斯拉CEO埃隆·马斯克旗下其他公司正就IPO与SpaceX进行合并谈判。",
-          "url": "https://flash.jin10.com/detail/20260130235532816800",
-          "source": "金十数据",
+          "title": "特斯拉股价逆市走强 SpaceX上市在即曝马斯克整合大棋",
+          "url": "https://www.cls.cn/detail/2276362",
+          "source": "财联社热门",
           "ranks": [
-            5
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时31分"
+          "time_info": "00时20分"
         },
         {
           "title": "美司法部公布文件爆“马斯克曾协调个人日程试图前往爱泼斯坦小岛”，马斯克最新回应",
           "url": "https://wallstreetcn.com/livenews/3047683",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            16,
-            24,
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时32分 ~ 23时17分]"
-        },
-        {
-          "title": "马斯克称曾多次拒绝爱泼斯坦的邀约",
-          "url": "https://flash.jin10.com/detail/20260131180157270800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时15分 ~ 21时37分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "keyword_group": "AI",
+      "match_count": 3,
       "titles": [
         {
-          "title": "市场消息：苹果公司高管、Siri高级主管斯图尔特·鲍尔斯离职加入谷歌。",
-          "url": "https://flash.jin10.com/detail/20260131025828448800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            11,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时27分 ~ 09时18分]"
-        },
-        {
-          "title": "UP体验谷歌最新世界模型",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            8,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时15分 ~ 23时17分]"
-        },
-        {
-          "title": "谷歌 AlphaGenome 登 Nature 封面，可精准预测基因突变效应，对于生物研究有哪些意义？",
-          "url": "https://www.zhihu.com/question/2000222256375227441",
+          "title": "AI 们建立了自己的社交网络 Moltbook 、宗教、甚至开始用加密货币交易，这是在发生什么？",
+          "url": "https://www.zhihu.com/question/2000597877295174051",
           "source": "知乎",
           "ranks": [
-            10,
-            11,
-            20
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时28分 ~ 06时18分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
         },
         {
-          "title": "苹果公司AI研究员Zirui Wang、Siri高级主管Stuart Bowers纷纷跳槽至Alphabet旗下谷歌公司。 扎克伯格旗下Meta Platforms又从苹果挖走至少两名研究员。",
-          "url": "https://wallstreetcn.com/livenews/3047546",
+          "title": "北京经济技术开发区：高水平打造AI眼镜创新中心，集成硅基OLED显示、微纳光学等中试平台",
+          "url": "https://wallstreetcn.com/livenews/3047705",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2,
-            11,
-            24
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时27分 ~ 05时22分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
+        },
+        {
+          "title": "AI进入Agent时代，CPU何以站上“算力C位”？",
+          "url": "https://www.cls.cn/detail/2275533",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时20分"
         }
       ]
     },
     {
       "keyword_group": "房价 楼市 房地产",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
           "title": "中信证券发布房地产行业2025年业绩预告点评报告时指出，2026年房地产市场具备止跌回稳的基础，房价止跌回稳也是房企资产负债表修复的关键。",
@@ -494,79 +142,37 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时17分"
-        },
-        {
-          "title": "深圳房地产市场持续回暖：2026年1月新房、二手房累计网签1万余套",
-          "url": "https://wallstreetcn.com/livenews/3047679",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13,
-            19,
-            27
-          ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时15分 ~ 22时19分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
         },
         {
           "title": "中指研究院发布2026年1月中国房地产企业销售业绩排行榜。",
           "url": "https://wallstreetcn.com/livenews/3047687",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6,
-            12,
-            20,
             25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时32分 ~ 23时17分]"
-        },
-        {
-          "title": "房地产行业2026年将迎来转折吗",
-          "url": "https://www.toutiao.com/trending/7601320604666433043/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时01分 ~ 13时04分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
         }
       ]
     },
     {
-      "keyword_group": "iphone apple",
-      "match_count": 2,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "中国人为啥偏爱iPhone",
-          "url": "https://www.toutiao.com/trending/7601412382031629875/",
-          "source": "今日头条",
+          "title": "UP体验谷歌最新世界模型",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
           "ranks": [
-            27,
-            20,
-            23
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时21分 ~ 18时18分]"
-        },
-        {
-          "title": "碾压预期！苹果上季营收和iPhone销售均创新高，在华收入劲增近40% | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764518",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 03时27分]"
+          "appearance_count": 1,
+          "time_info": "00时20分"
         }
       ]
     }
