@@ -1,272 +1,67 @@
 {
-  "generated_at": "2026-01-31T22:47:50.370508+08:00",
-  "total_titles_processed": 1174,
+  "generated_at": "2026-02-01T09:06:10.345587+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "英伟达与OpenAI千亿美元合作交易陷入停滞",
-          "url": "https://wallstreetcn.com/livenews/3047621",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            14,
-            17,
-            21,
-            23,
-            24,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[08时53分 ~ 15时46分]"
-        },
-        {
-          "title": "OpenAI 计划今年第四季度 IPO，目标抢在 Anthropic 之前，如何解读？",
-          "url": "https://www.zhihu.com/question/2000516785095537569",
-          "source": "知乎",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时46分 ~ 14时37分]"
-        },
-        {
-          "title": "知情人士：英伟达与OpenAI高达1000亿美元的巨额合作陷入停滞",
-          "url": "https://flash.jin10.com/detail/20260131190934573800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            6,
-            17,
-            24,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时40分 ~ 22时14分]"
-        },
-        {
-          "title": "黄仁勋证实：英伟达将参与OpenAI当前一轮融资，这可能是英伟达有史以来最大一笔投资",
-          "url": "https://wallstreetcn.com/livenews/3047693",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时14分 ~ 22时47分]"
-        },
-        {
-          "title": "黄仁勋：一定会参与本轮对OpenAI的投资 或为有史以来规模最大的投资",
-          "url": "https://flash.jin10.com/detail/20260131204002785800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            13,
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时14分 ~ 22时47分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：我们将向OpenAI投入大量资金。",
-          "url": "https://flash.jin10.com/detail/20260131203337844800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            14,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时14分 ~ 22时47分]"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：我们绝对会参与本轮对OpenAI的投资。",
-          "url": "https://flash.jin10.com/detail/20260131203248230800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            15,
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时14分 ~ 22时47分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美“毅力”号火星车首次完成人工智能规划的行驶任务",
-          "url": "https://wallstreetcn.com/livenews/3047660",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            3,
-            5,
-            6,
-            13,
-            18,
-            25,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时51分 ~ 20时19分]"
-        },
-        {
-          "title": "美“毅力”号火星车首次完成人工智能规划的行驶任务",
-          "url": "https://flash.jin10.com/detail/20260131161725853800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            4,
-            8,
-            9,
-            13,
-            15,
-            20,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时51分 ~ 20时19分]"
-        },
-        {
-          "title": "雄安发布“极数”数据大模型，加速构建“人工智能+”创新生态",
-          "url": "https://wallstreetcn.com/livenews/3047685",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            4,
-            12,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时40分 ~ 22时47分]"
-        },
-        {
-          "title": "市场消息：苹果公司近期又有多名人工智能研究人员和Siri团队高管离职。",
-          "url": "https://flash.jin10.com/detail/20260131025804033800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "马斯克",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
           "title": "爆“马斯克曾试图前往爱泼斯坦小岛”，马斯克回应",
           "url": "https://news.ifeng.com/c/8qMn5bUH1gz",
           "source": "凤凰网",
           "ranks": [
-            5,
-            7,
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时48分 ~ 22时47分]"
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
         },
         {
           "title": "特斯拉股价逆市走强 SpaceX上市在即曝马斯克整合大棋",
           "url": "https://www.cls.cn/detail/2276362",
           "source": "财联社热门",
           "ranks": [
-            10,
-            9,
-            8
+            12
           ],
           "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[11时13分 ~ 22时47分]"
-        },
-        {
-          "title": "美司法部公布文件爆“马斯克曾协调个人日程试图前往爱泼斯坦小岛”，马斯克最新回应",
-          "url": "https://wallstreetcn.com/livenews/3047683",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            6,
-            14,
-            24,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时40分 ~ 22时47分]"
-        },
-        {
-          "title": "马斯克称曾多次拒绝爱泼斯坦的邀约",
-          "url": "https://flash.jin10.com/detail/20260131180157270800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            5,
-            10,
-            14,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时48分 ~ 21时14分]"
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "UP体验谷歌最新世界模型",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8C%E6%9C%80%E6%96%B0%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            5,
-            6,
-            8,
-            7
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[18时48分 ~ 22时47分]"
-        },
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "市场消息：苹果公司高管、Siri高级主管斯图尔特·鲍尔斯离职加入谷歌。",
-          "url": "https://flash.jin10.com/detail/20260131025828448800",
-          "source": "金十数据",
+          "title": "黄仁勋私下很忧虑，英伟达与OpenAI的“千亿美元大交易”陷入停滞？",
+          "url": "https://wallstreetcn.com/articles/3764643",
+          "source": "华尔街见闻",
           "ranks": [
-            16
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "appearance_count": 2,
+          "time_info": "[09时05分 ~ 09时06分]"
         }
       ]
     }
