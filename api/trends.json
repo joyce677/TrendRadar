@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-02-01T13:42:15.740194+08:00",
-  "total_titles_processed": 550,
+  "generated_at": "2026-02-01T14:35:18.430156+08:00",
+  "total_titles_processed": 624,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
       "match_count": 5,
       "titles": [
+        {
+          "title": "特斯拉股价逆市走强 SpaceX上市在即曝马斯克整合大棋",
+          "url": "https://www.cls.cn/detail/2276362",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时05分 ~ 14时35分]"
+        },
         {
           "title": "爆“马斯克曾试图前往爱泼斯坦小岛”，马斯克回应",
           "url": "https://news.ifeng.com/c/8qMn5bUH1gz",
@@ -20,27 +32,16 @@
           "time_info": "[09时05分 ~ 13时42分]"
         },
         {
-          "title": "特斯拉股价逆市走强 SpaceX上市在即曝马斯克整合大棋",
-          "url": "https://www.cls.cn/detail/2276362",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时05分 ~ 13时42分]"
-        },
-        {
           "title": "马斯克帝国大合并？AI太烧钱，首富也得“翻遍每一个口袋”",
           "url": "https://wallstreetcn.com/articles/3764648",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 13时42分]"
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 14时35分]"
         },
         {
           "title": "马斯克也转了！SpaceX申请部署100万颗卫星",
@@ -48,11 +49,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 13时42分]"
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 14时35分]"
         },
         {
           "title": "爱泼斯坦邮件继续爆大料：盖茨“向妻子隐瞒性病”，马斯克多次询问“上岛”",
@@ -102,6 +104,23 @@
       ]
     },
     {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "印度预算案：将采取措施支持人工智能技术。",
+          "url": "https://flash.jin10.com/detail/20260201140035972800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI",
       "match_count": 1,
       "titles": [
@@ -110,11 +129,12 @@
           "url": "https://wallstreetcn.com/articles/3764665",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时07分 ~ 13时42分]"
+          "appearance_count": 4,
+          "time_info": "[12时07分 ~ 14时35分]"
         }
       ]
     }
