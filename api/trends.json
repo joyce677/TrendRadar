@@ -1,33 +1,68 @@
 {
-  "generated_at": "2026-02-01T09:06:10.345587+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-02-01T12:07:20.196775+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "爆“马斯克曾试图前往爱泼斯坦小岛”，马斯克回应",
           "url": "https://news.ifeng.com/c/8qMn5bUH1gz",
           "source": "凤凰网",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时05分 ~ 09时06分]"
+          "appearance_count": 3,
+          "time_info": "[09时05分 ~ 12时07分]"
         },
         {
           "title": "特斯拉股价逆市走强 SpaceX上市在即曝马斯克整合大棋",
           "url": "https://www.cls.cn/detail/2276362",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时05分 ~ 09时06分]"
+          "appearance_count": 3,
+          "time_info": "[09时05分 ~ 12时07分]"
+        },
+        {
+          "title": "马斯克帝国大合并？AI太烧钱，首富也得“翻遍每一个口袋”",
+          "url": "https://wallstreetcn.com/articles/3764648",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "爱泼斯坦邮件继续爆大料：盖茨“向妻子隐瞒性病”，马斯克多次询问“上岛”",
+          "url": "https://wallstreetcn.com/articles/3764666",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
+        },
+        {
+          "title": "马斯克也转了！SpaceX申请部署100万颗卫星",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32508583",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         }
       ]
     },
@@ -62,6 +97,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时05分 ~ 09时06分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中国AI交易：不确定“谁是最终赢家”，押注“AI应用大战”的受益者",
+          "url": "https://wallstreetcn.com/articles/3764665",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时07分"
         }
       ]
     }
