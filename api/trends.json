@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-02T08:59:31.908999+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-02T11:38:22.198625+08:00",
+  "total_titles_processed": 491,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350003&amp;topic_name=%E8%90%9D%E8%8E%89%E5%B2%9B%E5%85%BD%E8%A1%8C%E6%9B%9D%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E6%80%A5%E6%92%87%E6%B8%85",
           "source": "贴吧",
           "ranks": [
-            3
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 11时38分]"
         },
         {
           "title": "Space X投资人：今年的IPO将是“史上最大的造富事件”，马斯克仍被低估，火箭运力过剩催生太空数据中心",
           "url": "https://wallstreetcn.com/articles/3764683",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时59分"
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 11时38分]"
         }
       ]
     },
@@ -43,8 +45,25 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时59分 ~ 11时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄仁勋澄清：对OpenAI的千亿投资\"从未承诺\"，英伟达将逐步评估",
+          "url": "https://wallstreetcn.com/articles/3764694",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时59分"
+          "time_info": "11时38分"
         }
       ]
     }
