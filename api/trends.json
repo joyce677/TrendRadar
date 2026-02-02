@@ -1,12 +1,113 @@
 {
-  "generated_at": "2026-02-03T00:31:38.165528+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-03T01:33:57.710961+08:00",
+  "total_titles_processed": 392,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "利率 汇率",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美国财政部拍卖三个月期国债，得标利率3.6%，投标倍数2.81。 拍卖六个月期国债，得标利率3.525%，投标倍数3.08。",
+          "url": "https://wallstreetcn.com/livenews/3048467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "美国至2月2日6个月国债竞拍-得标利率配置百分比 73.03%，前值87.22%。",
+          "url": "https://flash.jin10.com/detail/20260203003205351800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "美国至2月2日6个月国债竞拍-得标利率 3.525%，前值3.53%。",
+          "url": "https://flash.jin10.com/detail/20260203003205317800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "美国至2月2日3个月国债竞拍-得标利率配置百分比 96.06%，前值86.1%。",
+          "url": "https://flash.jin10.com/detail/20260203003203976800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "美国至2月2日3个月国债竞拍-得标利率 3.6%，前值3.58%。",
+          "url": "https://flash.jin10.com/detail/20260203003203949800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌公司：借助云运行服务支持英伟达RTX PRO 6000 Blackwell服务器版GPU，为高端推理带来无服务器体验。",
+          "url": "https://wallstreetcn.com/livenews/3048483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：借助云运行服务支持英伟达RTX PRO 6000 Blackwell服务器版GPU，为高端推理带来无服务器体验。",
+          "url": "https://flash.jin10.com/detail/20260203010817118800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时33分"
+        }
+      ]
+    },
     {
       "keyword_group": "AI",
       "match_count": 2,
       "titles": [
+        {
+          "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
+          "url": "https://www.cls.cn/detail/2278216",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时33分]"
+        },
         {
           "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
           "url": "https://m.thepaper.cn/newsDetail_forward_32511275",
@@ -15,19 +116,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
-        },
-        {
-          "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
-          "url": "https://www.cls.cn/detail/2278216",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时33分]"
         }
       ]
     },
@@ -43,8 +133,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时31分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 01时33分]"
         }
       ]
     }
