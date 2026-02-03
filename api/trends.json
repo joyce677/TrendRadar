@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-03T20:42:35.972745+08:00",
-  "total_titles_processed": 1756,
+  "generated_at": "2026-02-03T22:02:06.053353+08:00",
+  "total_titles_processed": 1876,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "利率 汇率",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "据美国纽约联储数据，上个交易日（2月2日）担保隔夜融资利率（SOFR）报3.69%，之前一天报3.68%。",
+          "url": "https://wallstreetcn.com/livenews/3049168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
         {
           "title": "巴西央行：委员会认为，在下次会议上发出开始降息周期的信号是恰当的。与此同时，委员会一致重申，有必要将利率维持在限制性水平。",
           "url": "https://flash.jin10.com/detail/20260203190245176800",
@@ -115,7 +126,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -318,6 +329,17 @@
           "time_info": "15时39分"
         },
         {
+          "title": "美联储理事米兰：很期待沃什担任美联储主席后的表现。 美联储今年需要降息不止一个百分点。 潜在通胀不是问题。 经济方面没有看到太多强劲的价格压力。 市场收益率并没有大幅上升。 未来更好的经济增长并不需要更高的利率。 长期收益率上升部分原因是增长预期改善。 对金属市场价格波动不作过多解读。",
+          "url": "https://wallstreetcn.com/livenews/3049134",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
+        },
+        {
           "title": "美国至2月2日3个月国债竞拍-得标利率配置百分比 96.06%，前值86.1%。",
           "url": "https://flash.jin10.com/detail/20260203003203976800",
           "source": "金十数据",
@@ -365,7 +387,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "又一“AI宠儿”诞生？一年飙升超17倍后 华尔街预计闪迪还能涨50%",
@@ -391,8 +413,21 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时09分 ~ 20时42分]"
+          "appearance_count": 13,
+          "time_info": "[12时09分 ~ 22时02分]"
+        },
+        {
+          "title": "春节为何成为AI红包主战场",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E8%8A%82%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BAAI%E7%BA%A2%E5%8C%85%E4%B8%BB%E6%88%98%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[17时34分 ~ 22时02分]"
         },
         {
           "title": "SpaceX官宣收购xAI",
@@ -409,19 +444,6 @@
           "time_info": "[09时25分 ~ 15时39分]"
         },
         {
-          "title": "春节为何成为AI红包主战场",
-          "url": "https://search.bilibili.com/all?keyword=%E6%98%A5%E8%8A%82%E4%B8%BA%E4%BD%95%E6%88%90%E4%B8%BAAI%E7%BA%A2%E5%8C%85%E4%B8%BB%E6%88%98%E5%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时34分 ~ 20时42分]"
-        },
-        {
           "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
           "url": "https://www.cls.cn/detail/2278216",
           "source": "财联社热门",
@@ -435,6 +457,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时31分 ~ 12时09分]"
+        },
+        {
+          "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
+          "url": "https://www.cls.cn/detail/2279188",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时33分 ~ 22时02分]"
         },
         {
           "title": "王楚然工作室AI剧宣",
@@ -462,18 +497,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时09分 ~ 16时29分]"
-        },
-        {
-          "title": "【焦点复盘】市场盘中再现深V反转，全市场超120股涨逾10%，AI软硬件双双回暖",
-          "url": "https://www.cls.cn/detail/2279188",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时33分 ~ 20时42分]"
         },
         {
           "title": "中国信通院AI原生智算集群服务测试验证工作启动",
@@ -523,6 +546,28 @@
           "time_info": "[13时45分 ~ 14时41分]"
         },
         {
+          "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
+          "url": "https://www.cls.cn/detail/2279363",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
+        },
+        {
+          "title": "腾讯推出社交 AI 「元宝派」，它的用处有哪些？会重塑线上社交习惯吗？",
+          "url": "https://www.zhihu.com/question/1999077818584228918",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
+        },
+        {
           "title": "汇丰：AI投资收益更利好股票而非信贷",
           "url": "https://flash.jin10.com/detail/20260203181313892800",
           "source": "金十数据",
@@ -532,6 +577,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时34分"
+        },
+        {
+          "title": "腾讯元宝澄清：不存在“静默监控”、“默认开启AI”、“自动举报”情况",
+          "url": "https://wallstreetcn.com/livenews/3049154",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时02分"
         },
         {
           "title": "AI 社交平台 Moltbook 火了，多张截图疑有猫腻，有多少炒作成分？对行业的实际影响有多大？",
@@ -603,7 +659,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
@@ -616,8 +672,26 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时09分 ~ 20时42分]"
+          "appearance_count": 13,
+          "time_info": "[12时09分 ~ 22时02分]"
+        },
+        {
+          "title": "马斯克跨性别女儿开锤亲爹",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350084&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E5%84%BF%E5%BC%80%E9%94%A4%E4%BA%B2%E7%88%B9",
+          "source": "贴吧",
+          "ranks": [
+            6,
+            8,
+            10,
+            12,
+            14,
+            15,
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时09分 ~ 22时02分]"
         },
         {
           "title": "如何评价爱泼斯坦文件显示埃隆·马斯克想要登上爱泼斯坦岛，马斯克女儿爆料称属实？",
@@ -632,23 +706,6 @@
           ],
           "is_new": false,
           "appearance_count": 11,
-          "time_info": "[12时09分 ~ 20时42分]"
-        },
-        {
-          "title": "马斯克跨性别女儿开锤亲爹",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350084&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E5%84%BF%E5%BC%80%E9%94%A4%E4%BA%B2%E7%88%B9",
-          "source": "贴吧",
-          "ranks": [
-            6,
-            8,
-            10,
-            12,
-            14,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 9,
           "time_info": "[12时09分 ~ 20时42分]"
         },
         {
@@ -734,6 +791,28 @@
           "time_info": "[13时45分 ~ 14时41分]"
         },
         {
+          "title": "马斯克，被传唤",
+          "url": "https://news.ifeng.com/c/8qRtxXxufFZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 22时02分]"
+        },
+        {
+          "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时42分 ~ 22时02分]"
+        },
+        {
           "title": "马斯克女儿爆料",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A5%B3%E5%84%BF%E7%88%86%E6%96%99",
           "source": "百度热搜",
@@ -746,15 +825,15 @@
           "time_info": "[09时25分 ~ 12时09分]"
         },
         {
-          "title": "马斯克，被传唤",
-          "url": "https://news.ifeng.com/c/8qRtxXxufFZ",
-          "source": "凤凰网",
+          "title": "马斯克被法司法部门传唤",
+          "url": "https://www.toutiao.com/trending/7602620308612189722/",
+          "source": "今日头条",
           "ranks": [
-            6
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时01分 ~ 22时02分]"
         },
         {
           "title": "据华尔街日报：马斯克旗下的SpaceX限制俄罗斯无人机使用星链服务。",
@@ -766,17 +845,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
-        },
-        {
-          "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时42分"
         },
         {
           "title": "阿联酋官员表示，与马斯克的BORING公司合作的迪拜环线第一阶段将立即启动。",
@@ -807,7 +875,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
         },
@@ -1001,11 +1069,12 @@
           "source": "澎湃新闻",
           "ranks": [
             20,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时30分 ~ 20时42分]"
+          "appearance_count": 5,
+          "time_info": "[19时30分 ~ 22时02分]"
         },
         {
           "title": "金十数据整理：每日房地产行业动态汇总（2026-02-03）",
