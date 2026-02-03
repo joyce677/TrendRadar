@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T09:25:42.667536+08:00",
-  "total_titles_processed": 713,
+  "generated_at": "2026-02-03T12:09:34.150823+08:00",
+  "total_titles_processed": 893,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "利率 汇率",
-      "match_count": 11,
+      "match_count": 19,
       "titles": [
         {
           "title": "瑞士央行：能够实施负利率",
@@ -41,6 +41,28 @@
           "time_info": "07时22分"
         },
         {
+          "title": "中国财政部发行28天期债券，规模300亿元，发行利率1.0959%，边际利率1.1612%，预期1.2500%，投标倍数3.49倍，边际倍数1.11倍； 中国财政部发行182天期债券，规模450亿元，发行利率1.2755%，边际利率1.3324%，预期1.3000%，投标倍数2.72倍，边际倍数10.57倍。",
+          "url": "https://wallstreetcn.com/livenews/3048788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "澳洲联储：信贷总量增长已大幅回升，现金利率低于某些中性指标。",
+          "url": "https://flash.jin10.com/detail/20260203113329481800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
           "title": "美国财政部拍卖三个月期国债，得标利率3.6%，投标倍数2.81。 拍卖六个月期国债，得标利率3.525%，投标倍数3.08。",
           "url": "https://wallstreetcn.com/livenews/3048467",
           "source": "华尔街见闻-快讯",
@@ -58,9 +80,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "澳洲联储：上调近期国内生产总值增长预期，同时下调2027年增长预期。 预测数据基于以下假设，即6月指标利率为3.9%，12月为4.2%。 上调直至2027年底的通胀预期。 预计2025年第四季度GDP增长2.3%，2026年第四季度增长1.8%，2027年第四季度增长1.6%。 预计CPI在第二季度上涨4.2%，第四季度上涨3.6%，2027年第四季度上涨2.7%，2028年第二季度上涨2.6%。 预计第二季度CPI截尾均值升幅为3.7%，第四季度为3.2%，2027 年第四季度为2.7%，2028 年第二季度为2.6%。 预计2026年第四季度失业率为4.3%，2027 年第四季度为4.5%，2028 年第二季度为4.6%。",
+          "url": "https://wallstreetcn.com/livenews/3048780",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
         },
         {
           "title": "瑞士央行行长施莱格尔：瑞士央行当前的利率水平恰当。",
@@ -85,6 +118,39 @@
           "time_info": "02时34分"
         },
         {
+          "title": "澳洲联储：预测基于6月现金利率为3.9%、12月为4.2%的假设。",
+          "url": "https://flash.jin10.com/detail/20260203113240239800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "澳大利亚政策利率 3.85%，预期 3.85%，前值 3.6%。",
+          "url": "https://wallstreetcn.com/livenews/3048774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "澳洲联储：委员会认为，通胀在一段时间内很可能仍高于目标水平，提高现金利率目标是恰当的。",
+          "url": "https://flash.jin10.com/detail/20260203113135525800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
           "title": "美国至2月2日6个月国债竞拍-得标利率配置百分比 73.03%，前值87.22%。",
           "url": "https://flash.jin10.com/detail/20260203003205351800",
           "source": "金十数据",
@@ -94,6 +160,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
+        },
+        {
+          "title": "提醒：北京时间11:30，澳洲联储将公布利率决策，预期为加息25个基点至3.85%。",
+          "url": "https://wallstreetcn.com/livenews/3048765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
         },
         {
           "title": "美国至2月2日6个月国债竞拍-得标利率 3.525%，前值3.53%。",
@@ -118,6 +195,17 @@
           "time_info": "01时33分"
         },
         {
+          "title": "农发行发行5年期债券，规模90亿元，发行利率1.6996%，预期1.7100%，投标倍数3.10倍，边际倍数2.09倍。",
+          "url": "https://wallstreetcn.com/livenews/3048760",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
           "title": "美国至2月2日3个月国债竞拍-得标利率 3.6%，前值3.58%。",
           "url": "https://flash.jin10.com/detail/20260203003203949800",
           "source": "金十数据",
@@ -127,6 +215,235 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 10,
+      "titles": [
+        {
+          "title": "萝莉岛兽行曝光,马斯克急撇清",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350003&amp;topic_name=%E8%90%9D%E8%8E%89%E5%B2%9B%E5%85%BD%E8%A1%8C%E6%9B%9D%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E6%80%A5%E6%92%87%E6%B8%85",
+          "source": "贴吧",
+          "ranks": [
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 09时25分]"
+        },
+        {
+          "title": "马斯克女儿爆料",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A5%B3%E5%84%BF%E7%88%86%E6%96%99%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时22分 ~ 12时09分]"
+        },
+        {
+          "title": "马斯克女儿爆料",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A5%B3%E5%84%BF%E7%88%86%E6%96%99",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 12时09分]"
+        },
+        {
+          "title": "剑指太空数据中心！马斯克旗下SpaceX确认与xAI合并",
+          "url": "https://www.cls.cn/detail/2278467",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "马斯克跨性别女儿开锤亲爹",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350084&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E5%84%BF%E5%BC%80%E9%94%A4%E4%BA%B2%E7%88%B9",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "Space X收购xAI，“火箭+AI+社交平台”超级巨头成型，马斯克剑指太空数据中心",
+          "url": "https://wallstreetcn.com/articles/3764779",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "如何评价爱泼斯坦文件显示埃隆·马斯克想要登上爱泼斯坦岛，马斯克女儿爆料称属实？",
+          "url": "https://www.zhihu.com/question/2000815546627811275",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "据华尔街日报：马斯克旗下的SpaceX限制俄罗斯无人机使用星链服务。",
+          "url": "https://flash.jin10.com/detail/20260203020849427800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "马斯克被女儿爆料曾登爱泼斯坦岛",
+          "url": "https://www.toutiao.com/trending/7602285893713723455/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "马斯克女儿爆料",
+          "url": "https://www.douyin.com/hot/2387887",
+          "source": "抖音",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
+          "url": "https://www.cls.cn/detail/2278216",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时31分 ~ 12时09分]"
+        },
+        {
+          "title": "SpaceX官宣收购xAI",
+          "url": "https://search.bilibili.com/all?keyword=SpaceX%E5%AE%98%E5%AE%A3%E6%94%B6%E8%B4%ADxAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 12时09分]"
+        },
+        {
+          "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32511275",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时31分 ~ 07时22分]"
+        },
+        {
+          "title": "解读SpaceX收购xAI",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BBSpaceX%E6%94%B6%E8%B4%ADxAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "2月3日投资避雷针：这只人气股紧急澄清 无星云算力调度平台、马来西亚AI数据中心项目",
+          "url": "https://www.cls.cn/detail/2278442",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "软银公司宣布，其子公司SaiMemory将与英特尔展开合作，共同推动下一代存储技术的商业化。 该项目计划在2028年3月31日止的财年内（即2027财年）制造出原型产品；并目标在2029财年实现正式商业化。",
+          "url": "https://wallstreetcn.com/livenews/3048772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时09分"
+        },
+        {
+          "title": "AI圈爆火的OpenClaw是个啥",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%88%E7%88%86%E7%81%AB%E7%9A%84OpenClaw%E6%98%AF%E4%B8%AA%E5%95%A5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时34分"
+        },
+        {
+          "title": "SpaceX收购xAI 估值1.25万亿美元",
+          "url": "https://www.baidu.com/s?wd=SpaceX%E6%94%B6%E8%B4%ADxAI+%E4%BC%B0%E5%80%BC1.25%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "SpaceX与xAI关于合并的声明并不包含财务条款。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3048556",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时22分"
         }
       ]
     },
@@ -218,133 +535,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
-          "url": "https://www.cls.cn/detail/2278216",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9,
-            7,
-            5
-          ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 09时25分]"
-        },
-        {
-          "title": "SpaceX官宣收购xAI",
-          "url": "https://search.bilibili.com/all?keyword=SpaceX%E5%AE%98%E5%AE%A3%E6%94%B6%E8%B4%ADxAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32511275",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 07时22分]"
-        },
-        {
-          "title": "AI圈爆火的OpenClaw是个啥",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%9C%88%E7%88%86%E7%81%AB%E7%9A%84OpenClaw%E6%98%AF%E4%B8%AA%E5%95%A5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时34分"
-        },
-        {
-          "title": "SpaceX收购xAI 估值1.25万亿美元",
-          "url": "https://www.baidu.com/s?wd=SpaceX%E6%94%B6%E8%B4%ADxAI+%E4%BC%B0%E5%80%BC1.25%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "SpaceX与xAI关于合并的声明并不包含财务条款。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3048556",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "萝莉岛兽行曝光,马斯克急撇清",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350003&amp;topic_name=%E8%90%9D%E8%8E%89%E5%B2%9B%E5%85%BD%E8%A1%8C%E6%9B%9D%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E6%80%A5%E6%92%87%E6%B8%85",
-          "source": "贴吧",
-          "ranks": [
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时31分 ~ 09时25分]"
-        },
-        {
-          "title": "马斯克女儿爆料",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A5%B3%E5%84%BF%E7%88%86%E6%96%99%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时22分 ~ 09时25分]"
-        },
-        {
-          "title": "据华尔街日报：马斯克旗下的SpaceX限制俄罗斯无人机使用星链服务。",
-          "url": "https://flash.jin10.com/detail/20260203020849427800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时34分"
-        },
-        {
-          "title": "马斯克女儿爆料",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A5%B3%E5%84%BF%E7%88%86%E6%96%99",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时25分"
         }
