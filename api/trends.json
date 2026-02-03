@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T07:22:25.903353+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-02-03T09:25:42.667536+08:00",
+  "total_titles_processed": 713,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "利率 汇率",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "瑞士央行：能够实施负利率",
@@ -36,7 +36,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -50,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
+        },
+        {
+          "title": "日本经济财政大臣城内实：疲软日元有利有弊，汇率走势由多种因素决定。",
+          "url": "https://wallstreetcn.com/livenews/3048636",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         },
         {
           "title": "瑞士央行行长施莱格尔：瑞士央行当前的利率水平恰当。",
@@ -121,7 +132,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI：Codex应用今日在MacOS上线。",
@@ -141,7 +152,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -152,7 +163,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -174,7 +185,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         },
@@ -196,15 +207,26 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "【金十数据整理：每日科技要闻速递（2月3日）】人工智能： <br/><span class=\"section-news\">1. SpaceX确认与xAI合并。</span><br/><span class=\"section-news\">2. 甲骨文启动美元债发行，拟筹资至多500亿美元扩建云业务。</span><br/><span class=\"section-news\">3. 消息称马斯克推进SpaceX、xAI合并，最快本周达成协议。</span><br/><span class=\"section-news\">4. 千问将豪掷“30亿”激励，加入腾讯打响的AI用户争夺战。</span><br/><span class=\"section-news\">5. 传OpenAI对英伟达芯片在AI聊天时的响应速度不满意，奥尔特曼驳斥。</span><br/>其他：<br/><span class=\"section-news\">1. 英国航天局负责人将于3月底离任。</span><br/><span class=\"section-news\">2. 美国企业批评波兰拟推数字服务税。</span><br/><span class=\"section-news\">3. 台媒：台积电2nm产能已被预订一空。</span><br/><span class=\"section-news\">4. 三星、SK海力士计划扩大尖端NAND产能。</span><br/><span class=\"section-news\">5. Waymo融资160亿美元，投后估值达1260亿美元。</span><br/><span class=\"section-news\">6. 特斯拉1月法国、挪威市场注册量双双崩跌，分别下跌42%和88%。</span><br/><span class=\"section-news\">7. 国家科教基础设施IP-SAFE项目加速器装置主体安装完成。 </span>",
+          "url": "https://flash.jin10.com/detail/20260203082140150800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "元宝红包建群“根本停不下来” 千问投30亿发起攻势 大厂春节AI战升级",
@@ -217,8 +239,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 07时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 09时25分]"
+        },
+        {
+          "title": "SpaceX官宣收购xAI",
+          "url": "https://search.bilibili.com/all?keyword=SpaceX%E5%AE%98%E5%AE%A3%E6%94%B6%E8%B4%ADxAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         },
         {
           "title": "两会对话｜如何不做AI时代的文盲？如何防止“AI说胡话”？黄海清委员这样建议",
@@ -243,13 +276,24 @@
           "time_info": "02时34分"
         },
         {
+          "title": "SpaceX收购xAI 估值1.25万亿美元",
+          "url": "https://www.baidu.com/s?wd=SpaceX%E6%94%B6%E8%B4%ADxAI+%E4%BC%B0%E5%80%BC1.25%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
           "title": "SpaceX与xAI关于合并的声明并不包含财务条款。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3048556",
           "source": "华尔街见闻-快讯",
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         }
@@ -257,18 +301,30 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "萝莉岛兽行曝光,马斯克急撇清",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350003&amp;topic_name=%E8%90%9D%E8%8E%89%E5%B2%9B%E5%85%BD%E8%A1%8C%E6%9B%9D%E5%85%89%2C%E9%A9%AC%E6%96%AF%E5%85%8B%E6%80%A5%E6%92%87%E6%B8%85",
           "source": "贴吧",
           "ranks": [
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 07时22分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 09时25分]"
+        },
+        {
+          "title": "马斯克女儿爆料",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A5%B3%E5%84%BF%E7%88%86%E6%96%99%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时22分 ~ 09时25分]"
         },
         {
           "title": "据华尔街日报：马斯克旗下的SpaceX限制俄罗斯无人机使用星链服务。",
@@ -283,14 +339,14 @@
         },
         {
           "title": "马斯克女儿爆料",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A5%B3%E5%84%BF%E7%88%86%E6%96%99%23&t=31&band_rank=11&Refer=top",
-          "source": "微博",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%A5%B3%E5%84%BF%E7%88%86%E6%96%99",
+          "source": "百度热搜",
           "ranks": [
-            11
+            12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时22分"
+          "time_info": "09时25分"
         }
       ]
     },
@@ -334,7 +390,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
         }
