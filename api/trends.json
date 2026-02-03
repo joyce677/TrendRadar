@@ -1,72 +1,11 @@
 {
-  "generated_at": "2026-02-04T01:05:48.634822+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-04T03:05:25.251999+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "特朗普希望中国也加入核军控谈判，中方回应",
-          "url": "https://news.ifeng.com/c/8qRbfAGXhdh",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
-          "url": "https://news.ifeng.com/c/8qRnEtgNGZK",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "城堡投资创始人格里芬：特朗普政府在个人获利决策方面出现了失误。",
-          "url": "https://flash.jin10.com/detail/20260204005511944800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
-          "url": "https://wallstreetcn.com/articles/3764775",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        },
-        {
-          "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
-          "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 12,
       "titles": [
         {
           "title": "伊朗外交部：伊朗外长和阿曼外长通话，讨论了双边关系和地区局势，并交换了意见。",
@@ -84,11 +23,23 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
           "source": "澎湃新闻",
           "ranks": [
-            8
+            8,
+            9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时05分]"
+        },
+        {
+          "title": "伊朗外长同多国外长通电话 讨论地区局势",
+          "url": "https://flash.jin10.com/detail/20260204024839482800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时05分"
+          "time_info": "03时05分"
         },
         {
           "title": "英国海事风险管理集团Vanguard：该船只未进入伊朗内陆领海，由美国军舰护航。",
@@ -102,6 +53,17 @@
           "time_info": "01时05分"
         },
         {
+          "title": "以色列总理办公室：在美国特使威特科夫前往会见伊朗代表之前，内塔尼亚胡重申了他的立场，即伊朗已经一再证明其承诺不可信。",
+          "url": "https://flash.jin10.com/detail/20260204024225346800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
           "title": "海事消息人士称，悬挂美国国旗的“Stena Imperative”号货轮在霍尔木兹海峡遭遇三对伊朗武装快艇的逼近。",
           "url": "https://flash.jin10.com/detail/20260204004639054800",
           "source": "金十数据",
@@ -111,12 +73,205 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时05分"
+        },
+        {
+          "title": "美军击落一架接近“林肯”号航母的伊朗无人机",
+          "url": "https://wallstreetcn.com/livenews/3049269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "美中央司令部证实击落一架伊朗无人机",
+          "url": "https://wallstreetcn.com/livenews/3049268",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "白宫新闻秘书：美国特使威特科夫决心探索与伊朗的外交途径。",
+          "url": "https://flash.jin10.com/detail/20260204022340212800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "报道称伊朗炮艇逼近悬挂美国旗油轮",
+          "url": "https://wallstreetcn.com/livenews/3049255",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "伊朗据称希望改变与美国谈判的地点和形式",
+          "url": "https://wallstreetcn.com/livenews/3049253",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "白宫新闻秘书：美国题特使威特科夫已离开并准备与伊朗方面会谈，谈判仍按原计划进行。",
+          "url": "https://flash.jin10.com/detail/20260204021450523800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "特朗普希望中国也加入核军控谈判，中方回应",
+          "url": "https://news.ifeng.com/c/8qRbfAGXhdh",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时05分]"
+        },
+        {
+          "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
+          "url": "https://news.ifeng.com/c/8qRnEtgNGZK",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时05分]"
+        },
+        {
+          "title": "城堡投资创始人格里芬：特朗普政府在个人获利决策方面出现了失误。",
+          "url": "https://flash.jin10.com/detail/20260204005511944800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "特朗普与哥伦比亚总统佩特罗会晤，讨论打击毒品走私",
+          "url": "https://wallstreetcn.com/livenews/3049283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
+          "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时05分]"
+        },
+        {
+          "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
+          "url": "https://wallstreetcn.com/articles/3764775",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时05分"
+        },
+        {
+          "title": "比特币创特朗普第二次当选为美国总统以来的新低，目前跌超5%，逼近7.4万美元。",
+          "url": "https://wallstreetcn.com/livenews/3049277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "特朗普与哥伦比亚总统佩特罗会晤 讨论打击毒品走私",
+          "url": "https://flash.jin10.com/detail/20260204024423166800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "白宫新闻秘书Leavitt：美国总统特朗普觉得，政府关门只会伤害经济。",
+          "url": "https://wallstreetcn.com/livenews/3049273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "白宫新闻秘书：特朗普在伊朗问题上有很多选项。",
+          "url": "https://flash.jin10.com/detail/20260204022425976800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "美国白宫：已与特朗普就俄罗斯袭击乌克兰一事进行沟通，特朗普的反应并不意外。",
+          "url": "https://flash.jin10.com/detail/20260204022404753800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "大反弹！白银涨11%，黄金涨6%，美股指涨跌互现，Palantir涨12%，沃尔玛市值首超1万亿美元",
@@ -126,8 +281,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时05分]"
         },
         {
           "title": "美制造业数据托底风险偏好，美股、加密货币齐反弹、美元续涨，金银企稳，原油重挫",
@@ -137,8 +292,19 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时05分]"
+        },
+        {
+          "title": "美股延续跌势，道指下跌1.00%。",
+          "url": "https://flash.jin10.com/detail/20260204030013728800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时05分"
+          "time_info": "03时05分"
         },
         {
           "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
@@ -148,8 +314,87 @@
             12
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时05分]"
+        },
+        {
+          "title": "美股延续跌势，纳指下跌2.00%。",
+          "url": "https://flash.jin10.com/detail/20260204021533895800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时05分"
+          "time_info": "03时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "报道称OpenAI对英伟达AI芯片不满意，寻求推理芯片替代",
+          "url": "https://wallstreetcn.com/articles/3764782",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "OpenAI的CEO Altman：公司可能会在AI医药发现方面寻找合作伙伴，或投资。",
+          "url": "https://wallstreetcn.com/livenews/3049262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        },
+        {
+          "title": "OpenAI的CEO Altman：我的确担心美国无法在开源AI领域领先。 最重要的是，美国在前沿模型领先。 Codex首次让我感觉到另外一个ChatGPT时刻。 在安全与数据接入权限方面的平衡限制AI。 在某些方面人工智能的普及速度比自己预想的要慢。 OPENAI最终目标是实现全面的人工智能业务。",
+          "url": "https://wallstreetcn.com/livenews/3049251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "120倍回报、千亿美元浮盈，SpaceX上市的隐藏大赢家——谷歌！",
+          "url": "https://wallstreetcn.com/articles/3764858",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时05分]"
+        },
+        {
+          "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
+          "url": "https://wallstreetcn.com/livenews/3049266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时05分"
         }
       ]
     },
@@ -165,36 +410,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时05分]"
         },
         {
           "title": "金价波动",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%B3%A2%E5%8A%A8&t=31&band_rank=17&Refer=top",
           "source": "微博",
           "ranks": [
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "120倍回报、千亿美元浮盈，SpaceX上市的隐藏大赢家——谷歌！",
-          "url": "https://wallstreetcn.com/articles/3764858",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时05分"
+          "appearance_count": 2,
+          "time_info": "[01时05分 ~ 03时05分]"
         }
       ]
     }
