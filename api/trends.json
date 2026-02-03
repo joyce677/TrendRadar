@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T01:47:18.097285+08:00",
-  "total_titles_processed": 388,
+  "generated_at": "2026-02-04T02:46:37.805516+08:00",
+  "total_titles_processed": 455,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "春节为何成为AI红包主战场",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时46分]"
         },
         {
           "title": "达索系统与英伟达构建合作伙伴关系，将打造工业AI平台。 将为跨行业的AI打造架构。 达索系统的OutScale AI Factories将应用英伟达的基础设施。",
@@ -38,8 +38,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时46分]"
         },
         {
           "title": "市值一日蒸发480亿！寒武纪否认市场传闻但股价难止跌 投资人士：AI芯片龙头稀缺性或在消退",
@@ -49,8 +49,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时46分]"
         },
         {
           "title": "一图看懂 | 官宣与xAI合并，SpaceX接下来还有哪些大动作？",
@@ -60,8 +60,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时46分]"
         },
         {
           "title": "解读SpaceX收购xAI",
@@ -71,8 +71,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时46分]"
+        },
+        {
+          "title": "英伟达CEO黄仁勋：AI将带来更加廉价的能源成本。",
+          "url": "https://wallstreetcn.com/livenews/3049265",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
         },
         {
           "title": "新世界发展：上海K11 ATELIER Huaihai办公楼预出租率超50%",
@@ -88,6 +99,89 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
+          "url": "https://flash.jin10.com/detail/20260204013101107800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "OpenAI的CEO Altman：Codex首次让我感觉到另外一个ChatGPT时刻。 在安全与数据接入权限方面的平衡限制AI。",
+          "url": "https://wallstreetcn.com/livenews/3049251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：Moltbook可能只是一时的潮流，但OpenCLAW并非如此。",
+          "url": "https://flash.jin10.com/detail/20260204012612904800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "报道称OpenAI对英伟达AI芯片不满意，寻求推理芯片替代",
+          "url": "https://wallstreetcn.com/articles/3764782",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "OpenAI的CEO Altman：公司可能会在AI医药发现方面寻找合作伙伴，或投资。",
+          "url": "https://wallstreetcn.com/livenews/3049262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "OpenAI的CEO Altman：我的确担心美国无法在开源AI领域领先。 最重要的是，美国在前沿模型领先。 Codex首次让我感觉到另外一个ChatGPT时刻。 在安全与数据接入权限方面的平衡限制AI。 在某些方面人工智能的普及速度比自己预想的要慢。 OPENAI最终目标是实现全面的人工智能业务。",
+          "url": "https://wallstreetcn.com/livenews/3049251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：OpenAI或在人工智能药物研发领域开展合作、进行投资。",
+          "url": "https://flash.jin10.com/detail/20260204015701016800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克",
       "match_count": 6,
       "titles": [
@@ -99,8 +193,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时46分]"
         },
         {
           "title": "马斯克，被传唤",
@@ -110,8 +204,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时46分]"
         },
         {
           "title": "法国司法部门搜查X平台办公室并传唤马斯克",
@@ -119,11 +213,12 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时46分]"
         },
         {
           "title": "马斯克被法司法部门传唤",
@@ -133,8 +228,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时46分]"
         },
         {
           "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
@@ -145,8 +240,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时46分]"
         },
         {
           "title": "马斯克跨性别女儿开锤亲爹",
@@ -156,14 +251,14 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时46分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
@@ -172,7 +267,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
         },
@@ -181,11 +276,23 @@
           "url": "https://wallstreetcn.com/articles/3764858",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时44分 ~ 01时47分]"
+          "appearance_count": 3,
+          "time_info": "[00时44分 ~ 02时46分]"
+        },
+        {
+          "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
+          "url": "https://wallstreetcn.com/livenews/3049266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
         },
         {
           "title": "谷歌(GOOG.O)：统一维护服务正式上线，通过集中式控制面板查看并管理谷歌云服务中的维护事件。",
@@ -194,46 +301,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
-          "url": "https://flash.jin10.com/detail/20260204013101107800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "OpenAI的CEO Altman：Codex首次让我感觉到另外一个ChatGPT时刻。 在安全与数据接入权限方面的平衡限制AI。",
-          "url": "https://wallstreetcn.com/livenews/3049251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：Moltbook可能只是一时的潮流，但OpenCLAW并非如此。",
-          "url": "https://flash.jin10.com/detail/20260204012612904800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
         }
@@ -241,8 +309,19 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了18个对手方的17.85亿美元。",
+          "url": "https://flash.jin10.com/detail/20260204021812237800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        },
         {
           "title": "诺和诺德预计2026年销售额在汇率不变情况下将下降5%至13%，估算跌幅为1.39%。",
           "url": "https://wallstreetcn.com/livenews/3049238",
@@ -250,7 +329,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
         },
@@ -261,7 +340,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时47分"
         },
@@ -275,6 +354,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "加拿大1月温哥华基准房价同比下滑5.7%。 1月温哥华住房销售同比锐减28.7%。",
+          "url": "https://wallstreetcn.com/livenews/3049260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "agent",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Anthropic PBC：苹果公司的xCode现在支持Claude Agent SDK。",
+          "url": "https://wallstreetcn.com/livenews/3049272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "虚拟币 币安 比特币 以太坊",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比特币创特朗普第二次当选为美国总统以来的新低，目前跌超5%，逼近7.4万美元。",
+          "url": "https://wallstreetcn.com/livenews/3049277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
         }
       ]
     }
