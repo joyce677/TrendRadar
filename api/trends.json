@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-03T18:51:47.721442+08:00",
-  "total_titles_processed": 1366,
+  "generated_at": "2026-02-03T19:41:01.275043+08:00",
+  "total_titles_processed": 1446,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "美媒：欧洲领导人曾熬夜开会，制定应对特朗普的“作战手册”",
@@ -24,11 +24,50 @@
           "url": "https://news.ifeng.com/c/8qRbfAGXhdh",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时50分 ~ 19时41分]"
+        },
+        {
+          "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
+          "url": "https://news.ifeng.com/c/8qRnEtgNGZK",
+          "source": "凤凰网",
+          "ranks": [
+            5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[16时50分 ~ 18时51分]"
+          "time_info": "[18时51分 ~ 19时41分]"
+        },
+        {
+          "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
+          "url": "https://wallstreetcn.com/articles/3764775",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时03分 ~ 19时41分]"
+        },
+        {
+          "title": "中方回应特朗普让中国参与军控谈判",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%8F%82%E4%B8%8E%E5%86%9B%E6%8E%A7%E8%B0%88%E5%88%A4",
+          "source": "百度热搜",
+          "ranks": [
+            15,
+            5,
+            10,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时50分 ~ 19时41分]"
         },
         {
           "title": "法庭文件显示，纽约市发展委员会起诉特朗普政府，指控其扣留连接纽约市和新泽西州、耗资160亿美元的隧道建设资金。",
@@ -66,17 +105,6 @@
           "time_info": "[10时44分 ~ 15时03分]"
         },
         {
-          "title": "特朗普谈美伊谈判：希望能达成协议，否则会有糟糕的事",
-          "url": "https://news.ifeng.com/c/8qRnEtgNGZK",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时51分"
-        },
-        {
           "title": "特朗普：与印度达成贸易协议 将把对印度的关税降至18%",
           "url": "https://flash.jin10.com/detail/20260203011746385800",
           "source": "金十数据",
@@ -99,32 +127,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时44分 ~ 15时03分]"
-        },
-        {
-          "title": "中方回应特朗普让中国参与军控谈判",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%A9%E4%B8%AD%E5%9B%BD%E5%8F%82%E4%B8%8E%E5%86%9B%E6%8E%A7%E8%B0%88%E5%88%A4",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时50分 ~ 18时51分]"
-        },
-        {
-          "title": "特朗普：莫迪同意停购俄油，美印达成贸易协议，将降低印度关税",
-          "url": "https://wallstreetcn.com/articles/3764775",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时03分 ~ 18时51分]"
         },
         {
           "title": "特朗普称美印达成贸易协议，对印关税下调至 18%，这场交易背后各有哪些算计？会带来什么影响？",
@@ -150,6 +152,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时53分 ~ 13时57分]"
+        },
+        {
+          "title": "特朗普称莫迪同意停止购买俄石油，克宫发声",
+          "url": "https://news.ifeng.com/c/8qRsRpYySJZ",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 19时41分]"
         },
         {
           "title": "美国驻印度大事：总统特朗普刚刚与印度总理莫迪通话。",
@@ -313,7 +326,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -324,7 +337,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -550,6 +563,20 @@
           "time_info": "[00时51分 ~ 07时36分]"
         },
         {
+          "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时03分 ~ 19时41分]"
+        },
+        {
           "title": "约旦副首相与伊朗外长通电话 讨论地区局势",
           "url": "https://flash.jin10.com/detail/20260203011957457800",
           "source": "金十数据",
@@ -632,20 +659,6 @@
           "time_info": "[16时50分 ~ 17时53分]"
         },
         {
-          "title": "以色列对美国与伊朗谈判提“三不”强硬要求",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32520089",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时03分 ~ 18时51分]"
-        },
-        {
           "title": "伊朗外交部就伊美接触明确立场：解除制裁是核心诉求",
           "url": "https://wallstreetcn.com/livenews/3048461",
           "source": "华尔街见闻-快讯",
@@ -697,7 +710,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -708,7 +721,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -796,7 +809,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
         },
@@ -825,8 +838,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[10时44分 ~ 18时51分]"
+          "appearance_count": 10,
+          "time_info": "[10时44分 ~ 19时41分]"
         },
         {
           "title": "商品暴跌震动市场！美股指集体低开，纳指跌0.4%，甲骨文逆势涨4%，现货金银“V”型反转，布油跌5%",
@@ -840,6 +853,18 @@
           "time_info": "[00时51分 ~ 01时46分]"
         },
         {
+          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
+          "url": "https://wallstreetcn.com/articles/3764793",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 19时41分]"
+        },
+        {
           "title": "美股收盘：标普低开高走迫近新高 存储板块又迎热钱流入",
           "url": "https://www.cls.cn/detail/2278378",
           "source": "财联社热门",
@@ -850,18 +875,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[07时36分 ~ 15时03分]"
-        },
-        {
-          "title": "大反弹！白银涨11%，黄金涨6%，纳指期货涨超0.5%，存储板块美股盘前走高，欧股集体高开，韩股大涨6%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时53分 ~ 18时51分]"
         },
         {
           "title": "美股稀土板块盘前走强 据称美国拟启动“金库计划” 复制石油储备模式",
@@ -954,6 +967,17 @@
           "time_info": "[12时53分 ~ 17时53分]"
         },
         {
+          "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
+          "url": "https://www.zhihu.com/question/1999853061464614005",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时53分 ~ 19时41分]"
+        },
+        {
           "title": "金价暴跌后黄金市场挤满顾客",
           "url": "https://www.douyin.com/hot/2386891",
           "source": "抖音",
@@ -964,17 +988,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时45分 ~ 07时36分]"
-        },
-        {
-          "title": "1 克黄金能打一张完整黄金婚书引热议，黄金的延展性到底有多强？金价飙升，这种轻量奢华蕴藏多大商业空间？",
-          "url": "https://www.zhihu.com/question/1999853061464614005",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时53分 ~ 18时51分]"
         },
         {
           "title": "李大霄解读金价一夜V型反转",
@@ -1107,7 +1120,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "紧跟美债步伐 美国强劲经济数据推升英债收益率",
@@ -1138,9 +1151,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时51分"
+        },
+        {
+          "title": "美国经济数据走强 推高美债收益率",
+          "url": "https://flash.jin10.com/detail/20260203190934641800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时41分"
         }
       ]
     },
