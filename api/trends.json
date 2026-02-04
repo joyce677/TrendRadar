@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T07:23:25.186382+08:00",
-  "total_titles_processed": 720,
+  "generated_at": "2026-02-04T09:21:34.981806+08:00",
+  "total_titles_processed": 892,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "春节为何成为AI红包主战场",
@@ -66,6 +66,17 @@
           "time_info": "[00时44分 ~ 04时29分]"
         },
         {
+          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
+          "url": "https://wallstreetcn.com/articles/3764882",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
           "title": "CenterView高管Blair Effron：在（并购/M&A）交易方面，我们的确面临大量的尾部风险。 经济、受抑的需求、监管都帮助推进并购。",
           "url": "https://wallstreetcn.com/livenews/3049303",
           "source": "华尔街见闻-快讯",
@@ -94,7 +105,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -110,6 +121,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时42分 ~ 05时28分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
+          "url": "https://www.cls.cn/detail/2279710",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 09时21分]"
         },
         {
           "title": "印度官员Jaishankar：2月3日在华盛顿特区会见美国财政部长贝森特。 讨论美国经济合作伙伴关系与协同。",
@@ -160,17 +183,6 @@
           "time_info": "[02时46分 ~ 03时42分]"
         },
         {
-          "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
-          "url": "https://www.cls.cn/detail/2279710",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
-        },
-        {
           "title": "光伏逆变器供应商Enphase Energy Inc.：一季度为APP推出AI助理。",
           "url": "https://wallstreetcn.com/livenews/3049344",
           "source": "华尔街见闻-快讯",
@@ -188,9 +200,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "亚洲软件股跟随美股软件股大跌，AI颠覆性冲击引发担忧",
+          "url": "https://wallstreetcn.com/livenews/3049421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
+        {
+          "title": "美股爆发AI恐慌性抛售",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%88%86%E5%8F%91AI%E6%81%90%E6%85%8C%E6%80%A7%E6%8A%9B%E5%94%AE",
+          "source": "百度热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "AMD第四财季来自中国的MI308 AI芯片销售额为3.9亿美元。 剔除MI380的中国销售为98亿美元。",
@@ -221,7 +255,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -232,7 +266,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -262,7 +296,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "OpenAI创始人奥尔特曼：在某些方面，人工智能的普及速度比我预想的要慢。",
@@ -343,6 +377,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
+        },
+        {
+          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
+          "url": "https://www.cls.cn/detail/2279758",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         },
         {
           "title": "OpenAI创始人奥尔特曼：Moltbook可能只是一时的潮流，但OpenCLAW并非如此。",
@@ -428,7 +473,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
         },
@@ -495,19 +540,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 07时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 09时21分]"
         },
         {
           "title": "马斯克，被传唤",
           "url": "https://news.ifeng.com/c/8qRtxXxufFZ",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 07时23分]"
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 09时21分]"
         },
         {
           "title": "马斯克被法司法部门传唤",
@@ -538,11 +584,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350084&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B7%A8%E6%80%A7%E5%88%AB%E5%A5%B3%E5%84%BF%E5%BC%80%E9%94%A4%E4%BA%B2%E7%88%B9",
           "source": "贴吧",
           "ranks": [
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 07时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 09时21分]"
         },
         {
           "title": "马斯克就法国当局搜查X公司办公室一事回应称：这是一次政治攻击。",
@@ -591,73 +638,20 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "120倍回报、千亿美元浮盈，SpaceX上市的隐藏大赢家——谷歌！",
-          "url": "https://wallstreetcn.com/articles/3764858",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时44分 ~ 07时23分]"
-        },
-        {
-          "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
-          "url": "https://flash.jin10.com/detail/20260204012848095800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        },
-        {
-          "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
-          "url": "https://wallstreetcn.com/livenews/3049266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时46分 ~ 03时42分]"
-        },
-        {
-          "title": "法院文件显示，美国就谷歌搜索反垄断案提起上诉。",
-          "url": "https://flash.jin10.com/detail/20260204045424029800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时28分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：统一维护服务正式上线，通过集中式控制面板查看并管理谷歌云服务中的维护事件。",
-          "url": "https://flash.jin10.com/detail/20260204010917960800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "利率 汇率",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "利率上行重挫消费信心 澳洲媒体广告业静待寒冬",
+          "url": "https://flash.jin10.com/detail/20260204090553746800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
+        },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了18个对手方的17.85亿美元。",
           "url": "https://flash.jin10.com/detail/20260204021812237800",
@@ -709,9 +703,73 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "120倍回报、千亿美元浮盈，SpaceX上市的隐藏大赢家——谷歌！",
+          "url": "https://wallstreetcn.com/articles/3764858",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时44分 ~ 09时21分]"
+        },
+        {
+          "title": "书面证词显示，谷歌(GOOG.O)旗下自动驾驶部门Waymo将向美国参议院委员会作证，为其安全记录辩护，并表示其自动驾驶车辆导致的严重伤亡或更严重车祸数量仅为人类驾驶员的十分之一。",
+          "url": "https://flash.jin10.com/detail/20260204012848095800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
+        },
+        {
+          "title": "谷歌公司探索在印度大幅扩张，目前美国总统特朗普正设法限制签证（申请）。",
+          "url": "https://wallstreetcn.com/livenews/3049266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时46分 ~ 03时42分]"
+        },
+        {
+          "title": "法院文件显示，美国就谷歌搜索反垄断案提起上诉。",
+          "url": "https://flash.jin10.com/detail/20260204045424029800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时28分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：统一维护服务正式上线，通过集中式控制面板查看并管理谷歌云服务中的维护事件。",
+          "url": "https://flash.jin10.com/detail/20260204010917960800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时47分"
         }
       ]
     },
@@ -726,9 +784,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时23分 ~ 09时21分]"
         },
         {
           "title": "比特币出现V型走势，在跌穿7.3万美元之后“直线”回升，目前收复7.5万美元关口，当前跌幅不足4.3%。",
@@ -804,6 +862,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时46分 ~ 04时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "iphone apple",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "iPhone18再爆料",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone18%E5%86%8D%E7%88%86%E6%96%99%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时21分"
         }
       ]
     }
