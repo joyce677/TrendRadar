@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-04T11:26:28.821211+08:00",
-  "total_titles_processed": 487,
+  "generated_at": "2026-02-04T12:55:26.067998+08:00",
+  "total_titles_processed": 607,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "法国司法部门搜查X平台办公室并传唤马斯克",
@@ -16,8 +16,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 11时26分]"
+          "appearance_count": 4,
+          "time_info": "[08时54分 ~ 12时55分]"
+        },
+        {
+          "title": "马斯克团队密访中国多家光伏企业？晶科能源：公司有与考察团接触",
+          "url": "https://wallstreetcn.com/livenews/3049557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "马斯克跨性别女儿开锤亲爹",
@@ -43,6 +54,17 @@
           "time_info": "[08时54分 ~ 08时55分]"
         },
         {
+          "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
+          "url": "https://news.ifeng.com/c/8qSsdnqx4JM",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时26分 ~ 12时55分]"
+        },
+        {
           "title": "估值1.25万亿美元！马斯克宣布SpaceX收购xAI：瞄准太空AI基础设施",
           "url": "https://m.thepaper.cn/newsDetail_forward_32520975",
           "source": "澎湃新闻",
@@ -54,24 +76,13 @@
           "time_info": "[08时54分 ~ 08时55分]"
         },
         {
-          "title": "马斯克、美商务部长都出现在爱泼斯坦文件中，特朗普回应",
-          "url": "https://news.ifeng.com/c/8qSsdnqx4JM",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时26分"
-        },
-        {
           "title": "报道：马斯克团队密访中国多家光伏企业，重点考察有异质结、钙钛矿技术路线企业",
           "url": "https://wallstreetcn.com/livenews/3049485",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时26分"
         }
@@ -79,7 +90,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
@@ -87,11 +98,34 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 11时26分]"
+          "appearance_count": 4,
+          "time_info": "[08时54分 ~ 12时55分]"
+        },
+        {
+          "title": "OpenAI：ChatGPT有关问题现已解决。",
+          "url": "https://flash.jin10.com/detail/20260204115251438800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        },
+        {
+          "title": "OpenAI：ChatGPT部分用户在加载或开始对话时可能会遇到问题。",
+          "url": "https://flash.jin10.com/detail/20260204115113569800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
         },
         {
           "title": "英伟达拟向OpenAI投资200亿美元 交易细节尚未敲定",
@@ -118,6 +152,34 @@
       ]
     },
     {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "一号文件提人工智能与农业发展结合",
+          "url": "https://www.toutiao.com/trending/7602171010460303401/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时54分 ~ 08时55分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-02-04）",
+          "url": "https://flash.jin10.com/detail/20260204115345286800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时55分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Anthropic",
       "match_count": 2,
       "titles": [
@@ -129,8 +191,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 11时26分]"
+          "appearance_count": 4,
+          "time_info": "[08时54分 ~ 12时55分]"
         },
         {
           "title": "砸崩周二软件股的Anthropic新工具，为什么威力这么大？",
@@ -141,8 +203,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 11时26分]"
+          "appearance_count": 4,
+          "time_info": "[08时54分 ~ 12时55分]"
         }
       ]
     },
@@ -159,25 +221,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 11时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "一号文件提人工智能与农业发展结合",
-          "url": "https://www.toutiao.com/trending/7602171010460303401/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
+          "appearance_count": 4,
+          "time_info": "[08时54分 ~ 12时55分]"
         }
       ]
     }
