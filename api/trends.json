@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-05T09:21:30.286591+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2026-02-05T12:08:55.777053+08:00",
+  "total_titles_processed": 1018,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
+        {
+          "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764994",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 12时08分]"
+        },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
           "url": "https://wallstreetcn.com/livenews/3050135",
@@ -28,17 +39,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3764994",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
         },
         {
           "title": "Alphabet(GOOG.O)CEO皮查伊：苹果(AAPL.O)选择谷歌云作为其首选云服务提供商。",
@@ -123,6 +123,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时21分]"
+        },
+        {
+          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
+          "url": "https://www.cls.cn/detail/2281032",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "谷歌母公司Alphabet ：我们大约50%的代码由AI代理编写。",
@@ -230,7 +241,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         }
@@ -238,7 +249,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
@@ -292,8 +303,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时38分 ~ 09时21分]"
+          "appearance_count": 11,
+          "time_info": "[00时38分 ~ 12时08分]"
         },
         {
           "title": "国民党代表团参访清华大学，了解大陆AI技术",
@@ -326,8 +337,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时21分 ~ 09时21分]"
+          "appearance_count": 3,
+          "time_info": "[07时21分 ~ 12时08分]"
         },
         {
           "title": "Arm控股CEO：AI软件抛售是一个“微观的歇斯底里”（Micro hysteria）。",
@@ -372,7 +383,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         },
@@ -383,9 +394,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "AI竞赛打到太空了吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%AB%9E%E8%B5%9B%E6%89%93%E5%88%B0%E5%A4%AA%E7%A9%BA%E4%BA%86%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "花旗：智能体AI难以撼动旅游平台 指跨平台比价仍是用户刚需",
+          "url": "https://flash.jin10.com/detail/20260205112646440800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
         },
         {
           "title": "美国得克萨斯州电力可靠性委员会（ERCOT）考虑重新评估某些与人工智能（AI）相关的数据中心项目。 此前，当地电力监管部门因新用户激增而批准了多个数据中心项目。",
@@ -408,6 +441,184 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时38分"
+        },
+        {
+          "title": "AI们竟开始雇佣人类打工了",
+          "url": "https://search.bilibili.com/all?keyword=AI%E4%BB%AC%E7%AB%9F%E5%BC%80%E5%A7%8B%E9%9B%87%E4%BD%A3%E4%BA%BA%E7%B1%BB%E6%89%93%E5%B7%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "利率 汇率",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "多家中小银行宣布上调存款利率",
+          "url": "https://www.toutiao.com/trending/7602191320464048171/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "美国总统特朗普：美联储将下调利率，这是毫无疑问的。 我认为，美联储主席提名人沃什无论如何都想要降息。",
+          "url": "https://wallstreetcn.com/livenews/3050075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时35分"
+        },
+        {
+          "title": "美国总统特朗普：我认为沃什明白我想要降低利率，如果他曾表示想要加息，就不会得到这份工作。",
+          "url": "https://flash.jin10.com/detail/20260205030645609800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时35分 ~ 05时28分]"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了18个对手方的24.14亿美元。",
+          "url": "https://flash.jin10.com/detail/20260205021741852800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时39分 ~ 03时35分]"
+        },
+        {
+          "title": "美国总统特朗普：利率将会下调，这“几乎是毫无疑问的”。",
+          "url": "https://flash.jin10.com/detail/20260205030511300800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时35分 ~ 05时28分]"
+        },
+        {
+          "title": "欧洲半导体板块涨跌各异，Soitec收涨23.30%，阿斯麦控股跌4.18%。 最新业绩报告显示，Soitec第三财季营收1.60亿欧元，分析师预期1.488亿欧元。 预计2026财年四季度营收（按恒定汇率）将增长大约20%。",
+          "url": "https://wallstreetcn.com/livenews/3050029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时41分 ~ 02时39分]"
+        },
+        {
+          "title": "特朗普：我提名的美联储主席沃什希望降低利率",
+          "url": "https://wallstreetcn.com/livenews/3050075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时26分 ~ 05时28分]"
+        },
+        {
+          "title": "大摩点评Lumentum财报：毛利率炸裂，更重要的是CPO实锤拿到大单了！",
+          "url": "https://wallstreetcn.com/articles/3764963",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 12时08分]"
+        },
+        {
+          "title": "英国央行利率决议今晚公布",
+          "url": "https://flash.jin10.com/detail/20260205114638518800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "辽宁发行7年期一般债地方债，规模128.4681亿元，发行利率1.7900%，边际倍数1.47倍，倍数预期1.75； 辽宁发行10年期一般债地方债，规模43.6000亿元，发行利率2.0400%，边际倍数3.74倍，倍数预期2.00； 辽宁发行10年期其他专项地方债，规模39.3826亿元，发行利率2.0000%，边际倍数1.37倍，倍数预期2.01； 辽宁发行30年期其他专项地方债，规模34.5000亿元，发行利率2.5100%，边际倍数1.31倍，倍数预期2.50； 辽宁发行30年期普通专项地方债，规模28.5482亿元，发行利率2.5200%，边际倍数4.06倍，倍数预期2.49。",
+          "url": "https://wallstreetcn.com/livenews/3050318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "进出口行发行15月期债券，规模100亿元，发行利率1.4147%，预期1.4000%，投标倍数3.24倍，边际倍数2.49倍； 进出口行发行66月期债券，规模30亿元，发行利率1.7059%，预期1.7100%，投标倍数6.17倍，边际倍数1.47倍。",
+          "url": "https://wallstreetcn.com/livenews/3050317",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时08分"
+        },
+        {
+          "title": "美联储3月维持利率不变的概率为90.1%",
+          "url": "https://flash.jin10.com/detail/20260205060326476800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "美国财政部拍卖四个月期国债，得标利率3.595%，投标倍数2.97。",
+          "url": "https://wallstreetcn.com/livenews/3050014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时41分"
+        },
+        {
+          "title": "美国财长贝森特：将信用卡利率上限设定为10%（为期一年）将有助于帮助美国人从过去的通货膨胀中恢复过来。",
+          "url": "https://flash.jin10.com/detail/20260205005033811800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时41分"
         }
       ]
     },
@@ -489,6 +700,18 @@
           "time_info": "[02时39分 ~ 04时26分]"
         },
         {
+          "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
+          "url": "https://www.cls.cn/detail/2281019",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时21分 ~ 12时08分]"
+        },
+        {
           "title": "市场消息：马斯克旗下的SpaceX公司将向非美国银行开启首次公开募股路演。",
           "url": "https://flash.jin10.com/detail/20260205011524314800",
           "source": "金十数据",
@@ -498,17 +721,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
-        },
-        {
-          "title": "马斯克财富突破8000亿美元 AMD掌门重申AI芯片需求强劲 | 环球市场",
-          "url": "https://www.cls.cn/detail/2281019",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
         },
         {
           "title": "A股光伏板块爆发，马斯克下单了？",
@@ -531,129 +743,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "利率 汇率",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "美国总统特朗普：美联储将下调利率，这是毫无疑问的。 我认为，美联储主席提名人沃什无论如何都想要降息。",
-          "url": "https://wallstreetcn.com/livenews/3050075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时35分"
-        },
-        {
-          "title": "美国总统特朗普：我认为沃什明白我想要降低利率，如果他曾表示想要加息，就不会得到这份工作。",
-          "url": "https://flash.jin10.com/detail/20260205030645609800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            12,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时35分 ~ 05时28分]"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了18个对手方的24.14亿美元。",
-          "url": "https://flash.jin10.com/detail/20260205021741852800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时39分 ~ 03时35分]"
-        },
-        {
-          "title": "美国总统特朗普：利率将会下调，这“几乎是毫无疑问的”。",
-          "url": "https://flash.jin10.com/detail/20260205030511300800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            14,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时35分 ~ 05时28分]"
-        },
-        {
-          "title": "欧洲半导体板块涨跌各异，Soitec收涨23.30%，阿斯麦控股跌4.18%。 最新业绩报告显示，Soitec第三财季营收1.60亿欧元，分析师预期1.488亿欧元。 预计2026财年四季度营收（按恒定汇率）将增长大约20%。",
-          "url": "https://wallstreetcn.com/livenews/3050029",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时41分 ~ 02时39分]"
-        },
-        {
-          "title": "特朗普：我提名的美联储主席沃什希望降低利率",
-          "url": "https://wallstreetcn.com/livenews/3050075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时26分 ~ 05时28分]"
-        },
-        {
-          "title": "大摩点评Lumentum财报：毛利率炸裂，更重要的是CPO实锤拿到大单了！",
-          "url": "https://wallstreetcn.com/articles/3764963",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时21分"
-        },
-        {
-          "title": "美联储3月维持利率不变的概率为90.1%",
-          "url": "https://flash.jin10.com/detail/20260205060326476800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
-          "title": "美国财政部拍卖四个月期国债，得标利率3.595%，投标倍数2.97。",
-          "url": "https://wallstreetcn.com/livenews/3050014",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "美国财长贝森特：将信用卡利率上限设定为10%（为期一年）将有助于帮助美国人从过去的通货膨胀中恢复过来。",
-          "url": "https://flash.jin10.com/detail/20260205005033811800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
         }
       ]
     },
@@ -695,7 +784,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
         }
