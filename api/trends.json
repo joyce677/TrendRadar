@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-02-05T22:02:35.243680+08:00",
-  "total_titles_processed": 1990,
+  "generated_at": "2026-02-05T23:36:07.399423+08:00",
+  "total_titles_processed": 2114,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "利率 汇率",
-      "match_count": 37,
+      "match_count": 39,
       "titles": [
+        {
+          "title": "报道：欧元升值引关注，法国拟在欧盟峰会讨论汇率问题",
+          "url": "https://wallstreetcn.com/livenews/3050766",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
         {
           "title": "经济学家：拉加德将在发布会上提及汇率、商品价格及美国政策等问题",
           "url": "https://flash.jin10.com/detail/20260205215937705800",
@@ -14,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -250,6 +261,17 @@
           "time_info": "12时08分"
         },
         {
+          "title": "巴西总统卢拉：利率很高，但经济正在增长。",
+          "url": "https://flash.jin10.com/detail/20260205231129936800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "马来西亚央行行长：不设定林吉特的目标汇率，其完全由市场驱动。",
           "url": "https://flash.jin10.com/detail/20260205160756148800",
           "source": "金十数据",
@@ -344,7 +366,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -366,7 +388,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -388,7 +410,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -399,7 +421,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -429,7 +451,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
@@ -440,8 +462,22 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时21分 ~ 22时02分]"
+          "appearance_count": 15,
+          "time_info": "[09时21分 ~ 23时36分]"
+        },
+        {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时45分 ~ 23时36分]"
         },
         {
           "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
@@ -455,19 +491,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[13时51分 ~ 19时31分]"
-        },
-        {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时45分 ~ 22时02分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -515,6 +538,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时21分]"
+        },
+        {
+          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2282073",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时02分 ~ 23时36分]"
         },
         {
           "title": "谷歌母公司Alphabet：所搜同比增长17%。 YouTube 9%的增长来自直接响应的广告。 公司在AI模型中测试广告。",
@@ -601,17 +636,6 @@
           "time_info": "[06时20分 ~ 07时21分]"
         },
         {
-          "title": "美股三大期指集体走低 谷歌盘前跌超4% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2282073",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
-        },
-        {
           "title": "谷歌母公司Alphabet ：我们大约50%的代码由AI代理编写。",
           "url": "https://wallstreetcn.com/livenews/3050126",
           "source": "华尔街见闻-快讯",
@@ -667,6 +691,28 @@
           "time_info": "06时20分"
         },
         {
+          "title": "Gemini跌5%，该公司计划裁员，关闭多地的账号。",
+          "url": "https://wallstreetcn.com/livenews/3050752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
+          "title": "谷歌母公司Alphabet跌7%，创5月7日以来最差盘中表现。 该公司出现历史性财务里程碑：年营收首破4000亿美元大关。季度合并营收同比增长18%，全年营收同比增长15%。预计2026年资本支出将进一步扩大至1750亿-1850亿美元，同比翻倍。",
+          "url": "https://wallstreetcn.com/livenews/3050751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "谷歌(GOOG.O)美股盘后跌超6%。",
           "url": "https://flash.jin10.com/detail/20260205050408864800",
           "source": "金十数据",
@@ -720,12 +766,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时21分"
+        },
+        {
+          "title": "Gemini Space Station Inc.（GEMI）计划裁员至多200人，在全球员工总数占比大约25%。 预计将发生大约0.11亿美元费用。 将继续在美国和新加坡运营。 将退出欧洲和澳大利亚市场。",
+          "url": "https://wallstreetcn.com/livenews/3050744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "AI信仰动摇，软件与芯片股双双溃败，AMD暴跌17%，加密货币再度下挫",
@@ -735,8 +792,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时21分 ~ 22时02分]"
+          "appearance_count": 16,
+          "time_info": "[07时21分 ~ 23时36分]"
         },
         {
           "title": "AI颠覆性冲击引发担忧，纳指跌0.16%，闪迪下挫超5%，AMD跌13%，金银短线跳水，现货黄金失守5000美元",
@@ -839,8 +896,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时44分 ~ 22时02分]"
+          "appearance_count": 4,
+          "time_info": "[20时44分 ~ 23时36分]"
         },
         {
           "title": "Arm控股CEO：AI软件抛售是一个“微观的歇斯底里”（Micro hysteria）。",
@@ -916,6 +973,28 @@
           "time_info": "[13时51分 ~ 22时02分]"
         },
         {
+          "title": "如果AI击溃了软件，“AI龙头”英伟达为何被软件股“拉下水”？",
+          "url": "https://wallstreetcn.com/articles/3765006",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时35分 ~ 23时36分]"
+        },
+        {
+          "title": "AI焦虑席卷科技板块 苹果冷静布局换来股价逆市上涨",
+          "url": "https://www.cls.cn/detail/2281879",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时35分 ~ 23时36分]"
+        },
+        {
           "title": "特斯拉AI总监：自动驾驶只需摄像头",
           "url": "https://www.toutiao.com/trending/7602861709359087667/",
           "source": "今日头条",
@@ -944,7 +1023,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时02分"
         },
@@ -1018,7 +1097,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "马斯克被激怒",
@@ -1145,6 +1224,17 @@
           "time_info": "01时41分"
         },
         {
+          "title": "美国参议院民主党成员Warren质疑马斯克旗下太空探索公司SpaceX与五角大楼的（利益）关系。",
+          "url": "https://wallstreetcn.com/livenews/3050762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时36分"
+        },
+        {
           "title": "A股光伏板块爆发，马斯克下单了？",
           "url": "https://wallstreetcn.com/articles/3764920",
           "source": "华尔街见闻",
@@ -1170,7 +1260,7 @@
     },
     {
       "keyword_group": "虚拟币 币安 比特币 以太坊",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
@@ -1189,11 +1279,24 @@
           "url": "https://wallstreetcn.com/articles/3765023",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时02分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时02分 ~ 23时36分]"
+        },
+        {
+          "title": "币圈信仰崩塌？比特币一度失守7万关口 预测市场押注继续下挫",
+          "url": "https://www.cls.cn/detail/2281946",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时02分 ~ 23时36分]"
         },
         {
           "title": "比特币持续下跌 加密市场正陷入一场“信仰危机”",
@@ -1218,15 +1321,15 @@
           "time_info": "20时44分"
         },
         {
-          "title": "币圈信仰崩塌？比特币一度失守7万关口 预测市场押注继续下挫",
-          "url": "https://www.cls.cn/detail/2281946",
-          "source": "财联社热门",
+          "title": "Strategy跌7%，Coinbase跌4.9%，2月5日稍早，比特币跌穿70000美元整数位心理关口。",
+          "url": "https://wallstreetcn.com/livenews/3050754",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时02分"
+          "time_info": "23时36分"
         }
       ]
     },
