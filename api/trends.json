@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T17:06:57.168157+08:00",
-  "total_titles_processed": 1054,
+  "generated_at": "2026-02-06T18:05:10.209384+08:00",
+  "total_titles_processed": 1144,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://www.cls.cn/detail/2282686",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时27分 ~ 17时06分]"
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 18时05分]"
         },
         {
           "title": "消息人士称，马斯克将xAI收购设计为一笔免税交易。",
@@ -139,8 +140,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时25分 ~ 17时06分]"
+          "appearance_count": 11,
+          "time_info": "[11时25分 ~ 18时05分]"
         },
         {
           "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
@@ -170,7 +171,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "软银：将在日本的合资企业服务中使用OpenAI的新企业平台。",
@@ -182,6 +183,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时25分"
+        },
+        {
+          "title": "实测OpenAI和Cluade模型",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%B5%8BOpenAI%E5%92%8CCluade%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时04分 ~ 18时05分]"
         },
         {
           "title": "OpenAI推出全新平台Frontier 强调对软件行业是“利好消息”",
@@ -209,8 +221,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[08时56分 ~ 17时06分]"
+          "appearance_count": 12,
+          "time_info": "[08时56分 ~ 18时05分]"
         },
         {
           "title": "如何评价 Anthropic 最新发布的 Claude Opus 4.6? 有哪些技术亮点值得关注？",
@@ -236,11 +248,12 @@
           "url": "https://wallstreetcn.com/livenews/3051294",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时06分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时06分 ~ 18时05分]"
         }
       ]
     }
