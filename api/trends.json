@@ -1,199 +1,8 @@
 {
-  "generated_at": "2026-02-07T22:50:09.866522+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-02-08T09:15:08.468100+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "马斯克",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "马斯克3小时深度访谈：三年内成本最低的AI在太空，Optimus是“无限印钞机”",
-          "url": "https://wallstreetcn.com/articles/3765130",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[08时54分 ~ 17时19分]"
-        },
-        {
-          "title": "特斯拉开展招聘并考虑建厂 以落实马斯克的太阳能战略",
-          "url": "https://flash.jin10.com/detail/20260207172525892800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            8,
-            10,
-            17,
-            19,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[17时51分 ~ 22时50分]"
-        },
-        {
-          "title": "马斯克：如果没有AI和机器人技术，美国必破产",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32549054",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            15,
-            13,
-            12,
-            11,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[08时54分 ~ 16时54分]"
-        },
-        {
-          "title": "马斯克旗下SpaceX推迟火星计划，转而侧重于（探索）月球。 SpaceX计划2027年3月实施无人的（航天器）登月活动。 该公司将优先探月，试图之后再推进火星探索。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3051651",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            22,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时54分 ~ 13时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "景林资产四季度减持英伟达超150万股，进一步增仓拼多多，重仓谷歌A、Meta、拼多多",
-          "url": "https://wallstreetcn.com/livenews/3051649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            23,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时54分 ~ 13时34分]"
-        },
-        {
-          "title": "据Fortune：OpenAI旗下ChatGPT应用的市场份额从2025年1月的69.1%骤降至次年的45.3%，而谷歌旗下Gemini聊天机器人应用的市场份额则从14.7%攀升至25.2%。",
-          "url": "https://flash.jin10.com/detail/20260207040250896800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "景林最新美股持仓曝光：谷歌升至第一大重仓 大幅减持英伟达",
-          "url": "https://flash.jin10.com/detail/20260207035802693800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
-          "url": "https://www.cls.cn/detail/2283350",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            5,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 24,
-          "time_info": "[12时50分 ~ 22时50分]"
-        },
-        {
-          "title": "特斯拉计划在中国市场加大AI软硬件和能源领域投入",
-          "url": "https://wallstreetcn.com/livenews/3051701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            3,
-            6,
-            8,
-            12,
-            16,
-            18,
-            24,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时17分 ~ 21时57分]"
-        },
-        {
-          "title": "至少6000亿美元！美国科技六巨头今年继续砸钱AI，但市场情绪却在分化",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32550430",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时19分 ~ 18时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Anthropic",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "据悉Anthropic逾200亿美元融资最快下周完成",
-          "url": "https://flash.jin10.com/detail/20260207093512214800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            14,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时16分 ~ 14时27分]"
-        },
-        {
-          "title": "市场消息 :Anthropic逾200亿美元融资最快下周完成。",
-          "url": "https://flash.jin10.com/detail/20260207091527019800",
-          "source": "金十数据",
-          "ranks": [
-            14,
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时16分 ~ 13时34分]"
-        }
-      ]
-    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
@@ -203,78 +12,45 @@
           "url": "https://wallstreetcn.com/articles/3765209",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            8,
-            7,
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[14时27分 ~ 22时50分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "堪比“ChatGPT”时刻！SemiAnalysis深度解读：Claude Code将是AI “智能体”的转折点",
-          "url": "https://wallstreetcn.com/articles/3765171",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[08时54分 ~ 20时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "我国首次明确培育三类数据流通服务机构，助力“人工智能+”行动",
-          "url": "https://wallstreetcn.com/livenews/3051662",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            15,
-            17,
-            21,
-            24,
-            25,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[08时54分 ~ 15时49分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Claude新模型4.6来了！更多饭碗没了：华尔街财务、编译器、安全白帽、PPT…通通失守",
-          "url": "https://wallstreetcn.com/articles/3765116",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时54分 ~ 11时16分]"
+          "time_info": "[09时14分 ~ 09时15分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克：一旦太阳能发电、机器人制造、芯片制造、AI形成闭环，传统货币反而会成为障碍。真正重要的只剩下（发电）功率和产量，而不是美元。",
+          "url": "https://flash.jin10.com/detail/20260208081050471800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "一款AI工具“血洗”全球软件股 中国SaaS何去何从？",
+          "url": "https://www.cls.cn/detail/2283350",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时14分 ~ 09时15分]"
         }
       ]
     }
