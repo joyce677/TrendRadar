@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-09T11:43:57.992226+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-02-09T13:24:04.245630+08:00",
+  "total_titles_processed": 617,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "马斯克称 SpaceX 已将重心转移至在月球建城市，10 年内有望实现，他为何将重心从火星转向月球？",
@@ -14,9 +14,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
+        },
+        {
+          "title": "马斯克携SpaceX剑指“外星造城”：月球10年内完工，火星需要20年！",
+          "url": "https://www.cls.cn/detail/2284254",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时23分 ~ 13时24分]"
         },
         {
           "title": "马斯克再发警告：若没有AI和机器人，美国1000%会走向破产",
@@ -76,8 +87,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 11时43分]"
+          "appearance_count": 4,
+          "time_info": "[09时01分 ~ 13时24分]"
         },
         {
           "title": "美股本周大波动，投资者在担心：美国经济真的强吗？AI成利空了？避险资产炒成风险资产了？",
@@ -102,11 +113,29 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 11时43分]"
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 13时23分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-02-09）",
+          "url": "https://flash.jin10.com/detail/20260209120019975800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         }
       ]
     }
