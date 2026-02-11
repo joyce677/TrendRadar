@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-11T18:37:57.053851+08:00",
-  "total_titles_processed": 1074,
+  "generated_at": "2026-02-11T19:35:49.181237+08:00",
+  "total_titles_processed": 1173,
   "failed_sources": [],
   "trends": [
     {
@@ -75,6 +75,34 @@
       ]
     },
     {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "中芯国际高管：2025年公司资本开支高于年初预期，主要是因为应对客户强劲的需求。 我们看到人工智能对于存储的强劲需求，挤压了手机等其他应用领域。",
+          "url": "https://wallstreetcn.com/livenews/3053326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        },
+        {
+          "title": "据法国回声报：法国科技与人工智能公司Mistral正投资12亿欧元在瑞典新建数据中心园区。",
+          "url": "https://flash.jin10.com/detail/20260211190914598800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克",
       "match_count": 2,
       "titles": [
@@ -103,6 +131,23 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
+          "url": "https://www.zhihu.com/question/2004971546536585165",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
@@ -120,23 +165,6 @@
       ]
     },
     {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "中芯国际高管：2025年公司资本开支高于年初预期，主要是因为应对客户强劲的需求。 我们看到人工智能对于存储的强劲需求，挤压了手机等其他应用领域。",
-          "url": "https://wallstreetcn.com/livenews/3053326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "Anthropic",
       "match_count": 1,
       "titles": [
@@ -148,11 +176,12 @@
             9,
             8,
             7,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时07分 ~ 18时37分]"
+          "appearance_count": 11,
+          "time_info": "[09时07分 ~ 19时35分]"
         }
       ]
     }
