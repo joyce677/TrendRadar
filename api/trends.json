@@ -1,8 +1,98 @@
 {
-  "generated_at": "2026-02-11T19:35:49.181237+08:00",
-  "total_titles_processed": 1173,
+  "generated_at": "2026-02-11T20:37:10.742298+08:00",
+  "total_titles_processed": 1284,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "中芯国际高管：2025年公司资本开支高于年初预期，主要是因为应对客户强劲的需求。 我们看到人工智能对于存储的强劲需求，挤压了手机等其他应用领域。",
+          "url": "https://wallstreetcn.com/livenews/3053326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时07分"
+        },
+        {
+          "title": "李强：全面推进人工智能科技创新、产业发展和赋能应用，培育壮大新质生产力",
+          "url": "https://www.cls.cn/detail/2287511",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 20时37分]"
+        },
+        {
+          "title": "据法国回声报：法国科技与人工智能公司Mistral正投资12亿欧元在瑞典新建数据中心园区。",
+          "url": "https://flash.jin10.com/detail/20260211190914598800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时35分"
+        },
+        {
+          "title": "李强主持国务院第十八次专题学习：全面推进人工智能科技创新、产业发展和赋能应用",
+          "url": "https://wallstreetcn.com/livenews/3053720",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
+          "url": "https://www.zhihu.com/question/2004971546536585165",
+          "source": "知乎",
+          "ranks": [
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时35分 ~ 20时37分]"
+        },
+        {
+          "title": "春节见？DeepSeek下一代模型：“高性价比”创新架构，助力中国突破“算力芯片和内存”瓶颈",
+          "url": "https://wallstreetcn.com/articles/3765457",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时36分 ~ 20时37分]"
+        },
+        {
+          "title": "DeepSeek更新新模型，支持最高1M百万Token上下文长度",
+          "url": "https://wallstreetcn.com/livenews/3053713",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时37分"
+        }
+      ]
+    },
     {
       "keyword_group": "AI",
       "match_count": 3,
@@ -75,34 +165,6 @@
       ]
     },
     {
-      "keyword_group": "人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "中芯国际高管：2025年公司资本开支高于年初预期，主要是因为应对客户强劲的需求。 我们看到人工智能对于存储的强劲需求，挤压了手机等其他应用领域。",
-          "url": "https://wallstreetcn.com/livenews/3053326",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时07分"
-        },
-        {
-          "title": "据法国回声报：法国科技与人工智能公司Mistral正投资12亿欧元在瑞典新建数据中心园区。",
-          "url": "https://flash.jin10.com/detail/20260211190914598800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
-        }
-      ]
-    },
-    {
       "keyword_group": "马斯克",
       "match_count": 2,
       "titles": [
@@ -127,23 +189,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价 2 月 11 日上线的 DeepSeek 新模型？",
-          "url": "https://www.zhihu.com/question/2004971546536585165",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时35分"
         }
       ]
     },
@@ -180,8 +225,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时07分 ~ 19时35分]"
+          "appearance_count": 13,
+          "time_info": "[09时07分 ~ 20时37分]"
         }
       ]
     }
