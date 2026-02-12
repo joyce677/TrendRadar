@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-12T19:31:42.825302+08:00",
-  "total_titles_processed": 1214,
+  "generated_at": "2026-02-12T20:02:32.689392+08:00",
+  "total_titles_processed": 1266,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "李强：全面推进人工智能科技创新、产业发展和赋能应用，培育壮大新质生产力",
@@ -41,6 +41,18 @@
           "time_info": "18时32分"
         },
         {
+          "title": "深圳：到2027年在“人工智能+”先进制造业领域建成国家人工智能应用中试基地",
+          "url": "https://wallstreetcn.com/livenews/3054471",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 20时02分]"
+        },
+        {
           "title": "新加坡总理：将在新加坡建立一个人工智能园区。",
           "url": "https://flash.jin10.com/detail/20260212160032476800",
           "source": "金十数据",
@@ -63,17 +75,6 @@
           "time_info": "16时32分"
         },
         {
-          "title": "深圳：到2027年在“人工智能+”先进制造业领域建成国家人工智能应用中试基地",
-          "url": "https://wallstreetcn.com/livenews/3054471",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
           "title": "新加坡总理：将启动新一组国家人工智能任务，以推动关键经济部门的转型。",
           "url": "https://flash.jin10.com/detail/20260212155529478800",
           "source": "金十数据",
@@ -94,6 +95,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时20分"
+        },
+        {
+          "title": "动态调整！职业教育将重点增设低空经济、人工智能等领域新专业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32590657",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "职业教育将重点增设低空经济、人工智能等领域新专业",
@@ -132,11 +144,12 @@
           "ranks": [
             7,
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时59分 ~ 19时31分]"
+          "appearance_count": 12,
+          "time_info": "[08时59分 ~ 20时02分]"
         },
         {
           "title": "UP主实测DeepSeek新模型",
@@ -150,11 +163,12 @@
             11,
             13,
             12,
-            6
+            6,
+            17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[08时59分 ~ 19时31分]"
+          "appearance_count": 12,
+          "time_info": "[08时59分 ~ 20时02分]"
         },
         {
           "title": "DeepSeek模型更新！上下文提升至百万Token 可处理三体小说全集",
@@ -217,60 +231,8 @@
       ]
     },
     {
-      "keyword_group": "马斯克",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "Seedance 2.0征服海外！马斯克感慨发展太快 美国导演称或会颠覆好莱坞",
-          "url": "https://www.cls.cn/detail/2288275",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时43分 ~ 19时31分]"
-        },
-        {
-          "title": "“发展速度太快了”！马斯克点赞Seedance 2.0，字节称“还远不完美”",
-          "url": "https://wallstreetcn.com/articles/3765571",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时31分"
-        },
-        {
-          "title": "马斯克xAI全员大会宣布裁员",
-          "url": "https://www.toutiao.com/trending/7605774882411908671/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "马斯克感慨Seedance2.0发展快",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%84%9F%E6%85%A8Seedance2.0%E5%8F%91%E5%B1%95%E5%BF%AB%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "Seedance2.0展示中国AI潜力",
@@ -280,8 +242,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时43分 ~ 19时31分]"
+          "appearance_count": 7,
+          "time_info": "[15时43分 ~ 20时02分]"
         },
         {
           "title": "大摩“暴力”上调美光目标价至450美元：只要AI需求强劲，中国产能冲击、资本开支过热统统不是问题！",
@@ -293,6 +255,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时36分"
+        },
+        {
+          "title": "中国大模型“春节档”打响！等待消费级AI出“爆款”",
+          "url": "https://wallstreetcn.com/articles/3765558",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时02分"
         },
         {
           "title": "德银全球CIO：AI不是泡沫，中国资产吸引力上升",
@@ -311,6 +284,58 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时37分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "Seedance 2.0征服海外！马斯克感慨发展太快 美国导演称或会颠覆好莱坞",
+          "url": "https://www.cls.cn/detail/2288275",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时43分 ~ 20时02分]"
+        },
+        {
+          "title": "“发展速度太快了”！马斯克点赞Seedance 2.0，字节称“还远不完美”",
+          "url": "https://wallstreetcn.com/articles/3765571",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 20时02分]"
+        },
+        {
+          "title": "马斯克xAI全员大会宣布裁员",
+          "url": "https://www.toutiao.com/trending/7605774882411908671/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "马斯克感慨Seedance2.0发展快",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E6%84%9F%E6%85%A8Seedance2.0%E5%8F%91%E5%B1%95%E5%BF%AB%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
