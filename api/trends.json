@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-13T14:17:15.808685+08:00",
-  "total_titles_processed": 673,
+  "generated_at": "2026-02-13T16:29:50.959037+08:00",
+  "total_titles_processed": 806,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "DeepSeek变冷淡了",
@@ -22,6 +22,35 @@
           "time_info": "[09时03分 ~ 14时17分]"
         },
         {
+          "title": "DeepSeek低调升级新模型",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            18,
+            16,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时03分 ~ 16时29分]"
+        },
+        {
+          "title": "UP主实测DeepSeek新模型",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            22,
+            19,
+            18,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时03分 ~ 16时29分]"
+        },
+        {
           "title": "Deepseek被指变冷淡了",
           "url": "https://s.weibo.com/weibo?q=%23Deepseek%E8%A2%AB%E6%8C%87%E5%8F%98%E5%86%B7%E6%B7%A1%E4%BA%86%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -33,37 +62,43 @@
           "time_info": "09时03分"
         },
         {
-          "title": "DeepSeek低调升级新模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
+          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
+          "url": "https://www.zhihu.com/question/2005557043939993512",
+          "source": "知乎",
           "ranks": [
-            12,
-            18,
-            16
+            13
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时03分 ~ 14时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         },
         {
-          "title": "UP主实测DeepSeek新模型",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
+          "title": "DeepSeek回应被指变冷淡",
+          "url": "https://www.toutiao.com/trending/7606192815403437609/",
+          "source": "今日头条",
           "ranks": [
-            14,
-            22,
-            19,
-            18
+            17
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时03分 ~ 14时17分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
+        },
+        {
+          "title": "DeepSeek回应被指冷淡",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%8C%87%E5%86%B7%E6%B7%A1",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "多位美国明星AI公司研究人员在离职之际拉响警报",
@@ -99,6 +134,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        },
+        {
+          "title": "Seedance2.0展示中国AI潜力",
+          "url": "https://www.douyin.com/hot/2398167",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时29分"
         }
       ]
     },
