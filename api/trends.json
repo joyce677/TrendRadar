@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-13T20:29:29.444796+08:00",
-  "total_titles_processed": 1253,
+  "generated_at": "2026-02-13T21:41:53.098980+08:00",
+  "total_titles_processed": 1356,
   "failed_sources": [],
   "trends": [
     {
@@ -53,11 +53,12 @@
             12,
             9,
             7,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时29分 ~ 20时29分]"
+          "appearance_count": 8,
+          "time_info": "[16时29分 ~ 21时41分]"
         },
         {
           "title": "DeepSeek变冷淡了",
@@ -102,11 +103,12 @@
           "url": "https://wallstreetcn.com/livenews/3055185",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时29分 ~ 21时41分]"
         },
         {
           "title": "DeepSeek回应被指变冷淡",
@@ -122,6 +124,68 @@
       ]
     },
     {
+      "keyword_group": "人工智能",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "动态调整！职业教育将重点增设低空经济、人工智能等领域新专业",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32590657",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时03分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-02-13）",
+          "url": "https://flash.jin10.com/detail/20260213113926677800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时58分 ~ 13时18分]"
+        },
+        {
+          "title": "上海市新增8款已完成登记的生成式人工智能服务",
+          "url": "https://wallstreetcn.com/livenews/3055114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时06分"
+        },
+        {
+          "title": "上海：着力攻坚人工智能在规划设计等关键环节的技术应用与创新落地",
+          "url": "https://wallstreetcn.com/livenews/3055113",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时06分"
+        },
+        {
+          "title": "人工智能初创公司Legora正进行谈判，寻求将估值提升两倍至60亿美元。",
+          "url": "https://flash.jin10.com/detail/20260213210044505800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI",
       "match_count": 5,
       "titles": [
@@ -133,11 +197,12 @@
             23,
             18,
             22,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时29分 ~ 20时29分]"
+          "appearance_count": 7,
+          "time_info": "[16时29分 ~ 21时41分]"
         },
         {
           "title": "多位美国明星AI公司研究人员在离职之际拉响警报",
@@ -184,57 +249,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "动态调整！职业教育将重点增设低空经济、人工智能等领域新专业",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32590657",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时03分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-02-13）",
-          "url": "https://flash.jin10.com/detail/20260213113926677800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时58分 ~ 13时18分]"
-        },
-        {
-          "title": "上海市新增8款已完成登记的生成式人工智能服务",
-          "url": "https://wallstreetcn.com/livenews/3055114",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        },
-        {
-          "title": "上海：着力攻坚人工智能在规划设计等关键环节的技术应用与创新落地",
-          "url": "https://wallstreetcn.com/livenews/3055113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时06分"
         }
       ]
     },
