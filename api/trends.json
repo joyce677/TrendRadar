@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-14T17:52:09.839755+08:00",
-  "total_titles_processed": 909,
+  "generated_at": "2026-02-14T18:14:54.776366+08:00",
+  "total_titles_processed": 932,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "百度热搜",
           "ranks": [
             15,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时29分 ~ 17时52分]"
+          "appearance_count": 10,
+          "time_info": "[14时29分 ~ 18时14分]"
         },
         {
           "title": "DeepSeek春节再扔王炸？官方披露正测试新模型结构",
@@ -32,8 +33,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[08时57分 ~ 17时52分]"
+          "appearance_count": 15,
+          "time_info": "[08时57分 ~ 18时14分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -49,8 +50,21 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时29分 ~ 17时52分]"
+          "appearance_count": 10,
+          "time_info": "[14时29分 ~ 18时14分]"
+        },
+        {
+          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
+          "url": "https://wallstreetcn.com/articles/3765730",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时09分 ~ 18时14分]"
         },
         {
           "title": "一年了 美国还在追着DeepSeek抹黑",
@@ -65,19 +79,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时55分 ~ 16时54分]"
-        },
-        {
-          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
-          "url": "https://wallstreetcn.com/articles/3765730",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时09分 ~ 17时52分]"
         },
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -121,8 +122,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时55分 ~ 17时52分]"
+          "appearance_count": 12,
+          "time_info": "[12时55分 ~ 18时14分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
@@ -133,11 +134,12 @@
             5,
             8,
             14,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时52分 ~ 17时52分]"
+          "appearance_count": 6,
+          "time_info": "[15时52分 ~ 18时14分]"
         },
         {
           "title": "13F报告显示：Maverick Capital Ltd.四季度建仓做多谷歌C、应用材料、波士顿科学、Visa、以及Camden Property。 增持台积电、英伟达、GFL Environment、Carvana。 清仓Kenvue、美国银行、AMD、Danaher、以及Insmed。 减持Nubank、迪士尼、Merit Medical、Acadia Health、Sherwin-Williams。 重仓英伟达、微软、亚马逊、台积电、谷歌C。",
@@ -201,6 +203,21 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "OpenAI：已停止使用五款旧版ChatGPT模型",
+          "url": "https://flash.jin10.com/detail/20260214160547731800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            11,
+            17,
+            24,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时17分 ~ 18时14分]"
+        },
+        {
           "title": "OpenAI总裁布罗克曼：我们现在正将我们的模型应用于前沿领域的研究当中。在10个数学研究难题中（这些难题是数学研究者已经解决但从未公布解决方案的难题），在一周内，我们的模型发现了至少6个问题的可能正确解决方案。",
           "url": "https://flash.jin10.com/detail/20260214122124232800",
           "source": "金十数据",
@@ -213,20 +230,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时55分 ~ 15时10分]"
-        },
-        {
-          "title": "OpenAI：已停止使用五款旧版ChatGPT模型",
-          "url": "https://flash.jin10.com/detail/20260214160547731800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            11,
-            17,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时17分 ~ 17时52分]"
         }
       ]
     },
