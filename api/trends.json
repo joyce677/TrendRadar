@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T18:52:07.460068+08:00",
-  "total_titles_processed": 885,
+  "generated_at": "2026-02-15T19:14:01.542466+08:00",
+  "total_titles_processed": 915,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时58分 ~ 18时52分]"
+          "appearance_count": 20,
+          "time_info": "[11时58分 ~ 19时14分]"
         },
         {
           "title": "美国被曝对委内瑞拉军事行动中使用人工智能模型",
@@ -50,11 +50,12 @@
             5,
             7,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时54分 ~ 18时52分]"
+          "appearance_count": 8,
+          "time_info": "[15时54分 ~ 19时14分]"
         },
         {
           "title": "市场消息：法国总统马克龙将出席下周在印度举行的人工智能峰会。",
@@ -65,11 +66,12 @@
             6,
             8,
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时54分 ~ 18时52分]"
+          "appearance_count": 8,
+          "time_info": "[15时54分 ~ 19时14分]"
         },
         {
           "title": "习近平：要坚持创新驱动 深化拓展“人工智能+”",
@@ -80,11 +82,12 @@
             12,
             14,
             15,
-            16
+            16,
+            18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时54分 ~ 18时52分]"
+          "appearance_count": 8,
+          "time_info": "[15时54分 ~ 19时14分]"
         },
         {
           "title": "《求是》:要坚持创新驱动 深化拓展“人工智能+”",
@@ -173,11 +176,12 @@
             17,
             19,
             20,
-            21
+            21,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时11分 ~ 18时52分]"
+          "appearance_count": 9,
+          "time_info": "[15时11分 ~ 19时14分]"
         },
         {
           "title": "马斯克预言：2026年底编程或将全面自动化",
@@ -293,8 +297,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时02分 ~ 18时52分]"
+          "appearance_count": 21,
+          "time_info": "[09时02分 ~ 19时14分]"
         },
         {
           "title": "Seedance之后再放大招：字节跳动发布豆包大模型2.0，对标Gemini 3 和GPT 5.2",
@@ -319,6 +323,49 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "DeepSeek“变冷淡”不是翻车",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%8F%98%E5%86%B7%E6%B7%A1%E2%80%9D%E4%B8%8D%E6%98%AF%E7%BF%BB%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            23,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[17时19分 ~ 19时14分]"
+        },
+        {
+          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
+          "url": "https://wallstreetcn.com/articles/3765730",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时02分 ~ 11时59分]"
+        },
+        {
+          "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
+          "url": "https://wallstreetcn.com/articles/3765742",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时13分 ~ 19时14分]"
         }
       ]
     },
@@ -365,37 +412,6 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
-          "url": "https://wallstreetcn.com/articles/3765730",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时02分 ~ 11时59分]"
-        },
-        {
-          "title": "DeepSeek“变冷淡”不是翻车",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%8F%98%E5%86%B7%E6%B7%A1%E2%80%9D%E4%B8%8D%E6%98%AF%E7%BF%BB%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            23,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时19分 ~ 18时52分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "AI",
       "match_count": 2,
       "titles": [
@@ -409,8 +425,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[09时02分 ~ 18时52分]"
+          "appearance_count": 21,
+          "time_info": "[09时02分 ~ 19时14分]"
         },
         {
           "title": "Seedance一骑绝尘背后：中国AI春节前为何“杀疯了”？",
@@ -423,8 +439,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[11时58分 ~ 18时52分]"
+          "appearance_count": 20,
+          "time_info": "[11时58分 ~ 19时14分]"
         }
       ]
     },
@@ -459,11 +475,12 @@
             18,
             20,
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时11分 ~ 18时52分]"
+          "appearance_count": 9,
+          "time_info": "[15时11分 ~ 19时14分]"
         }
       ]
     },
