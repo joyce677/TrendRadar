@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-17T05:02:31.029981+08:00",
-  "total_titles_processed": 439,
+  "generated_at": "2026-02-17T07:03:54.031282+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美国总统特朗普声称：“（加沙）和平委员会”将说明如何开销承诺的50亿美元。（纽约邮报）",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            4
+            4,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时48分 ~ 05时02分]"
+          "appearance_count": 3,
+          "time_info": "[03时48分 ~ 07时03分]"
         },
         {
           "title": "美国总统特朗普： 联邦政府将协助处理波托马克河废水泄漏事件。",
@@ -26,7 +27,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -139,6 +140,17 @@
           "time_info": "01时26分"
         },
         {
+          "title": "美伊第二轮开谈前，内塔尼亚胡提条件、特朗普放狠话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32621372",
+          "source": "澎湃新闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
           "title": "据Politico：美国总统特朗普称加州与英国的能源协议“不合适”。",
           "url": "https://flash.jin10.com/detail/20260217002446619800",
           "source": "金十数据",
@@ -175,7 +187,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "据福克斯新闻记者：此外，很难想象美国或以色列会在2月22日冬奥会结束前对伊朗发动打击。（2014年普京是在索契冬奥会结束后才派兵进入克里米亚；而四年前在北京冬奥会闭幕后，俄罗斯向乌克兰派出了15万大军）",
@@ -184,7 +196,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -257,6 +269,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时48分"
+        },
+        {
+          "title": "美伊谈判前夕美军加强部署 伊朗政权不确定性加剧战略风险",
+          "url": "https://flash.jin10.com/detail/20260217051005590800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 07时03分]"
+        },
+        {
+          "title": "OpenAI：系统（恢复）全面运作。",
+          "url": "https://wallstreetcn.com/livenews/3055842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "OpenAI目前正经历某些问题，购物搜索功能宕机。",
+          "url": "https://wallstreetcn.com/livenews/3055834",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
+        },
+        {
+          "title": "OpenAI：系统已恢复全面运作。",
+          "url": "https://flash.jin10.com/detail/20260217052259501800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时03分"
         }
       ]
     },
@@ -273,8 +347,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 05时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 07时03分]"
         },
         {
           "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
@@ -282,11 +356,12 @@
           "source": "澎湃新闻",
           "ranks": [
             7,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 05时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时26分 ~ 07时03分]"
         },
         {
           "title": "印度举办AI“影响力”峰会，谷歌、OpenAI等高管预计出席",
@@ -302,24 +377,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
-          "url": "https://wallstreetcn.com/articles/3765772",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时26分 ~ 05时02分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 1,
       "titles": [
@@ -328,11 +385,12 @@
           "url": "https://wallstreetcn.com/livenews/3055833",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时02分 ~ 07时03分]"
         }
       ]
     }
