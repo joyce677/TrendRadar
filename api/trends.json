@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T05:05:07.778127+08:00",
-  "total_titles_processed": 426,
+  "generated_at": "2026-02-19T07:06:11.504527+08:00",
+  "total_titles_processed": 513,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "13位美国司法部长就终止能源和基础设施项目资金一事起诉特朗普政府。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         },
@@ -25,9 +25,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "特朗普援引国防生产法，保障磷与除草剂的国内供应",
+          "url": "https://wallstreetcn.com/livenews/3056519",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         },
         {
           "title": "据华尔街日报：美国总统特朗普的和平委员会将承诺50亿美元用于重建加沙。",
@@ -36,7 +47,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         },
@@ -47,7 +58,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         },
@@ -69,7 +80,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         },
@@ -80,7 +91,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         },
@@ -91,7 +102,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         },
@@ -102,9 +113,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "美国总统特朗普援引《国防生产法》， 签署行政命令，指示美国农业部和国防部确保元素磷、除草剂充足。",
+          "url": "https://flash.jin10.com/detail/20260219061414903800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         },
         {
           "title": "白宫新闻秘书Leavitt谈及美国国土安全部（DHS）停摆问题，宣称：美国总统特朗普还没有与民主党沟通。",
@@ -113,7 +135,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         },
@@ -124,7 +146,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         }
@@ -132,8 +154,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
+          "url": "https://wallstreetcn.com/articles/3765810",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 07时06分]"
+        },
         {
           "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
           "url": "https://wallstreetcn.com/articles/3765834",
@@ -146,15 +179,27 @@
           "time_info": "[02时01分 ~ 05时05分]"
         },
         {
-          "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
-          "url": "https://wallstreetcn.com/articles/3765810",
+          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
+          "url": "https://wallstreetcn.com/articles/3765829",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 07时06分]"
+        },
+        {
+          "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时05分 ~ 07时06分]"
         },
         {
           "title": "金十图示：2026年02月18日（周三）热门中概股行情一览（美股盘中）",
@@ -168,18 +213,6 @@
           "time_info": "02时01分"
         },
         {
-          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
-          "url": "https://wallstreetcn.com/articles/3765829",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 05时05分]"
-        },
-        {
           "title": "“AI恐慌交易”持续发酵 美股三大期指小幅走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2291237",
           "source": "财联社热门",
@@ -188,8 +221,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 07时06分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -200,8 +233,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 07时06分]"
+        },
+        {
+          "title": "Doordash美股盘后涨10%。",
+          "url": "https://wallstreetcn.com/livenews/3056517",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -212,8 +256,30 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 07时06分]"
+        },
+        {
+          "title": "能源业ETF收涨1.92%，半导体ETF涨1.24%，网络股指数ETF、全球科技股指数ETF、科技行业ETF至少涨1.03%，领跑美股行业ETF，公用事业ETF跌1.66%。 标普500指数的11个板块中，能源板块收涨2%，可选消费板块涨1%，信息技术/科技板块涨0.97%，房地产板块收跌1.45%，公用事业板块跌1.7%。",
+          "url": "https://wallstreetcn.com/livenews/3056498",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "Figma美股盘后涨15%，该公司认为人工智能（AI）货币化带动增长。 该公司四季度营收3.038亿美元，分析师预期2.931亿美元。 预计2026年营收大约13.7亿美元，分析师预期12.9亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3056488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         }
       ]
     },
@@ -229,8 +295,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 07时06分]"
         },
         {
           "title": "伊朗将迅速落实伊俄全面战略合作计划",
@@ -241,8 +307,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 07时06分]"
         },
         {
           "title": "伊朗与俄罗斯将举行海上联合军演",
@@ -253,8 +319,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时01分 ~ 05时05分]"
+          "appearance_count": 5,
+          "time_info": "[02时01分 ~ 07时06分]"
         },
         {
           "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
@@ -274,7 +340,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         },
@@ -285,7 +351,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         }
@@ -353,6 +419,34 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "外资回绝“抛售美国”论：净买入1.6万亿美元美股与美债",
+          "url": "https://wallstreetcn.com/livenews/3056484",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
+        },
+        {
+          "title": "美债收益率普遍涨超2个基点",
+          "url": "https://wallstreetcn.com/livenews/3056469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -374,26 +468,43 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "美债收益率普遍涨超2个基点",
-          "url": "https://wallstreetcn.com/livenews/3056469",
-          "source": "华尔街见闻-快讯",
+          "title": "市场消息：富时罗素正就IPO“快速纳入”规则征求市场意见，提及SpaceX、OpenAI、Anthropic可能进行的IPO。",
+          "url": "https://flash.jin10.com/detail/20260219054611726800",
+          "source": "金十数据",
           "ranks": [
-            10
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时05分"
+          "time_info": "07时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价涨约2%，白银涨约5%",
+          "url": "https://wallstreetcn.com/livenews/3056504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时06分"
         }
       ]
     }
