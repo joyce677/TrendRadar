@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T22:18:34.516485+08:00",
-  "total_titles_processed": 1633,
+  "generated_at": "2026-03-16T23:59:53.945453+08:00",
+  "total_titles_processed": 1754,
   "failed_sources": [],
   "trends": [
     {
@@ -46,8 +46,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 18时53分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 23时59分]"
         },
         {
           "title": "给AI投毒已成产业链",
@@ -270,7 +270,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -293,9 +293,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
+        },
+        {
+          "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
+          "url": "https://www.cls.cn/detail/2314550",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时18分 ~ 23时59分]"
         },
         {
           "title": "锐评B站AI大赛热门作品",
@@ -303,11 +315,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             2,
-            24
+            24,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时55分 ~ 22时18分]"
+          "appearance_count": 3,
+          "time_info": "[20时55分 ~ 23时59分]"
         },
         {
           "title": "阿里巴巴盘前涨近3%，报道称阿里巴巴将成立TOKEN HUB事业群，强化各AI业务战略协同。",
@@ -439,17 +452,6 @@
           "time_info": "20时55分"
         },
         {
-          "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
-          "url": "https://www.cls.cn/detail/2314550",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时18分"
-        },
-        {
           "title": "李彦宏牵头成立的AI生命科学公司，被曝赴港上市",
           "url": "https://wallstreetcn.com/livenews/3070715",
           "source": "华尔街见闻-快讯",
@@ -467,7 +469,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -511,7 +513,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -552,8 +554,19 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 7,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "美国财政部拍卖三个月期国债，得标利率3.610%，投标倍数2.94。 拍卖六个月期国债，得标利率3.570%，投标倍数2.64。",
+          "url": "https://wallstreetcn.com/livenews/3071027",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
         {
           "title": "“超级央行周”来袭，伊朗战争阴影笼罩全球利率决策",
           "url": "https://flash.jin10.com/detail/20260316033127451800",
@@ -574,7 +587,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         },
@@ -599,6 +612,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时04分"
+        },
+        {
+          "title": "美国至3月16日3个月国债竞拍-得标利率配置百分比 39.81%，前值59.78%。",
+          "url": "https://flash.jin10.com/detail/20260316233206209801",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
+          "title": "美国至3月16日3个月国债竞拍-得标利率 3.61%，前值3.61%。",
+          "url": "https://flash.jin10.com/detail/20260316233206182800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "国开行发行184天期债券，规模30亿元，发行利率1.4487%，预期1.4300%，投标倍数3.39倍，边际倍数1.47倍； 国开行发行3年期债券，规模60亿元，发行利率1.5681%，预期1.6000%，投标倍数4.24倍，边际倍数1.29倍。",
@@ -632,12 +667,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时23分"
+        },
+        {
+          "title": "美国至3月16日6个月国债竞拍-得标利率配置百分比 71.14%，前值32.35%。",
+          "url": "https://flash.jin10.com/detail/20260316233205989800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
+          "title": "美国至3月16日6个月国债竞拍-得标利率 3.57%，前值3.54%。",
+          "url": "https://flash.jin10.com/detail/20260316233205963800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
+          "title": "美国全国住宅建筑商协会（NAHB）首席经济学家Robert Dietz：尽管抵押贷款利率在2月回落，但“首付门槛以及与伊朗冲突和油价相关的不确定性，未来仍将构成阻力”。",
+          "url": "https://wallstreetcn.com/livenews/3071001",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "特斯拉“造芯”真来了！马斯克官宣：Terafab项目7天后启动",
@@ -676,6 +744,17 @@
           "time_info": "[16时04分 ~ 18时53分]"
         },
         {
+          "title": "美国参议院民主党成员Warren就质询xAI和五角大楼披露声明：就马斯克旗下初创公司xAI大模型Grok获取机密信息的权限质询国防部。",
+          "url": "https://wallstreetcn.com/livenews/3071020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "真正的美版“台积电”？马斯克称特斯拉“AI芯片超级工厂”7天内启动",
           "url": "https://wallstreetcn.com/articles/3767539",
           "source": "华尔街见闻",
@@ -685,6 +764,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时24分"
+        },
+        {
+          "title": "Kimi发布技术报告获马斯克点赞，联合创始人杨植麟、吴育昕、周昕宇署名",
+          "url": "https://wallstreetcn.com/livenews/3071006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "欧盟委员会表示，马斯克旗下X平台已按期缴纳1.2亿欧元罚款。",
@@ -701,7 +791,7 @@
     },
     {
       "keyword_group": "房价 楼市 房地产",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金十数据整理：每日房地产行业动态汇总（2026-03-16）",
@@ -724,8 +814,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时53分 ~ 22时18分]"
+          "appearance_count": 5,
+          "time_info": "[18时53分 ~ 23时59分]"
         },
         {
           "title": "香港财政司：香港楼价持续上升，楼市已接近回到疫情前水平",
@@ -759,6 +849,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "2月70城房价环比跌幅持续收窄，京沪二手房房价率先止跌转涨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32776796",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         }
       ]
     },
@@ -828,11 +929,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时55分 ~ 22时18分]"
+          "appearance_count": 3,
+          "time_info": "[20时55分 ~ 23时59分]"
         },
         {
           "title": "OpenAI与私募公司洽谈成立合资企业",
@@ -841,7 +943,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时18分"
         }
