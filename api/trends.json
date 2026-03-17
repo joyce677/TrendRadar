@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T19:39:36.080297+08:00",
-  "total_titles_processed": 1715,
+  "generated_at": "2026-03-17T20:58:11.708989+08:00",
+  "total_titles_processed": 1841,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 57,
+      "match_count": 59,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -42,8 +42,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时54分 ~ 19时39分]"
+          "appearance_count": 11,
+          "time_info": "[13时54分 ~ 20时58分]"
         },
         {
           "title": "锐评B站AI大赛热门作品",
@@ -64,6 +64,35 @@
           "time_info": "[01时03分 ~ 16时43分]"
         },
         {
+          "title": "AI大厂月薪3万疯抢文科生",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%A4%A7%E5%8E%82%E6%9C%88%E8%96%AA3%E4%B8%87%E7%96%AF%E6%8A%A2%E6%96%87%E7%A7%91%E7%94%9F%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            2,
+            1,
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时51分 ~ 20时58分]"
+        },
+        {
+          "title": "315曝光AI大模型遭投毒操控",
+          "url": "https://search.bilibili.com/all?keyword=315%E6%9B%9D%E5%85%89AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%81%AD%E6%8A%95%E6%AF%92%E6%93%8D%E6%8E%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25,
+            26,
+            22,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时03分 ~ 20时58分]"
+        },
+        {
           "title": "36 岁程序员，被 AI 写代码吓到了：如果再不转型，我几年内会失业吗？",
           "url": "https://www.zhihu.com/question/1977057445844109122",
           "source": "知乎",
@@ -79,34 +108,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[13时54分 ~ 19时39分]"
-        },
-        {
-          "title": "AI大厂月薪3万疯抢文科生",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E5%A4%A7%E5%8E%82%E6%9C%88%E8%96%AA3%E4%B8%87%E7%96%AF%E6%8A%A2%E6%96%87%E7%A7%91%E7%94%9F%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            2,
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时51分 ~ 19时39分]"
-        },
-        {
-          "title": "315曝光AI大模型遭投毒操控",
-          "url": "https://search.bilibili.com/all?keyword=315%E6%9B%9D%E5%85%89AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E9%81%AD%E6%8A%95%E6%AF%92%E6%93%8D%E6%8E%A7",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25,
-            26,
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时03分 ~ 09时25分]"
         },
         {
           "title": "阿里成立 Token Hub 事业群，由吴泳铭直接负责，此次架构调整对阿里 AI 发展有怎样的影响？",
@@ -221,6 +222,17 @@
           "time_info": "16时43分"
         },
         {
+          "title": "AI味太冲,英伟达DLSS5翻车",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351983&amp;topic_name=AI%E5%91%B3%E5%A4%AA%E5%86%B2%2C%E8%8B%B1%E4%BC%9F%E8%BE%BEDLSS5%E7%BF%BB%E8%BD%A6",
+          "source": "贴吧",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "AI对游戏版权有何影响",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E6%B8%B8%E6%88%8F%E7%89%88%E6%9D%83%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
           "source": "bilibili 热搜",
@@ -318,6 +330,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时26分]"
+        },
+        {
+          "title": "36 岁程序员，被 AI 写代码吓到了，如果再不转型，我几年内会失业吗？",
+          "url": "https://www.zhihu.com/question/1977057445844109122",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 20时58分]"
         },
         {
           "title": "STMicoroElectronics与英伟达围绕物理AI构建合作伙伴关系。",
@@ -693,7 +716,7 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "印尼央行行长：利率决议支持在2026年和2027年实现通胀目标的举措。",
@@ -785,6 +808,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
+        },
+        {
+          "title": "黄金震荡僵局仍未打破，市场等待美联储利率决议？市场等待什么信号？金十研究员Steven正在直播，点击进入直播间观看>>",
+          "url": "https://flash.jin10.com/detail/20260317204330763800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "日本财务大臣片山皋月：包括日本央行购债操作在内的货币政策手段，应由日本央行自行决定。 如果市场认为日本正在进行债务货币化，那将导致利率急剧上升和过度通胀。 日本并非在实施变相的债务货币化，而是在引导积极财政政策的过程中密切关注市场。",
@@ -1043,7 +1077,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "Kimi 新发布的「注意力残差」有什么亮点？马斯克和 Karpathy 为何同时点赞？",
@@ -1057,6 +1091,18 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[13时54分 ~ 18时43分]"
+        },
+        {
+          "title": "马斯克对所有人工智能公司放狠话",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AF%B9%E6%89%80%E6%9C%89%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%85%AC%E5%8F%B8%E6%94%BE%E7%8B%A0%E8%AF%9D%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时39分 ~ 20时58分]"
         },
         {
           "title": "Kimi回应马斯克点赞AI论文：你的火箭造得不错",
@@ -1122,6 +1168,17 @@
           "time_info": "16时43分"
         },
         {
+          "title": "马斯克：新款Roadster跑车有望下个月亮相。这将是一次震撼人心的升级。",
+          "url": "https://flash.jin10.com/detail/20260317203458154800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "马斯克旗下xAI：Grok的文本生成Speech API上线。",
           "url": "https://wallstreetcn.com/livenews/3071107",
           "source": "华尔街见闻-快讯",
@@ -1131,17 +1188,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时50分"
-        },
-        {
-          "title": "马斯克对所有人工智能公司放狠话",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AF%B9%E6%89%80%E6%9C%89%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%85%AC%E5%8F%B8%E6%94%BE%E7%8B%A0%E8%AF%9D%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时39分"
         }
       ]
     },
@@ -1260,6 +1306,47 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌 Gemini 网页应用向香港用户开放，将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2016896539008726692",
+          "source": "知乎",
+          "ranks": [
+            7,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时50分 ~ 20时58分]"
+        },
+        {
+          "title": "谷歌与DTE能源公司达成协议，将在密歇根州开发新的数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3071670",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "谷歌公司宣布，在Google AI Studio实施项目开支上限方案。 这将有助于掌控月度Gemini API开销。",
+          "url": "https://wallstreetcn.com/livenews/3071045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时03分"
+        }
+      ]
+    },
+    {
       "keyword_group": "虚拟币 币安 比特币 以太坊",
       "match_count": 3,
       "titles": [
@@ -1272,8 +1359,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时25分 ~ 19时39分]"
+          "appearance_count": 13,
+          "time_info": "[09时25分 ~ 20时58分]"
         },
         {
           "title": "霍尔木兹海峡现通航迹象，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -1300,39 +1387,20 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "agent",
       "match_count": 2,
       "titles": [
         {
-          "title": "谷歌 Gemini 网页应用向香港用户开放，将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2016896539008726692",
-          "source": "知乎",
+          "title": "王自如自研的Agent什么水平",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E8%87%AA%E7%A0%94%E7%9A%84Agent%E4%BB%80%E4%B9%88%E6%B0%B4%E5%B9%B3",
+          "source": "bilibili 热搜",
           "ranks": [
-            7,
-            4,
-            2
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时50分 ~ 19时39分]"
+          "appearance_count": 2,
+          "time_info": "[20时57分 ~ 20时58分]"
         },
-        {
-          "title": "谷歌公司宣布，在Google AI Studio实施项目开支上限方案。 这将有助于掌控月度Gemini API开销。",
-          "url": "https://wallstreetcn.com/livenews/3071045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "agent",
-      "match_count": 1,
-      "titles": [
         {
           "title": "阿里发布全球首个企业级Agent平台“悟空”",
           "url": "https://wallstreetcn.com/livenews/3071348",
@@ -1360,11 +1428,12 @@
             8,
             4,
             6,
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时12分 ~ 19时39分]"
+          "appearance_count": 12,
+          "time_info": "[12时12分 ~ 20时58分]"
         }
       ]
     }
