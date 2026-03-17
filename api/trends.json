@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T09:25:36.576128+08:00",
-  "total_titles_processed": 815,
+  "generated_at": "2026-03-17T12:12:51.255512+08:00",
+  "total_titles_processed": 990,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 40,
+      "match_count": 44,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -24,11 +24,12 @@
           "url": "https://www.cls.cn/detail/2314450",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时34分 ~ 09时25分]"
+          "appearance_count": 5,
+          "time_info": "[05时34分 ~ 12时12分]"
         },
         {
           "title": "315曝光AI大模型遭投毒操控",
@@ -169,6 +170,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时31分 ~ 09时25分]"
+        },
+        {
+          "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
+          "url": "https://www.cls.cn/detail/2314845",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 12时12分]"
         },
         {
           "title": "英伟达创始人兼CEO黄仁勋表示：AI已经进入了生产时代。智能现在是实时生成的，企业需要为此规模而构建的系统。 随着AI智能体开始具备推理、规划和行动能力，下一个 AI 拐点将大幅拉动对加速计算、软件和 AI 工厂的需求。联想与英伟达正携手交付驱动未来所需的全栈平台。",
@@ -325,15 +338,15 @@
           "time_info": "07时26分"
         },
         {
-          "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
-          "url": "https://www.cls.cn/detail/2314845",
-          "source": "财联社热门",
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850485&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/03/CA_npreZkiWZtt1j4Xbc5.jpg/lite\" height=\"120\" /></a>",
+          "url": "https://flash.jin10.com/detail/20260317120118876800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时25分"
+          "time_info": "12时12分"
         },
         {
           "title": "美国商务部长卢特尼克将于加州圣何塞当地时间周一与英伟达CEO黄仁勋在GTC的间隙讨论AI。（PunchBowl）",
@@ -353,9 +366,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "AI 裁员",
+          "url": "https://s.weibo.com/weibo?q=AI%20%E8%A3%81%E5%91%98&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "美光科技执行副总裁兼首席商务官Sumit Sadana：AI的下一个时代将由通过全生态系统联合工程创新开发的紧密集成平台来定义。我们与英伟达的紧密合作确保了计算与内存从研发第一天起就能同步扩展。 美光的HBM4是这一切的核心，它是AI的引擎，提供了前所未有的带宽、容量和能效。 随着HBM4 36GB 12H，以及业界首款SOCAMM2和Gen6 SSD的量产，美光的内存与存储构成了释放下一代AI全部潜力的核心基石。",
@@ -380,6 +404,17 @@
           "time_info": "07时26分"
         },
         {
+          "title": "AI 替代岗位",
+          "url": "https://s.weibo.com/weibo?q=AI%20%E6%9B%BF%E4%BB%A3%E5%B2%97%E4%BD%8D&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
           "title": "铠侠（Kioxia）在单台服务器上实现48亿规模高维向量搜索数据库，利用GPU实现7.8倍索引构建加速。 结合英伟达NVIDIA cuVS库与铠侠开源的AiSAQ技术，在极低DRAM占用下完成1024维向量索引。",
           "url": "https://wallstreetcn.com/livenews/3071190",
           "source": "华尔街见闻-快讯",
@@ -397,9 +432,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "如果 AI 存在泡沫，那么你认为泡沫阶段性破灭的标志性事件会是什么？",
+          "url": "https://www.zhihu.com/question/2016830637785440439",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "英伟达(NVDA.O)开始将Dynamo投入生产部署，该系统是一款被广泛采用、面向AI工厂的推理操作系统。",
@@ -482,7 +528,7 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
           "title": "日本财务大臣片山皋月：汇率由多种因素决定。",
@@ -491,7 +537,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -514,7 +560,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -525,9 +571,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "澳元/美元在利率决议公布后快速走低，澳大利亚3年期国债收益率下行9个基点。",
+          "url": "https://wallstreetcn.com/livenews/3071365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "澳洲联储声明：五名委员投票支持加息25个基点，四名委员投票支持维持利率不变。 2025年下半年通胀压力显著上升。 短期通胀预期已经上升，通胀率可能在一段时间内维持在目标水平上方。 通胀有长期高于目标水平的实质性风险。 将采取一切必要措施来实现价格和就业目标。 货币政策已做好充分准备，以应对事态发展。 中东冲突导致燃油价格大幅上涨，中东冲突构成重大风险，可能给全球和国内带来通胀。 经济和通胀前景存在重大不确定性。 需关注数据、不断变化的市场环境以及决策中的风险。",
+          "url": "https://wallstreetcn.com/livenews/3071361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "2026年3月17日银行间外汇市场人民币汇率中间价",
@@ -536,9 +604,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "澳大利亚政策利率 4.1%，预期 4.1%，前值 3.85%。",
+          "url": "https://wallstreetcn.com/livenews/3071358",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "提醒：北京时间11:30，澳洲联储将公布利率决议，市场预期为加息25个基点。",
+          "url": "https://wallstreetcn.com/livenews/3071354",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "日本财务大臣片山皋月：汇率由多种因素决定。",
@@ -547,7 +637,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -569,9 +659,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "农发行发行5年期债券，规模40亿元，发行利率1.6460%，预期1.6600%，投标倍数7.49倍，边际倍数1.79倍。",
+          "url": "https://wallstreetcn.com/livenews/3071347",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         },
         {
           "title": "日本央行行长植田和男：长期利率波动反映了市场对经济、物价和货币政策前景的看法。",
@@ -580,7 +681,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -591,7 +692,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
@@ -607,6 +708,17 @@
           "time_info": "07时26分"
         },
         {
+          "title": "国开行发行2年期债券，规模50亿元，发行利率1.4985%，预期1.5200%，投标倍数4.39倍，边际倍数1.67倍； 国开行发行5年期债券，规模90亿元，发行利率1.6799%，预期1.6700%，投标倍数4.73倍，边际倍数6.75倍； 国开行发行10年期债券，规模170亿元，发行利率1.9448%，预期1.9400%，投标倍数3.13倍，边际倍数38.78倍。",
+          "url": "https://wallstreetcn.com/livenews/3071337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
           "title": "美国财政部拍卖三个月期国债，得标利率3.610%，投标倍数2.94。 拍卖六个月期国债，得标利率3.570%，投标倍数2.64。",
           "url": "https://wallstreetcn.com/livenews/3071027",
           "source": "华尔街见闻-快讯",
@@ -616,6 +728,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "供地按下“暂停键”？自然资源部：并非停供房地产用地 而是转向存量“精供优供”",
+          "url": "https://www.cls.cn/detail/2314262",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 07时26分]"
+        },
+        {
+          "title": "2月70城房价环比跌幅持续收窄，京沪二手房房价率先止跌转涨",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32776796",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时03分 ~ 07时26分]"
+        },
+        {
+          "title": "房地产板块密集涨停",
+          "url": "https://www.toutiao.com/trending/7618033445512839231/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        },
+        {
+          "title": "二手房放量引领深圳楼市“小阳春”",
+          "url": "https://wallstreetcn.com/livenews/3071218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "土地新规落地对房地产有哪些影响",
+          "url": "https://www.toutiao.com/trending/7617770553209785892/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时53分"
         }
       ]
     },
@@ -677,57 +851,6 @@
       ]
     },
     {
-      "keyword_group": "房价 楼市 房地产",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "供地按下“暂停键”？自然资源部：并非停供房地产用地 而是转向存量“精供优供”",
-          "url": "https://www.cls.cn/detail/2314262",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 07时26分]"
-        },
-        {
-          "title": "2月70城房价环比跌幅持续收窄，京沪二手房房价率先止跌转涨",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32776796",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时03分 ~ 07时26分]"
-        },
-        {
-          "title": "二手房放量引领深圳楼市“小阳春”",
-          "url": "https://wallstreetcn.com/livenews/3071218",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "土地新规落地对房地产有哪些影响",
-          "url": "https://www.toutiao.com/trending/7617770553209785892/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -773,6 +896,17 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
+          "url": "https://wallstreetcn.com/articles/3767567",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 12时12分]"
+        },
+        {
           "title": "霍尔木兹海峡现通航迹象，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
           "url": "https://wallstreetcn.com/articles/3767567",
           "source": "华尔街见闻",
@@ -784,24 +918,13 @@
           "time_info": "07时26分"
         },
         {
-          "title": "霍尔木兹海峡受阻缓解，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
-          "url": "https://wallstreetcn.com/articles/3767567",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
           "title": "比特币站上75000美元关口，创2月初以来新高。",
           "url": "https://wallstreetcn.com/livenews/3071254",
           "source": "华尔街见闻-快讯",
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         }
@@ -821,6 +944,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "agent",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "阿里发布全球首个企业级Agent平台“悟空”",
+          "url": "https://wallstreetcn.com/livenews/3071348",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "iphone apple",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Apple开发者官号入驻B站",
+          "url": "https://search.bilibili.com/all?keyword=Apple%E5%BC%80%E5%8F%91%E8%80%85%E5%AE%98%E5%8F%B7%E5%85%A5%E9%A9%BBB%E7%AB%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时12分"
         }
       ]
     }
