@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T14:56:31.091151+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2026-03-17T15:51:34.053414+08:00",
+  "total_titles_processed": 1311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -39,8 +39,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时54分 ~ 14时56分]"
+          "appearance_count": 4,
+          "time_info": "[13时54分 ~ 15时51分]"
         },
         {
           "title": "锐评B站AI大赛热门作品",
@@ -52,11 +52,12 @@
             13,
             18,
             20,
-            17
+            17,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时03分 ~ 14时56分]"
+          "appearance_count": 9,
+          "time_info": "[01时03分 ~ 15时51分]"
         },
         {
           "title": "315曝光AI大模型遭投毒操控",
@@ -98,6 +99,21 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时34分 ~ 06时26分]"
+        },
+        {
+          "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
+          "url": "https://www.cls.cn/detail/2314845",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时25分 ~ 15时51分]"
         },
         {
           "title": "英伟达将豪掷 260 亿美元开发 AI 大模型，为什么英伟达要自己下场做大模型？",
@@ -159,18 +175,30 @@
           "time_info": "04时31分"
         },
         {
-          "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
-          "url": "https://www.cls.cn/detail/2314845",
-          "source": "财联社热门",
+          "title": "AI对游戏版权有何影响",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E6%B8%B8%E6%88%8F%E7%89%88%E6%9D%83%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
           "ranks": [
-            7,
-            6,
-            9,
-            10
+            30,
+            24,
+            8
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[09时25分 ~ 14时56分]"
+          "time_info": "[02时53分 ~ 15时51分]"
+        },
+        {
+          "title": "36 岁程序员，被 AI 写代码吓到了：如果再不转型，我几年内会失业吗？",
+          "url": "https://www.zhihu.com/question/1977057445844109122",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时54分 ~ 15时51分]"
         },
         {
           "title": "AI 裁员",
@@ -184,30 +212,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时12分 ~ 14时56分]"
-        },
-        {
-          "title": "AI对游戏版权有何影响",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E6%B8%B8%E6%88%8F%E7%89%88%E6%9D%83%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时53分 ~ 05时34分]"
-        },
-        {
-          "title": "36 岁程序员，被 AI 写代码吓到了：如果再不转型，我几年内会失业吗？",
-          "url": "https://www.zhihu.com/question/1977057445844109122",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时54分 ~ 14时56分]"
         },
         {
           "title": "苹果发布AirPods Max 2",
@@ -331,6 +335,18 @@
           "time_info": "[05时34分 ~ 06时26分]"
         },
         {
+          "title": "从夯到拉点评AI作品",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89%E7%82%B9%E8%AF%84AI%E4%BD%9C%E5%93%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 15时51分]"
+        },
+        {
           "title": "IBM宣布，与英伟达扩大在企业AI方面的合作。",
           "url": "https://wallstreetcn.com/livenews/3071161",
           "source": "华尔街见闻-快讯",
@@ -416,7 +432,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时56分"
         },
@@ -454,17 +470,6 @@
           "time_info": "12时12分"
         },
         {
-          "title": "从夯到拉点评AI作品",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E5%A4%AF%E5%88%B0%E6%8B%89%E7%82%B9%E8%AF%84AI%E4%BD%9C%E5%93%81",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时56分"
-        },
-        {
           "title": "铠侠（Kioxia）在单台服务器上实现48亿规模高维向量搜索数据库，利用GPU实现7.8倍索引构建加速。 结合英伟达NVIDIA cuVS库与铠侠开源的AiSAQ技术，在极低DRAM占用下完成1024维向量索引。",
           "url": "https://wallstreetcn.com/livenews/3071190",
           "source": "华尔街见闻-快讯",
@@ -485,6 +490,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "AI大厂月薪3万疯抢文科生",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%A4%A7%E5%8E%82%E6%9C%88%E8%96%AA3%E4%B8%87%E7%96%AF%E6%8A%A2%E6%96%87%E7%A7%91%E7%94%9F%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
         },
         {
           "title": "如果 AI 存在泡沫，那么你认为泡沫阶段性破灭的标志性事件会是什么？",
@@ -578,18 +594,40 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
-          "title": "湖北发行5年期一般债地方债，规模151.7800亿元，发行利率1.6100%，边际倍数1.48倍，倍数预期1.64； 湖北发行10年期其他专项地方债，规模7.3900亿元，发行利率1.9500%，边际倍数1.18倍，倍数预期1.97； 湖北发行15年期其他专项地方债，规模14.8700亿元，发行利率2.3200%，边际倍数3.51倍，倍数预期2.32； 湖北发行20年期其他专项地方债，规模51.3700亿元，发行利率2.5000%，边际倍数2.91倍，倍数预期2.51； 湖北发行30年期其他专项地方债，规模38.2500亿元，发行利率2.5600%，边际倍数13.49倍，倍数预期2.52； 湖北发行10年期普通专项地方债，规模131.5800亿元，发行利率2.0000%，边际倍数12.25倍，倍数预期1.98； 湖北发行10年期普通专项地方债，规模102.6900亿元，发行利率2.0000%，边际倍数4.45倍，倍数预期1.98。",
-          "url": "https://wallstreetcn.com/livenews/3071450",
+          "title": "印尼央行行长：利率决议支持在2026年和2027年实现通胀目标的举措。",
+          "url": "https://flash.jin10.com/detail/20260317153147289800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
+        },
+        {
+          "title": "印尼央行行长：利率决议符合央行当前以稳定印尼盾为主的政策重心，旨在缓解中东冲突加剧带来的负面影响。",
+          "url": "https://flash.jin10.com/detail/20260317153137848800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
+        },
+        {
+          "title": "辽宁发行10年期一般债地方债，规模13.4000亿元，发行利率1.9600%，边际倍数2.22倍，倍数预期1.99； 辽宁发行10年期其他专项地方债，规模1.0700亿元，发行利率1.9600%，边际倍数1.40倍，倍数预期2.03。",
+          "url": "https://wallstreetcn.com/livenews/3071487",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时56分"
+          "time_info": "15时51分"
         },
         {
           "title": "日本财务大臣片山皋月：汇率由多种因素决定。",
@@ -615,6 +653,18 @@
           "time_info": "[06时26分 ~ 07时26分]"
         },
         {
+          "title": "湖北发行5年期一般债地方债，规模151.7800亿元，发行利率1.6100%，边际倍数1.48倍，倍数预期1.64； 湖北发行10年期其他专项地方债，规模7.3900亿元，发行利率1.9500%，边际倍数1.18倍，倍数预期1.97； 湖北发行15年期其他专项地方债，规模14.8700亿元，发行利率2.3200%，边际倍数3.51倍，倍数预期2.32； 湖北发行20年期其他专项地方债，规模51.3700亿元，发行利率2.5000%，边际倍数2.91倍，倍数预期2.51； 湖北发行30年期其他专项地方债，规模38.2500亿元，发行利率2.5600%，边际倍数13.49倍，倍数预期2.52； 湖北发行10年期普通专项地方债，规模131.5800亿元，发行利率2.0000%，边际倍数12.25倍，倍数预期1.98； 湖北发行10年期普通专项地方债，规模102.6900亿元，发行利率2.0000%，边际倍数4.45倍，倍数预期1.98。",
+          "url": "https://wallstreetcn.com/livenews/3071450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时56分 ~ 15时51分]"
+        },
+        {
           "title": "中国央行：今日开展510亿元7天逆回购操作，投标量510亿元，中标量510亿元，操作利率为1.40%，与此前持平。",
           "url": "https://flash.jin10.com/detail/20260317092214102800",
           "source": "金十数据",
@@ -624,6 +674,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "印尼至3月17日7天逆回购利率 4.75%，预期4.75%，前值4.75%。",
+          "url": "https://flash.jin10.com/detail/20260317153040959800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
         },
         {
           "title": "日本财务大臣片山皋月：包括日本央行购债操作在内的货币政策手段，应由日本央行自行决定。 如果市场认为日本正在进行债务货币化，那将导致利率急剧上升和过度通胀。 日本并非在实施变相的债务货币化，而是在引导积极财政政策的过程中密切关注市场。",
@@ -747,6 +808,17 @@
           "time_info": "13时55分"
         },
         {
+          "title": "农发行发行2年期债券，规模20亿元，发行利率1.5078%，预期1.5200%，投标倍数8.27倍，边际倍数32.50倍； 农发行发行2年期债券，规模60亿元，发行利率1.4424%，预期1.4500%，投标倍数3.83倍，边际倍数2.89倍； 农发行发行7年期债券，规模20亿元，发行利率1.7547%，预期1.7800%，投标倍数6.30倍，边际倍数112.00倍。",
+          "url": "https://wallstreetcn.com/livenews/3071459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
+        },
+        {
           "title": "日本央行行长植田和男：长期利率应由市场决定。",
           "url": "https://flash.jin10.com/detail/20260317091021640800",
           "source": "金十数据",
@@ -838,7 +910,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "Kimi 新发布的「注意力残差」有什么亮点？马斯克和 Karpathy 为何同时点赞？",
@@ -849,8 +921,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时54分 ~ 14时56分]"
+          "appearance_count": 4,
+          "time_info": "[13时54分 ~ 15时51分]"
+        },
+        {
+          "title": "Kimi回应马斯克点赞AI论文：你的火箭造得不错",
+          "url": "https://wallstreetcn.com/livenews/3071485",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时51分"
         },
         {
           "title": "马斯克5万美金小屋简陋似仓库",
@@ -1020,8 +1103,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时25分 ~ 14时56分]"
+          "appearance_count": 6,
+          "time_info": "[09时25分 ~ 15时51分]"
         },
         {
           "title": "霍尔木兹海峡现通航迹象，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -1092,11 +1175,12 @@
           "ranks": [
             7,
             5,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时12分 ~ 14时56分]"
+          "appearance_count": 5,
+          "time_info": "[12时12分 ~ 15时51分]"
         }
       ]
     }
