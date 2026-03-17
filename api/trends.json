@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T15:51:34.053414+08:00",
-  "total_titles_processed": 1311,
+  "generated_at": "2026-03-17T16:43:07.340848+08:00",
+  "total_titles_processed": 1404,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 49,
+      "match_count": 52,
       "titles": [
         {
           "title": "阿里巴巴成立新事业群 争夺AI Agent市场",
@@ -36,11 +36,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%BA%8E%E8%B0%A6%E8%AF%B4%E6%80%95AI%E5%81%B7%E7%9C%8B%E7%9B%B8%E5%86%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时54分 ~ 15时51分]"
+          "appearance_count": 6,
+          "time_info": "[13时54分 ~ 16时43分]"
         },
         {
           "title": "锐评B站AI大赛热门作品",
@@ -53,11 +54,12 @@
             18,
             20,
             17,
-            27
+            27,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时03分 ~ 15时51分]"
+          "appearance_count": 11,
+          "time_info": "[01时03分 ~ 16时43分]"
         },
         {
           "title": "315曝光AI大模型遭投毒操控",
@@ -131,6 +133,20 @@
           "time_info": "[02时53分 ~ 07时26分]"
         },
         {
+          "title": "36 岁程序员，被 AI 写代码吓到了：如果再不转型，我几年内会失业吗？",
+          "url": "https://www.zhihu.com/question/1977057445844109122",
+          "source": "知乎",
+          "ranks": [
+            19,
+            18,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时54分 ~ 16时43分]"
+        },
+        {
           "title": "开云集团成立新的实体Kering Jewelry，Jean-Marc Duplaix将出任其首席执行官（CEO）。",
           "url": "https://wallstreetcn.com/livenews/3071062",
           "source": "华尔街见闻-快讯",
@@ -175,6 +191,29 @@
           "time_info": "04时31分"
         },
         {
+          "title": "英伟达押注下一个万亿级机遇 入局AI服务器系统",
+          "url": "https://wallstreetcn.com/livenews/3071516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
+          "title": "AI大厂月薪3万疯抢文科生",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E5%A4%A7%E5%8E%82%E6%9C%88%E8%96%AA3%E4%B8%87%E7%96%AF%E6%8A%A2%E6%96%87%E7%A7%91%E7%94%9F%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时51分 ~ 16时43分]"
+        },
+        {
           "title": "AI对游戏版权有何影响",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E6%B8%B8%E6%88%8F%E7%89%88%E6%9D%83%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
           "source": "bilibili 热搜",
@@ -186,19 +225,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时53分 ~ 15时51分]"
-        },
-        {
-          "title": "36 岁程序员，被 AI 写代码吓到了：如果再不转型，我几年内会失业吗？",
-          "url": "https://www.zhihu.com/question/1977057445844109122",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时54分 ~ 15时51分]"
         },
         {
           "title": "AI 裁员",
@@ -415,6 +441,17 @@
           "time_info": "07时26分"
         },
         {
+          "title": "3·15晚会点名AI投毒 中广协已启动GEO标准化建设工作",
+          "url": "https://flash.jin10.com/detail/20260317161933180800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
           "title": "百度计划在智能音箱中接入OpenClaw AI智能体。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3071272",
           "source": "华尔街见闻-快讯",
@@ -492,15 +529,15 @@
           "time_info": "09时25分"
         },
         {
-          "title": "AI大厂月薪3万疯抢文科生",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E5%A4%A7%E5%8E%82%E6%9C%88%E8%96%AA3%E4%B8%87%E7%96%AF%E6%8A%A2%E6%96%87%E7%A7%91%E7%94%9F%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
+          "title": "华为面向AI推理场景发布新一代AI数据基础设施",
+          "url": "https://wallstreetcn.com/livenews/3071491",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时51分"
+          "time_info": "16时43分"
         },
         {
           "title": "如果 AI 存在泡沫，那么你认为泡沫阶段性破灭的标志性事件会是什么？",
@@ -594,7 +631,7 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "印尼央行行长：利率决议支持在2026年和2027年实现通胀目标的举措。",
@@ -603,7 +640,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         },
@@ -614,18 +651,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时51分"
-        },
-        {
-          "title": "辽宁发行10年期一般债地方债，规模13.4000亿元，发行利率1.9600%，边际倍数2.22倍，倍数预期1.99； 辽宁发行10年期其他专项地方债，规模1.0700亿元，发行利率1.9600%，边际倍数1.40倍，倍数预期2.03。",
-          "url": "https://wallstreetcn.com/livenews/3071487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         },
@@ -665,6 +691,18 @@
           "time_info": "[14时56分 ~ 15时51分]"
         },
         {
+          "title": "辽宁发行10年期一般债地方债，规模13.4000亿元，发行利率1.9600%，边际倍数2.22倍，倍数预期1.99； 辽宁发行10年期其他专项地方债，规模1.0700亿元，发行利率1.9600%，边际倍数1.40倍，倍数预期2.03。",
+          "url": "https://wallstreetcn.com/livenews/3071487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时51分 ~ 16时43分]"
+        },
+        {
           "title": "中国央行：今日开展510亿元7天逆回购操作，投标量510亿元，中标量510亿元，操作利率为1.40%，与此前持平。",
           "url": "https://flash.jin10.com/detail/20260317092214102800",
           "source": "金十数据",
@@ -682,7 +720,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         },
@@ -775,6 +813,17 @@
           "time_info": "12时12分"
         },
         {
+          "title": "辽宁发行15年期其他专项地方债，规模2.5900亿元，发行利率2.4000%，边际倍数5.17倍，倍数预期2.34； 辽宁发行20年期其他专项地方债，规模32.2800亿元，发行利率2.5300%，边际倍数21.72倍，倍数预期2.51； 辽宁发行30年期其他专项地方债，规模10.5600亿元，发行利率2.5600%，边际倍数5.21倍，倍数预期2.53； 辽宁发行20年期普通专项地方债，规模87.2000亿元，发行利率2.5300%，边际倍数18.66倍，倍数预期2.51。",
+          "url": "https://wallstreetcn.com/livenews/3071492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
+        },
+        {
           "title": "日本财务大臣片山皋月：汇率由多种因素决定。",
           "url": "https://flash.jin10.com/detail/20260317091046942800",
           "source": "金十数据",
@@ -814,7 +863,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时51分"
         },
@@ -910,7 +959,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "Kimi 新发布的「注意力残差」有什么亮点？马斯克和 Karpathy 为何同时点赞？",
@@ -921,19 +970,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时54分 ~ 15时51分]"
+          "appearance_count": 6,
+          "time_info": "[13时54分 ~ 16时43分]"
         },
         {
           "title": "Kimi回应马斯克点赞AI论文：你的火箭造得不错",
           "url": "https://wallstreetcn.com/livenews/3071485",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            3,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时51分 ~ 16时43分]"
         },
         {
           "title": "马斯克5万美金小屋简陋似仓库",
@@ -974,6 +1024,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时50分 ~ 04时31分]"
+        },
+        {
+          "title": "马斯克：新款Roadster“可能”将在4月底发布。",
+          "url": "https://wallstreetcn.com/livenews/3071510",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时43分"
         },
         {
           "title": "马斯克旗下xAI：Grok的文本生成Speech API上线。",
@@ -1100,11 +1161,12 @@
           "url": "https://wallstreetcn.com/articles/3767567",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时25分 ~ 15时51分]"
+          "appearance_count": 8,
+          "time_info": "[09时25分 ~ 16时43分]"
         },
         {
           "title": "霍尔木兹海峡现通航迹象，美股美债齐升，标普纳指涨超1%，美油下挫5%，以太坊大涨10%",
@@ -1176,11 +1238,12 @@
             7,
             5,
             8,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时12分 ~ 15时51分]"
+          "appearance_count": 7,
+          "time_info": "[12时12分 ~ 16时43分]"
         }
       ]
     }
