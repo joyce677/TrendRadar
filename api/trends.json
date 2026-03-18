@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T06:27:19.757258+08:00",
-  "total_titles_processed": 676,
+  "generated_at": "2026-03-19T07:27:00.746860+08:00",
+  "total_titles_processed": 723,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://flash.jin10.com/detail/20260319060728956800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时27分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时27分 ~ 07时27分]"
         },
         {
           "title": "提醒：北京时间02:00，美联储将发布FOMC利率决议声明和经济预期概要（SEP），美联储主席鲍威尔将在02:30举行新闻发布会。",
@@ -52,6 +53,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时53分 ~ 05时29分]"
+        },
+        {
+          "title": "两年期美债收益率涨约10个基点，投资者关注美联储政策利率的前景和国际油价",
+          "url": "https://wallstreetcn.com/livenews/3072705",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时27分 ~ 07时27分]"
         },
         {
           "title": "美联储利率决议前：本次会议维持利率不变的概率为98.9%",
@@ -107,17 +120,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
-        },
-        {
-          "title": "两年期美债收益率涨约10个基点，投资者关注美联储政策利率的前景和国际油价",
-          "url": "https://wallstreetcn.com/livenews/3072705",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时27分"
         },
         {
           "title": "美联储主席鲍威尔：利率路径预测的中位数未变，但倾向于更少降息的人数有明显增加。",
@@ -181,7 +183,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
         },
@@ -203,7 +205,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
         },
@@ -214,7 +216,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
         },
@@ -255,7 +257,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
@@ -264,11 +266,12 @@
           "ranks": [
             1,
             2,
-            3
+            3,
+            14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 07时27分]"
         },
         {
           "title": "网传以后男二以下的角色都用 AI 做，不用真人演员，可能性多大？当前的技术条件支持吗？",
@@ -277,11 +280,12 @@
           "ranks": [
             5,
             4,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 07时27分]"
         },
         {
           "title": "全球AI需求激增、Token调用量上扬 阿里云部分产品最高涨34%",
@@ -291,8 +295,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 07时27分]"
         },
         {
           "title": "腾讯电话会：马化腾首谈“养虾”构想，今年AI投资至少翻倍，智能体将催生去中心化新生态",
@@ -300,11 +304,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 07时27分]"
         },
         {
           "title": "AI算力需求爆发 阿里云、百度智能云同日联袂涨价 涨幅最高34%",
@@ -315,8 +320,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 06时27分]"
+          "appearance_count": 11,
+          "time_info": "[00时03分 ~ 07时27分]"
         },
         {
           "title": "网友抵制AI演员",
@@ -330,8 +335,8 @@
             28
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时03分 ~ 05时29分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 07时27分]"
         },
         {
           "title": "易小星参加B站AI创作大赛",
@@ -340,11 +345,12 @@
           "ranks": [
             27,
             13,
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时55分 ~ 06时27分]"
+          "appearance_count": 9,
+          "time_info": "[01时55分 ~ 07时27分]"
         },
         {
           "title": "日本AI造假,套壳DeepSeek",
@@ -354,8 +360,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 06时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 07时27分]"
         },
         {
           "title": "AI味太冲,英伟达DLSS5翻车",
@@ -365,8 +371,31 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时04分 ~ 06时27分]"
+          "appearance_count": 8,
+          "time_info": "[00时04分 ~ 07时27分]"
+        },
+        {
+          "title": "AI算力驱动散热需求爆发，上市公司密集布局液冷赛道",
+          "url": "https://wallstreetcn.com/livenews/3072731",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
+        },
+        {
+          "title": "AI短片流金谷恩仇录",
+          "url": "https://www.douyin.com/hot/2435233",
+          "source": "抖音",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时27分 ~ 07时27分]"
         },
         {
           "title": "鲍威尔：还没有开始看到人工智能（AI）对于生产力的影响。 近期的生产力趋势并非生成式AI所致。 AI肯定应该会对生产力趋势做出贡献。 数据中心建设可能正推高通胀。 AI投资可能会在短期内刺激中性利率（走高）。",
@@ -416,15 +445,15 @@
           "time_info": "[01时55分 ~ 02时51分]"
         },
         {
-          "title": "AI短片流金谷恩仇录",
-          "url": "https://www.douyin.com/hot/2435233",
-          "source": "抖音",
+          "title": "AI成家电标配，头部企业竞逐主动智能赛道",
+          "url": "https://wallstreetcn.com/livenews/3072722",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时27分"
+          "time_info": "07时27分"
         },
         {
           "title": "据The Information：Meta Platforms(META.O)的AI智能体将敏感的公司和用户数据泄露给了未经授权的员工。",
@@ -433,7 +462,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
         }
@@ -441,7 +470,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌公司与Stitch推出Vibe Design。",
@@ -453,6 +482,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
+        },
+        {
+          "title": "市场消息：桥水基金首席科学家兼人工智能负责人Jasjeet Sekhon将加入谷歌DeepMind，出任首席战略官。Sekhon也将加入桥水董事会。",
+          "url": "https://flash.jin10.com/detail/20260319065232382800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时27分"
         },
         {
           "title": "上个月，当Anthropic公司与美国国防部就人工智能在战争中的应用发生冲突时，谷歌(GOOG.O)的一位高管悄悄地与五角大楼官员会面，力荐该公司成为完美的国防合作伙伴。",
