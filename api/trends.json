@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T16:35:27.218517+08:00",
-  "total_titles_processed": 1518,
+  "generated_at": "2026-03-19T17:37:12.362536+08:00",
+  "total_titles_processed": 1615,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "利率 汇率",
-      "match_count": 48,
+      "match_count": 50,
       "titles": [
         {
           "title": "美联储宣布维持利率不变",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时28分 ~ 16时35分]"
+          "appearance_count": 12,
+          "time_info": "[09时28分 ~ 17时37分]"
         },
         {
           "title": "美联储维持利率不变",
@@ -28,8 +28,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时16分 ~ 16时35分]"
+          "appearance_count": 11,
+          "time_info": "[12时16分 ~ 17时37分]"
         },
         {
           "title": "美联储如期维持利率不变 点阵图显示年内还会降息一次",
@@ -56,17 +56,6 @@
           "time_info": "12时17分"
         },
         {
-          "title": "瑞士央行将基准利率维持在0%不变，符合市场预期。",
-          "url": "https://wallstreetcn.com/livenews/3073126",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
           "title": "美国财政部拍卖四周期国债，得标利率3.610%，投标倍数3.05。",
           "url": "https://wallstreetcn.com/livenews/3072565",
           "source": "华尔街见闻-快讯",
@@ -76,17 +65,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
-        },
-        {
-          "title": "瑞典央行维持基准利率在1.750%不变，符合市场预期。",
-          "url": "https://wallstreetcn.com/livenews/3073124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
         },
         {
           "title": "金十整理：机构前瞻英国利率决议——市场一致预期按兵不动，降息窗口正被无限期推后？",
@@ -142,6 +120,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时43分"
+        },
+        {
+          "title": "瑞士央行将基准利率维持在0%不变，符合市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3073126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 17时37分]"
+        },
+        {
+          "title": "瑞典央行维持基准利率在1.750%不变，符合市场预期。",
+          "url": "https://wallstreetcn.com/livenews/3073124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 17时37分]"
         },
         {
           "title": "美联储4月维持利率不变的概率为100%",
@@ -242,7 +244,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -275,7 +277,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -357,6 +359,17 @@
           "time_info": "09时28分"
         },
         {
+          "title": "瑞士央行行长：引入负利率的门槛很高。",
+          "url": "https://flash.jin10.com/detail/20260319171349744800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
+        },
+        {
           "title": "美国美联储FOMC利率决策(下限) 3.5%，预期 3.5%，前值 3.5%。",
           "url": "https://wallstreetcn.com/livenews/3072612",
           "source": "华尔街见闻-快讯",
@@ -377,6 +390,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
+        },
+        {
+          "title": "瑞典央行：利率将在当前水平维持一段时间。",
+          "url": "https://wallstreetcn.com/livenews/3073128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时37分"
         },
         {
           "title": "日本央行利率决议过后，美元/日元短线小幅走高。",
@@ -547,7 +571,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
@@ -588,8 +612,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时03分 ~ 16时35分]"
+          "appearance_count": 23,
+          "time_info": "[00时03分 ~ 17时37分]"
         },
         {
           "title": "AI短片流金谷恩仇录",
@@ -653,11 +677,12 @@
             8,
             26,
             20,
-            29
+            29,
+            23
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时55分 ~ 16时35分]"
+          "appearance_count": 21,
+          "time_info": "[01时55分 ~ 17时37分]"
         },
         {
           "title": "上万部短剧数据告诉你，AI会抢走真人实拍的饭碗吗？",
@@ -670,8 +695,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时28分 ~ 16时35分]"
+          "appearance_count": 12,
+          "time_info": "[09时28分 ~ 17时37分]"
         },
         {
           "title": "日本AI造假,套壳DeepSeek",
@@ -686,6 +711,20 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时04分 ~ 15时43分]"
+        },
+        {
+          "title": "苹果高管走访“果链”：看了欣旺达和富士康，要推“AI+”课程培训员工",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32788074",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[12时16分 ~ 17时37分]"
         },
         {
           "title": "网友抵制AI演员",
@@ -715,18 +754,52 @@
           "time_info": "[00时04分 ~ 13时55分]"
         },
         {
-          "title": "苹果高管走访“果链”：看了欣旺达和富士康，要推“AI+”课程培训员工",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32788074",
-          "source": "澎湃新闻",
+          "title": "如何看待央视网发布的动画短片《AI 奇谈 | 止戈为武：流金谷无「鹰」家》？",
+          "url": "https://www.zhihu.com/question/2017531069054869898",
+          "source": "知乎",
           "ranks": [
-            20,
-            18,
-            16,
-            19
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时16分 ~ 16时35分]"
+          "appearance_count": 3,
+          "time_info": "[16时35分 ~ 17时37分]"
+        },
+        {
+          "title": "50年前石油危机启示录：最可怕的是中东战火刺破AI泡沫？",
+          "url": "https://www.cls.cn/detail/2317944",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时42分 ~ 17时37分]"
+        },
+        {
+          "title": "AI万物皆可龙抬头",
+          "url": "https://www.douyin.com/hot/2435867",
+          "source": "抖音",
+          "ranks": [
+            15,
+            19,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时50分 ~ 17时37分]"
+        },
+        {
+          "title": "普通人如何防范AI投毒",
+          "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 17时37分]"
         },
         {
           "title": "网易回应外包裁员称信息不实，此前网易被曝计划「使用 AI 清退全裁部外包员工」，具体怎么回事？",
@@ -751,40 +824,29 @@
           "time_info": "07时27分"
         },
         {
-          "title": "50年前石油危机启示录：最可怕的是中东战火刺破AI泡沫？",
-          "url": "https://www.cls.cn/detail/2317944",
-          "source": "财联社热门",
+          "title": "AI观众 AI粉丝 AI打分",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%A7%82%E4%BC%97%20AI%E7%B2%89%E4%B8%9D%20AI%E6%89%93%E5%88%86&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时42分 ~ 16时35分]"
-        },
-        {
-          "title": "如何看待央视网发布的动画短片《AI 奇谈 | 止戈为武：流金谷无「鹰」家》？",
-          "url": "https://www.zhihu.com/question/2017531069054869898",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
-          "title": "AI万物皆可龙抬头",
-          "url": "https://www.douyin.com/hot/2435867",
-          "source": "抖音",
-          "ranks": [
-            15,
-            19,
-            17
+            20,
+            11,
+            12
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[14时50分 ~ 16时35分]"
+          "time_info": "[15时42分 ~ 17时37分]"
+        },
+        {
+          "title": "AI龙虾大战我的世界",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时42分 ~ 17时37分]"
         },
         {
           "title": "鲍威尔：还没有开始看到人工智能（AI）对于生产力的影响。 近期的生产力趋势并非生成式AI所致。 AI肯定应该会对生产力趋势做出贡献。 数据中心建设可能正推高通胀。 AI投资可能会在短期内刺激中性利率（走高）。",
@@ -809,30 +871,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时16分 ~ 13时55分]"
-        },
-        {
-          "title": "AI观众 AI粉丝 AI打分",
-          "url": "https://s.weibo.com/weibo?q=AI%E8%A7%82%E4%BC%97%20AI%E7%B2%89%E4%B8%9D%20AI%E6%89%93%E5%88%86&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时42分 ~ 16时35分]"
-        },
-        {
-          "title": "AI龙虾大战我的世界",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时42分 ~ 16时35分]"
         },
         {
           "title": "短剧演员谈被AI替代",
@@ -997,7 +1035,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -1022,6 +1060,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "马斯克：Grok Imagine斩获三枚金牌",
+          "url": "https://www.toutiao.com/trending/7618830492535623178/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时36分 ~ 17时37分]"
+        },
+        {
+          "title": "马斯克：我们可能在12月就能完成AI6芯片的流片。",
+          "url": "https://flash.jin10.com/detail/20260319152132569800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
+          "title": "马斯克：我们可能在12月完成AI6芯片的流片。",
+          "url": "https://wallstreetcn.com/livenews/3073039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时43分"
+        },
+        {
+          "title": "马斯克正与美国证券交易委员会（SEC）进行和解谈判，准备SpaceX IPO。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3072590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时55分"
         }
       ]
     },
@@ -1061,45 +1149,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "马斯克：我们可能在12月就能完成AI6芯片的流片。",
-          "url": "https://flash.jin10.com/detail/20260319152132569800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时43分"
-        },
-        {
-          "title": "马斯克：我们可能在12月完成AI6芯片的流片。",
-          "url": "https://wallstreetcn.com/livenews/3073039",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时43分"
-        },
-        {
-          "title": "马斯克正与美国证券交易委员会（SEC）进行和解谈判，准备SpaceX IPO。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3072590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
         }
       ]
     },
