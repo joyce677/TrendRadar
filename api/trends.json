@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-20T00:52:06.190977+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-03-20T01:50:14.574014+08:00",
+  "total_titles_processed": 371,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "利率 汇率",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "美联储宣布维持利率不变",
+          "url": "https://www.douyin.com/hot/2435566",
+          "source": "抖音",
+          "ranks": [
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时50分]"
+        },
         {
           "title": "美联储按兵不动美元大涨，人民币对美元汇率跌破6.9",
           "url": "https://m.thepaper.cn/newsDetail_forward_32795341",
@@ -15,8 +27,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时50分]"
         },
         {
           "title": "美联储维持利率不变",
@@ -26,30 +38,31 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
-        },
-        {
-          "title": "美联储宣布维持利率不变",
-          "url": "https://www.douyin.com/hot/2435566",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时50分]"
         },
         {
           "title": "美国抵押贷款利率升至三个月高点，春季购房季前景承压",
           "url": "https://wallstreetcn.com/livenews/3073478",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时52分 ~ 01时50分]"
+        },
+        {
+          "title": "美国财政部拍卖190亿美元10年期通胀保值国债（TIPS），得标利率1.896%（1月22日为1.940%），投标倍数2.47（前次为2.38）。",
+          "url": "https://wallstreetcn.com/livenews/3073501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时52分"
+          "time_info": "01时50分"
         },
         {
           "title": "美国财政部拍卖四周期国债，得标利率3.615%，投标倍数3.12。 拍卖八周期国债，得标利率3.635%，投标倍数2.83。",
@@ -58,7 +71,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时52分"
         }
@@ -66,7 +79,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
@@ -76,8 +89,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时50分]"
         },
         {
           "title": "一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...",
@@ -87,8 +100,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时50分]"
         },
         {
           "title": "AI龙虾大战我的世界",
@@ -98,8 +111,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时50分]"
         },
         {
           "title": "AI万物皆可龙抬头",
@@ -109,8 +122,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 00时52分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 01时50分]"
+        },
+        {
+          "title": "微软(MSFT.O)CEO：我们的新图像生成器MAI-Image-2发布了，现在可以在MAIPlayground上使用，从逼真的现实主义到详细的信息图表应有尽有，现在我们已经跻身顶尖模型之列。",
+          "url": "https://flash.jin10.com/detail/20260320012631394800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时50分"
         }
       ]
     }
