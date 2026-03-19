@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T22:05:28.436155+08:00",
-  "total_titles_processed": 2064,
+  "generated_at": "2026-03-19T23:46:14.586086+08:00",
+  "total_titles_processed": 2177,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "利率 汇率",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "美联储维持利率不变",
@@ -20,8 +20,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时16分 ~ 22时05分]"
+          "appearance_count": 17,
+          "time_info": "[12时16分 ~ 23时46分]"
         },
         {
           "title": "美联储宣布维持利率不变",
@@ -33,8 +33,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[09时28分 ~ 22时05分]"
+          "appearance_count": 18,
+          "time_info": "[09时28分 ~ 23时46分]"
         },
         {
           "title": "美联储如期维持利率不变 点阵图显示年内还会降息一次",
@@ -67,7 +67,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -186,6 +186,19 @@
           "time_info": "[01时55分 ~ 02时51分]"
         },
         {
+          "title": "美联储按兵不动美元大涨，人民币对美元汇率跌破6.9",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32795341",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            20,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时45分 ~ 23时46分]"
+        },
+        {
           "title": "美联储降息概率继续走低，利率期货定价今年降息幅度减少至13个基点，此前鲍威尔新闻发布会结束时定价为17个基点。",
           "url": "https://flash.jin10.com/detail/20260319043017655800",
           "source": "金十数据",
@@ -208,18 +221,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时27分 ~ 07时27分]"
-        },
-        {
-          "title": "美联储按兵不动美元大涨，人民币对美元汇率跌破6.9",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32795341",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 22时05分]"
         },
         {
           "title": "美联储利率决议前：本次会议维持利率不变的概率为98.9%",
@@ -442,6 +443,17 @@
           "time_info": "17时37分"
         },
         {
+          "title": "据美国纽约联储数据，上个交易日（3月18日，美联储发布决议声明当天）担保隔夜融资利率（SOFR）报3.62%，之前一天报3.65%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3073440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "日本央行利率决议过后，美元/日元短线小幅走高。",
           "url": "https://wallstreetcn.com/livenews/3072880",
           "source": "华尔街见闻-快讯",
@@ -470,7 +482,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -643,7 +655,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 49,
+      "match_count": 50,
       "titles": [
         {
           "title": "腾讯、阿里都开始给员工发 Token，鼓励使用 AI 工具工作，Token 以后会成为大厂福利标配吗？",
@@ -697,8 +709,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 27,
-          "time_info": "[00时03分 ~ 22时05分]"
+          "appearance_count": 29,
+          "time_info": "[00时03分 ~ 23时46分]"
         },
         {
           "title": "AI短片流金谷恩仇录",
@@ -801,6 +813,21 @@
           "time_info": "[01时55分 ~ 20时45分]"
         },
         {
+          "title": "AI龙虾大战我的世界",
+          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            15,
+            12,
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[15时42分 ~ 23时46分]"
+        },
+        {
           "title": "AI万物皆可龙抬头",
           "url": "https://www.douyin.com/hot/2435867",
           "source": "抖音",
@@ -810,11 +837,12 @@
             17,
             16,
             18,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[14时50分 ~ 22时05分]"
+          "appearance_count": 13,
+          "time_info": "[14时50分 ~ 23时46分]"
         },
         {
           "title": "日本AI造假,套壳DeepSeek",
@@ -872,21 +900,6 @@
           "time_info": "[00时04分 ~ 13时55分]"
         },
         {
-          "title": "AI龙虾大战我的世界",
-          "url": "https://search.bilibili.com/all?keyword=AI%E9%BE%99%E8%99%BE%E5%A4%A7%E6%88%98%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            15,
-            12,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时42分 ~ 22时05分]"
-        },
-        {
           "title": "普通人如何防范AI投毒",
           "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E9%98%B2%E8%8C%83AI%E6%8A%95%E6%AF%92",
           "source": "bilibili 热搜",
@@ -936,6 +949,18 @@
           "time_info": "07时27分"
         },
         {
+          "title": "央视AI短片《流金谷恩仇录》爆火",
+          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86AI%E7%9F%AD%E7%89%87%E3%80%8A%E6%B5%81%E9%87%91%E8%B0%B7%E6%81%A9%E4%BB%87%E5%BD%95%E3%80%8B%E7%88%86%E7%81%AB",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时05分 ~ 23时46分]"
+        },
+        {
           "title": "AI艺人被指撞脸多位明星",
           "url": "https://www.baidu.com/s?wd=AI%E8%89%BA%E4%BA%BA%E8%A2%AB%E6%8C%87%E6%92%9E%E8%84%B8%E5%A4%9A%E4%BD%8D%E6%98%8E%E6%98%9F",
           "source": "百度热搜",
@@ -962,6 +987,19 @@
           "time_info": "[03时44分 ~ 04时53分]"
         },
         {
+          "title": "一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...",
+          "url": "https://www.cls.cn/detail/2318157",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时45分 ~ 23时46分]"
+        },
+        {
           "title": "微短剧专业学生制作AI漫剧1分钟100元",
           "url": "https://www.toutiao.com/trending/7617807310119288875/",
           "source": "今日头条",
@@ -972,6 +1010,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时16分 ~ 13时55分]"
+        },
+        {
+          "title": "央视AI短片《流金谷恩仇录》爆火",
+          "url": "https://www.toutiao.com/trending/7618387888183836715/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时45分 ~ 23时46分]"
         },
         {
           "title": "短剧演员谈被AI替代",
@@ -1007,18 +1057,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时55分 ~ 02时51分]"
-        },
-        {
-          "title": "一图看懂AI产业链哪些环节在涨价：算力、存储、大模型…...",
-          "url": "https://www.cls.cn/detail/2318157",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时45分 ~ 22时05分]"
         },
         {
           "title": "AI盛行 周杰伦坚持手搓",
@@ -1088,6 +1126,17 @@
           "time_info": "12时17分"
         },
         {
+          "title": "Cursor将面向软件开发领域发布一款更加有效的AI模型Composer 2。",
+          "url": "https://wallstreetcn.com/livenews/3073450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时46分"
+        },
+        {
           "title": "集邦咨询：AI动能稳健，预估2026年晶圆代工产值年增24.8%，部分制程涨价浮现",
           "url": "https://wallstreetcn.com/livenews/3072987",
           "source": "华尔街见闻-快讯",
@@ -1149,7 +1198,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时05分"
         },
@@ -1187,17 +1236,6 @@
           "time_info": "16时35分"
         },
         {
-          "title": "央视AI短片《流金谷恩仇录》爆火",
-          "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86AI%E7%9F%AD%E7%89%87%E3%80%8A%E6%B5%81%E9%87%91%E8%B0%B7%E6%81%A9%E4%BB%87%E5%BD%95%E3%80%8B%E7%88%86%E7%81%AB",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
           "title": "为什么画师、配音演员都在抵制 AI，程序员却普遍在拥抱 AI？",
           "url": "https://www.zhihu.com/question/2017996212544960495",
           "source": "知乎",
@@ -1229,17 +1267,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时27分"
-        },
-        {
-          "title": "央视AI短片《流金谷恩仇录》爆火",
-          "url": "https://www.toutiao.com/trending/7618387888183836715/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时45分"
         },
         {
           "title": "短剧方称男二以下AI演员无法实现",
