@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T21:57:41.020360+08:00",
-  "total_titles_processed": 1944,
+  "generated_at": "2026-03-20T22:41:01.322167+08:00",
+  "total_titles_processed": 2007,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "利率 汇率",
-      "match_count": 37,
+      "match_count": 38,
       "titles": [
         {
           "title": "美联储维持利率不变有何影响",
@@ -23,8 +23,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时08分 ~ 21时57分]"
+          "appearance_count": 16,
+          "time_info": "[12时08分 ~ 22时41分]"
         },
         {
           "title": "美联储宣布维持利率不变",
@@ -58,8 +58,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时51分 ~ 21时57分]"
+          "appearance_count": 27,
+          "time_info": "[00时51分 ~ 22时41分]"
         },
         {
           "title": "美联储按兵不动美元大涨，人民币对美元汇率跌破6.9",
@@ -315,6 +315,17 @@
           "time_info": "14时45分"
         },
         {
+          "title": "短期利率期货价格显示，市场预计美联储很可能在12月加息。",
+          "url": "https://flash.jin10.com/detail/20260320221111676800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
           "title": "摩根大通：预计欧洲央行将在2026年4月和7月加息，此前预测为全年维持利率不变。 一旦通胀第二轮效应风险消失，欧洲央行有理由反向解除紧缩。 目前，我们仅初步预计2027年下半年会有一次降息。",
           "url": "https://wallstreetcn.com/livenews/3073795",
           "source": "华尔街见闻-快讯",
@@ -450,7 +461,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 35,
+      "match_count": 37,
       "titles": [
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -464,8 +475,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时24分 ~ 21时57分]"
+          "appearance_count": 12,
+          "time_info": "[09时24分 ~ 22时41分]"
+        },
+        {
+          "title": "人工智能太绕,AI急需中文名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时41分 ~ 22时41分]"
         },
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
@@ -478,19 +502,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时51分 ~ 09时24分]"
-        },
-        {
-          "title": "人工智能太绕,AI急需中文名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时41分 ~ 21时57分]"
         },
         {
           "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
@@ -539,8 +550,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时51分 ~ 21时57分]"
+          "appearance_count": 28,
+          "time_info": "[00时51分 ~ 22时41分]"
         },
         {
           "title": "人民日报：请给AI起个中文名字",
@@ -571,6 +582,18 @@
           "time_info": "[07时24分 ~ 15时41分]"
         },
         {
+          "title": "AI演员林汐颜、秦凌岳为何引众怒",
+          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E6%9E%97%E6%B1%90%E9%A2%9C%E3%80%81%E7%A7%A6%E5%87%8C%E5%B2%B3%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BC%97%E6%80%92",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时41分 ~ 22时41分]"
+        },
+        {
           "title": "如何看待央视网发布的 AI 短视频《流金谷恩仇录》？",
           "url": "https://www.zhihu.com/question/2017676791603553270",
           "source": "知乎",
@@ -582,16 +605,15 @@
           "time_info": "09时24分"
         },
         {
-          "title": "AI演员林汐颜、秦凌岳为何引众怒",
-          "url": "https://www.baidu.com/s?wd=AI%E6%BC%94%E5%91%98%E6%9E%97%E6%B1%90%E9%A2%9C%E3%80%81%E7%A7%A6%E5%87%8C%E5%B2%B3%E4%B8%BA%E4%BD%95%E5%BC%95%E4%BC%97%E6%80%92",
-          "source": "百度热搜",
+          "title": "日本软银集团计划在美国俄亥俄州修建由天然气工厂供电的AI数据中心。",
+          "url": "https://wallstreetcn.com/livenews/3074214",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13,
-            1
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 21时57分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "美国白宫打算披露AI监管框架。（PunchBowl）",
@@ -639,6 +661,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时33分 ~ 17时35分]"
+        },
+        {
+          "title": "未来十年AI拼的是什么",
+          "url": "https://www.douyin.com/hot/2436316",
+          "source": "抖音",
+          "ranks": [
+            20,
+            30,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时41分 ~ 22时41分]"
         },
         {
           "title": "揭秘AI投毒运作原理",
@@ -691,6 +726,30 @@
           "time_info": "[02时47分 ~ 07时24分]"
         },
         {
+          "title": "国家医保局、广西将共同主办全国首个国家级医学影像AI识图大赛",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32796766",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时57分 ~ 22时41分]"
+        },
+        {
+          "title": "腾讯撤销AI Lab",
+          "url": "https://wallstreetcn.com/livenews/3074180",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时57分 ~ 22时41分]"
+        },
+        {
           "title": "上万条大厂春招要求的背后，非技术岗位也要求“会AI”？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32795344",
           "source": "澎湃新闻",
@@ -702,18 +761,6 @@
           "time_info": "[16时33分 ~ 16时34分]"
         },
         {
-          "title": "未来十年AI拼的是什么",
-          "url": "https://www.douyin.com/hot/2436316",
-          "source": "抖音",
-          "ranks": [
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时41分 ~ 21时57分]"
-        },
-        {
           "title": "微软(MSFT.O)CEO：我们的新图像生成器MAI-Image-2发布了，现在可以在MAIPlayground上使用，从逼真的现实主义到详细的信息图表应有尽有，现在我们已经跻身顶尖模型之列。",
           "url": "https://flash.jin10.com/detail/20260320012631394800",
           "source": "金十数据",
@@ -723,6 +770,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "何小鹏：2026年小鹏汽车物理AI相关研发投入预计提升至70亿元",
+          "url": "https://wallstreetcn.com/livenews/3074206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "阿里最新财季净利同比下滑近7成，重构AI版图能否撑起五年千亿美元目标？|财报解读",
@@ -769,17 +827,6 @@
           "time_info": "06时21分"
         },
         {
-          "title": "腾讯撤销AI Lab",
-          "url": "https://wallstreetcn.com/livenews/3074180",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
-        },
-        {
           "title": "超级麦吉3.0宣布成为全球首个企业级开源AI Agent平台",
           "url": "https://wallstreetcn.com/livenews/3074022",
           "source": "华尔街见闻-快讯",
@@ -789,17 +836,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
-        },
-        {
-          "title": "国家医保局、广西将共同主办全国首个国家级医学影像AI识图大赛",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32796766",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时57分"
         },
         {
           "title": "贝佐斯计划为人工智能（AI）制造基金筹资1000亿美元。（华尔街日报）",
@@ -874,7 +910,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         }
@@ -924,7 +960,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时57分"
         }
@@ -985,8 +1021,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时32分 ~ 21时57分]"
+          "appearance_count": 6,
+          "time_info": "[18时32分 ~ 22时41分]"
         },
         {
           "title": "曝马斯克拟采购200亿中国光伏设备",
