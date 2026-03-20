@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T14:45:16.719571+08:00",
-  "total_titles_processed": 1200,
+  "generated_at": "2026-03-20T15:41:59.835762+08:00",
+  "total_titles_processed": 1300,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "利率 汇率",
-      "match_count": 30,
+      "match_count": 32,
       "titles": [
         {
           "title": "美联储宣布维持利率不变",
@@ -36,8 +36,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时51分 ~ 14时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时51分 ~ 15时41分]"
         },
         {
           "title": "美联储按兵不动美元大涨，人民币对美元汇率跌破6.9",
@@ -61,11 +61,12 @@
           "ranks": [
             10,
             2,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 14时45分]"
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 15时41分]"
         },
         {
           "title": "摩根士丹利：预计英国央行将在2026年维持利率不变；此前预测为今年4月和11月各降息一次，2027年2月再降息一次。",
@@ -74,7 +75,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -163,6 +164,17 @@
           "time_info": "[00时52分 ~ 01时50分]"
         },
         {
+          "title": "德意志银行：这一新基准（预测 ）存在双向风险，如果中东紧张局势迅速缓解，欧洲央行有可能完全不会加息。或者，如果能源供应出现更持久的中断，2.50%的利率可能只是迈向明显紧缩区间的一个过渡阶段。",
+          "url": "https://flash.jin10.com/detail/20260320150826539800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
           "title": "中国3月份一年期和五年期贷款市场报价利率（LPR）分别维持在3%和3.5%不变，为连续十个月保持不变。",
           "url": "https://wallstreetcn.com/livenews/3073660",
           "source": "华尔街见闻-快讯",
@@ -224,7 +236,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -257,9 +269,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
+        },
+        {
+          "title": "德意志银行：预计欧央行将在6月和9月各加息25个基点，而此前的预测是2026年维持利率不变。",
+          "url": "https://flash.jin10.com/detail/20260320150508445800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "摩根大通：预计欧央行将于2026年4月和7月加息，而此前的预测为全年维持利率不变。就时机而言，可能会等到6月会议时再等待新的预测结果，但在4月会议上确认3月基准预测就足以触发加息。",
@@ -279,7 +302,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -290,7 +313,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -312,7 +335,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -345,7 +368,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
         },
@@ -364,7 +387,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
@@ -405,11 +428,12 @@
             11,
             12,
             14,
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时51分 ~ 14时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时51分 ~ 15时41分]"
         },
         {
           "title": "配音圈集体声讨,抵制AI盗声",
@@ -417,11 +441,12 @@
           "source": "贴吧",
           "ranks": [
             1,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时24分 ~ 14时45分]"
+          "appearance_count": 5,
+          "time_info": "[09时24分 ~ 15时41分]"
         },
         {
           "title": "人民日报：请给AI起个中文名字",
@@ -430,11 +455,12 @@
           "ranks": [
             4,
             2,
-            8
+            8,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 14时45分]"
+          "appearance_count": 6,
+          "time_info": "[12时08分 ~ 15时41分]"
         },
         {
           "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
@@ -446,8 +472,22 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时24分 ~ 15时41分]"
+        },
+        {
+          "title": "上万条春招要求的背后，非技术岗位也要求“会AI”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32795344",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18,
+            17,
+            19
+          ],
+          "is_new": false,
           "appearance_count": 7,
-          "time_info": "[07时24分 ~ 14时45分]"
+          "time_info": "[07时24分 ~ 15时41分]"
         },
         {
           "title": "如何看待央视网发布的 AI 短视频《流金谷恩仇录》？",
@@ -461,18 +501,26 @@
           "time_info": "09时24分"
         },
         {
-          "title": "上万条春招要求的背后，非技术岗位也要求“会AI”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32795344",
-          "source": "澎湃新闻",
+          "title": "字节超60亿美元出售沐瞳科技，进一步聚焦AI战略",
+          "url": "https://wallstreetcn.com/livenews/3073900",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20,
-            18,
-            17,
-            19
+            1
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时24分 ~ 14时45分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
+        {
+          "title": "人工智能太绕,AI急需中文名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
         },
         {
           "title": "美国白宫打算披露AI监管框架。（PunchBowl）",
@@ -498,6 +546,19 @@
           "time_info": "[00时51分 ~ 01时50分]"
         },
         {
+          "title": "揭秘AI投毒运作原理",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98AI%E6%8A%95%E6%AF%92%E8%BF%90%E4%BD%9C%E5%8E%9F%E7%90%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时46分 ~ 15时41分]"
+        },
+        {
           "title": "刘慈欣提出「技术能生成一切，却不能辨认伟大」，有道理吗？这对当下理解 AI 与人的关系有何启示？",
           "url": "https://www.zhihu.com/question/2017606912024207686",
           "source": "知乎",
@@ -520,18 +581,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时24分 ~ 13时46分]"
-        },
-        {
-          "title": "揭秘AI投毒运作原理",
-          "url": "https://search.bilibili.com/all?keyword=%E6%8F%AD%E7%A7%98AI%E6%8A%95%E6%AF%92%E8%BF%90%E4%BD%9C%E5%8E%9F%E7%90%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时46分 ~ 14时45分]"
         },
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
