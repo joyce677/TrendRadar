@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-20T17:35:02.778120+08:00",
-  "total_titles_processed": 1507,
+  "generated_at": "2026-03-20T18:32:16.697585+08:00",
+  "total_titles_processed": 1611,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "利率 汇率",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "美联储维持利率不变有何影响",
@@ -16,11 +16,12 @@
             2,
             3,
             1,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时08分 ~ 17时35分]"
+          "appearance_count": 11,
+          "time_info": "[12时08分 ~ 18时32分]"
         },
         {
           "title": "美联储宣布维持利率不变",
@@ -52,8 +53,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时51分 ~ 17时35分]"
+          "appearance_count": 23,
+          "time_info": "[00时51分 ~ 18时32分]"
         },
         {
           "title": "美联储按兵不动美元大涨，人民币对美元汇率跌破6.9",
@@ -331,6 +332,28 @@
           "time_info": "06时21分"
         },
         {
+          "title": "欧洲央行管委马赫鲁夫：我认为欧洲央行并没有收紧政策的倾向。 欧洲央行决心保持冷静、谨慎、深思熟虑的态度。 在伊朗冲突前没有考虑降息。 没有预设的利率路径。 必须密切关注事实，将于4月作出决定。 如果事实指向需要行动，欧洲央行将采取行动。 六周对当前冲击来说是很长的时间。 两次加息已被纳入欧洲央行的基线预期。 非常理解市场为何预计两次加息。",
+          "url": "https://wallstreetcn.com/livenews/3074028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
+          "title": "印度卢比兑美元的汇率下跌1%至93.6325。",
+          "url": "https://wallstreetcn.com/livenews/3074026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "山东发行10年期一般债地方债，规模112.6800亿元，发行利率1.9700%，边际倍数1.71倍，倍数预期1.97； 山东发行10年期普通专项地方债，规模22.6600亿元，发行利率1.9700%，边际倍数1.28倍，倍数预期1.98； 山东发行10年期普通专项地方债，规模4.3000亿元，发行利率1.9700%，边际倍数1.96倍，倍数预期1.98； 山东发行15年期普通专项地方债，规模26.2300亿元，发行利率2.3200%，边际倍数4.84倍，倍数预期2.31； 山东发行30年期普通专项地方债，规模24.3200亿元，发行利率2.5500%，边际倍数52.78倍，倍数预期2.53。",
           "url": "https://wallstreetcn.com/livenews/3073912",
           "source": "华尔街见闻-快讯",
@@ -403,7 +426,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
         }
@@ -411,8 +434,22 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "配音圈集体声讨,抵制AI盗声",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时24分 ~ 18时32分]"
+        },
         {
           "title": "央视AI短片《流金谷恩仇录》爆火",
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86AI%E7%9F%AD%E7%89%87%E3%80%8A%E6%B5%81%E9%87%91%E8%B0%B7%E6%81%A9%E4%BB%87%E5%BD%95%E3%80%8B%E7%88%86%E7%81%AB",
@@ -426,19 +463,6 @@
           "time_info": "[00时51分 ~ 09时24分]"
         },
         {
-          "title": "配音圈集体声讨,抵制AI盗声",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352108&amp;topic_name=%E9%85%8D%E9%9F%B3%E5%9C%88%E9%9B%86%E4%BD%93%E5%A3%B0%E8%AE%A8%2C%E6%8A%B5%E5%88%B6AI%E7%9B%97%E5%A3%B0",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时24分 ~ 17时35分]"
-        },
-        {
           "title": "阿里电话会：未来五年，云和AI年收入突破1000亿美元，MaaS将是阿里云最大收入产品",
           "url": "https://wallstreetcn.com/articles/3767932",
           "source": "华尔街见闻",
@@ -448,8 +472,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时24分 ~ 17时35分]"
+          "appearance_count": 13,
+          "time_info": "[07时24分 ~ 18时32分]"
         },
         {
           "title": "AI万物皆可龙抬头",
@@ -484,8 +508,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时51分 ~ 17时35分]"
+          "appearance_count": 23,
+          "time_info": "[00时51分 ~ 18时32分]"
+        },
+        {
+          "title": "人工智能太绕,AI急需中文名",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
+          "source": "贴吧",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时41分 ~ 18时32分]"
         },
         {
           "title": "人民日报：请给AI起个中文名字",
@@ -500,18 +536,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时08分 ~ 15时41分]"
-        },
-        {
-          "title": "人工智能太绕,AI急需中文名",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352126&amp;topic_name=%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%A4%AA%E7%BB%95%2CAI%E6%80%A5%E9%9C%80%E4%B8%AD%E6%96%87%E5%90%8D",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时41分 ~ 17时35分]"
         },
         {
           "title": "上万条春招要求的背后，非技术岗位也要求“会AI”？",
@@ -702,6 +726,17 @@
           "time_info": "06时21分"
         },
         {
+          "title": "超级麦吉3.0宣布成为全球首个企业级开源AI Agent平台",
+          "url": "https://wallstreetcn.com/livenews/3074022",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "贝佐斯计划为人工智能（AI）制造基金筹资1000亿美元。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3073543",
           "source": "华尔街见闻-快讯",
@@ -722,6 +757,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "利通电子：廖某走私英伟达AI服务器售卖给公司的传闻不实",
+          "url": "https://wallstreetcn.com/livenews/3074006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "普通人如何防范AI投毒",
@@ -840,7 +886,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "曝马斯克拟采购200亿中国光伏设备",
@@ -864,6 +910,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时47分"
+        },
+        {
+          "title": "马斯克“扫货”光伏设备 AI加速迈入太空领域？",
+          "url": "https://www.cls.cn/detail/2319626",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         }
       ]
     },
