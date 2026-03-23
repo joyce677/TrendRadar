@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T20:49:51.238360+08:00",
-  "total_titles_processed": 1647,
+  "generated_at": "2026-03-23T22:12:08.788508+08:00",
+  "total_titles_processed": 1747,
   "failed_sources": [],
   "trends": [
     {
@@ -61,22 +61,38 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%99%AE%E9%80%9A%E4%BA%BA%E5%A6%82%E4%BD%95%E5%88%B6%E4%BD%9CAI%E8%A7%86%E9%A2%91",
           "source": "bilibili 热搜",
           "ranks": [
-            1
+            1,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时49分 ~ 22时12分]"
+        },
+        {
+          "title": "AI短剧付费后竟然变成PPT",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%E4%BB%98%E8%B4%B9%E5%90%8E%E7%AB%9F%E7%84%B6%E5%8F%98%E6%88%90PPT%23&t=31&band_rank=15&Refer=top",
+          "source": "微博",
+          "ranks": [
+            15,
+            2,
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时51分 ~ 22时12分]"
         },
         {
           "title": "深度解析AI对影视行业的影响",
           "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90AI%E5%AF%B9%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9A%E7%9A%84%E5%BD%B1%E5%93%8D",
           "source": "bilibili 热搜",
           "ranks": [
-            3
+            3,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时49分 ~ 22时12分]"
         },
         {
           "title": "AI智能体加速落地，业内：商业保险迎补位时刻",
@@ -94,19 +110,6 @@
           "time_info": "[03时21分 ~ 07时21分]"
         },
         {
-          "title": "AI短剧付费后竟然变成PPT",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9F%AD%E5%89%A7%E4%BB%98%E8%B4%B9%E5%90%8E%E7%AB%9F%E7%84%B6%E5%8F%98%E6%88%90PPT%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15,
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时51分 ~ 20时49分]"
-        },
-        {
           "title": "iPhone Air使用报告",
           "url": "https://search.bilibili.com/all?keyword=iPhone%20Air%E4%BD%BF%E7%94%A8%E6%8A%A5%E5%91%8A",
           "source": "bilibili 热搜",
@@ -117,6 +120,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时58分 ~ 16时55分]"
+        },
+        {
+          "title": "AI写歌走红程序员9个月赚20万",
+          "url": "https://www.baidu.com/s?wd=AI%E5%86%99%E6%AD%8C%E8%B5%B0%E7%BA%A2%E7%A8%8B%E5%BA%8F%E5%91%989%E4%B8%AA%E6%9C%88%E8%B5%9A20%E4%B8%87",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时49分 ~ 22时12分]"
         },
         {
           "title": "世界周刊之当AI决定扣动扳机",
@@ -199,17 +214,6 @@
           "time_info": "09时28分"
         },
         {
-          "title": "AI写歌走红程序员9个月赚20万",
-          "url": "https://www.baidu.com/s?wd=AI%E5%86%99%E6%AD%8C%E8%B5%B0%E7%BA%A2%E7%A8%8B%E5%BA%8F%E5%91%989%E4%B8%AA%E6%9C%88%E8%B5%9A20%E4%B8%87",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时49分"
-        },
-        {
           "title": "阿里巴巴港股盘中拉升，目前跌幅收窄至约2%。此前据华尔街见闻获悉，阿里巴巴达摩院明日或将发布重要芯片产品，或直指今年爆发的AI Agent算力需求。",
           "url": "https://wallstreetcn.com/livenews/3074809",
           "source": "华尔街见闻-快讯",
@@ -246,7 +250,7 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "加息真要来了？三年未见之变局：美债“宣战”美联储利率天花板",
@@ -260,6 +264,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时23分 ~ 17时57分]"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（3月20日）担保隔夜融资利率（SOFR）报3.62%，之前一天报3.62%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3075250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "中国央行：今日开展80亿元7天逆回购操作，投标量80亿元，中标量80亿元，操作利率为1.40%，与此前持平。",
@@ -342,7 +357,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "马斯克正式发布Terafab项目：目标年产1太瓦算力 主要于太空部署",
@@ -394,6 +409,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时21分 ~ 07时21分]"
+        },
+        {
+          "title": "美国总统特朗普：（谈及机场建设时）非常欢迎马斯克提出的出资提议，就让他去办吧。",
+          "url": "https://flash.jin10.com/detail/20260323215935127800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时12分"
         },
         {
           "title": "马斯克：除非我们实行带照片的身份证件投票制度，否则选举显然很容易发生大规模且无法查证的舞弊行为。",
@@ -492,7 +518,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时49分"
         }
