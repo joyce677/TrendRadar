@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T06:25:37.575126+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2026-03-24T07:26:41.276134+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "普通人如何制作AI视频",
@@ -15,19 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 06时25分]"
-        },
-        {
-          "title": "据航空新闻资讯平台The Air Current：波音(BA.N)已获得美国联邦航空管理局的批准，推出787-9和787-10远程宽体客机的新型增重最大起飞重量型号。",
-          "url": "https://flash.jin10.com/detail/20260324052732928800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时25分"
+          "appearance_count": 10,
+          "time_info": "[00时51分 ~ 07时26分]"
         },
         {
           "title": "欧洲央行首席经济学家Lane：AI是欧盟（致力于）完成储蓄联盟的另外一个理由。",
@@ -41,6 +30,18 @@
           "time_info": "00时51分"
         },
         {
+          "title": "据航空新闻资讯平台The Air Current：波音(BA.N)已获得美国联邦航空管理局的批准，推出787-9和787-10远程宽体客机的新型增重最大起飞重量型号。",
+          "url": "https://flash.jin10.com/detail/20260324052732928800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时25分 ~ 07时26分]"
+        },
+        {
           "title": "内娱影视行业AI化是好是坏",
           "url": "https://search.bilibili.com/all?keyword=%E5%86%85%E5%A8%B1%E5%BD%B1%E8%A7%86%E8%A1%8C%E4%B8%9AAI%E5%8C%96%E6%98%AF%E5%A5%BD%E6%98%AF%E5%9D%8F",
           "source": "bilibili 热搜",
@@ -52,6 +53,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时51分 ~ 03时44分]"
+        },
+        {
+          "title": "国有六大行AIC全部落地，银行系扩容至9家",
+          "url": "https://wallstreetcn.com/livenews/3075466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
         },
         {
           "title": "苹果将于6月召开年度全球开发者大会 料将发布一系列AI功能",
@@ -90,8 +102,19 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "新西兰联储主席Breman：将不排除加息或降息的可能性。 官方现金利率（OCR）是采取应对行动的一个良好起点，认为目前不需要采取替代性政策措施。 目前看不到金融稳定问题，银行业能够经受住地缘政治局势的考验。 GDP数据显示经济正显现出势头。 收紧的金融状况可能会抑制经济增长。 我们不想过早对通货膨胀做出反应。 将关注企业的定价行为。",
+          "url": "https://wallstreetcn.com/livenews/3075473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
         {
           "title": "新西兰联储行长布雷曼：如果中期通胀或通胀预期受到影响，适当的政策回应可能是提高利率，以防止出现这些第二轮效应。",
           "url": "https://flash.jin10.com/detail/20260324040611957800",
@@ -126,6 +149,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
+        },
+        {
+          "title": "美联储4月维持利率不变的概率为92.8%",
+          "url": "https://flash.jin10.com/detail/20260324060219029800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI的CEO Altman确认：退出Helion董事会。",
+          "url": "https://wallstreetcn.com/livenews/3075367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时43分 ~ 03时44分]"
+        },
+        {
+          "title": "OpenAI在投资者文件中指出：对微软的依赖是一大风险",
+          "url": "https://wallstreetcn.com/livenews/3075468",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：（谈退出美国核聚变初创公司Helion董事会）随着Helion和OpenAI开始探索合作，我很难同时兼任两家公司的董事。",
+          "url": "https://flash.jin10.com/detail/20260324015156382800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时43分"
         }
       ]
     },
@@ -154,35 +228,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI的CEO Altman确认：退出Helion董事会。",
-          "url": "https://wallstreetcn.com/livenews/3075367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时43分 ~ 03时44分]"
-        },
-        {
-          "title": "OpenAI创始人奥尔特曼：（谈退出美国核聚变初创公司Helion董事会）随着Helion和OpenAI开始探索合作，我很难同时兼任两家公司的董事。",
-          "url": "https://flash.jin10.com/detail/20260324015156382800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时43分"
         }
       ]
     },
@@ -230,6 +275,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "多地楼市现“小阳春”行情，房企加快推盘节奏",
+          "url": "https://wallstreetcn.com/livenews/3075469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "iphone apple",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "大摩调查显示：iPhone购买意向创新高，受中国市场推动",
+          "url": "https://wallstreetcn.com/livenews/3075456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
         }
       ]
     }
