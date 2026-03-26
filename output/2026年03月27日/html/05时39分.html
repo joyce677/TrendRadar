@@ -1,0 +1,876 @@
+
+    <!DOCTYPE html>
+    <html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>热点新闻分析</title>
+        <style>
+            * { box-sizing: border-box; }
+            body { 
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', system-ui, sans-serif;
+                margin: 0; 
+                padding: 16px; 
+                background: #fafafa;
+                color: #333;
+                line-height: 1.5;
+            }
+
+            .container {
+                max-width: 600px;
+                margin: 0 auto;
+                background: white;
+                border-radius: 12px;
+                overflow: hidden;
+                box-shadow: 0 2px 16px rgba(0,0,0,0.06);
+            }
+
+            .header {
+                background: linear-gradient(135deg, #4f46e5 0%, #7c3aed 100%);
+                color: white;
+                padding: 32px 24px;
+                text-align: center;
+            }
+
+            .header-title {
+                font-size: 22px;
+                font-weight: 700;
+                margin: 0 0 20px 0;
+            }
+
+            .header-info {
+                display: grid;
+                grid-template-columns: 1fr 1fr;
+                gap: 16px;
+                font-size: 14px;
+                opacity: 0.95;
+            }
+
+            .info-item {
+                text-align: center;
+            }
+
+            .info-label {
+                display: block;
+                font-size: 12px;
+                opacity: 0.8;
+                margin-bottom: 4px;
+            }
+
+            .info-value {
+                font-weight: 600;
+                font-size: 16px;
+            }
+
+            .content {
+                padding: 24px;
+            }
+
+            .word-group {
+                margin-bottom: 40px;
+            }
+
+            .word-group:first-child {
+                margin-top: 0;
+            }
+
+            .word-header {
+                display: flex;
+                align-items: center;
+                justify-content: space-between;
+                margin-bottom: 20px;
+                padding-bottom: 8px;
+                border-bottom: 1px solid #f0f0f0;
+            }
+
+            .word-info {
+                display: flex;
+                align-items: center;
+                gap: 12px;
+            }
+
+            .word-name {
+                font-size: 17px;
+                font-weight: 600;
+                color: #1a1a1a;
+            }
+
+            .word-count {
+                color: #666;
+                font-size: 13px;
+                font-weight: 500;
+            }
+
+            .word-count.hot { color: #dc2626; font-weight: 600; }
+            .word-count.warm { color: #ea580c; font-weight: 600; }
+
+            .word-index {
+                color: #999;
+                font-size: 12px;
+            }
+
+            .news-item {
+                margin-bottom: 20px;
+                padding: 16px 0;
+                border-bottom: 1px solid #f5f5f5;
+                position: relative;
+                display: flex;
+                gap: 12px;
+                align-items: center;
+            }
+
+            .news-item:last-child {
+                border-bottom: none;
+            }
+
+            .news-item.new::after {
+                content: "NEW";
+                position: absolute;
+                top: 12px;
+                right: 0;
+                background: #fbbf24;
+                color: #92400e;
+                font-size: 9px;
+                font-weight: 700;
+                padding: 3px 6px;
+                border-radius: 4px;
+                letter-spacing: 0.5px;
+            }
+
+            .news-number {
+                color: #999;
+                font-size: 13px;
+                font-weight: 600;
+                min-width: 20px;
+                text-align: center;
+                flex-shrink: 0;
+                background: #f8f9fa;
+                border-radius: 50%;
+                width: 24px;
+                height: 24px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                align-self: flex-start;
+                margin-top: 8px;
+            }
+
+            .news-content {
+                flex: 1;
+                min-width: 0;
+                padding-right: 40px;
+            }
+
+            .news-item.new .news-content {
+                padding-right: 50px;
+            }
+
+            .news-header {
+                display: flex;
+                align-items: center;
+                gap: 8px;
+                margin-bottom: 8px;
+                flex-wrap: wrap;
+            }
+
+            .source-name {
+                color: #666;
+                font-size: 12px;
+                font-weight: 500;
+            }
+
+            .rank-num {
+                color: #fff;
+                background: #6b7280;
+                font-size: 10px;
+                font-weight: 700;
+                padding: 2px 6px;
+                border-radius: 10px;
+                min-width: 18px;
+                text-align: center;
+            }
+
+            .rank-num.top { background: #dc2626; }
+            .rank-num.high { background: #ea580c; }
+
+            .time-info {
+                color: #999;
+                font-size: 11px;
+            }
+
+            .count-info {
+                color: #059669;
+                font-size: 11px;
+                font-weight: 500;
+            }
+
+            .news-title {
+                font-size: 15px;
+                line-height: 1.4;
+                color: #1a1a1a;
+                margin: 0;
+            }
+
+            .news-link {
+                color: #2563eb;
+                text-decoration: none;
+            }
+
+            .news-link:hover {
+                text-decoration: underline;
+            }
+
+            .news-link:visited {
+                color: #7c3aed;
+            }
+
+            .new-section {
+                margin-top: 40px;
+                padding-top: 24px;
+                border-top: 2px solid #f0f0f0;
+            }
+
+            .new-section-title {
+                color: #1a1a1a;
+                font-size: 16px;
+                font-weight: 600;
+                margin: 0 0 20px 0;
+            }
+
+            .new-source-group {
+                margin-bottom: 24px;
+            }
+
+            .new-source-title {
+                color: #666;
+                font-size: 13px;
+                font-weight: 500;
+                margin: 0 0 12px 0;
+                padding-bottom: 6px;
+                border-bottom: 1px solid #f5f5f5;
+            }
+
+            .new-item {
+                display: flex;
+                align-items: center;
+                gap: 12px;
+                padding: 8px 0;
+                border-bottom: 1px solid #f9f9f9;
+            }
+
+            .new-item:last-child {
+                border-bottom: none;
+            }
+
+            .new-item-number {
+                color: #999;
+                font-size: 12px;
+                font-weight: 600;
+                min-width: 18px;
+                text-align: center;
+                flex-shrink: 0;
+                background: #f8f9fa;
+                border-radius: 50%;
+                width: 20px;
+                height: 20px;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+
+            .new-item-rank {
+                color: #fff;
+                background: #6b7280;
+                font-size: 10px;
+                font-weight: 700;
+                padding: 3px 6px;
+                border-radius: 8px;
+                min-width: 20px;
+                text-align: center;
+                flex-shrink: 0;
+            }
+
+            .new-item-rank.top { background: #dc2626; }
+            .new-item-rank.high { background: #ea580c; }
+
+            .new-item-content {
+                flex: 1;
+                min-width: 0;
+            }
+
+            .new-item-title {
+                font-size: 14px;
+                line-height: 1.4;
+                color: #1a1a1a;
+                margin: 0;
+            }
+
+            .error-section {
+                background: #fef2f2;
+                border: 1px solid #fecaca;
+                border-radius: 8px;
+                padding: 16px;
+                margin-bottom: 24px;
+            }
+
+            .error-title {
+                color: #dc2626;
+                font-size: 14px;
+                font-weight: 600;
+                margin: 0 0 8px 0;
+            }
+
+            .error-list {
+                list-style: none;
+                padding: 0;
+                margin: 0;
+            }
+
+            .error-item {
+                color: #991b1b;
+                font-size: 13px;
+                padding: 2px 0;
+                font-family: 'SF Mono', Consolas, monospace;
+            }
+
+            @media (max-width: 480px) {
+                body { padding: 12px; }
+                .header { padding: 24px 20px; }
+                .content { padding: 20px; }
+                .header-info { grid-template-columns: 1fr; gap: 12px; }
+                .news-header { gap: 6px; }
+                .news-content { padding-right: 45px; }
+                .news-item { gap: 8px; }
+                .new-item { gap: 8px; }
+                .news-number { width: 20px; height: 20px; font-size: 12px; }
+            }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <div class="header">
+                <div class="header-title">热点新闻分析</div>
+                <div class="header-info">
+                    <div class="info-item">
+                        <span class="info-label">报告类型</span>
+                        <span class="info-value">实时分析</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">新闻总数</span>
+                        <span class="info-value">255 条</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">热点新闻</span>
+                        <span class="info-value">43 条</span>
+                    </div>
+                    <div class="info-item">
+                        <span class="info-label">生成时间</span>
+                        <span class="info-value">03-27 05:39</span>
+                    </div>
+                </div>
+            </div>
+
+            <div class="content">
+                <div class="word-group">
+                    <div class="word-header">
+                        <div class="word-info">
+                            <div class="word-name">伊朗</div>
+                            <div class="word-count hot">28 条</div>
+                        </div>
+                        <div class="word-index">1/6</div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">1</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num top">1</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3768437" target="_blank" class="news-link">伊朗：中国、俄罗斯、巴基斯坦、伊拉克、印度、孟加拉国等国船只安全通过了霍尔木兹海峡</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">2</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">财联社热门</span><span class="rank-num top">1</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.cls.cn/detail/2326074" target="_blank" class="news-link">王毅同加拿大外长阿南德通电话：美国和伊朗都有重启谈判的意愿，国际社会应鼓励双方重回谈判桌，寻求政治解决的有效途径</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">3</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">凤凰网</span><span class="rank-num top">1</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://news.ifeng.com/c/8roiz2WyD2u" target="_blank" class="news-link">以方称伊朗革命卫队海军司令身亡，细节公布</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">4</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">财联社热门</span><span class="rank-num top">2</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.cls.cn/detail/2326093" target="_blank" class="news-link">伊朗通过中间人回应美15点停火提议 提出明确前提条件</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">5</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">凤凰网</span><span class="rank-num top">2</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://news.ifeng.com/c/8rnubjBvyXg" target="_blank" class="news-link">画面来了！伊朗称精准击落美军F-18战机</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">6</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">知乎</span><span class="rank-num top">2</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.zhihu.com/question/2020625398661215538" target="_blank" class="news-link">美以袭击伊朗进入第 28 天，当前局势如何？哪些信息值得关注？</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">7</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num high">5</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3768470" target="_blank" class="news-link">美国被曝制定“最后一击”方案，或进行地面战，伊朗：若地面入侵，将开辟新战线，曼德海峡是下个目标</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">8</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">微博</span><span class="rank-num high">5</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E4%B8%8E%E7%BE%8E%E4%BA%A4%E6%B5%81%E4%BF%A1%E6%81%AF%E4%B8%8D%E6%84%8F%E5%91%B3%E7%9D%80%E8%B0%88%E5%88%A4%23&amp;t=31&amp;band_rank=5&amp;Refer=top" target="_blank" class="news-link">伊朗称与美交流信息不意味着谈判</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">9</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">今日头条</span><span class="rank-num ">6</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.toutiao.com/trending/7621559473148005938/" target="_blank" class="news-link">伊朗已正式回应美提出的停火协议</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">10</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">百度热搜</span><span class="rank-num ">6</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%B7%B2%E6%AD%A3%E5%BC%8F%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%8F%90%E5%87%BA%E7%9A%84%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE" target="_blank" class="news-link">伊朗已正式回应美国提出的停火协议</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">11</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">bilibili 热搜</span><span class="rank-num ">6</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://search.bilibili.com/all?keyword=%E7%8E%8B%E6%AF%85%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%A0%B8%E9%97%AE%E9%A2%98%E5%BA%94%E9%80%9A%E8%BF%87%E5%AF%B9%E8%AF%9D%E8%A7%A3%E5%86%B3" target="_blank" class="news-link">王毅称伊朗核问题应通过对话解决</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">12</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">凤凰网</span><span class="rank-num ">6</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://news.ifeng.com/loc/timeline/event/8r727OWpK5W" target="_blank" class="news-link">美以伊战争丨伊朗正式回应美国15点停火协议</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">13</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">知乎</span><span class="rank-num ">6</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.zhihu.com/question/2020578334392808612" target="_blank" class="news-link">美方被曝正酝酿对伊朗「最后一击」，包括动用地面部队、拦截石油运输等，可信度有多高？谈判为何难有进展？</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">14</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">凤凰网</span><span class="rank-num ">7</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://news.ifeng.com/c/8roUbwpvIur" target="_blank" class="news-link">伊朗陆军司令发出最新警告</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">15</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">微博</span><span class="rank-num ">7</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%AF%BC%E5%BC%B92%E5%B0%8F%E6%97%B6%E5%86%854%E6%AC%A1%E5%AF%86%E9%9B%86%E7%A0%B8%E5%90%91%E4%BB%A5%E6%9C%AC%E5%9C%9F%23&amp;t=31&amp;band_rank=7&amp;Refer=top" target="_blank" class="news-link">伊朗导弹2小时内4次密集砸向以本土</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">16</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num ">9</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3768413" target="_blank" class="news-link">伊朗外长称“没有谈判”、总统“高层高度团结”，美方称“谈判仍在继续”、拟本周末在巴基斯坦开会讨论停战方案</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">17</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">今日头条</span><span class="rank-num ">12</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.toutiao.com/trending/7620753885656924202/" target="_blank" class="news-link">以媒：伊朗革命卫队海军指挥官身亡</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">18</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">澎湃新闻</span><span class="rank-num ">12</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://m.thepaper.cn/newsDetail_forward_32836306" target="_blank" class="news-link">以媒：负责封锁霍尔木兹海峡的伊朗伊斯兰革命卫队海军司令死亡</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">19</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">微博</span><span class="rank-num ">12</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E8%AE%AE%E9%95%BF%E7%A7%B0%E5%9C%B0%E5%8C%BA%E6%9F%90%E5%9B%BD%E6%94%AF%E6%8C%81%E6%95%8C%E4%BA%BA%E5%A4%BA%E5%B2%9B%23&amp;t=31&amp;band_rank=12&amp;Refer=top" target="_blank" class="news-link">伊朗议长称地区某国支持敌人夺岛</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">20</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">知乎</span><span class="rank-num ">12</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.zhihu.com/question/2020621201685398127" target="_blank" class="news-link">伊朗已正式回应美国提出的停火协议 15 点内容，含必须明确承诺赔偿战争损失并加以落实等，美方会接受吗？</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">21</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">微博</span><span class="rank-num ">14</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://s.weibo.com/weibo?q=%23%E7%BE%8E%E6%96%B9%E8%A2%AB%E6%9B%9D%E6%AD%A3%E9%85%9D%E9%85%BF%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%9C%80%E5%90%8E%E4%B8%80%E5%87%BB%23&amp;t=31&amp;band_rank=14&amp;Refer=top" target="_blank" class="news-link">美方被曝正酝酿对伊朗最后一击</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">22</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">今日头条</span><span class="rank-num ">15</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.toutiao.com/trending/7621496590070484526/" target="_blank" class="news-link">伊朗称已击中或击落202架美以军机</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">23</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">澎湃新闻</span><span class="rank-num ">16</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://m.thepaper.cn/newsDetail_forward_32833789" target="_blank" class="news-link">白宫称伊朗若不接受现实将遭更沉重打击，伊朗：美国想谈是承认失败</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">24</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">知乎</span><span class="rank-num ">18</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.zhihu.com/question/2020273808871748583" target="_blank" class="news-link">美以袭击伊朗进入第 27 天，当前局势如何？哪些信息值得关注？</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">25</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">今日头条</span><span class="rank-num ">21</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.toutiao.com/trending/7621513855998365220/" target="_blank" class="news-link">曝美方正酝酿针对伊朗“最后一击”</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">26</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">今日头条</span><span class="rank-num ">24</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.toutiao.com/trending/7621082552094703622/" target="_blank" class="news-link">伊朗军方称正搜捕逃亡美军</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item new">
+                        <div class="news-number">27</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">今日头条</span><span class="rank-num ">27</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.toutiao.com/trending/7620400951362539014/" target="_blank" class="news-link">伊朗军方公布击落美战斗机画面</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">28</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">微博</span><span class="rank-num ">27</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%9B%BD%E6%8F%90%E5%87%BA%E7%9A%84%E5%81%9C%E7%81%AB%E5%8D%8F%E8%AE%AE%23&amp;t=31&amp;band_rank=27&amp;Refer=top" target="_blank" class="news-link">伊朗回应美国提出的停火协议</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="word-group">
+                    <div class="word-header">
+                        <div class="word-info">
+                            <div class="word-name">特朗普</div>
+                            <div class="word-count warm">9 条</div>
+                        </div>
+                        <div class="word-index">2/6</div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">1</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num top">2</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3768393" target="_blank" class="news-link">伊朗拒绝美国停战方案、称不允许特朗普决定停战时间，白宫称美伊在谈判且有成效，伊外长称信息交流并非谈判</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">2</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">凤凰网</span><span class="rank-num high">4</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://news.ifeng.com/c/8roGSbDHfgm" target="_blank" class="news-link">担心特朗普叫停，内塔尼亚胡下令猛炸伊朗</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">3</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">今日头条</span><span class="rank-num high">5</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.toutiao.com/trending/7621462030418972210/" target="_blank" class="news-link">中方回应特朗普称5月中旬访华</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">4</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">澎湃新闻</span><span class="rank-num high">5</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://m.thepaper.cn/newsDetail_forward_32835719" target="_blank" class="news-link">特朗普称将在5月中旬访华，外交部：中美就此事保持着沟通</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">5</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num ">7</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3768496" target="_blank" class="news-link">特朗普：不知美伊能否达成协议、我不迫切，伊朗允许十艘油轮通行霍尔木兹，市场对冲突反应没预期剧烈</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">6</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">财联社热门</span><span class="rank-num ">8</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.cls.cn/detail/2325824" target="_blank" class="news-link">伊朗战争还将持续多久？据传特朗普希望4-6周内终结战事</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">7</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">知乎</span><span class="rank-num ">11</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.zhihu.com/question/2020434705586102279" target="_blank" class="news-link">特朗普重大公告前，市场多次出现抢跑交易，特朗普真的在操纵金融市场吗？背后都有哪些可能？</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">8</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">知乎</span><span class="rank-num ">13</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.zhihu.com/question/2020523519075710358" target="_blank" class="news-link">外交部回应「特朗普称将在 5 月中旬访华」，表示中美保持着沟通，透露出哪些信息？</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">9</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">澎湃新闻</span><span class="rank-num ">19</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://m.thepaper.cn/newsDetail_forward_32834414" target="_blank" class="news-link">“我们大赢特赢”，特朗普：伊朗太想达成协议，就是不敢承认</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="word-group">
+                    <div class="word-header">
+                        <div class="word-info">
+                            <div class="word-name">美股</div>
+                            <div class="word-count ">3 条</div>
+                        </div>
+                        <div class="word-index">3/6</div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">1</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num top">3</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3768430" target="_blank" class="news-link">美伊和谈陷入僵局，美股低开高走，纳指跌0.8%，布油突破100美元，现货金银跳水</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">2</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num ">6</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3768319" target="_blank" class="news-link">美伊谈判存疑，美股震荡收涨，中概股指跑赢大盘，存储板块走低，迪拜原油暴跌</a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">3</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">财联社热门</span><span class="rank-num ">13</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://www.cls.cn/detail/2326015" target="_blank" class="news-link">油价重上100美元冲击市场 美股期指走低 金银下跌 | 今夜看点</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="word-group">
+                    <div class="word-header">
+                        <div class="word-info">
+                            <div class="word-name">DeepSeek 梁文锋</div>
+                            <div class="word-count ">1 条</div>
+                        </div>
+                        <div class="word-index">4/6</div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">1</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num ">10</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3768419" target="_blank" class="news-link">TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="word-group">
+                    <div class="word-header">
+                        <div class="word-info">
+                            <div class="word-name">chatgpt openai</div>
+                            <div class="word-count ">1 条</div>
+                        </div>
+                        <div class="word-index">5/6</div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">1</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">bilibili 热搜</span><span class="rank-num ">13</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora" target="_blank" class="news-link">OpenAI宣布关停Sora</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="word-group">
+                    <div class="word-header">
+                        <div class="word-info">
+                            <div class="word-name">美债</div>
+                            <div class="word-count ">1 条</div>
+                        </div>
+                        <div class="word-index">6/6</div>
+                    </div>
+                    <div class="news-item ">
+                        <div class="news-number">1</div>
+                        <div class="news-content">
+                            <div class="news-header">
+                                <span class="source-name">华尔街见闻</span><span class="rank-num ">8</span><span class="time-info">05时39分</span>
+                            </div>
+                            <div class="news-title"><a href="https://wallstreetcn.com/articles/3768442" target="_blank" class="news-link">特朗普何时再“TACO”？华尔街发现规律：美油逼近100美元 or 美债收益率4.5%</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="new-section">
+                    <div class="new-section-title">本次新增热点 (共 1 条)</div>
+                    <div class="new-source-group">
+                        <div class="new-source-title">今日头条 · 1条</div>
+                        <div class="new-item">
+                            <div class="new-item-number">1</div>
+                            <div class="new-item-rank ">27</div>
+                            <div class="new-item-content">
+                                <div class="new-item-title"><a href="https://www.toutiao.com/trending/7620400951362539014/" target="_blank" class="news-link">伊朗军方公布击落美战斗机画面</a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </body>
+    </html>
+    
