@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-27T04:31:12.907294+08:00",
-  "total_titles_processed": 559,
+  "generated_at": "2026-03-27T05:25:57.812290+08:00",
+  "total_titles_processed": 612,
   "failed_sources": [],
   "trends": [
     {
@@ -98,8 +98,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 05时25分]"
         },
         {
           "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
@@ -163,7 +163,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "AI短剧冲击横店 第一批受害者出现了",
@@ -173,8 +173,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 05时25分]"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -186,8 +186,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 04时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 05时25分]"
         },
         {
           "title": "Meta目前前计划在美国得克萨斯州埃尔帕索（El Paso）的AI数据中心投入100亿美元，远高于此前承诺的15亿美元。 该数据中心的目标是到2028年实现1吉瓦（1 GW） 的电力容量上线。 Meta正在加大对AI基础设施的投资。今年1月，该公司曾向华尔街表示，全年的资本支出将高达1350亿美元。",
@@ -211,6 +211,109 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时07分"
+        },
+        {
+          "title": "亚马逊AI芯片产品的主管Gadi Htt离职。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3077682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI宣布关停Sora",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14,
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时06分 ~ 05时25分]"
+        },
+        {
+          "title": "OpenAI来自ChatGPT广告业务试点获得的年化收入超过1亿美元。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3077691",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "据The Information：OpenAI的广告客户已超过600家，预计将于四月推出自助广告客户接入服务。",
+          "url": "https://flash.jin10.com/detail/20260327045344271800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "据 The Information：OpenAI广告试点的年化收入突破1亿美元。",
+          "url": "https://flash.jin10.com/detail/20260327045343835800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "iphone apple",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "iPhone 4回收价暴涨80倍",
+          "url": "https://www.toutiao.com/trending/7621168004155834431/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 00时07分]"
+        },
+        {
+          "title": "苹果罕见向iPhone硬件设计人员发放高额奖金",
+          "url": "https://flash.jin10.com/detail/20260327045358949800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "苹果公司罕见地向iPhone设计师们提供奖金。",
+          "url": "https://wallstreetcn.com/livenews/3077683",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时25分"
         }
       ]
     },
@@ -270,43 +373,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI宣布关停Sora",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%A3%E5%B8%83%E5%85%B3%E5%81%9CSora",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14,
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时06分 ~ 04时31分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "iphone apple",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "iPhone 4回收价暴涨80倍",
-          "url": "https://www.toutiao.com/trending/7621168004155834431/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 00时07分]"
         }
       ]
     }
