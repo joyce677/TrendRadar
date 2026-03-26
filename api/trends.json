@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T01:56:40.992582+08:00",
-  "total_titles_processed": 397,
+  "generated_at": "2026-03-27T03:07:01.965743+08:00",
+  "total_titles_processed": 462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌发布KV缓存压缩技术，存储需求预期遭冲击，美股存储板块集体下挫",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 03时07分]"
         },
         {
           "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
@@ -27,8 +27,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 03时07分]"
+        },
+        {
+          "title": "谷歌母公司Alphabet跌幅迅速扩大至4.3%。",
+          "url": "https://wallstreetcn.com/livenews/3077637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
         },
         {
           "title": "谷歌公司Fiber更名为GFiber。",
@@ -55,6 +66,46 @@
       ]
     },
     {
+      "keyword_group": "AI",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "AI短剧冲击横店 第一批受害者出现了",
+          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E5%86%B2%E5%87%BB%E6%A8%AA%E5%BA%97+%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 03时07分]"
+        },
+        {
+          "title": "Token AI时代的新KPI",
+          "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 03时07分]"
+        },
+        {
+          "title": "苹果公司将在策略转向中向竞争对手的AI助理开放Siri。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3077634",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "利率 汇率",
       "match_count": 3,
       "titles": [
@@ -65,7 +116,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -76,7 +127,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
@@ -90,6 +141,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "在太空探索公司SpaceX IPO之前，马斯克旗下X（原名推特）重组。 X遣散了CMO和超过20名非技术职员。 X Money面临与合规和运营相关的推迟。 X剩下的员工称，X将侧重于提高收入。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3077640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
+        },
+        {
+          "title": "据华尔街日报：埃隆·马斯克旗下X公司在SpaceX上市前进行重组。消息人士称，X公司解雇首席营销官及20多名职责重叠的非技术人员。",
+          "url": "https://flash.jin10.com/detail/20260327021816514800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时07分"
         }
       ]
     },
@@ -113,40 +192,12 @@
           "url": "https://www.zhihu.com/question/2020448302089336115",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 01时56分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "AI短剧冲击横店 第一批受害者出现了",
-          "url": "https://www.baidu.com/s?wd=AI%E7%9F%AD%E5%89%A7%E5%86%B2%E5%87%BB%E6%A8%AA%E5%BA%97+%E7%AC%AC%E4%B8%80%E6%89%B9%E5%8F%97%E5%AE%B3%E8%80%85%E5%87%BA%E7%8E%B0%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 01时56分]"
-        },
-        {
-          "title": "Token AI时代的新KPI",
-          "url": "https://search.bilibili.com/all?keyword=Token%20AI%E6%97%B6%E4%BB%A3%E7%9A%84%E6%96%B0KPI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 03时07分]"
         }
       ]
     },
@@ -160,11 +211,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             14,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时06分 ~ 01时56分]"
+          "appearance_count": 5,
+          "time_info": "[00时06分 ~ 03时07分]"
         }
       ]
     },
