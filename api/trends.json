@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T20:46:11.399760+08:00",
-  "total_titles_processed": 1856,
+  "generated_at": "2026-03-27T22:08:12.938106+08:00",
+  "total_titles_processed": 1975,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "AI短剧冲击横店 第一批受害者出现了",
@@ -17,6 +17,20 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时06分 ~ 07时29分]"
+        },
+        {
+          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
+          "url": "https://www.zhihu.com/question/2017224899635142906",
+          "source": "知乎",
+          "ranks": [
+            19,
+            10,
+            5,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时09分 ~ 22时08分]"
         },
         {
           "title": "130.5%！半导体分立器件制造业开年利润暴增 AI或成最强推手",
@@ -33,18 +47,22 @@
           "time_info": "[12时29分 ~ 19时37分]"
         },
         {
-          "title": "AI 短剧《雪山救狐狸》为什么火了？它戳中了什么点？",
-          "url": "https://www.zhihu.com/question/2017224899635142906",
-          "source": "知乎",
+          "title": "湘女多情AI陶喆版",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B9%98%E5%A5%B3%E5%A4%9A%E6%83%85AI%E9%99%B6%E5%96%86%E7%89%88",
+          "source": "bilibili 热搜",
           "ranks": [
-            19,
-            10,
-            5,
-            1
+            12,
+            18,
+            13,
+            26,
+            27,
+            23,
+            25,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时09分 ~ 20时46分]"
+          "appearance_count": 10,
+          "time_info": "[12时29分 ~ 22时08分]"
         },
         {
           "title": "Token AI时代的新KPI",
@@ -65,28 +83,35 @@
           "source": "贴吧",
           "ranks": [
             2,
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时48分 ~ 20时46分]"
+          "appearance_count": 5,
+          "time_info": "[17时48分 ~ 22时08分]"
         },
         {
-          "title": "湘女多情AI陶喆版",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B9%98%E5%A5%B3%E5%A4%9A%E6%83%85AI%E9%99%B6%E5%96%86%E7%89%88",
-          "source": "bilibili 热搜",
+          "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
+          "url": "https://news.ifeng.com/c/8rpvER227kd",
+          "source": "凤凰网",
           "ranks": [
-            12,
-            18,
-            13,
-            26,
-            27,
-            23,
-            25
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时29分 ~ 19时37分]"
+          "appearance_count": 7,
+          "time_info": "[17时48分 ~ 22时08分]"
+        },
+        {
+          "title": "中国AI模型调用量爆发式增长",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BDAI%E6%A8%A1%E5%9E%8B%E8%B0%83%E7%94%A8%E9%87%8F%E7%88%86%E5%8F%91%E5%BC%8F%E5%A2%9E%E9%95%BF",
+          "source": "百度热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时07分 ~ 22时08分]"
         },
         {
           "title": "Anthropic赢得法院支持，以阻止特朗普对其AI工具使用的禁令。（彭博）",
@@ -100,16 +125,15 @@
           "time_info": "07时29分"
         },
         {
-          "title": "美议员急了：不建AI数据中心，这不就成“中国优先”了",
-          "url": "https://news.ifeng.com/c/8rpvER227kd",
-          "source": "凤凰网",
+          "title": "一行代码破甲,AI水军现原形",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352439&amp;topic_name=%E4%B8%80%E8%A1%8C%E4%BB%A3%E7%A0%81%E7%A0%B4%E7%94%B2%2CAI%E6%B0%B4%E5%86%9B%E7%8E%B0%E5%8E%9F%E5%BD%A2",
+          "source": "贴吧",
           "ranks": [
-            6,
-            7
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时48分 ~ 20时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "Naiyou终身禁赛",
@@ -182,6 +206,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时53分 ~ 04时31分]"
+        },
+        {
+          "title": "Naiyou 假赛被罚终身禁赛，LPL 打野为什么多次出现假赛风波？电竞选手的「假赛」又是如何调查定性的？",
+          "url": "https://www.zhihu.com/question/2020885312767881505",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时07分 ~ 22时08分]"
         },
         {
           "title": "亚马逊AI芯片产品的主管Gadi Htt离职。（The Information）",
@@ -265,7 +300,7 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "碧桂园服务2025年营收483.5亿元人民币，预估467.3亿元人民币； 2025年公司股东应占利润6.015亿元人民币，预估16.8亿元人民币； 2025年公司股东应占核心净利润25.2亿元人民币，预估26.8亿元人民币； 2025年毛利率17.5％，预估17.2％； 每股末期股息0.0462元人民币，预估0.45元人民币。",
@@ -277,6 +312,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时30分"
+        },
+        {
+          "title": "分红险演示利率下调至3.5%：新产品立即执行，存量产品需6月底前变更备案",
+          "url": "https://www.cls.cn/detail/2327414",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时07分 ~ 22时08分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了16个对手方的8.85亿美元。",
@@ -343,6 +390,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时07分"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（3月26日）担保隔夜融资利率（SOFR）报3.65%，之前一天报3.64%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3078301",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时08分"
         },
         {
           "title": "墨西哥央行：3名委员投票赞成将利率下调至6.75%，两名委员投票赞成将利率维持在7.00%。",
@@ -448,11 +506,12 @@
             2,
             16,
             15,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时29分 ~ 20时46分]"
+          "appearance_count": 12,
+          "time_info": "[12时29分 ~ 22时08分]"
         },
         {
           "title": "内存股大跌与谷歌论文有关吗",
@@ -465,11 +524,27 @@
             13,
             17,
             11,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时46分 ~ 20时46分]"
+          "appearance_count": 13,
+          "time_info": "[09时46分 ~ 22时08分]"
+        },
+        {
+          "title": "谷歌TurboQuant论文解读",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            7,
+            12,
+            13,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时56分 ~ 22时08分]"
         },
         {
           "title": "TurboQuant“横空出世”，科技圈高呼“谷歌版DeepSeek”、“真实版Pied Piper”，华尔街“呵呵，抄底内存股”",
@@ -483,20 +558,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时06分 ~ 07时29分]"
-        },
-        {
-          "title": "谷歌TurboQuant论文解读",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CTurboQuant%E8%AE%BA%E6%96%87%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            7,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时56分 ~ 20时46分]"
         },
         {
           "title": "谷歌新算法掀起“存储热降温恐慌” 华尔街分析师却不慌",
@@ -693,6 +754,20 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "经济学家：房地产有止跌回暖迹象",
+          "url": "https://www.douyin.com/hot/2445342",
+          "source": "抖音",
+          "ranks": [
+            19,
+            15,
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[15时56分 ~ 22时08分]"
+        },
+        {
           "title": "深圳二手房价重返「6 字头」，单日成交量创近 5 年新高，楼市真的复苏了吗？",
           "url": "https://www.zhihu.com/question/2020448302089336115",
           "source": "知乎",
@@ -705,20 +780,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时06分 ~ 07时29分]"
-        },
-        {
-          "title": "经济学家：房地产有止跌回暖迹象",
-          "url": "https://www.douyin.com/hot/2445342",
-          "source": "抖音",
-          "ranks": [
-            19,
-            15,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时56分 ~ 20时46分]"
         },
         {
           "title": "伊朗战争搅动楼市，美国抵押贷款利率飙升至6.38%",
