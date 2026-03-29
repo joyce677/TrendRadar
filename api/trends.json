@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-29T09:48:51.624034+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2026-03-29T12:33:26.497997+08:00",
+  "total_titles_processed": 798,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "一个视频了解AI常识",
@@ -30,11 +30,12 @@
           "ranks": [
             7,
             8,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 09时48分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 12时33分]"
         },
         {
           "title": "AI神游!原神现六指派蒙",
@@ -42,11 +43,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 09时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 12时33分]"
         },
         {
           "title": "一行代码破甲,AI水军现原形",
@@ -54,11 +56,12 @@
           "source": "贴吧",
           "ranks": [
             19,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 09时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 12时33分]"
         },
         {
           "title": "假赛挨重拳,naiyou终身禁赛",
@@ -66,11 +69,12 @@
           "source": "贴吧",
           "ranks": [
             21,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时26分 ~ 09时48分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 12时33分]"
         },
         {
           "title": "西门子中国董事长肖松：AI进工厂，成败关键不在“卷算法”",
@@ -133,6 +137,17 @@
           "time_info": "[06时21分 ~ 07时25分]"
         },
         {
+          "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32852314",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
           "title": "xAI最后一位联合创始人据悉已离开公司",
           "url": "https://flash.jin10.com/detail/20260329003301596800",
           "source": "金十数据",
@@ -147,7 +162,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌TurboQuant论文解读",
@@ -158,11 +173,12 @@
             15,
             18,
             16,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时26分 ~ 09时48分]"
+          "appearance_count": 11,
+          "time_info": "[00时26分 ~ 12时33分]"
         },
         {
           "title": "UP主实测谷歌压缩算法",
@@ -193,6 +209,28 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时26分 ~ 07时25分]"
+        },
+        {
+          "title": "谷歌AI内存压缩算法遭质疑",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
+        },
+        {
+          "title": "RaBitQ 作者独家发文指出 Google的 ICLR 2026 TurboQuant 论文存在严重错误",
+          "url": "https://zhuanlan.zhihu.com/p/2020969476166808284",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         }
       ]
     },
@@ -222,6 +260,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "agent",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华为盘古大模型负责人王云鹤离职，投身 Agent 创业，前景如何？他的离职对华为大模型发展影响有多大？",
+          "url": "https://www.zhihu.com/question/2021268908196325196",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时33分"
         }
       ]
     }
