@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T00:28:00.923560+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-03-30T01:24:47.145584+08:00",
+  "total_titles_processed": 361,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "观察｜国家级中试基地发布成果，医疗AI如何迈向规模化应用",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时24分]"
         },
         {
           "title": "AI勇闯二游圈,引爆米库论战",
@@ -25,9 +25,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时24分]"
         },
         {
           "title": "伊朗战争的账单，“AI牛市”来买？",
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时24分]"
         },
         {
           "title": "Anthropic警告称，Mythos增加了网络攻击的可能性。 官员们针对即将发布的那些AI模型的网络攻击能力发出警告。（Axios）",
@@ -47,9 +47,20 @@
           "ranks": [
             15
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时24分]"
+        },
+        {
+          "title": "用 Ai 编程的你们真的不担心代码泄露吗？",
+          "url": "https://www.zhihu.com/question/2019836769743423292",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时28分"
+          "time_info": "01时24分"
         }
       ]
     },
@@ -62,28 +73,30 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E5%86%85%E5%AD%98%E5%8E%8B%E7%BC%A9%E7%AE%97%E6%B3%95%E9%81%AD%E8%B4%A8%E7%96%91",
           "source": "bilibili 热搜",
           "ranks": [
-            29
+            29,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 01时24分]"
         },
         {
           "title": "新算法公布,谷歌干崩股市",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352482&amp;topic_name=%E6%96%B0%E7%AE%97%E6%B3%95%E5%85%AC%E5%B8%83%2C%E8%B0%B7%E6%AD%8C%E5%B9%B2%E5%B4%A9%E8%82%A1%E5%B8%82",
           "source": "贴吧",
           "ranks": [
-            12
+            12,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时28分 ~ 01时24分]"
         }
       ]
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "日本拟动用外储做空国际原油，以挽救日元汇率，对此你怎么看，其会重演 96 年「住友铜事件」么？",
@@ -95,6 +108,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 00时28分]"
+        },
+        {
+          "title": "日本拟动用外储做空国际原油，以挽救日元汇率，对此你怎么看，其会重演96年「住友铜事件」么？",
+          "url": "https://www.zhihu.com/question/2021504836005295499",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时24分"
         }
       ]
     }
