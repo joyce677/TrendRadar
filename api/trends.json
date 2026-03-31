@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T09:47:49.300453+08:00",
-  "total_titles_processed": 881,
+  "generated_at": "2026-03-31T12:32:05.634336+08:00",
+  "total_titles_processed": 1054,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "AI勇闯二游圈,引爆米库论战",
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             19,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时05分 ~ 09时47分]"
+          "appearance_count": 10,
+          "time_info": "[00时05分 ~ 12时32分]"
         },
         {
           "title": "复旦教授解析AI冲击职场真相",
@@ -32,26 +33,61 @@
           "time_info": "[03时51分 ~ 07时30分]"
         },
         {
-          "title": "AI短剧 偷脸",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%20%E5%81%B7%E8%84%B8&t=31&band_rank=1&Refer=top",
-          "source": "微博",
+          "title": "苹果客服回应撤回国行AI",
+          "url": "https://www.douyin.com/hot/2449610",
+          "source": "抖音",
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时31分 ~ 12时32分]"
+        },
+        {
+          "title": "凌晨3点上班,AI卷疯打工人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时47分"
+          "time_info": "12时32分"
         },
         {
           "title": "国行版苹果AI",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8C%E7%89%88%E8%8B%B9%E6%9E%9CAI",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 12时32分]"
+        },
+        {
+          "title": "AI短剧 偷脸",
+          "url": "https://s.weibo.com/weibo?q=AI%E7%9F%AD%E5%89%A7%20%E5%81%B7%E8%84%B8&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 12时32分]"
+        },
+        {
+          "title": "功勋翻译下岗,AI包揽游戏翻译",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
+          "source": "贴吧",
+          "ranks": [
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时47分"
+          "time_info": "12时32分"
         },
         {
           "title": "AI 会让年轻人的机会变多还是变少？",
@@ -107,7 +143,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         },
@@ -126,7 +162,7 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "鲍威尔：美联储可暂时忽略油价冲击，倾向于维持利率不变",
@@ -138,8 +174,20 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[03时51分 ~ 09时47分]"
+          "appearance_count": 11,
+          "time_info": "[03时51分 ~ 12时32分]"
+        },
+        {
+          "title": "从加息回归降息！鲍威尔一席话加速市场利率预期180度逆转……",
+          "url": "https://www.cls.cn/detail/2329880",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时47分 ~ 12时32分]"
         },
         {
           "title": "鲍威尔：美联储利率处于“有利位置”，可忽略伊朗相关油价冲击、但要警惕通胀预期变化",
@@ -153,17 +201,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时38分 ~ 07时30分]"
-        },
-        {
-          "title": "从加息回归降息！鲍威尔一席话加速市场利率预期180度逆转……",
-          "url": "https://www.cls.cn/detail/2329880",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
         },
         {
           "title": "美联储4月维持利率不变的概率为97.4%",
@@ -242,6 +279,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "农发行发行5年期债券，规模60亿元，发行利率1.6195%，预期1.6100%，投标倍数3.93倍，边际倍数5.70倍。",
+          "url": "https://wallstreetcn.com/livenews/3079787",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时32分"
         }
       ]
     },
@@ -306,7 +354,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         }
@@ -323,7 +371,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         }
