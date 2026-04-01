@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T01:44:31.735358+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-04-02T02:52:27.998143+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "【焦点复盘】A股放量普涨迎4月“开门红”，AI硬件、创新药概念强势领涨",
@@ -16,8 +16,31 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 02时52分]"
+        },
+        {
+          "title": "凌晨3点上班,AI卷疯打工人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 02时52分]"
+        },
+        {
+          "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2022254775757009403",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时44分]"
+          "time_info": "[01时44分 ~ 02时52分]"
         },
         {
           "title": "被AI短剧盗脸成丑角 女模特发声",
@@ -32,35 +55,13 @@
           "time_info": "[00时06分 ~ 01时44分]"
         },
         {
-          "title": "凌晨3点上班,AI卷疯打工人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352553&amp;topic_name=%E5%87%8C%E6%99%A83%E7%82%B9%E4%B8%8A%E7%8F%AD%2CAI%E5%8D%B7%E7%96%AF%E6%89%93%E5%B7%A5%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时44分]"
-        },
-        {
           "title": "伊朗官员Tabatabai：伊朗总统佩泽希齐扬给美国人民的重要信件将在几小时内发布。",
           "url": "https://flash.jin10.com/detail/20260402012346170800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "Claude 正在自己设计下一代 Claude，当 AI 开始自我进化，将对行业带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2022254775757009403",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
         },
@@ -74,6 +75,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
+        },
+        {
+          "title": "如何把 AI 训练成自己的「第二大脑」？",
+          "url": "https://www.zhihu.com/question/2017266017961736190",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时52分"
         }
       ]
     },
@@ -90,8 +102,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 02时52分]"
         },
         {
           "title": "美国财政部拍卖四个月期国债，得标利率3.615%，投标倍数2.95。",
@@ -133,7 +145,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
         }
@@ -150,7 +162,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
         }
@@ -165,11 +177,12 @@
           "url": "https://wallstreetcn.com/livenews/3081048",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            15,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 02时52分]"
         }
       ]
     }
