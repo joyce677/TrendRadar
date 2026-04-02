@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-03T06:26:23.882884+08:00",
-  "total_titles_processed": 599,
+  "generated_at": "2026-04-03T07:30:28.115239+08:00",
+  "total_titles_processed": 655,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "利率 汇率",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普认为伊朗战争结束后 抵押贷款利率将会下降",
@@ -17,17 +17,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
-        },
-        {
-          "title": "美联储4月维持利率不变的概率为99.5%",
-          "url": "https://flash.jin10.com/detail/20260403060131275800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
         },
         {
           "title": "埃及央行维持基准利率在19%不变，符合预期。",
@@ -64,6 +53,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时44分 ~ 02时46分]"
+        },
+        {
+          "title": "美联储4月维持利率不变的概率为99.5%",
+          "url": "https://flash.jin10.com/detail/20260403060131275800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时30分]"
         },
         {
           "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.46%，连续第五周上涨，之前一周报6.38%。",
@@ -121,6 +122,17 @@
           "time_info": "00时51分"
         },
         {
+          "title": "中小银行开启新一轮存款挂牌利率调整",
+          "url": "https://wallstreetcn.com/livenews/3081821",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时30分"
+        },
+        {
           "title": "美国抵押贷款利率连续第五周升高，30年期抵押贷款利率升至6.46%。",
           "url": "https://flash.jin10.com/detail/20260403000244345800",
           "source": "金十数据",
@@ -146,7 +158,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
@@ -156,8 +168,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时51分 ~ 06时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时51分 ~ 07时30分]"
         },
         {
           "title": "AI冲击+侵权,配音演员联合抵制",
@@ -167,8 +179,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时51分 ~ 06时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时51分 ~ 07时30分]"
+        },
+        {
+          "title": "AI重塑短剧制作模式，行业洗牌催生新投资风口",
+          "url": "https://wallstreetcn.com/livenews/3081838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时30分"
         },
         {
           "title": "印度AI初创公司Sarvam按15亿美元估值融资3亿-3.5亿美元。",
@@ -189,7 +212,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
         },
@@ -289,6 +312,35 @@
       ]
     },
     {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "香港楼市“大手客”入市创18年同期新高，有人豪掷1亿港元扫货10套，有人收房转手赚110万港元",
+          "url": "https://wallstreetcn.com/livenews/3081839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时30分"
+        },
+        {
+          "title": "标普500指数的11个板块中，房地产板块收涨1.48%，信息技术/科技板块涨0.73%，能源板块涨0.46%，保健板块跌0.68%，可选消费板块跌1.49%。",
+          "url": "https://wallstreetcn.com/livenews/3081783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时29分 ~ 05时31分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克",
       "match_count": 1,
       "titles": [
@@ -303,24 +355,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时46分 ~ 03时44分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房价 楼市 房地产",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "标普500指数的11个板块中，房地产板块收涨1.48%，信息技术/科技板块涨0.73%，能源板块涨0.46%，保健板块跌0.68%，可选消费板块跌1.49%。",
-          "url": "https://wallstreetcn.com/livenews/3081783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时29分 ~ 05时31分]"
         }
       ]
     },
