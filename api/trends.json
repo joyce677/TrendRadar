@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T01:44:26.801549+08:00",
-  "total_titles_processed": 376,
+  "generated_at": "2026-04-03T02:46:04.726195+08:00",
+  "total_titles_processed": 427,
   "failed_sources": [],
   "trends": [
     {
@@ -17,17 +17,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时51分"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了3个对手方的3.27亿美元。",
-          "url": "https://flash.jin10.com/detail/20260403011723128800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时44分"
         },
         {
           "title": "埃及央行维持基准利率在19%不变，符合预期。",
@@ -52,6 +41,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时51分 ~ 01时44分]"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了3个对手方的3.27亿美元。",
+          "url": "https://flash.jin10.com/detail/20260403011723128800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 02时46分]"
         },
         {
           "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.46%，连续第五周上涨，之前一周报6.38%。",
@@ -126,7 +127,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
         }
@@ -174,35 +175,48 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "市场消息：OpenAI收购TBPN。",
           "url": "https://flash.jin10.com/detail/20260403012712890800",
           "source": "金十数据",
           "ranks": [
-            1
+            1,
+            24
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 02时46分]"
         },
         {
           "title": "OpenAI收购科技行业脱口秀TBPN。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3081739",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 02时46分]"
+        },
+        {
+          "title": "OpenAI：将ChatGPT企业版的年订阅价格从每用户25美元降至20美元。",
+          "url": "https://flash.jin10.com/detail/20260403014329436800",
+          "source": "金十数据",
+          "ranks": [
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时44分"
+          "time_info": "02时46分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "独家｜“AI仿写文”差点进了学生读物，作家刘亮程下场打假",
@@ -212,8 +226,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时46分]"
         },
         {
           "title": "AI冲击+侵权,配音演员联合抵制",
@@ -223,8 +237,36 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[00时51分 ~ 02时46分]"
+        },
+        {
+          "title": "印度AI初创公司Sarvam按15亿美元估值融资3亿-3.5亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3081740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据知情人士透露，马斯克旗下太空探索公司SpaceX已与沙特公共投资基金就2026年IPO的基石投资进行洽谈。 一家沙特基金正考虑在SpaceX的IPO中认购50亿美元的基石投资。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3081745",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时46分"
         }
       ]
     },
@@ -238,11 +280,12 @@
           "source": "微博",
           "ranks": [
             23,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时51分 ~ 01时44分]"
+          "appearance_count": 4,
+          "time_info": "[00时51分 ~ 02时46分]"
         }
       ]
     }
