@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T17:31:56.457696+08:00",
-  "total_titles_processed": 1178,
+  "generated_at": "2026-04-04T18:26:43.751789+08:00",
+  "total_titles_processed": 1250,
   "failed_sources": [],
   "trends": [
     {
@@ -79,11 +79,12 @@
           "ranks": [
             5,
             7,
-            6
+            6,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时09分 ~ 17时31分]"
+          "appearance_count": 7,
+          "time_info": "[15时09分 ~ 18时26分]"
         },
         {
           "title": "美媒：因AI初创公司Mercor发生数据泄露事件 Meta暂停与其合作",
@@ -117,11 +118,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            16
+            16,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时34分 ~ 17时31分]"
+          "appearance_count": 3,
+          "time_info": "[16时34分 ~ 18时26分]"
         },
         {
           "title": "除了外卖，美团其实投了大半个中国 AI 独角兽，如何看待美团在 AI 领域的投资布局？",
@@ -144,6 +146,48 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时34分 ~ 03时35分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "马斯克要求那些参与SpaceX美国IPO的公司购买Grok。 某些银行同意在Grok开支数千万美元。 某些银行开始将Grok融合到它们的系统。（纽约时报）",
+          "url": "https://wallstreetcn.com/livenews/3082295",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            21,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时38分 ~ 04时29分]"
+        },
+        {
+          "title": "据纽约时报：马斯克要求参与SpaceX IPO的公司购买Grok。",
+          "url": "https://flash.jin10.com/detail/20260404012421226800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时38分 ~ 03时35分]"
+        },
+        {
+          "title": "马斯克：我相信Neuralink终有一天能够恢复听力，就像我们将通过Blindsight植入装置恢复视力一样。",
+          "url": "https://flash.jin10.com/detail/20260404173237831800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         }
       ]
     },
@@ -185,37 +229,6 @@
       ]
     },
     {
-      "keyword_group": "马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马斯克要求那些参与SpaceX美国IPO的公司购买Grok。 某些银行同意在Grok开支数千万美元。 某些银行开始将Grok融合到它们的系统。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3082295",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            21,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时38分 ~ 04时29分]"
-        },
-        {
-          "title": "据纽约时报：马斯克要求参与SpaceX IPO的公司购买Grok。",
-          "url": "https://flash.jin10.com/detail/20260404012421226800",
-          "source": "金十数据",
-          "ranks": [
-            10,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时38分 ~ 03时35分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "虚拟币 币安 比特币 以太坊",
       "match_count": 2,
       "titles": [
@@ -244,6 +257,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时33分 ~ 01时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI在冲刺IPO的关键时刻，高管层大重组",
+          "url": "https://wallstreetcn.com/livenews/3082422",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         }
       ]
     },
