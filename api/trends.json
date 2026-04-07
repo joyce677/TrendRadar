@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-07T12:28:55.610390+08:00",
-  "total_titles_processed": 1039,
+  "generated_at": "2026-04-07T14:16:47.299396+08:00",
+  "total_titles_processed": 1165,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "最刺激的“调研”？“网红AI研究机构”：公开数据漏报了50%霍尔木兹真实通行量",
@@ -93,22 +93,22 @@
           "time_info": "[00时38分 ~ 03时48分]"
         },
         {
+          "title": "如果创造一个汉字来代替「AI」这个词，你会如何创造它的字形与发音，为什么？",
+          "url": "https://www.zhihu.com/question/667901263",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 14时16分]"
+        },
+        {
           "title": "中国AI大模型调用量连续五周超美国",
           "url": "https://www.toutiao.com/trending/7625463207994179611/",
           "source": "今日头条",
           "ranks": [
             9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 12时28分]"
-        },
-        {
-          "title": "如果创造一个汉字来代替「AI」这个词，你会如何创造它的字形与发音，为什么？",
-          "url": "https://www.zhihu.com/question/667901263",
-          "source": "知乎",
-          "ranks": [
             10
           ],
           "is_new": false,
@@ -162,6 +162,17 @@
           "time_info": "[00时38分 ~ 00时39分]"
         },
         {
+          "title": "AI编程：全民狂欢还是屎山危机",
+          "url": "https://www.baidu.com/s?wd=AI%E7%BC%96%E7%A8%8B%EF%BC%9A%E5%85%A8%E6%B0%91%E7%8B%82%E6%AC%A2%E8%BF%98%E6%98%AF%E5%B1%8E%E5%B1%B1%E5%8D%B1%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
+        {
           "title": "三星一季度销售远超预期，利润暴增八倍，AI芯片销售无惧战争阴云",
           "url": "https://wallstreetcn.com/livenews/3083001",
           "source": "华尔街见闻-快讯",
@@ -171,6 +182,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时29分"
+        },
+        {
+          "title": "芭比大战AI偶像",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8A%AD%E6%AF%94%E5%A4%A7%E6%88%98AI%E5%81%B6%E5%83%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
         }
       ]
     },
@@ -198,8 +220,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时48分 ~ 12时28分]"
+          "appearance_count": 4,
+          "time_info": "[09时48分 ~ 14时16分]"
         },
         {
           "title": "新西兰经济研究所（NZIER）影子委员会建议新西兰联储维持官方现金利率（OCR）不变。",
@@ -232,7 +254,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         },
@@ -276,7 +298,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         },
@@ -421,6 +443,34 @@
       ]
     },
     {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Faker称已准备好迎战马斯克AI",
+          "url": "https://search.bilibili.com/all?keyword=Faker%E7%A7%B0%E5%B7%B2%E5%87%86%E5%A4%87%E5%A5%BD%E8%BF%8E%E6%88%98%E9%A9%AC%E6%96%AF%E5%85%8BAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时16分"
+        },
+        {
+          "title": "马斯克：特斯拉(TSLA.O)的自动驾驶技术拯救了众多生命——相关数据无可争辩地证明了这一点。当然，这并不意味着它就是完美的。即使我们将安全性提升10倍，挽救了每年因车祸丧生的100万人中的90%，特斯拉仍会因那10%的遇难者而面临诉讼。而那90%幸存者中，大多数人甚至都不会知道是特斯拉救了他们。尽管如此，（自动驾驶技术）这是正确的事情。",
+          "url": "https://flash.jin10.com/detail/20260407024258088800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        }
+      ]
+    },
+    {
       "keyword_group": "房价 楼市 房地产",
       "match_count": 2,
       "titles": [
@@ -471,7 +521,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时28分"
         }
@@ -504,23 +554,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时40分 ~ 02时47分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克：特斯拉(TSLA.O)的自动驾驶技术拯救了众多生命——相关数据无可争辩地证明了这一点。当然，这并不意味着它就是完美的。即使我们将安全性提升10倍，挽救了每年因车祸丧生的100万人中的90%，特斯拉仍会因那10%的遇难者而面临诉讼。而那90%幸存者中，大多数人甚至都不会知道是特斯拉救了他们。尽管如此，（自动驾驶技术）这是正确的事情。",
-          "url": "https://flash.jin10.com/detail/20260407024258088800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时48分"
         }
       ]
     },
