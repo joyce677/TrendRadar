@@ -1,656 +1,128 @@
 {
-  "generated_at": "2026-04-08T23:04:23.154117+08:00",
-  "total_titles_processed": 1938,
+  "generated_at": "2026-04-09T00:55:09.276575+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "AI染指鬼灭,日网友气急跳脚",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352871&amp;topic_name=AI%E6%9F%93%E6%8C%87%E9%AC%BC%E7%81%AD%2C%E6%97%A5%E7%BD%91%E5%8F%8B%E6%B0%94%E6%80%A5%E8%B7%B3%E8%84%9A",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            17,
-            19,
-            21,
-            24,
-            27,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时49分 ~ 23时04分]"
-        },
-        {
-          "title": "宁波高二女生将 AI「豆包」视为灵魂伴侣并为之休学，青少年过度沉迷 AI 会带来哪些风险？",
-          "url": "https://www.zhihu.com/question/2023389785188745917",
-          "source": "知乎",
-          "ranks": [
-            5,
-            9,
-            12,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时32分 ~ 19时48分]"
-        },
         {
           "title": "少儿编程班称「四岁学编程，赢在 AI 起跑线」收费上万，上课用 scratch 搭积木，这种课程靠谱吗？",
           "url": "https://www.zhihu.com/question/2024823845052269102",
           "source": "知乎",
           "ranks": [
-            20,
-            6,
-            7
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时02分 ~ 23时04分]"
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 00时55分]"
         },
         {
           "title": "员工离职变AI,上班不能停",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
           "source": "贴吧",
           "ranks": [
-            7,
             9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时02分 ~ 23时04分]"
-        },
-        {
-          "title": "AI产业链迎来预增潮！算力、存力、运力环节集体交出亮眼业绩",
-          "url": "https://www.cls.cn/detail/2336990",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时32分 ~ 09时49分]"
-        },
-        {
-          "title": "美国 AI 三巨头围剿模型蒸馏，对全球主要大模型公司将产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2025148296822351316",
-          "source": "知乎",
-          "ranks": [
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时02分 ~ 21时06分]"
-        },
-        {
-          "title": "宁波高二女生将 AI『豆包』视为灵魂伴侣并为之休学，青少年过度沉迷 AI 会带来哪些风险？",
-          "url": "https://www.zhihu.com/question/2023389785188745917",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 09时49分]"
-        },
-        {
-          "title": "【每日收评】沪指百点长阳逼近4000点，全市场近5200股收红，AI产业链再迎爆发",
-          "url": "https://www.cls.cn/detail/2337967",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时06分 ~ 23时04分]"
-        },
-        {
-          "title": "芭比大战AI偶像",
-          "url": "https://search.bilibili.com/all?keyword=%E8%8A%AD%E6%AF%94%E5%A4%A7%E6%88%98AI%E5%81%B6%E5%83%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时39分 ~ 04时40分]"
-        },
-        {
-          "title": "AI大模型的终点是什么",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E7%BB%88%E7%82%B9%E6%98%AF%E4%BB%80%E4%B9%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 09时49分]"
-        },
-        {
-          "title": "Anthropic正创建一个名为Project Glasswing的倡议，允许苹果、亚马逊测试更加强大的AI模型Mythos。",
-          "url": "https://wallstreetcn.com/livenews/3083664",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时54分 ~ 03时54分]"
-        },
-        {
-          "title": "刘耀文流口水 AI生成",
-          "url": "https://s.weibo.com/weibo?q=%E5%88%98%E8%80%80%E6%96%87%E6%B5%81%E5%8F%A3%E6%B0%B4%20AI%E7%94%9F%E6%88%90&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
-            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时04分"
+          "time_info": "00时55分"
         },
         {
-          "title": "国家广播电视总局部署开展“AI魔改”视频治理工作取得实效",
-          "url": "https://flash.jin10.com/detail/20260408114935795800",
-          "source": "金十数据",
+          "title": "AI染指鬼灭,日网友气急跳脚",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352871&amp;topic_name=AI%E6%9F%93%E6%8C%87%E9%AC%BC%E7%81%AD%2C%E6%97%A5%E7%BD%91%E5%8F%8B%E6%B0%94%E6%80%A5%E8%B7%B3%E8%84%9A",
+          "source": "贴吧",
           "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "国家广播电视总局部署开展“AI魔改”视频治理工作取得实效：清理相关违规视频23000余条、处置违规账号100余个。",
-          "url": "https://wallstreetcn.com/livenews/3083951",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "大型基金纷纷涌入美债和AI概念股，押注战争最动荡阶段已过",
-          "url": "https://wallstreetcn.com/livenews/3084312",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时48分"
-        },
-        {
-          "title": "产品回撤被质疑“不知天命”，但斌回应：直面起伏！软件业成AI时代首批“炮灰”",
-          "url": "https://wallstreetcn.com/livenews/3084416",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时04分"
-        },
-        {
-          "title": "强脑科技发布BrainCo Revo 3智能灵巧手",
-          "url": "https://wallstreetcn.com/livenews/3084019",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
-          "title": "沪指涨幅扩大至2%，深成指涨3.85%，创业板指涨4.83%，贵金属、AI应用、算力硬件、半导体芯片等方向领涨，沪深京三市上涨个股超5000只。",
-          "url": "https://wallstreetcn.com/livenews/3083938",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "AI时代下设计师的竞争力在哪里",
-          "url": "https://www.toutiao.com/trending/7626222534932860422/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时09分"
-        },
-        {
-          "title": "AI开始接管代码 计算机专业如何变革",
-          "url": "https://www.baidu.com/s?wd=AI%E5%BC%80%E5%A7%8B%E6%8E%A5%E7%AE%A1%E4%BB%A3%E7%A0%81+%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%B8%93%E4%B8%9A%E5%A6%82%E4%BD%95%E5%8F%98%E9%9D%A9",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "港股AI应用方向集体高开，智谱(02513.HK)高开14.89%，MINIMAX-W(00100.HK)高开超8%，金山云(03896.HK)、金山软件(03888.HK)等多股高开。",
-          "url": "https://flash.jin10.com/detail/20260408092411758800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
+          "time_info": "00时55分"
         }
       ]
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 18,
+      "match_count": 3,
       "titles": [
         {
-          "title": "财联社C50风向指数调查：4月资金面或季节性转松，短端市场利率与政策利率倒挂料难持续",
-          "url": "https://www.cls.cn/detail/2337516",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时17分 ~ 19时48分]"
-        },
-        {
-          "title": "中小银行存款利率调整或呈结构分化态势",
-          "url": "https://flash.jin10.com/detail/20260408120725731800",
+          "title": "美国至4月8日10年期国债竞拍-得标利率及投标倍数将于十分钟后公布。",
+          "url": "https://flash.jin10.com/detail/20260409005000001800",
           "source": "金十数据",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "美联储副主席Jefferson：在面临不确定性之际，利率政策处于不错的状态。 美联储能够针对一系列经济后果做出反应。 劳动力市场趋于稳定，但在冲击面前是脆弱的。 能源成本偏高，可能会不利于消费者和企业。 我将致力于推动美联储实现通胀朝着目标2%靠拢。",
-          "url": "https://wallstreetcn.com/livenews/3083737",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "菲律宾比索兑美元汇率升至59.543比索兑1美元，创下3月23日以来新高。",
-          "url": "https://flash.jin10.com/detail/20260408093914429800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了22个对手方的153.45亿美元。",
-          "url": "https://flash.jin10.com/detail/20260408011915622800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "离岸人民币同业拆息利率多数下跌 HKMA日间回购协议流动性被用近半",
-          "url": "https://flash.jin10.com/detail/20260408115916673800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "人民币对美元汇率创3年来新高",
-          "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E6%B0%91%E5%B8%81%E5%AF%B9%E7%BE%8E%E5%85%83%E6%B1%87%E7%8E%87%E5%88%9B3%E5%B9%B4%E6%9D%A5%E6%96%B0%E9%AB%98",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "人民币汇率也大涨",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E4%B9%9F%E5%A4%A7%E6%B6%A8%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时09分"
-        },
-        {
-          "title": "美国财政部拍卖580亿美元三年期国债，得标利率3.897%，投标倍数2.68。",
-          "url": "https://wallstreetcn.com/livenews/3083644",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "中国央行公开市场开展5亿元7天期逆回购操作，操作利率持平于1.40%，今日5亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3083852",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "中国财政部发行91天期债券，规模300亿元，发行利率1.0335%，边际利率1.0778%，预期1.0500%，投标倍数3.46倍，边际倍数1.43倍； 中国财政部发行3年期债券，规模1700亿元，发行利率1.3074%，边际利率1.3394%，预期1.3200%，投标倍数2.55倍，边际倍数5.02倍。",
-          "url": "https://wallstreetcn.com/livenews/3083949",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "美联储副主席杰斐逊：当前政策利率已做好充分准备应对市场变化，利率大致处于中性区间。",
-          "url": "https://flash.jin10.com/detail/20260408055033112800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时32分"
-        },
-        {
-          "title": "据美国纽约联储数据，上个交易日（4月7日）担保隔夜融资利率（SOFR）报3.62%，之前一天报3.65%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
-          "url": "https://wallstreetcn.com/livenews/3084415",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时04分"
+          "time_info": "00时55分"
         },
         {
-          "title": "新西兰联储主席Breman：中性官方现金利率是一个区间，中点为3%。",
-          "url": "https://wallstreetcn.com/livenews/3083940",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时32分"
-        },
-        {
-          "title": "美国财政部拍卖六周期国债，得标利率3.615%，投标倍数3.57。",
-          "url": "https://wallstreetcn.com/livenews/3083604",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "美国至4月7日3年期国债竞拍-得标利率配置百分比 64.47%，前值17.59%。",
-          "url": "https://flash.jin10.com/detail/20260408010205391800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "美国至4月7日3年期国债竞拍-得标利率 3.897%，前值3.58%。",
-          "url": "https://flash.jin10.com/detail/20260408010205383800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时53分"
-        },
-        {
-          "title": "韩元兑美元汇率上涨2%。",
-          "url": "https://flash.jin10.com/detail/20260408135817406800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房价 楼市 房地产",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "房地产高薪退潮：千万年薪销声匿迹",
-          "url": "https://www.baidu.com/s?wd=%E6%88%BF%E5%9C%B0%E4%BA%A7%E9%AB%98%E8%96%AA%E9%80%80%E6%BD%AE%EF%BC%9A%E5%8D%83%E4%B8%87%E5%B9%B4%E8%96%AA%E9%94%80%E5%A3%B0%E5%8C%BF%E8%BF%B9",
-          "source": "百度热搜",
-          "ranks": [
-            19,
-            10,
-            16,
-            24,
-            23,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 07时32分]"
-        },
-        {
-          "title": "金十数据整理：每日房地产行业动态汇总（2026-04-08）",
-          "url": "https://flash.jin10.com/detail/20260408160210168800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时09分"
-        },
-        {
-          "title": "周二（4月7日），美股大类资产类ETF多数收涨，恐慌指数做多涨3.36%，黄金ETF涨0.97%，巴克莱美国可转债ETF涨0.67%，欧元做多、新兴市场ETF、罗素2000指数ETF、美国房地产ETF、标普500 ETF、日元做多、纳指100 ETF至多涨0.42%。 美国国债20+年ETF则收跌0.01%，道指ETF跌0.19%，做多美元指数跌0.29%，大豆基金跌0.59%，农产品基金跌0.99%，美国布伦特油价基金跌2.10%。",
-          "url": "https://wallstreetcn.com/livenews/3083722",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时37分 ~ 06时32分]"
-        },
-        {
-          "title": "房地产高薪退潮：郁亮去年薪水24万",
-          "url": "https://www.toutiao.com/trending/7625957305489559078/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时39分 ~ 04时40分]"
-        },
-        {
-          "title": "英国3月Halifax季调后房价指数月率 -0.5%，预期0.1%，前值0.3%。",
-          "url": "https://flash.jin10.com/detail/20260408140232505800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
-          "title": "英国3月Halifax季调后房价指数年率 0.8%，预期1.5%，前值由1.3%修正为1.2%。",
-          "url": "https://flash.jin10.com/detail/20260408140232493800",
+          "title": "委内瑞拉加大美元出售以遏制汇率贬值",
+          "url": "https://flash.jin10.com/detail/20260409002630020800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时18分"
+          "time_info": "00时55分"
+        },
+        {
+          "title": "美国财政部拍卖四个月期国债，得标利率3.6%，投标倍数3.34%。",
+          "url": "https://wallstreetcn.com/livenews/3084463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时55分"
         }
       ]
     },
     {
-      "keyword_group": "iphone apple",
-      "match_count": 3,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
       "titles": [
         {
-          "title": "iPhone三款新机机模出炉",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone%E4%B8%89%E6%AC%BE%E6%96%B0%E6%9C%BA%E6%9C%BA%E6%A8%A1%E5%87%BA%E7%82%89%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时48分 ~ 01时53分]"
-        },
-        {
-          "title": "苹果公司折叠屏iPhone仍然处于9月首发的正轨上。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3083643",
+          "title": "Meta发布新AI模型，力图追赶谷歌和OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3084479",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            8
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时53分"
+          "time_info": "00时55分"
         },
         {
-          "title": "市场消息：苹果(AAPL.O)可折叠iPhone据悉仍将按计划于9月首次亮相。",
-          "url": "https://flash.jin10.com/detail/20260408010256637800",
+          "title": "谷歌云：推出GKE云存储FUSE配置文件，旨在自动化性能调优，加速AI/ML工作负载的数据访问。",
+          "url": "https://flash.jin10.com/detail/20260409004336024800",
           "source": "金十数据",
           "ranks": [
-            23
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时53分"
+          "time_info": "00时55分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "曝ChatGPT6本月发布",
           "url": "https://search.bilibili.com/all?keyword=%E6%9B%9DGPT6%E6%9C%AC%E6%9C%88%E5%8F%91%E5%B8%83",
           "source": "bilibili 热搜",
           "ranks": [
-            18,
-            14,
-            16,
-            15,
-            20,
-            27,
-            26,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时48分 ~ 23时04分]"
-        },
-        {
-          "title": "OpenAI：启动美国儿童保护框架蓝图，已建立并将持续加强安全防护措施。",
-          "url": "https://wallstreetcn.com/livenews/3084343",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "大魔王迎战硬刚马斯克AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352857&amp;topic_name=%E5%A4%A7%E9%AD%94%E7%8E%8B%E8%BF%8E%E6%88%98%E7%A1%AC%E5%88%9A%E9%A9%AC%E6%96%AF%E5%85%8BAI",
-          "source": "贴吧",
-          "ranks": [
-            13,
-            22,
-            24,
-            26,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时49分 ~ 18时02分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "虚拟币 币安 比特币 以太坊",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "比特币一度上涨5%，至72,841美元/枚，为3月18日以来最高水平。",
-          "url": "https://wallstreetcn.com/livenews/3084410",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时54分 ~ 00时55分]"
         }
       ]
     }
