@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T12:32:24.077860+08:00",
-  "total_titles_processed": 1116,
+  "generated_at": "2026-04-08T14:18:12.933538+08:00",
+  "total_titles_processed": 1243,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "利率 汇率",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "中小银行存款利率调整或呈结构分化态势",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -41,6 +41,17 @@
           "time_info": "09时49分"
         },
         {
+          "title": "财联社C50风向指数调查：4月资金面或季节性转松，短端市场利率与政策利率倒挂料难持续",
+          "url": "https://www.cls.cn/detail/2337516",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时17分 ~ 14时18分]"
+        },
+        {
           "title": "美联储在固定利率逆回购操作中总计接纳了22个对手方的153.45亿美元。",
           "url": "https://flash.jin10.com/detail/20260408011915622800",
           "source": "金十数据",
@@ -58,7 +69,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -91,7 +102,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -113,7 +124,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -149,12 +160,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "韩元兑美元汇率上涨2%。",
+          "url": "https://flash.jin10.com/detail/20260408135817406800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         }
       ]
     },
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -162,11 +184,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 12时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时49分 ~ 14时18分]"
         },
         {
           "title": "宁波高二女生将 AI「豆包」视为灵魂伴侣并为之休学，青少年过度沉迷 AI 会带来哪些风险？",
@@ -175,9 +198,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时32分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时32分 ~ 14时18分]"
         },
         {
           "title": "AI产业链迎来预增潮！算力、存力、运力环节集体交出亮眼业绩",
@@ -244,7 +267,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -255,9 +278,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        },
+        {
+          "title": "强脑科技发布BrainCo Revo 3智能灵巧手",
+          "url": "https://wallstreetcn.com/livenews/3084019",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         },
         {
           "title": "沪指涨幅扩大至2%，深成指涨3.85%，创业板指涨4.83%，贵金属、AI应用、算力硬件、半导体芯片等方向领涨，沪深京三市上涨个股超5000只。",
@@ -266,7 +300,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
         },
@@ -285,7 +319,7 @@
     },
     {
       "keyword_group": "房价 楼市 房地产",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "房地产高薪退潮：千万年薪销声匿迹",
@@ -325,6 +359,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时39分 ~ 04时40分]"
+        },
+        {
+          "title": "英国3月Halifax季调后房价指数月率 -0.5%，预期0.1%，前值0.3%。",
+          "url": "https://flash.jin10.com/detail/20260408140232505800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "英国3月Halifax季调后房价指数年率 0.8%，预期1.5%，前值由1.3%修正为1.2%。",
+          "url": "https://flash.jin10.com/detail/20260408140232493800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         }
       ]
     },
@@ -381,11 +437,12 @@
             14,
             16,
             15,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时48分 ~ 12时32分]"
+          "appearance_count": 15,
+          "time_info": "[00时48分 ~ 14时18分]"
         }
       ]
     },
@@ -399,11 +456,12 @@
           "source": "贴吧",
           "ranks": [
             13,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时49分 ~ 12时32分]"
+          "appearance_count": 11,
+          "time_info": "[00时49分 ~ 14时18分]"
         }
       ]
     }
