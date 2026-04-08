@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-08T07:32:23.443855+08:00",
-  "total_titles_processed": 774,
+  "generated_at": "2026-04-08T09:49:04.925050+08:00",
+  "total_titles_processed": 950,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "利率 汇率",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美联储副主席Jefferson：在面临不确定性之际，利率政策处于不错的状态。 美联储能够针对一系列经济后果做出反应。 劳动力市场趋于稳定，但在冲击面前是脆弱的。 能源成本偏高，可能会不利于消费者和企业。 我将致力于推动美联储实现通胀朝着目标2%靠拢。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
+        },
+        {
+          "title": "菲律宾比索兑美元汇率升至59.543比索兑1美元，创下3月23日以来新高。",
+          "url": "https://flash.jin10.com/detail/20260408093914429800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了22个对手方的153.45亿美元。",
@@ -39,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时53分"
+        },
+        {
+          "title": "中国央行公开市场开展5亿元7天期逆回购操作，操作利率持平于1.40%，今日5亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3083852",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         },
         {
           "title": "美联储副主席杰斐逊：当前政策利率已做好充分准备应对市场变化，利率大致处于中性区间。",
@@ -88,7 +110,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "AI染指鬼灭,日网友气急跳脚",
@@ -98,8 +120,32 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 07时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 09时49分]"
+        },
+        {
+          "title": "AI产业链迎来预增潮！算力、存力、运力环节集体交出亮眼业绩",
+          "url": "https://www.cls.cn/detail/2336990",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时32分 ~ 09时49分]"
+        },
+        {
+          "title": "宁波高二女生将 AI『豆包』视为灵魂伴侣并为之休学，青少年过度沉迷 AI 会带来哪些风险？",
+          "url": "https://www.zhihu.com/question/2023389785188745917",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 09时49分]"
         },
         {
           "title": "芭比大战AI偶像",
@@ -113,16 +159,15 @@
           "time_info": "[04时39分 ~ 04时40分]"
         },
         {
-          "title": "AI产业链迎来预增潮！算力、存力、运力环节集体交出亮眼业绩",
-          "url": "https://www.cls.cn/detail/2336990",
-          "source": "财联社热门",
+          "title": "AI大模型的终点是什么",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E7%9A%84%E7%BB%88%E7%82%B9%E6%98%AF%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
           "ranks": [
-            13,
-            12
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时32分 ~ 07时32分]"
+          "time_info": "[09时48分 ~ 09时49分]"
         },
         {
           "title": "Anthropic正创建一个名为Project Glasswing的倡议，允许苹果、亚马逊测试更加强大的AI模型Mythos。",
@@ -135,6 +180,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时54分 ~ 03时54分]"
+        },
+        {
+          "title": "港股AI应用方向集体高开，智谱(02513.HK)高开14.89%，MINIMAX-W(00100.HK)高开超8%，金山云(03896.HK)、金山软件(03888.HK)等多股高开。",
+          "url": "https://flash.jin10.com/detail/20260408092411758800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时49分"
         }
       ]
     },
@@ -235,11 +291,12 @@
             18,
             14,
             16,
-            15
+            15,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时48分 ~ 07时32分]"
+          "appearance_count": 12,
+          "time_info": "[00时48分 ~ 09时49分]"
         }
       ]
     },
@@ -255,8 +312,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 07时32分]"
+          "appearance_count": 9,
+          "time_info": "[00时49分 ~ 09时49分]"
         }
       ]
     }
