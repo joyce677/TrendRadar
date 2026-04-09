@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T01:01:43.314607+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-10T02:02:04.838704+08:00",
+  "total_titles_processed": 401,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 02时02分]"
         },
         {
           "title": "亚马逊据悉考虑向其他企业出售其AI芯片",
@@ -25,7 +25,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
         },
@@ -37,8 +37,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 02时02分]"
         },
         {
           "title": "【VIP资讯星推官】除了光纤外，还有哪些AI分支景气度上行？",
@@ -48,41 +48,43 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 02时02分]"
         },
         {
           "title": "Wait清唱挑战",
           "url": "https://www.douyin.com/hot/2460968",
           "source": "抖音",
           "ranks": [
-            25
+            25,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 02时02分]"
         },
         {
           "title": "玩具也要闯闯AI赛道",
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%85%B7%E4%B9%9F%E8%A6%81%E9%97%AF%E9%97%AFAI%E8%B5%9B%E9%81%93",
           "source": "bilibili 热搜",
           "ranks": [
-            30
+            30,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时00分 ~ 02时02分]"
+        },
+        {
+          "title": "AI红利和普通人有何关系",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BA%A2%E5%88%A9%E5%92%8C%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%85%B3%E7%B3%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
-        },
-        {
-          "title": "亚马逊考虑向其他公司出售其AI芯片",
-          "url": "https://wallstreetcn.com/livenews/3085230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时01分"
+          "time_info": "[02时01分 ~ 02时02分]"
         },
         {
           "title": "员工离职变AI,上班不能停",
@@ -91,7 +93,18 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时01分 ~ 02时02分]"
+        },
+        {
+          "title": "亚马逊考虑向其他公司出售其AI芯片",
+          "url": "https://wallstreetcn.com/livenews/3085230",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
         }
@@ -99,8 +112,19 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 1,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的4.02亿美元。",
+          "url": "https://flash.jin10.com/detail/20260410012802144800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
         {
           "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.37%，前值6.46%——为连续第五周上涨、创2025年9月份以来最高。",
           "url": "https://wallstreetcn.com/livenews/3085229",
@@ -108,9 +132,87 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "美国财政部拍卖220亿美元30年期国债，得标利率4.876%（3月12日为4.871%），投标倍数2.39（前次为2.45）。",
+          "url": "https://wallstreetcn.com/livenews/3085254",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "美国至4月9日30年期国债竞拍-得标利率配置百分比 15.44%，前值59.56%。",
+          "url": "https://flash.jin10.com/detail/20260410010206676800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "美国至4月9日30年期国债竞拍-得标利率 4.876%，前值4.871%。",
+          "url": "https://flash.jin10.com/detail/20260410010206671800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI推出月租100美元的Pro档订阅服务。 可以比Plus档订阅获得多出五倍的Codex使用量。",
+          "url": "https://wallstreetcn.com/livenews/3085269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "OpenAI：即将推出新的每月100美元的ChatGPT Pro会员套餐。",
+          "url": "https://flash.jin10.com/detail/20260410013906393800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "虚拟币 币安 比特币 以太坊",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "最近24小时，MarketVectorTM数字资产100小盘指数跌0.34%，暂报2510.64点，一度实现宽底U形反转。 MarketVectorTM数字资产100中盘指数跌0.91%，报2795.08点。 MarketVector数字资产100指数持平，报14321.46点。 目前，Solana涨0.05%，狗狗币跌0.88%，XPR持平。 比特币涨0.79%，暂报71841美元；以太坊跌0.36%，暂报2198.36美元。",
+          "url": "https://wallstreetcn.com/livenews/3085246",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         }
       ]
     }
