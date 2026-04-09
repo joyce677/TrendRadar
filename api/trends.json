@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T04:56:12.223678+08:00",
-  "total_titles_processed": 533,
+  "generated_at": "2026-04-10T05:41:24.505949+08:00",
+  "total_titles_processed": 594,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 04时56分]"
+          "appearance_count": 9,
+          "time_info": "[01时00分 ~ 05时41分]"
         },
         {
           "title": "【焦点复盘】沪指窄幅震荡收十字星，AI应用端大面积退潮，OCS产业链获持续热捧",
@@ -26,8 +26,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 04时56分]"
+          "appearance_count": 9,
+          "time_info": "[01时00分 ~ 05时41分]"
         },
         {
           "title": "【VIP资讯星推官】除了光纤外，还有哪些AI分支景气度上行？",
@@ -37,8 +37,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 04时56分]"
+          "appearance_count": 9,
+          "time_info": "[01时00分 ~ 05时41分]"
         },
         {
           "title": "Wait清唱挑战",
@@ -47,11 +47,12 @@
           "ranks": [
             25,
             16,
-            20
+            20,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 04时56分]"
+          "appearance_count": 9,
+          "time_info": "[01时00分 ~ 05时41分]"
         },
         {
           "title": "玩具也要闯闯AI赛道",
@@ -64,8 +65,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时00分 ~ 04时56分]"
+          "appearance_count": 9,
+          "time_info": "[01时00分 ~ 05时41分]"
         },
         {
           "title": "AI红利和普通人有何关系",
@@ -73,11 +74,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时01分 ~ 04时56分]"
+          "appearance_count": 7,
+          "time_info": "[02时01分 ~ 05时41分]"
         },
         {
           "title": "亚马逊据悉考虑向其他企业出售其AI芯片",
@@ -91,15 +93,27 @@
           "time_info": "01时01分"
         },
         {
+          "title": "员工离职变AI,上班不能停",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
+          "source": "贴吧",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时01分 ~ 05时41分]"
+        },
+        {
           "title": "美股芯片存储指数收涨超3.5%，与涨9%的成分股闪迪创历史新高，AI软件先驱指数跌约5.1%",
           "url": "https://wallstreetcn.com/livenews/3085326",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 05时41分]"
         },
         {
           "title": "CoreWeave Inc.发行17.5亿美元高收益（垃圾级）债券和30亿美元2031年到期可转债。 此前，该公司宣布，与扎克伯格旗下Meta Platforms Inc.围绕AI计算达成扩大化长期合作协议，有效期持续至2032年，金额大约210亿美元。",
@@ -112,17 +126,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时01分 ~ 04时56分]"
-        },
-        {
-          "title": "员工离职变AI,上班不能停",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352945&amp;topic_name=%E5%91%98%E5%B7%A5%E7%A6%BB%E8%81%8C%E5%8F%98AI%2C%E4%B8%8A%E7%8F%AD%E4%B8%8D%E8%83%BD%E5%81%9C",
-          "source": "贴吧",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 04时56分]"
         },
         {
           "title": "亚马逊考虑向其他公司出售其AI芯片",
@@ -142,7 +145,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时56分"
         },
@@ -171,6 +174,79 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "OpenAI推出月租100美元的Pro档订阅服务。 可以比Plus档订阅获得多出五倍的Codex使用量。",
+          "url": "https://wallstreetcn.com/livenews/3085269",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "OpenAI声称其算力比Anthropic更有优势",
+          "url": "https://flash.jin10.com/detail/20260410043705456800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时56分 ~ 05时41分]"
+        },
+        {
+          "title": "OpenAI：即将推出新的每月100美元的ChatGPT Pro会员套餐。",
+          "url": "https://flash.jin10.com/detail/20260410013906393800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时02分"
+        },
+        {
+          "title": "OpenAI告诉投资者，其计算能力优于Anthropic。",
+          "url": "https://flash.jin10.com/detail/20260410041947855800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时56分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：很高兴看到Codex受到这么多人的喜爱。应广大用户的强烈要求，我们即将推出100美元的ChatGPT Pro会员等级。",
+          "url": "https://flash.jin10.com/detail/20260410044609661800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        },
+        {
+          "title": "美国佛州总检察长就涉ChatGPT枪击事件调查OpenAI",
+          "url": "https://wallstreetcn.com/livenews/3085328",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时41分"
+        }
+      ]
+    },
+    {
       "keyword_group": "利率 汇率",
       "match_count": 6,
       "titles": [
@@ -179,11 +255,12 @@
           "url": "https://www.toutiao.com/trending/7626552225959182372/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            22
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时00分 ~ 04时56分]"
+          "appearance_count": 5,
+          "time_info": "[04时00分 ~ 05时41分]"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的4.02亿美元。",
@@ -239,56 +316,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "OpenAI声称其算力比Anthropic更有优势",
-          "url": "https://flash.jin10.com/detail/20260410043705456800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时56分"
-        },
-        {
-          "title": "OpenAI推出月租100美元的Pro档订阅服务。 可以比Plus档订阅获得多出五倍的Codex使用量。",
-          "url": "https://wallstreetcn.com/livenews/3085269",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "OpenAI：即将推出新的每月100美元的ChatGPT Pro会员套餐。",
-          "url": "https://flash.jin10.com/detail/20260410013906393800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时02分"
-        },
-        {
-          "title": "OpenAI告诉投资者，其计算能力优于Anthropic。",
-          "url": "https://flash.jin10.com/detail/20260410041947855800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时56分"
         }
       ]
     },
