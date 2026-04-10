@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T00:43:28.924274+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-11T01:43:05.893706+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
+          "appearance_count": 3,
+          "time_info": "[00时43分 ~ 01时43分]"
         },
         {
           "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/L0FUuQ9wjv5TrILFaKkYG.jpg/lite\" height=\"120\"/></a>",
@@ -28,6 +28,40 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "利率 汇率",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的5.07亿美元。",
+          "url": "https://flash.jin10.com/detail/20260411011814522800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "虚拟币 币安 比特币 以太坊",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "比特币上探7.3万美元，和以太币最近七天涨超9%",
+          "url": "https://wallstreetcn.com/livenews/3086035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
         }
       ]
     }
