@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T19:42:58.238121+08:00",
-  "total_titles_processed": 1641,
+  "generated_at": "2026-04-10T20:54:28.308594+08:00",
+  "total_titles_processed": 1764,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "假作真时真亦假：美以伊战事陷入AI信息迷雾",
@@ -116,8 +116,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 19时42分]"
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 20时54分]"
         },
         {
           "title": "亚马逊据悉考虑向其他企业出售其AI芯片",
@@ -288,9 +288,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
+        },
+        {
+          "title": "王自如聊中美AI模型上新",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E8%81%8A%E4%B8%AD%E7%BE%8EAI%E6%A8%A1%E5%9E%8B%E4%B8%8A%E6%96%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "xAI就科罗拉多州新AI法案提起诉讼",
@@ -420,7 +431,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时42分"
         }
@@ -428,7 +439,7 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
         {
           "title": "房贷年利率3.8变8.7五年才发现",
@@ -444,6 +455,17 @@
           "time_info": "[04时00分 ~ 06时35分]"
         },
         {
+          "title": "据路透：市场定价继续押注美联储将在2026年全年维持利率不变。",
+          "url": "https://flash.jin10.com/detail/20260410203656598800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
+        },
+        {
           "title": "美联储4月维持利率不变的概率为98.4%",
           "url": "https://flash.jin10.com/detail/20260410060145504800",
           "source": "金十数据",
@@ -453,6 +475,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时35分"
+        },
+        {
+          "title": "美国短期利率期货在CPI报告发布后回吐部分涨幅。",
+          "url": "https://flash.jin10.com/detail/20260410203501740800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时54分"
         },
         {
           "title": "秘鲁央行将参考利率维持在4.25%不变。",
