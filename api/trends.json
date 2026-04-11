@@ -1,312 +1,22 @@
 {
-  "generated_at": "2026-04-11T23:27:24.045045+08:00",
-  "total_titles_processed": 1626,
+  "generated_at": "2026-04-12T00:29:16.800729+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI",
-      "match_count": 17,
-      "titles": [
-        {
-          "title": "AI换脸偷声侵权，那么大模型训练呢？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32934233",
-          "source": "澎湃新闻",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时43分 ~ 07时47分]"
-        },
-        {
-          "title": "我也来试一下这个wait",
-          "url": "https://www.douyin.com/hot/2462368",
-          "source": "抖音",
-          "ranks": [
-            19,
-            22,
-            16,
-            17,
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[15时45分 ~ 23时27分]"
-        },
-        {
-          "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
-          "url": "https://wallstreetcn.com/articles/3769738",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时34分 ~ 23时27分]"
-        },
-        {
-          "title": "夫妻称用AI写公众号年赚200万被封号",
-          "url": "https://www.toutiao.com/trending/7626953352832040996/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            18,
-            6,
-            19,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时42分 ~ 07时47分]"
-        },
-        {
-          "title": "据CNBC：美国副总统万斯和美国财长贝森特在Anthropic发布Mytho之前就AI安全问题质询科技巨头。",
-          "url": "https://flash.jin10.com/detail/20260411041419863800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时31分 ~ 09时31分]"
-        },
-        {
-          "title": "普京呼吁发展具有全球竞争力且最大限度自主的国产AI模型",
-          "url": "https://flash.jin10.com/detail/20260411142532640800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10,
-            15,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时54分 ~ 17时35分]"
-        },
-        {
-          "title": "软件股受累于AI颠覆担忧进一步下跌，芯片股继续上涨",
-          "url": "https://wallstreetcn.com/livenews/3086054",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时42分 ~ 04时28分]"
-        },
-        {
-          "title": "加拿大央行与大型银行机构开会，讨论Anthropic AI所构成的网络风险。",
-          "url": "https://wallstreetcn.com/livenews/3086064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时39分 ~ 04时28分]"
-        },
-        {
-          "title": "中国AI芯片格局反转",
-          "url": "https://www.toutiao.com/trending/7627057914037289014/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            28,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时38分 ~ 07时47分]"
-        },
-        {
-          "title": "普京：俄须自主研发有竞争力的AI模型",
-          "url": "https://www.toutiao.com/trending/7627072537363677227/",
-          "source": "今日头条",
-          "ranks": [
-            28,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时35分 ~ 17时35分]"
-        },
-        {
-          "title": "日本批准6315亿日元追加补贴 助力Rapidus进军AI芯片制造",
-          "url": "https://flash.jin10.com/detail/20260411141004111800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时54分 ~ 16时36分]"
-        },
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/3E_Vzh_i3rotK1w6yvq7f.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260411124514356800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 15时46分]"
-        },
-        {
-          "title": "AI让新闻变成“流体”：液态内容生产开始成为现实",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32940819",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时25分 ~ 20时40分]"
-        },
-        {
-          "title": "AI被投毒引发宝妈湿巾焦虑",
-          "url": "https://s.weibo.com/weibo?q=%23AI%E8%A2%AB%E6%8A%95%E6%AF%92%E5%BC%95%E5%8F%91%E5%AE%9D%E5%A6%88%E6%B9%BF%E5%B7%BE%E7%84%A6%E8%99%91%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "AI短片《雪山救狐狸》爆火背后",
-          "url": "https://www.toutiao.com/trending/7627304476291940362/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时40分"
-        },
-        {
-          "title": "美国财长贝森特与副总统万斯向科技行业CEO们询问AI安全问题。 这发生在Anthropic发布Mythos之前。",
-          "url": "https://wallstreetcn.com/livenews/3086083",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        },
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850504&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/L0FUuQ9wjv5TrILFaKkYG.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260410233017921800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时43分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 12,
+      "match_count": 2,
       "titles": [
         {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
           "url": "https://www.cls.cn/detail/2341199",
           "source": "财联社热门",
           "ranks": [
-            13,
-            9,
-            7,
-            6,
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[13时56分 ~ 23时27分]"
-        },
-        {
-          "title": "OpenAI 创始人奥尔特曼住所遭燃烧瓶袭击，具体是怎么回事？",
-          "url": "https://www.zhihu.com/question/2026136705757902456",
-          "source": "知乎",
-          "ranks": [
-            5,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时34分 ~ 21时51分]"
-        },
-        {
-          "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3086136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时47分 ~ 12时15分]"
-        },
-        {
-          "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
-          "url": "https://flash.jin10.com/detail/20260411023746377800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时39分]"
-        },
-        {
-          "title": "OpenAI的ChatGPT被指控加重了跟踪者的妄想。",
-          "url": "https://wallstreetcn.com/livenews/3086079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 05时31分]"
-        },
-        {
-          "title": "OpenAI：发现涉及Axios的安全问题。 没有证据表明OpenAI用户数据被访问。",
-          "url": "https://wallstreetcn.com/livenews/3086151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            20,
-            25,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时15分 ~ 15时46分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -316,99 +26,36 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时31分 ~ 23时27分]"
-        },
-        {
-          "title": "OpenAI：在第三方安全事件中，密码和OpenAI API密钥未受影响。",
-          "url": "https://flash.jin10.com/detail/20260411094848579800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "OpenAI：事件的根本原因是GitHub Actions工作流中的配置错误，已予以解决。",
-          "url": "https://flash.jin10.com/detail/20260411094831132800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "OpenAI：自5月8日起，较旧版本的macOS桌面应用程序将不再接收更新或支持，并且可能无法正常运行。",
-          "url": "https://flash.jin10.com/detail/20260411094803513800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "OpenAI就第三方库安全事件发布公告：未发现用户数据泄露或系统遭入侵",
-          "url": "https://flash.jin10.com/detail/20260411094510379800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "美媒：OpenAI创始人奥尔特曼住所遭人用燃烧瓶袭击",
-          "url": "https://flash.jin10.com/detail/20260411024613347800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
+          "time_info": "00时29分"
         }
       ]
     },
     {
-      "keyword_group": "利率 汇率",
-      "match_count": 1,
+      "keyword_group": "AI",
+      "match_count": 2,
       "titles": [
         {
-          "title": "美联储在固定利率逆回购操作中总计接纳了5个对手方的5.07亿美元。",
-          "url": "https://flash.jin10.com/detail/20260411011814522800",
-          "source": "金十数据",
+          "title": "AI恐慌的“标志性事件”：Altman家里差点被炸了",
+          "url": "https://wallstreetcn.com/articles/3769738",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "虚拟币 币安 比特币 以太坊",
-      "match_count": 1,
-      "titles": [
+          "time_info": "00时29分"
+        },
         {
-          "title": "比特币上探7.3万美元，和以太币最近七天涨超9%",
-          "url": "https://wallstreetcn.com/livenews/3086035",
-          "source": "华尔街见闻-快讯",
+          "title": "我也来试一下这个wait",
+          "url": "https://www.douyin.com/hot/2462368",
+          "source": "抖音",
           "ranks": [
-            12,
-            21,
-            29
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 03时39分]"
+          "appearance_count": 1,
+          "time_info": "00时29分"
         }
       ]
     }
