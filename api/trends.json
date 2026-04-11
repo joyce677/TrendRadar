@@ -1,11 +1,120 @@
 {
-  "generated_at": "2026-04-11T09:31:30.866277+08:00",
-  "total_titles_processed": 731,
+  "generated_at": "2026-04-11T12:15:26.195505+08:00",
+  "total_titles_processed": 874,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3086136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时47分 ~ 12时15分]"
+        },
+        {
+          "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
+          "url": "https://flash.jin10.com/detail/20260411023746377800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时42分 ~ 03时39分]"
+        },
+        {
+          "title": "OpenAI的ChatGPT被指控加重了跟踪者的妄想。",
+          "url": "https://wallstreetcn.com/livenews/3086079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时28分 ~ 05时31分]"
+        },
+        {
+          "title": "OpenAI：在第三方安全事件中，密码和OpenAI API密钥未受影响。",
+          "url": "https://flash.jin10.com/detail/20260411094848579800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "OpenAI：发现涉及Axios的安全问题。 没有证据表明OpenAI用户数据被访问。",
+          "url": "https://wallstreetcn.com/livenews/3086151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "OpenAI：事件的根本原因是GitHub Actions工作流中的配置错误，已予以解决。",
+          "url": "https://flash.jin10.com/detail/20260411094831132800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "OpenAI：自5月8日起，较旧版本的macOS桌面应用程序将不再接收更新或支持，并且可能无法正常运行。",
+          "url": "https://flash.jin10.com/detail/20260411094803513800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "OpenAI就第三方库安全事件发布公告：未发现用户数据泄露或系统遭入侵",
+          "url": "https://flash.jin10.com/detail/20260411094510379800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "美媒：OpenAI创始人奥尔特曼住所遭人用燃烧瓶袭击",
+          "url": "https://flash.jin10.com/detail/20260411024613347800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时39分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "AI换脸偷声侵权，那么大模型训练呢？",
@@ -86,6 +195,17 @@
           "time_info": "[03时38分 ~ 07时47分]"
         },
         {
+          "title": "AI被投毒引发宝妈湿巾焦虑",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E8%A2%AB%E6%8A%95%E6%AF%92%E5%BC%95%E5%8F%91%E5%AE%9D%E5%A6%88%E6%B9%BF%E5%B7%BE%E7%84%A6%E8%99%91%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
           "title": "美国财长贝森特与副总统万斯向科技行业CEO们询问AI安全问题。 这发生在Anthropic发布Mythos之前。",
           "url": "https://wallstreetcn.com/livenews/3086083",
           "source": "华尔街见闻-快讯",
@@ -106,59 +226,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "据福克斯新闻：OpenAI的一位发言人证实，一名嫌疑人向OpenAI创始人奥尔特曼的住所投掷了一枚燃烧瓶，目前该嫌疑人已被警方拘留。",
-          "url": "https://flash.jin10.com/detail/20260411023746377800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时42分 ~ 03时39分]"
-        },
-        {
-          "title": "OpenAI的ChatGPT被指控加重了跟踪者的妄想。",
-          "url": "https://wallstreetcn.com/livenews/3086079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时28分 ~ 05时31分]"
-        },
-        {
-          "title": "美国白宫针对未来即将面世的一系列AI模型协调网络响应。 白宫准备回应Anthropic与OpenAI的诸多模型。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3086136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时47分 ~ 09时31分]"
-        },
-        {
-          "title": "美媒：OpenAI创始人奥尔特曼住所遭人用燃烧瓶袭击",
-          "url": "https://flash.jin10.com/detail/20260411024613347800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时39分"
         }
       ]
     },
