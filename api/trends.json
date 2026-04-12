@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T16:00:57.810495+08:00",
-  "total_titles_processed": 999,
+  "generated_at": "2026-04-12T16:54:38.757308+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
@@ -37,6 +37,21 @@
           "time_info": "[00时29分 ~ 09时55分]"
         },
         {
+          "title": "公众号批量删除 AI 写作文章，新规则打击自动化方式的创作，这是怎么判断的？会带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2025695905764962890",
+          "source": "知乎",
+          "ranks": [
+            20,
+            7,
+            8,
+            9,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时55分 ~ 16时54分]"
+        },
+        {
           "title": "五部门发文普及中小学 AI 教育，纳入地方课程体系，下一步，AI 会不会进中考、高考？农村孩子怎么办？",
           "url": "https://www.zhihu.com/question/2025885699283382999",
           "source": "知乎",
@@ -46,20 +61,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
-        },
-        {
-          "title": "公众号批量删除 AI 写作文章，新规则打击自动化方式的创作，这是怎么判断的？会带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2025695905764962890",
-          "source": "知乎",
-          "ranks": [
-            20,
-            7,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时55分 ~ 16时00分]"
         },
         {
           "title": "让AI与AI互相聊天会聊出什么",
@@ -112,7 +113,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "突发！OpenAI掌门奥尔特曼家差点被烧 本人愤怒发长文回应",
@@ -125,8 +126,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时29分 ~ 16时00分]"
+          "appearance_count": 14,
+          "time_info": "[00时29分 ~ 16时54分]"
         },
         {
           "title": "从华尔街到硅谷，Anthropic 抢走了OpenAI“所有的风头”",
@@ -141,6 +142,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时29分 ~ 09时55分]"
+        },
+        {
+          "title": "OpenAI CEO住所遭袭",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%20CEO%E4%BD%8F%E6%89%80%E9%81%AD%E8%A2%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时54分"
         }
       ]
     },
