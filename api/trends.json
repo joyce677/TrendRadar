@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T12:41:44.652631+08:00",
-  "total_titles_processed": 1033,
+  "generated_at": "2026-04-14T14:28:31.177522+08:00",
+  "total_titles_processed": 1160,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "ranks": [
             5,
             6,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 12时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 14时28分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -41,11 +42,12 @@
           "ranks": [
             8,
             9,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时57分 ~ 12时41分]"
+          "appearance_count": 10,
+          "time_info": "[00时57分 ~ 14时28分]"
         },
         {
           "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
@@ -144,7 +146,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
         }
@@ -194,7 +196,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
         },
@@ -205,7 +207,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
         },
@@ -246,7 +248,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI伦敦设立永久办公室",
@@ -255,9 +257,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 14时28分]"
         },
         {
           "title": "OpenAI 加速 GPT-6 研发，或主打「记忆」与「个性化」，这是否预示 AGI 即将到来？",
@@ -266,9 +268,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
+        },
+        {
+          "title": "诺和诺德与OpenAI合作，旨在革新药物研发方式。",
+          "url": "https://wallstreetcn.com/livenews/3087448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         },
         {
           "title": "美国FBI局长：今天早上，FBI及合作伙伴在得州开展了一项行动，拘留了一名与上周五早上袭击OpenAI首席执行官Sam Altman家有关的嫌疑人。",
@@ -301,6 +314,18 @@
           "time_info": "[00时57分 ~ 10时16分]"
         },
         {
+          "title": "马斯克版微信支持阅后即焚、防截图",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%89%88%E5%BE%AE%E4%BF%A1%E6%94%AF%E6%8C%81%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A%E3%80%81%E9%98%B2%E6%88%AA%E5%9B%BE",
+          "source": "百度热搜",
+          "ranks": [
+            23,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 14时28分]"
+        },
+        {
           "title": "马斯克旗下X独立通讯应用XChat即将上线",
           "url": "https://wallstreetcn.com/livenews/3087115",
           "source": "华尔街见闻-快讯",
@@ -310,17 +335,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 3,
+      "titles": [
         {
-          "title": "马斯克版微信支持阅后即焚、防截图",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%89%88%E5%BE%AE%E4%BF%A1%E6%94%AF%E6%8C%81%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A%E3%80%81%E9%98%B2%E6%88%AA%E5%9B%BE",
-          "source": "百度热搜",
+          "title": "A股房地产板块走高，南山控股涨停，世联行、香江控股、招商蛇口、华夏幸福、新城控股等纷纷冲高。",
+          "url": "https://flash.jin10.com/detail/20260414135547364800",
+          "source": "金十数据",
           "ranks": [
-            23
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时41分"
+          "time_info": "14时28分"
+        },
+        {
+          "title": "A股房地产板块午后走高，南山控股、北辰实业涨停，香江控股、招商蛇口、华夏幸福、新城控股等纷纷冲高。",
+          "url": "https://wallstreetcn.com/livenews/3087443",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
+        },
+        {
+          "title": "A股房地产板块短线拉升，盈新发展直线涨停，黑牡丹、大龙地产、新黄浦、津投城开、合肥城建跟涨。",
+          "url": "https://flash.jin10.com/detail/20260414094704341800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时16分"
         }
       ]
     },
@@ -335,7 +388,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
         },
@@ -346,7 +399,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时41分"
         }
@@ -384,23 +437,6 @@
       ]
     },
     {
-      "keyword_group": "房价 楼市 房地产",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股房地产板块短线拉升，盈新发展直线涨停，黑牡丹、大龙地产、新黄浦、津投城开、合肥城建跟涨。",
-          "url": "https://flash.jin10.com/detail/20260414094704341800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时16分"
-        }
-      ]
-    },
-    {
       "keyword_group": "agent",
       "match_count": 1,
       "titles": [
@@ -410,11 +446,29 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时16分 ~ 12时41分]"
+          "appearance_count": 3,
+          "time_info": "[10时16分 ~ 14时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "iphone apple",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "iPhoneFold首年销量预计",
+          "url": "https://s.weibo.com/weibo?q=%23iPhoneFold%E9%A6%96%E5%B9%B4%E9%94%80%E9%87%8F%E9%A2%84%E8%AE%A1%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时28分"
         }
       ]
     }
