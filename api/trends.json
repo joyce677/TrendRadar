@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-14T10:16:48.950164+08:00",
-  "total_titles_processed": 864,
+  "generated_at": "2026-04-14T12:41:44.652631+08:00",
+  "total_titles_processed": 1033,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "马上评｜谁来斩断AI“造黄”产业链",
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             8,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时57分 ~ 10时16分]"
+          "appearance_count": 12,
+          "time_info": "[00时57分 ~ 12时41分]"
         },
         {
           "title": "守护未成年,AI伴侣全禁售",
@@ -26,11 +27,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            6
+            6,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 10时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 12时41分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -38,11 +40,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时57分 ~ 10时16分]"
+          "appearance_count": 9,
+          "time_info": "[00时57分 ~ 12时41分]"
         },
         {
           "title": "【焦点复盘】三大指数延续缩量反弹，AI、新能源赛道双线共振，“宁王”A+H总市值一度突破2万亿",
@@ -133,12 +136,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时57分"
+        },
+        {
+          "title": "快看漫画将研发多款AI应用，涉及AI角色互动等",
+          "url": "https://wallstreetcn.com/livenews/3087378",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         }
       ]
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "澳洲联储副主席Hauser：利率需达到能使CPI回归目标的水平。 不能说有高度信心认为目前的利率已达到该水平。 我们将不得不非常仔细地监测此次冲击。",
@@ -174,13 +188,35 @@
           "time_info": "06时38分"
         },
         {
+          "title": "中国财政部发行63天期债券，规模300亿元，发行利率1.0215%，边际利率1.0738%，预期1.1000%，投标倍数3.26倍，边际倍数6.17倍。",
+          "url": "https://wallstreetcn.com/livenews/3087394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "中国财政部发行5年期债券，规模1400亿元，发行利率1.5000%，边际利率1.5200%，预期1.5200%，投标倍数3.83倍，边际倍数3.39倍。",
+          "url": "https://wallstreetcn.com/livenews/3087391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
           "title": "中国央行公开市场开展10亿元7天期逆回购操作，操作利率持平于1.40%，今日5亿元逆回购到期。",
           "url": "https://wallstreetcn.com/livenews/3087282",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         },
@@ -209,8 +245,47 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI伦敦设立永久办公室",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E4%BC%A6%E6%95%A6%E8%AE%BE%E7%AB%8B%E6%B0%B8%E4%B9%85%E5%8A%9E%E5%85%AC%E5%AE%A4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "OpenAI 加速 GPT-6 研发，或主打「记忆」与「个性化」，这是否预示 AGI 即将到来？",
+          "url": "https://www.zhihu.com/question/2024505845799556342",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "美国FBI局长：今天早上，FBI及合作伙伴在得州开展了一项行动，拘留了一名与上周五早上袭击OpenAI首席执行官Sam Altman家有关的嫌疑人。",
+          "url": "https://flash.jin10.com/detail/20260414043421131800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "“马斯克版微信”真的来了！",
@@ -235,6 +310,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时10分"
+        },
+        {
+          "title": "马斯克版微信支持阅后即焚、防截图",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%89%88%E5%BE%AE%E4%BF%A1%E6%94%AF%E6%8C%81%E9%98%85%E5%90%8E%E5%8D%B3%E7%84%9A%E3%80%81%E9%98%B2%E6%88%AA%E5%9B%BE",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "随着OpenAI战略转型，投资者对其8520亿美元的估值提出质疑，部分投资者称，这些变化可能使OpenAI容易受到Anthropic和谷歌的冲击。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3087405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
+        },
+        {
+          "title": "OpenAI投资者质疑其8520亿美元估值，称其战略正在转变。一些OpenAI投资者表示，这些变化可能会使OpenAI容易受到Anthropic和谷歌的威胁。",
+          "url": "https://flash.jin10.com/detail/20260414120312885800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时41分"
         }
       ]
     },
@@ -270,23 +384,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国FBI局长：今天早上，FBI及合作伙伴在得州开展了一项行动，拘留了一名与上周五早上袭击OpenAI首席执行官Sam Altman家有关的嫌疑人。",
-          "url": "https://flash.jin10.com/detail/20260414043421131800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时42分"
-        }
-      ]
-    },
-    {
       "keyword_group": "房价 楼市 房地产",
       "match_count": 1,
       "titles": [
@@ -297,7 +394,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时16分"
         }
@@ -312,11 +409,12 @@
           "url": "https://wallstreetcn.com/articles/3769838",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时16分 ~ 12时41分]"
         }
       ]
     }
