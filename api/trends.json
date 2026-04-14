@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T05:02:36.980952+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-04-15T06:40:45.522979+08:00",
+  "total_titles_processed": 605,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
@@ -13,11 +13,23 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时40分]"
+        },
+        {
+          "title": "英伟达推出全球首个开源量子AI模型",
+          "url": "https://www.toutiao.com/trending/7627728168379547654/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时40分]"
         },
         {
           "title": "报道：Anthropic准备Opus 4.7模型和AI设计工具。",
@@ -31,17 +43,6 @@
           "time_info": "02时05分"
         },
         {
-          "title": "英伟达推出全球首个开源量子AI模型",
-          "url": "https://www.toutiao.com/trending/7627728168379547654/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时02分]"
-        },
-        {
           "title": "UP主揭秘AI短剧制作流程",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
           "source": "bilibili 热搜",
@@ -51,8 +52,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时40分]"
         },
         {
           "title": "当AI算力不再便宜：云服务价格“只降不升”行业惯例被打破意味着什么",
@@ -62,8 +63,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时58分 ~ 05时02分]"
+          "appearance_count": 6,
+          "time_info": "[00时58分 ~ 06时40分]"
         },
         {
           "title": "守护未成年,AI伴侣全禁售",
@@ -73,8 +74,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 05时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 06时40分]"
         },
         {
           "title": "央视重锤!AI造黄产业链被扒",
@@ -84,19 +85,20 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 05时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 06时40分]"
         },
         {
           "title": "白宫顾问哈塞特谈AI，称：（正在）提高小企业和大公司的生产力。",
           "url": "https://wallstreetcn.com/livenews/3087974",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            7,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时02分 ~ 06时40分]"
         },
         {
           "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
@@ -105,9 +107,42 @@
           "ranks": [
             10
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时02分 ~ 06时40分]"
+        },
+        {
+          "title": "美国财长贝森特：Anthropic的AI模型Mythos是能力方面的“一个功能变化”。",
+          "url": "https://wallstreetcn.com/livenews/3087996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时02分"
+          "time_info": "06时40分"
+        },
+        {
+          "title": "美特种军斥资5000万引入“AI 副驾驶” 助力决策优化与减负",
+          "url": "https://flash.jin10.com/detail/20260415052923283800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
+          "title": "Meta与博通就定制款AI芯片签署协议",
+          "url": "https://wallstreetcn.com/livenews/3087983",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
         },
         {
           "title": "加拿大AI部长会见Anthropic PBC的领导层。",
@@ -116,7 +151,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -127,7 +162,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -190,7 +225,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "纳斯达克网络安全ETF收跌0.63%，ETFMG网络安全ETF跌1.08%，整体高开低走，OpenAI发布网络AI模型后跌幅略微收窄。",
@@ -199,7 +234,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -215,13 +250,35 @@
           "time_info": "02时05分"
         },
         {
+          "title": "美国法官：OpenAI高管Assailant将因袭击CEO Altman而被继续羁押，对其提讯被推后至5月5日。（彭博法律BLAW）",
+          "url": "https://wallstreetcn.com/livenews/3087988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
+          "title": "OpenAI推出Cyber紧咬Anthropic，AI漏洞挖掘能力引监管层忧虑",
+          "url": "https://flash.jin10.com/detail/20260415045655489800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时40分"
+        },
+        {
           "title": "OpenAI向有限群体发布网络安全模型，与Mythos展开角逐",
           "url": "https://wallstreetcn.com/livenews/3087952",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         },
@@ -239,37 +296,20 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "keyword_group": "利率 汇率",
+      "match_count": 3,
       "titles": [
         {
-          "title": "Gitlab宣布，与谷歌云合作。",
-          "url": "https://wallstreetcn.com/livenews/3087967",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储4月维持利率不变的概率为98.4%",
+          "url": "https://flash.jin10.com/detail/20260415060206193800",
+          "source": "金十数据",
           "ranks": [
-            13
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时02分"
+          "time_info": "06时40分"
         },
-        {
-          "title": "谷歌：在Chrome中推出“技能”（Skills）功能，用于保存AI提示词。",
-          "url": "https://flash.jin10.com/detail/20260415010401722800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "利率 汇率",
-      "match_count": 2,
-      "titles": [
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了13个对手方的3.06亿美元。",
           "url": "https://flash.jin10.com/detail/20260415012703833800",
@@ -295,6 +335,34 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Gitlab宣布，与谷歌云合作。",
+          "url": "https://wallstreetcn.com/livenews/3087967",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时02分"
+        },
+        {
+          "title": "谷歌：在Chrome中推出“技能”（Skills）功能，用于保存AI提示词。",
+          "url": "https://flash.jin10.com/detail/20260415010401722800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        }
+      ]
+    },
+    {
       "keyword_group": "iphone apple",
       "match_count": 1,
       "titles": [
@@ -306,8 +374,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时59分 ~ 05时02分]"
+          "appearance_count": 5,
+          "time_info": "[00时59分 ~ 06时40分]"
         }
       ]
     },
