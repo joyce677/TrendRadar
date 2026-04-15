@@ -1,838 +1,150 @@
 {
-  "generated_at": "2026-04-15T23:02:12.758499+08:00",
-  "total_titles_processed": 1854,
+  "generated_at": "2026-04-16T00:10:50.310456+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "利率 汇率",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "美国财政部拍卖四个月期国债，得标利率3.625%，投标倍数2.93。",
+          "url": "https://wallstreetcn.com/livenews/3088645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "欧洲央行管委兼德国央行行长Nagel：形势非常不透明，4月（潜在政策利率）行动还没有足够的清晰度。 4月行动与否取决于霍尔木兹海峡的形势。 未来两周将进一步掌握更多信息。 欧洲央行在利率问题上拥有全部的可选项。 欧洲央行已经跌至基准假设之下。（彭博电视）",
+          "url": "https://wallstreetcn.com/livenews/3088647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "欧洲央行管委内格尔：对于欧洲央行的利率不存在预先的承诺。",
+          "url": "https://flash.jin10.com/detail/20260415233455636800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "人民币汇率为何持续升值",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E4%B8%BA%E4%BD%95%E6%8C%81%E7%BB%AD%E5%8D%87%E5%80%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "美国至4月15日4个月国债竞拍-得标利率配置百分比 11.83%，前值46.98%。",
+          "url": "https://flash.jin10.com/detail/20260415233314321800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        },
+        {
+          "title": "美国至4月15日4个月国债竞拍-得标利率 3.625%，前值3.60%。",
+          "url": "https://flash.jin10.com/detail/20260415233242518800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时10分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI",
-      "match_count": 37,
+      "match_count": 3,
       "titles": [
         {
           "title": "AI承诺赔10万,用户索赔败诉",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
           "source": "贴吧",
           "ranks": [
-            1,
-            3,
-            4,
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时42分 ~ 23时02分]"
-        },
-        {
-          "title": "UP主揭秘AI短剧制作流程",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8F%AD%E7%A7%98AI%E7%9F%AD%E5%89%A7%E5%88%B6%E4%BD%9C%E6%B5%81%E7%A8%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            14,
-            15,
-            21,
-            25,
-            17,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时58分 ~ 14时33分]"
-        },
-        {
-          "title": "一图看懂 | AI产业链业绩大比拼，多只10倍股净利增速“狂飙”",
-          "url": "https://www.cls.cn/detail/2344890",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时11分 ~ 23时02分]"
-        },
-        {
-          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
-          "url": "https://wallstreetcn.com/articles/3769939",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[05时02分 ~ 18时11分]"
-        },
-        {
-          "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
-          "url": "https://www.cls.cn/detail/2343603",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 06时40分]"
-        },
-        {
-          "title": "当AI算力不再便宜：云服务价格“只降不升”行业惯例被打破意味着什么",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32961502",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时58分 ~ 07时37分]"
-        },
-        {
-          "title": "守护未成年,AI伴侣全禁售",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353157&amp;topic_name=%E5%AE%88%E6%8A%A4%E6%9C%AA%E6%88%90%E5%B9%B4%2CAI%E4%BC%B4%E4%BE%A3%E5%85%A8%E7%A6%81%E5%94%AE",
-          "source": "贴吧",
-          "ranks": [
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 09时51分]"
-        },
-        {
-          "title": "央视重锤!AI造黄产业链被扒",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353133&amp;topic_name=%E5%A4%AE%E8%A7%86%E9%87%8D%E9%94%A4%21AI%E9%80%A0%E9%BB%84%E4%BA%A7%E4%B8%9A%E9%93%BE%E8%A2%AB%E6%89%92",
-          "source": "贴吧",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 09时51分]"
-        },
-        {
-          "title": "英伟达推出全球首个开源量子AI模型",
-          "url": "https://www.toutiao.com/trending/7627728168379547654/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时58分 ~ 06时40分]"
-        },
-        {
-          "title": "报道：Anthropic准备Opus 4.7模型和AI设计工具。",
-          "url": "https://wallstreetcn.com/livenews/3087917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "伊朗外交部发言人Esmail Baghaei：核浓缩的水平和类型是可以协商的。",
-          "url": "https://wallstreetcn.com/livenews/3088482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
-          "title": "IBM宣布新的网络安全措施，帮助企业识别并衡量前沿AI模型带来的新风险。",
-          "url": "https://wallstreetcn.com/livenews/3088406",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时11分"
-        },
-        {
-          "title": "AI不只是工具，也是威胁：摩根大通CEO警告金融体系或被放大攻击面",
-          "url": "https://flash.jin10.com/detail/20260415121227220800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "PCB上游又现涨价潮：CCL最高调涨40% 锁定AI服务器等高阶应用",
-          "url": "https://www.cls.cn/detail/2344320",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时41分 ~ 16时25分]"
+          "time_info": "00时10分"
         },
         {
           "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
           "url": "https://www.zhihu.com/question/2027689506711630551",
           "source": "知乎",
           "ranks": [
-            16,
-            17,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时11分 ~ 23时02分]"
-        },
-        {
-          "title": "白宫顾问哈塞特谈AI，称：（正在）提高小企业和大公司的生产力。",
-          "url": "https://wallstreetcn.com/livenews/3087974",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时02分 ~ 06时40分]"
-        },
-        {
-          "title": "美国财长贝森特：Anthropic的AI模型Mythos是能力方面的“一个功能变化”。",
-          "url": "https://wallstreetcn.com/livenews/3087996",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 07时37分]"
-        },
-        {
-          "title": "特斯拉AI5芯片流片",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%96%AF%E6%8B%89AI5%E8%8A%AF%E7%89%87%E6%B5%81%E7%89%87%23&t=31&band_rank=15&Refer=top",
-          "source": "微博",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时01分 ~ 23时02分]"
-        },
-        {
-          "title": "爱奇艺龚宇：用AI生成长片已无技术障碍",
-          "url": "https://wallstreetcn.com/livenews/3088617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时02分"
-        },
-        {
-          "title": "AI初创公司Hilbert完成2800万美元A轮融资",
-          "url": "https://flash.jin10.com/detail/20260415204514760800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        },
-        {
-          "title": "美特种军斥资5000万引入“AI 副驾驶” 助力决策优化与减负",
-          "url": "https://flash.jin10.com/detail/20260415052923283800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时40分"
-        },
-        {
-          "title": "国芯科技：新一代基于RISC-V架构的抗量子高性能汽车电子AI MCU新产品CCRC4XXX(原CCFC3009PT)于近日在公司内部测试中获得成功。",
-          "url": "https://flash.jin10.com/detail/20260415204421303800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        },
-        {
-          "title": "英伟达推出面向量子计算的AI模型 全球量子科技产业加速发展",
-          "url": "https://www.cls.cn/detail/2344233",
-          "source": "财联社热门",
-          "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时25分"
+          "time_info": "00时10分"
         },
         {
-          "title": "阿里ATH发布AI开发工具Meoo，已打通阿里云核心产品",
-          "url": "https://wallstreetcn.com/livenews/3088382",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时11分"
-        },
-        {
-          "title": "英国政府发布商业公开信，就AI网络风险发出警告。",
-          "url": "https://wallstreetcn.com/livenews/3088609",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时02分"
-        },
-        {
-          "title": "Meta与博通就定制款AI芯片签署协议",
-          "url": "https://wallstreetcn.com/livenews/3087983",
-          "source": "华尔街见闻-快讯",
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850507&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/to3CwevUBG-vaezhxQK_C.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260415233459124800",
+          "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时40分"
-        },
-        {
-          "title": "腾讯视频将发布AI长剧",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E5%B0%86%E5%8F%91%E5%B8%83AI%E9%95%BF%E5%89%A7%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "加拿大AI部长会见Anthropic PBC的领导层。",
-          "url": "https://wallstreetcn.com/livenews/3087961",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "Lumen Technologies的CEO Johnson：AI机器人正在占领网络。",
-          "url": "https://wallstreetcn.com/livenews/3087960",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "哈佛最新研究: 用 AI大型语言模型看病，80%的初步诊断都是错的",
-          "url": "https://wallstreetcn.com/livenews/3088457",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
-          "title": "据美国《财富》杂志：Anthropic因其 Claude AI聊天机器人出现性能下降而面临用户强烈不满。据多位开发者和重度用户反映，Claude人工智能模型近期性能明显下滑，表现为越来越难以遵循指令、在某些情况下选择不恰当的捷径，并在复杂工作流程中出现更多错误。",
-          "url": "https://flash.jin10.com/detail/20260415010320072800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "AI时代打工人何去何从",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E6%89%93%E5%B7%A5%E4%BA%BA%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "英国央行行长贝利谈及Anthropic，称：所有人都在研究这个问题的意义。 呼吁监管部门评估银行业面临的AI网络风险。",
-          "url": "https://wallstreetcn.com/livenews/3087890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "Adobe跌幅扩大至2.1%，报道称Anthropic正准备发布新款AI设计工具。 北美科技软件股指数ETF涨幅收窄至不足0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3087919",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时01分"
-        },
-        {
-          "title": "报道：Anthropic正准备Opus 4.7模型和AI设计工具",
-          "url": "https://wallstreetcn.com/livenews/3087917",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时01分"
-        },
-        {
-          "title": "港股AI概念股午后下挫，智谱跌超8%，MINIMAX、迅策跌超5%。",
-          "url": "https://wallstreetcn.com/livenews/3088208",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "什么是AI幻觉",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E6%98%AFAI%E5%B9%BB%E8%A7%89%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时01分"
+          "time_info": "00时10分"
         }
       ]
     },
     {
-      "keyword_group": "利率 汇率",
-      "match_count": 13,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "人民币汇率为何持续升值",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E4%B8%BA%E4%BD%95%E6%8C%81%E7%BB%AD%E5%8D%87%E5%80%BC",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2,
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时33分 ~ 23时02分]"
-        },
-        {
-          "title": "DeepTalk：高利率真的会压垮金价？这恐怕也是华尔街的“障眼法”！",
-          "url": "https://flash.jin10.com/detail/20260415204826451800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        },
-        {
-          "title": "美联储4月维持利率不变的概率为98.4%",
-          "url": "https://flash.jin10.com/detail/20260415060206193800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 07时37分]"
-        },
-        {
-          "title": "美联储Hammack：美联储仍持续未能实现通胀目标。 美联储在利率目标上存在双向风险。 供应冲击对货币政策来说是一个棘手的问题。 不认为就业市场是通胀压力的来源。 通胀预期看起来基本得到良好控制。",
-          "url": "https://wallstreetcn.com/livenews/3088535",
+          "title": "谷歌公司：Gemini现在上架苹果公司Mac。",
+          "url": "https://wallstreetcn.com/livenews/3088660",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时08分"
-        },
-        {
-          "title": "美联储Hammack：关键在于能源价格会上涨到多高，以及高位能持续多久。 高能源价格可能带来通胀压力，但也可能拖累经济增长。 利率目前处于合适水平，基线预期是利率将在一段时间内维持不变。 货币政策面临双向风险。 就业市场基本处于平衡状态。 美联储已经连续五年未能实现通胀目标。 消费者已经经历了较长时间的高通胀。",
-          "url": "https://wallstreetcn.com/livenews/3088533",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了13个对手方的3.06亿美元。",
-          "url": "https://flash.jin10.com/detail/20260415012703833800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "中国央行公开市场开展5亿元7天期逆回购操作，操作利率持平于1.40%，今日有5亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3088072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "爱马仕第一财季销售额（按固定汇率计算）增长5.6%，预期增长7.44%。 第一财季欧洲整体收入增长4.5%，预期增长6.13%。 第一财季亚太地区收入增长2.2%，预期增长5.84%。 第一财季美洲收入增长17.2%，预期增长13.9%。 第一财季总收入为40.7亿欧元，同比下降1.4%，预期为41.5亿欧元。",
-          "url": "https://wallstreetcn.com/livenews/3088226",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时33分"
-        },
-        {
-          "title": "中国财政部发行28天期债券，规模300亿元，发行利率0.9523%，边际利率1.0176%，预期1.0200%，投标倍数3.47倍，边际倍数7.59倍； 中国财政部发行91天期债券，规模300亿元，发行利率1.0174%，边际利率1.0536%，预期1.0200%，投标倍数3.48倍，边际倍数1.97倍。",
-          "url": "https://wallstreetcn.com/livenews/3088164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
-          "title": "美国财政部拍卖六周期国债，得标利率3.630%，投标倍数3.04。 拍卖52周期国债，得标利率3.560%，投标倍数3.21。",
-          "url": "https://wallstreetcn.com/livenews/3087858",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "据美国纽约联储数据，上个交易日（4月14日）担保隔夜融资利率（SOFR）报3.66%，之前一天报3.63%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
-          "url": "https://wallstreetcn.com/livenews/3088599",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时02分"
-        },
-        {
-          "title": "中国央行：今日开展5亿元7天逆回购操作，投标量5亿元，中标量5亿元，操作利率为1.40%，与此前持平。",
-          "url": "https://flash.jin10.com/detail/20260415092048171800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "CNH同业拆息利率多数续跌",
-          "url": "https://flash.jin10.com/detail/20260415113230931800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "纳斯达克网络安全ETF收跌0.63%，ETFMG网络安全ETF跌1.08%，整体高开低走，OpenAI发布网络AI模型后跌幅略微收窄。",
-          "url": "https://wallstreetcn.com/livenews/3087968",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "微软接手OpenAI挪威数据中心租约",
-          "url": "https://flash.jin10.com/detail/20260415012050964800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "美国法官：OpenAI高管Assailant将因袭击CEO Altman而被继续羁押，对其提讯被推后至5月5日。（彭博法律BLAW）",
-          "url": "https://wallstreetcn.com/livenews/3087988",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时40分"
-        },
-        {
-          "title": "OpenAI 开撕 Anthropic 称 300 亿收入有 80 亿是造假，如何看待当前两家 AI 巨头的竞争？",
-          "url": "https://www.zhihu.com/question/2027692500500969204",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时08分"
-        },
-        {
-          "title": "OpenAI推出Cyber紧咬Anthropic，AI漏洞挖掘能力引监管层忧虑",
-          "url": "https://flash.jin10.com/detail/20260415045655489800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时40分"
-        },
-        {
-          "title": "OpenAI向有限群体发布网络安全模型，与Mythos展开角逐",
-          "url": "https://wallstreetcn.com/livenews/3087952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "微软将接管OpenAI在挪威数据中心的租约",
-          "url": "https://wallstreetcn.com/livenews/3087885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "iphone apple",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "库克开窍,折叠iPhone定版",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353208&amp;topic_name=%E5%BA%93%E5%85%8B%E5%BC%80%E7%AA%8D%2C%E6%8A%98%E5%8F%A0iPhone%E5%AE%9A%E7%89%88",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            21,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 14时33分]"
-        },
-        {
-          "title": "苹果紧急提醒：iPhone用户立即更新",
-          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%EF%BC%9AiPhone%E7%94%A8%E6%88%B7%E7%AB%8B%E5%8D%B3%E6%9B%B4%E6%96%B0",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时51分 ~ 14时33分]"
-        },
-        {
-          "title": "苹果提高印度iPhone产量 塔塔集团组装份额应能达到10-15%",
-          "url": "https://flash.jin10.com/detail/20260415155116545800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "苹果官微发文提醒iPhone用户立即更新设备",
-          "url": "https://wallstreetcn.com/livenews/3088052",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "time_info": "00时10分"
         }
       ]
     },
     {
       "keyword_group": "房价 楼市 房地产",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "八百万「豪宅」变深圳大学宿舍，业主不愿小区被贴「宿舍」标签联合反对，住房变宿舍真的会影响小区房价吗？",
           "url": "https://www.zhihu.com/question/2027080158109025018",
           "source": "知乎",
           "ranks": [
-            19,
-            10,
-            3,
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时33分 ~ 23时02分]"
-        },
-        {
-          "title": "深圳处置一批房地产领域违规自媒体账号，聚焦四类典型情形",
-          "url": "https://wallstreetcn.com/livenews/3088531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时08分"
-        },
-        {
-          "title": "金十数据整理：每日房地产行业动态汇总（2026-04-15）",
-          "url": "https://flash.jin10.com/detail/20260415153512255800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Gitlab宣布，与谷歌云合作。",
-          "url": "https://wallstreetcn.com/livenews/3087967",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时02分"
-        },
-        {
-          "title": "谷歌：在Chrome中推出“技能”（Skills）功能，用于保存AI提示词。",
-          "url": "https://flash.jin10.com/detail/20260415010401722800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "马斯克：AI5将成为有史以来产量最大的人工智能芯片之一。",
-          "url": "https://flash.jin10.com/detail/20260415154014890800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "虚拟币 币安 比特币 以太坊",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "比特币一度涨穿7.6万美元，以太币目前涨超3.7%",
-          "url": "https://wallstreetcn.com/livenews/3087892",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
+          "time_info": "00时10分"
         }
       ]
     }
