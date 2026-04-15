@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T14:33:53.685335+08:00",
-  "total_titles_processed": 1155,
+  "generated_at": "2026-04-15T16:25:31.003492+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "UP主揭秘AI短剧制作流程",
@@ -25,6 +25,30 @@
           "time_info": "[00时58分 ~ 14时33分]"
         },
         {
+          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
+          "url": "https://wallstreetcn.com/articles/3769939",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[05时02分 ~ 16时25分]"
+        },
+        {
+          "title": "AI承诺赔10万,用户索赔败诉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时42分 ~ 16时25分]"
+        },
+        {
           "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
           "url": "https://www.cls.cn/detail/2343603",
           "source": "财联社热门",
@@ -36,29 +60,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时58分 ~ 06时40分]"
-        },
-        {
-          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
-          "url": "https://wallstreetcn.com/articles/3769939",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时02分 ~ 14时33分]"
-        },
-        {
-          "title": "AI承诺赔10万,用户索赔败诉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时42分 ~ 14时33分]"
         },
         {
           "title": "当AI算力不再便宜：云服务价格“只降不升”行业惯例被打破意味着什么",
@@ -135,11 +136,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时41分 ~ 14时33分]"
+          "appearance_count": 4,
+          "time_info": "[12时41分 ~ 16时25分]"
         },
         {
           "title": "白宫顾问哈塞特谈AI，称：（正在）提高小企业和大公司的生产力。",
@@ -177,6 +179,17 @@
           "time_info": "06时40分"
         },
         {
+          "title": "英伟达推出面向量子计算的AI模型 全球量子科技产业加速发展",
+          "url": "https://www.cls.cn/detail/2344233",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
           "title": "Meta与博通就定制款AI芯片签署协议",
           "url": "https://wallstreetcn.com/livenews/3087983",
           "source": "华尔街见闻-快讯",
@@ -186,6 +199,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
+        },
+        {
+          "title": "腾讯视频将发布AI长剧",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%85%BE%E8%AE%AF%E8%A7%86%E9%A2%91%E5%B0%86%E5%8F%91%E5%B8%83AI%E9%95%BF%E5%89%A7%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "加拿大AI部长会见Anthropic PBC的领导层。",
@@ -227,7 +251,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -271,7 +295,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -299,9 +323,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时33分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 16时25分]"
         },
         {
           "title": "美联储4月维持利率不变的概率为98.4%",
@@ -344,7 +368,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时33分"
         },
@@ -468,7 +492,7 @@
     },
     {
       "keyword_group": "iphone apple",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "库克开窍,折叠iPhone定版",
@@ -496,6 +520,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时51分 ~ 14时33分]"
+        },
+        {
+          "title": "苹果提高印度iPhone产量 塔塔集团组装份额应能达到10-15%",
+          "url": "https://flash.jin10.com/detail/20260415155116545800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         },
         {
           "title": "苹果官微发文提醒iPhone用户立即更新设备",
@@ -540,18 +575,47 @@
     },
     {
       "keyword_group": "房价 楼市 房地产",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "八百万「豪宅」变深圳大学宿舍，业主不愿小区被贴「宿舍」标签联合反对，住房变宿舍真的会影响小区房价吗？",
           "url": "https://www.zhihu.com/question/2027080158109025018",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时33分 ~ 16时25分]"
+        },
+        {
+          "title": "金十数据整理：每日房地产行业动态汇总（2026-04-15）",
+          "url": "https://flash.jin10.com/detail/20260415153512255800",
+          "source": "金十数据",
+          "ranks": [
+            22
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时33分"
+          "time_info": "16时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "马斯克",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "马斯克：AI5将成为有史以来产量最大的人工智能芯片之一。",
+          "url": "https://flash.jin10.com/detail/20260415154014890800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时25分"
         }
       ]
     },
