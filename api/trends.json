@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T09:51:24.775488+08:00",
-  "total_titles_processed": 852,
+  "generated_at": "2026-04-15T12:42:10.731352+08:00",
+  "total_titles_processed": 1012,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "UP主揭秘AI短剧制作流程",
@@ -16,11 +16,12 @@
             14,
             15,
             21,
-            25
+            25,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时58分 ~ 09时51分]"
+          "appearance_count": 10,
+          "time_info": "[00时58分 ~ 12时42分]"
         },
         {
           "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
@@ -72,6 +73,18 @@
           "time_info": "[00时59分 ~ 09时51分]"
         },
         {
+          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
+          "url": "https://wallstreetcn.com/articles/3769939",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时02分 ~ 12时42分]"
+        },
+        {
           "title": "英伟达推出全球首个开源量子AI模型",
           "url": "https://www.toutiao.com/trending/7627728168379547654/",
           "source": "今日头条",
@@ -94,15 +107,26 @@
           "time_info": "02时05分"
         },
         {
-          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
-          "url": "https://wallstreetcn.com/articles/3769939",
-          "source": "华尔街见闻",
+          "title": "AI承诺赔10万,用户索赔败诉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
+          "source": "贴吧",
           "ranks": [
-            10
+            1
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时02分 ~ 09时51分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "AI不只是工具，也是威胁：摩根大通CEO警告金融体系或被放大攻击面",
+          "url": "https://flash.jin10.com/detail/20260415121227220800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
         },
         {
           "title": "白宫顾问哈塞特谈AI，称：（正在）提高小企业和大公司的生产力。",
@@ -127,6 +151,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 07时37分]"
+        },
+        {
+          "title": "PCB上游又现涨价潮：CCL最高调涨40% 锁定AI服务器等高阶应用",
+          "url": "https://www.cls.cn/detail/2344320",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时41分 ~ 12时42分]"
         },
         {
           "title": "美特种军斥资5000万引入“AI 副驾驶” 助力决策优化与减负",
@@ -230,6 +265,90 @@
       ]
     },
     {
+      "keyword_group": "利率 汇率",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美联储4月维持利率不变的概率为98.4%",
+          "url": "https://flash.jin10.com/detail/20260415060206193800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时40分 ~ 07时37分]"
+        },
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了13个对手方的3.06亿美元。",
+          "url": "https://flash.jin10.com/detail/20260415012703833800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        },
+        {
+          "title": "中国央行公开市场开展5亿元7天期逆回购操作，操作利率持平于1.40%，今日有5亿元逆回购到期。",
+          "url": "https://wallstreetcn.com/livenews/3088072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "中国财政部发行28天期债券，规模300亿元，发行利率0.9523%，边际利率1.0176%，预期1.0200%，投标倍数3.47倍，边际倍数7.59倍； 中国财政部发行91天期债券，规模300亿元，发行利率1.0174%，边际利率1.0536%，预期1.0200%，投标倍数3.48倍，边际倍数1.97倍。",
+          "url": "https://wallstreetcn.com/livenews/3088164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        },
+        {
+          "title": "美国财政部拍卖六周期国债，得标利率3.630%，投标倍数3.04。 拍卖52周期国债，得标利率3.560%，投标倍数3.21。",
+          "url": "https://wallstreetcn.com/livenews/3087858",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时59分"
+        },
+        {
+          "title": "中国央行：今日开展5亿元7天逆回购操作，投标量5亿元，中标量5亿元，操作利率为1.40%，与此前持平。",
+          "url": "https://flash.jin10.com/detail/20260415092048171800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        },
+        {
+          "title": "CNH同业拆息利率多数续跌",
+          "url": "https://flash.jin10.com/detail/20260415113230931800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时42分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 6,
       "titles": [
@@ -302,68 +421,6 @@
       ]
     },
     {
-      "keyword_group": "利率 汇率",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美联储4月维持利率不变的概率为98.4%",
-          "url": "https://flash.jin10.com/detail/20260415060206193800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时40分 ~ 07时37分]"
-        },
-        {
-          "title": "美联储在固定利率逆回购操作中总计接纳了13个对手方的3.06亿美元。",
-          "url": "https://flash.jin10.com/detail/20260415012703833800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
-        },
-        {
-          "title": "中国央行公开市场开展5亿元7天期逆回购操作，操作利率持平于1.40%，今日有5亿元逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3088072",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        },
-        {
-          "title": "美国财政部拍卖六周期国债，得标利率3.630%，投标倍数3.04。 拍卖52周期国债，得标利率3.560%，投标倍数3.21。",
-          "url": "https://wallstreetcn.com/livenews/3087858",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时59分"
-        },
-        {
-          "title": "中国央行：今日开展5亿元7天逆回购操作，投标量5亿元，中标量5亿元，操作利率为1.40%，与此前持平。",
-          "url": "https://flash.jin10.com/detail/20260415092048171800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
-        }
-      ]
-    },
-    {
       "keyword_group": "iphone apple",
       "match_count": 3,
       "titles": [
@@ -373,22 +430,24 @@
           "source": "贴吧",
           "ranks": [
             19,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时59分 ~ 09时51分]"
+          "appearance_count": 8,
+          "time_info": "[00时59分 ~ 12时42分]"
         },
         {
           "title": "苹果紧急提醒：iPhone用户立即更新",
           "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E7%B4%A7%E6%80%A5%E6%8F%90%E9%86%92%EF%BC%9AiPhone%E7%94%A8%E6%88%B7%E7%AB%8B%E5%8D%B3%E6%9B%B4%E6%96%B0",
           "source": "百度热搜",
           "ranks": [
-            5
+            5,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时51分 ~ 12时42分]"
         },
         {
           "title": "苹果官微发文提醒iPhone用户立即更新设备",
@@ -397,7 +456,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
         }
