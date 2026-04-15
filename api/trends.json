@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T12:42:10.731352+08:00",
-  "total_titles_processed": 1012,
+  "generated_at": "2026-04-15T14:33:53.685335+08:00",
+  "total_titles_processed": 1155,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "UP主揭秘AI短剧制作流程",
@@ -17,11 +17,12 @@
             15,
             21,
             25,
-            17
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时58分 ~ 12时42分]"
+          "appearance_count": 11,
+          "time_info": "[00时58分 ~ 14时33分]"
         },
         {
           "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
@@ -35,6 +36,29 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时58分 ~ 06时40分]"
+        },
+        {
+          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
+          "url": "https://wallstreetcn.com/articles/3769939",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[05时02分 ~ 14时33分]"
+        },
+        {
+          "title": "AI承诺赔10万,用户索赔败诉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
+          "source": "贴吧",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 14时33分]"
         },
         {
           "title": "当AI算力不再便宜：云服务价格“只降不升”行业惯例被打破意味着什么",
@@ -73,18 +97,6 @@
           "time_info": "[00时59分 ~ 09时51分]"
         },
         {
-          "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
-          "url": "https://wallstreetcn.com/articles/3769939",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时02分 ~ 12时42分]"
-        },
-        {
           "title": "英伟达推出全球首个开源量子AI模型",
           "url": "https://www.toutiao.com/trending/7627728168379547654/",
           "source": "今日头条",
@@ -107,26 +119,27 @@
           "time_info": "02时05分"
         },
         {
-          "title": "AI承诺赔10万,用户索赔败诉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
-          "source": "贴吧",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时42分"
-        },
-        {
           "title": "AI不只是工具，也是威胁：摩根大通CEO警告金融体系或被放大攻击面",
           "url": "https://flash.jin10.com/detail/20260415121227220800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
+        },
+        {
+          "title": "PCB上游又现涨价潮：CCL最高调涨40% 锁定AI服务器等高阶应用",
+          "url": "https://www.cls.cn/detail/2344320",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时41分 ~ 14时33分]"
         },
         {
           "title": "白宫顾问哈塞特谈AI，称：（正在）提高小企业和大公司的生产力。",
@@ -151,17 +164,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 07时37分]"
-        },
-        {
-          "title": "PCB上游又现涨价潮：CCL最高调涨40% 锁定AI服务器等高阶应用",
-          "url": "https://www.cls.cn/detail/2344320",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时41分 ~ 12时42分]"
         },
         {
           "title": "美特种军斥资5000万引入“AI 副驾驶” 助力决策优化与减负",
@@ -219,6 +221,17 @@
           "time_info": "02时05分"
         },
         {
+          "title": "AI时代打工人何去何从",
+          "url": "https://search.bilibili.com/all?keyword=AI%E6%97%B6%E4%BB%A3%E6%89%93%E5%B7%A5%E4%BA%BA%E4%BD%95%E5%8E%BB%E4%BD%95%E4%BB%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
           "title": "英国央行行长贝利谈及Anthropic，称：所有人都在研究这个问题的意义。 呼吁监管部门评估银行业面临的AI网络风险。",
           "url": "https://wallstreetcn.com/livenews/3087890",
           "source": "华尔街见闻-快讯",
@@ -252,6 +265,17 @@
           "time_info": "04时01分"
         },
         {
+          "title": "港股AI概念股午后下挫，智谱跌超8%，MINIMAX、迅策跌超5%。",
+          "url": "https://wallstreetcn.com/livenews/3088208",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
           "title": "什么是AI幻觉",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BB%80%E4%B9%88%E6%98%AFAI%E5%B9%BB%E8%A7%89%23&t=31&band_rank=29&Refer=top",
           "source": "微博",
@@ -266,8 +290,19 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "人民币汇率为何持续升值",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%BA%E6%B0%91%E5%B8%81%E6%B1%87%E7%8E%87%E4%B8%BA%E4%BD%95%E6%8C%81%E7%BB%AD%E5%8D%87%E5%80%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
         {
           "title": "美联储4月维持利率不变的概率为98.4%",
           "url": "https://flash.jin10.com/detail/20260415060206193800",
@@ -303,13 +338,24 @@
           "time_info": "09时51分"
         },
         {
+          "title": "爱马仕第一财季销售额（按固定汇率计算）增长5.6%，预期增长7.44%。 第一财季欧洲整体收入增长4.5%，预期增长6.13%。 第一财季亚太地区收入增长2.2%，预期增长5.84%。 第一财季美洲收入增长17.2%，预期增长13.9%。 第一财季总收入为40.7亿欧元，同比下降1.4%，预期为41.5亿欧元。",
+          "url": "https://wallstreetcn.com/livenews/3088226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
+        },
+        {
           "title": "中国财政部发行28天期债券，规模300亿元，发行利率0.9523%，边际利率1.0176%，预期1.0200%，投标倍数3.47倍，边际倍数7.59倍； 中国财政部发行91天期债券，规模300亿元，发行利率1.0174%，边际利率1.0536%，预期1.0200%，投标倍数3.48倍，边际倍数1.97倍。",
           "url": "https://wallstreetcn.com/livenews/3088164",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         },
@@ -342,7 +388,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
         }
@@ -431,11 +477,12 @@
           "ranks": [
             19,
             21,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时59分 ~ 12时42分]"
+          "appearance_count": 9,
+          "time_info": "[00时59分 ~ 14时33分]"
         },
         {
           "title": "苹果紧急提醒：iPhone用户立即更新",
@@ -443,11 +490,12 @@
           "source": "百度热搜",
           "ranks": [
             5,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时51分 ~ 12时42分]"
+          "appearance_count": 4,
+          "time_info": "[09时51分 ~ 14时33分]"
         },
         {
           "title": "苹果官微发文提醒iPhone用户立即更新设备",
@@ -487,6 +535,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "八百万「豪宅」变深圳大学宿舍，业主不愿小区被贴「宿舍」标签联合反对，住房变宿舍真的会影响小区房价吗？",
+          "url": "https://www.zhihu.com/question/2027080158109025018",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时33分"
         }
       ]
     },
