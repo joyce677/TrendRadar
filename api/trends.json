@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-15T19:52:22.277136+08:00",
-  "total_titles_processed": 1596,
+  "generated_at": "2026-04-15T21:08:24.531191+08:00",
+  "total_titles_processed": 1714,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "UP主揭秘AI短剧制作流程",
@@ -25,6 +25,20 @@
           "time_info": "[00时58分 ~ 14时33分]"
         },
         {
+          "title": "AI承诺赔10万,用户索赔败诉",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
+          "source": "贴吧",
+          "ranks": [
+            1,
+            3,
+            4,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 21时08分]"
+        },
+        {
           "title": "全球AI芯片被一家味精厂卡脖子？份额超95%，英伟达也得排队抢产能",
           "url": "https://wallstreetcn.com/articles/3769939",
           "source": "华尔街见闻",
@@ -38,20 +52,6 @@
           "time_info": "[05时02分 ~ 18时11分]"
         },
         {
-          "title": "AI承诺赔10万,用户索赔败诉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353249&amp;topic_name=AI%E6%89%BF%E8%AF%BA%E8%B5%9410%E4%B8%87%2C%E7%94%A8%E6%88%B7%E7%B4%A2%E8%B5%94%E8%B4%A5%E8%AF%89",
-          "source": "贴吧",
-          "ranks": [
-            1,
-            3,
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 19时52分]"
-        },
-        {
           "title": "【每日收评】沪指涨近1%站上4000点，AI产业链集体爆发，存储芯片、PCB联袂领涨",
           "url": "https://www.cls.cn/detail/2343603",
           "source": "财联社热门",
@@ -63,6 +63,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时58分 ~ 06时40分]"
+        },
+        {
+          "title": "一图看懂 | AI产业链业绩大比拼，多只10倍股净利增速“狂飙”",
+          "url": "https://www.cls.cn/detail/2344890",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时11分 ~ 21时08分]"
         },
         {
           "title": "当AI算力不再便宜：云服务价格“只降不升”行业惯例被打破意味着什么",
@@ -101,18 +114,6 @@
           "time_info": "[00时59分 ~ 09时51分]"
         },
         {
-          "title": "一图看懂 | AI产业链业绩大比拼，多只10倍股净利增速“狂飙”",
-          "url": "https://www.cls.cn/detail/2344890",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时11分 ~ 19时52分]"
-        },
-        {
           "title": "英伟达推出全球首个开源量子AI模型",
           "url": "https://www.toutiao.com/trending/7627728168379547654/",
           "source": "今日头条",
@@ -141,7 +142,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -205,6 +206,29 @@
           "time_info": "[06时40分 ~ 07时37分]"
         },
         {
+          "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
+          "url": "https://www.zhihu.com/question/2027689506711630551",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时11分 ~ 21时08分]"
+        },
+        {
+          "title": "AI初创公司Hilbert完成2800万美元A轮融资",
+          "url": "https://flash.jin10.com/detail/20260415204514760800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
           "title": "美特种军斥资5000万引入“AI 副驾驶” 助力决策优化与减负",
           "url": "https://flash.jin10.com/detail/20260415052923283800",
           "source": "金十数据",
@@ -214,6 +238,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
+        },
+        {
+          "title": "国芯科技：新一代基于RISC-V架构的抗量子高性能汽车电子AI MCU新产品CCRC4XXX(原CCFC3009PT)于近日在公司内部测试中获得成功。",
+          "url": "https://flash.jin10.com/detail/20260415204421303800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "英伟达推出面向量子计算的AI模型 全球量子科技产业加速发展",
@@ -232,17 +267,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时11分"
-        },
-        {
-          "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
-          "url": "https://www.zhihu.com/question/2027689506711630551",
-          "source": "知乎",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -299,7 +323,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时52分"
         },
@@ -384,7 +408,7 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "人民币汇率为何持续升值",
@@ -392,11 +416,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            2
+            2,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时33分 ~ 19时52分]"
+          "appearance_count": 5,
+          "time_info": "[14时33分 ~ 21时08分]"
+        },
+        {
+          "title": "DeepTalk：高利率真的会压垮金价？这恐怕也是华尔街的“障眼法”！",
+          "url": "https://flash.jin10.com/detail/20260415204826451800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "美联储4月维持利率不变的概率为98.4%",
@@ -409,6 +445,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时40分 ~ 07时37分]"
+        },
+        {
+          "title": "美联储Hammack：美联储仍持续未能实现通胀目标。 美联储在利率目标上存在双向风险。 供应冲击对货币政策来说是一个棘手的问题。 不认为就业市场是通胀压力的来源。 通胀预期看起来基本得到良好控制。",
+          "url": "https://wallstreetcn.com/livenews/3088535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "美联储Hammack：关键在于能源价格会上涨到多高，以及高位能持续多久。 高能源价格可能带来通胀压力，但也可能拖累经济增长。 利率目前处于合适水平，基线预期是利率将在一段时间内维持不变。 货币政策面临双向风险。 就业市场基本处于平衡状态。 美联储已经连续五年未能实现通胀目标。 消费者已经经历了较长时间的高通胀。",
+          "url": "https://wallstreetcn.com/livenews/3088533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了13个对手方的3.06亿美元。",
@@ -491,7 +549,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "纳斯达克网络安全ETF收跌0.63%，ETFMG网络安全ETF跌1.08%，整体高开低走，OpenAI发布网络AI模型后跌幅略微收窄。",
@@ -525,6 +583,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时40分"
+        },
+        {
+          "title": "OpenAI 开撕 Anthropic 称 300 亿收入有 80 亿是造假，如何看待当前两家 AI 巨头的竞争？",
+          "url": "https://www.zhihu.com/question/2027692500500969204",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         },
         {
           "title": "OpenAI推出Cyber紧咬Anthropic，AI漏洞挖掘能力引监管层忧虑",
@@ -617,6 +686,49 @@
       ]
     },
     {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "八百万「豪宅」变深圳大学宿舍，业主不愿小区被贴「宿舍」标签联合反对，住房变宿舍真的会影响小区房价吗？",
+          "url": "https://www.zhihu.com/question/2027080158109025018",
+          "source": "知乎",
+          "ranks": [
+            19,
+            10,
+            3,
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时33分 ~ 21时08分]"
+        },
+        {
+          "title": "深圳处置一批房地产领域违规自媒体账号，聚焦四类典型情形",
+          "url": "https://wallstreetcn.com/livenews/3088531",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
+        },
+        {
+          "title": "金十数据整理：每日房地产行业动态汇总（2026-04-15）",
+          "url": "https://flash.jin10.com/detail/20260415153512255800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -641,37 +753,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房价 楼市 房地产",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "八百万「豪宅」变深圳大学宿舍，业主不愿小区被贴「宿舍」标签联合反对，住房变宿舍真的会影响小区房价吗？",
-          "url": "https://www.zhihu.com/question/2027080158109025018",
-          "source": "知乎",
-          "ranks": [
-            19,
-            10,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时33分 ~ 19时52分]"
-        },
-        {
-          "title": "金十数据整理：每日房地产行业动态汇总（2026-04-15）",
-          "url": "https://flash.jin10.com/detail/20260415153512255800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时25分"
         }
       ]
     },
