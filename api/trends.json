@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T16:25:24.179807+08:00",
-  "total_titles_processed": 1302,
+  "generated_at": "2026-04-16T18:11:13.651573+08:00",
+  "total_titles_processed": 1438,
   "failed_sources": [],
   "trends": [
     {
@@ -24,6 +24,18 @@
           "time_info": "[00时10分 ~ 14时54分]"
         },
         {
+          "title": "特朗普：鲍威尔若届满不走就解雇，沃什上任后利率可能会下降",
+          "url": "https://wallstreetcn.com/articles/3770050",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 18时11分]"
+        },
+        {
           "title": "经济学家：通胀预期上升推高日本中性利率",
           "url": "https://flash.jin10.com/detail/20260416145016779800",
           "source": "金十数据",
@@ -33,18 +45,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时54分"
-        },
-        {
-          "title": "特朗普：鲍威尔若届满不走就解雇，沃什上任后利率可能会下降",
-          "url": "https://wallstreetcn.com/articles/3770050",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 16时25分]"
         },
         {
           "title": "国际货币基金组织：2025年日元走弱并未对通胀产生显著传导效应。日元走弱有助于日本缓冲美国提高关税带来的部分冲击，但汇率水平应由市场决定。",
@@ -221,7 +221,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时25分"
         },
@@ -271,11 +271,12 @@
           "ranks": [
             7,
             13,
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时10分 ~ 16时25分]"
+          "appearance_count": 12,
+          "time_info": "[00时10分 ~ 18时11分]"
         },
         {
           "title": "斯坦福报告称「美国 AI 投资规模是中国的 23 倍，但模型基本没差距了」，如何看待差距「基本抹平」的结论？",
@@ -296,11 +297,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353314&amp;topic_name=%E7%95%AA%E8%8C%84%E4%BD%9C%E8%80%85AI%E4%BB%A3%E7%AC%94%2C%E8%AF%BB%E8%80%85%E7%99%BD%E8%BF%BD",
           "source": "贴吧",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时54分 ~ 16时25分]"
+          "appearance_count": 3,
+          "time_info": "[14时54分 ~ 18时11分]"
         },
         {
           "title": "台积电：对AI的超级趋势有强烈信心，未来三年的资本支出将显著高于过去三年。 我们正在准备产能以满足客户需求。 内存价格上涨对个人电脑和智能手机市场有一定影响。",
@@ -354,11 +356,12 @@
           "source": "贴吧",
           "ranks": [
             15,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时52分 ~ 16时25分]"
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 18时11分]"
         },
         {
           "title": "刷手机有多累？现在AI能算出来了",
@@ -485,6 +488,71 @@
       ]
     },
     {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "八百万「豪宅」变深圳大学宿舍，业主不愿小区被贴「宿舍」标签联合反对，住房变宿舍真的会影响小区房价吗？",
+          "url": "https://www.zhihu.com/question/2027080158109025018",
+          "source": "知乎",
+          "ranks": [
+            1,
+            3,
+            7,
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 07时37分]"
+        },
+        {
+          "title": "提醒：北京时间10:00，将公布中国一季度GDP，1-3月社会消费品零售总额、规模以上工业增加值、城镇固定资产投资、全国房地产开发投资等数据。",
+          "url": "https://wallstreetcn.com/livenews/3088905",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        },
+        {
+          "title": "3月70城房价释放积极信号：一线城市领跑 二手房复苏明显",
+          "url": "https://www.cls.cn/detail/2345979",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时10分 ~ 18时11分]"
+        },
+        {
+          "title": "3月份房价涨了跌了？数据公布",
+          "url": "https://www.toutiao.com/trending/7628087275160404011/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时25分"
+        },
+        {
+          "title": "提醒：北京时间09:30，将公布中国3月70个大中城市房价报告，澳大利亚3月就业报告。",
+          "url": "https://wallstreetcn.com/livenews/3088872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时59分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
@@ -537,60 +605,6 @@
       ]
     },
     {
-      "keyword_group": "房价 楼市 房地产",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "八百万「豪宅」变深圳大学宿舍，业主不愿小区被贴「宿舍」标签联合反对，住房变宿舍真的会影响小区房价吗？",
-          "url": "https://www.zhihu.com/question/2027080158109025018",
-          "source": "知乎",
-          "ranks": [
-            1,
-            3,
-            7,
-            20,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时10分 ~ 07时37分]"
-        },
-        {
-          "title": "提醒：北京时间10:00，将公布中国一季度GDP，1-3月社会消费品零售总额、规模以上工业增加值、城镇固定资产投资、全国房地产开发投资等数据。",
-          "url": "https://wallstreetcn.com/livenews/3088905",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        },
-        {
-          "title": "3月份房价涨了跌了？数据公布",
-          "url": "https://www.toutiao.com/trending/7628087275160404011/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时25分"
-        },
-        {
-          "title": "提醒：北京时间09:30，将公布中国3月70个大中城市房价报告，澳大利亚3月就业报告。",
-          "url": "https://wallstreetcn.com/livenews/3088872",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时59分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
@@ -631,11 +645,12 @@
           "ranks": [
             9,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时59分 ~ 16时25分]"
+          "appearance_count": 6,
+          "time_info": "[09时59分 ~ 18时11分]"
         }
       ]
     },
