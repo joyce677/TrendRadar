@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T01:43:47.366179+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-04-18T02:49:26.599891+08:00",
+  "total_titles_processed": 469,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 02时49分]"
         },
         {
           "title": "美国AI聊天机器人续开精神类处方药引质疑",
           "url": "https://wallstreetcn.com/livenews/3090263",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 02时49分]"
         },
         {
           "title": "番茄作者AI代笔,读者白追",
@@ -37,8 +38,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 02时49分]"
         },
         {
           "title": "Anthropic高管Dario Amodei将与美国白宫开会，讨论最近发布的AI模型Mythos。",
@@ -66,7 +67,7 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的1.37亿美元。",
@@ -75,9 +76,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "美联储理事沃勒：如果战争导致高通胀和劳动力市场疲软，可能需要维持利率稳定。 中东战争悬而未决的时间越长，通胀和就业风险就越大。 高通胀和疲软的就业市场将对美联储构成挑战。 3月头条PCE通胀率可能同比达到3.5%。 能源价格可能出现的飙升或产生持久的通胀影响。 市场似乎低估了冲突长期化的风险。 将密切关注通胀预期对冲突的反应。 如果战争迅速解决，可以略过能源价格冲击不计。 在经历一系列冲击后，越来越难以略过通胀跳升的影响。 将密切关注就业数据中不断增加的压力迹象。 目前劳动力市场的盈亏平衡增长率可能在零附近。 出现就业负增长的时期可能并不预示着经济衰退。 劳动力市场的变化使得目前的分析更具挑战性。",
+          "url": "https://wallstreetcn.com/livenews/3090279",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
+        },
+        {
+          "title": "美联储沃勒对利率表示谨慎，预警战争长期化风险",
+          "url": "https://wallstreetcn.com/livenews/3090277",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时49分"
         },
         {
           "title": "美国旧金山联储主席戴利（2027年FOMC票委）：经济基本面是稳固的。 企业持谨慎乐观态度。 消费者对经济感到紧张，但仍在消费。 这些都是强有力的支柱。 前景取决于油价上涨持续多久，以及冲突将持续多久。 基于人口结构，劳动力增长正趋向于零。 零就业增长可能是新的稳定状态。 目前正通过提高生产率增长来弥补低劳动力增长。 移民的缺失确实有很大影响，对技术的投资也是如此。 提升劳动力参与度仍有很大空间。 你可以利用资本或人员来满足需求。 很难将生产率增长的提高与实际中性利率联系起来，但这是各方都需要关注的问题。 生产率增长有助于缓解通胀，但这不是我们可以指望的事情。 油价冲击对通胀的影响将超过生产率的影响。",
@@ -113,11 +136,12 @@
           "source": "今日头条",
           "ranks": [
             23,
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 02时49分]"
         }
       ]
     },
@@ -130,11 +154,12 @@
           "url": "https://www.zhihu.com/question/15718177307",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时48分 ~ 01时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时48分 ~ 02时49分]"
         }
       ]
     },
@@ -149,7 +174,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
         }
