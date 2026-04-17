@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-18T00:48:22.313460+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-18T01:43:47.366179+08:00",
+  "total_titles_processed": 405,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "AI入侵产业,2D国漫公司倒闭",
@@ -15,19 +15,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时43分]"
         },
         {
-          "title": "Anthropic高管Dario Amodei将与美国白宫开会，讨论最近发布的AI模型Mythos。",
-          "url": "https://wallstreetcn.com/livenews/3090216",
+          "title": "美国AI聊天机器人续开精神类处方药引质疑",
+          "url": "https://wallstreetcn.com/livenews/3090263",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时48分"
+          "time_info": "01时43分"
         },
         {
           "title": "番茄作者AI代笔,读者白追",
@@ -35,6 +35,17 @@
           "source": "贴吧",
           "ranks": [
             23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时43分]"
+        },
+        {
+          "title": "Anthropic高管Dario Amodei将与美国白宫开会，讨论最近发布的AI模型Mythos。",
+          "url": "https://wallstreetcn.com/livenews/3090216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -55,8 +66,19 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美联储在固定利率逆回购操作中总计接纳了4个对手方的1.37亿美元。",
+          "url": "https://flash.jin10.com/detail/20260418011706031800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时43分"
+        },
         {
           "title": "美国旧金山联储主席戴利（2027年FOMC票委）：经济基本面是稳固的。 企业持谨慎乐观态度。 消费者对经济感到紧张，但仍在消费。 这些都是强有力的支柱。 前景取决于油价上涨持续多久，以及冲突将持续多久。 基于人口结构，劳动力增长正趋向于零。 零就业增长可能是新的稳定状态。 目前正通过提高生产率增长来弥补低劳动力增长。 移民的缺失确实有很大影响，对技术的投资也是如此。 提升劳动力参与度仍有很大空间。 你可以利用资本或人员来满足需求。 很难将生产率增长的提高与实际中性利率联系起来，但这是各方都需要关注的问题。 生产率增长有助于缓解通胀，但这不是我们可以指望的事情。 油价冲击对通胀的影响将超过生产率的影响。",
           "url": "https://wallstreetcn.com/livenews/3090236",
@@ -90,11 +112,12 @@
           "url": "https://www.toutiao.com/trending/7629231341397770282/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时48分"
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时43分]"
         }
       ]
     },
@@ -110,8 +133,25 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时48分 ~ 01时43分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "虚拟币 币安 比特币 以太坊",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "数字货币市场走高，比特币涨约3.6%一度突破7.8万美元，以太币目前涨约4.2%",
+          "url": "https://wallstreetcn.com/livenews/3090252",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时48分"
+          "time_info": "01时43分"
         }
       ]
     }
