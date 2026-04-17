@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T22:50:31.388702+08:00",
-  "total_titles_processed": 1753,
+  "generated_at": "2026-04-17T23:54:00.752198+08:00",
+  "total_titles_processed": 1849,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "国家发改委发声！事关“AI+”基础设施投资、扩大内需",
@@ -34,8 +34,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[01时07分 ~ 22时50分]"
+          "appearance_count": 15,
+          "time_info": "[01时07分 ~ 23时54分]"
         },
         {
           "title": "朱珠版wait一开口对味了",
@@ -80,6 +80,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[12时45分 ~ 21时02分]"
+        },
+        {
+          "title": "AI入侵产业,2D国漫公司倒闭",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353402&amp;topic_name=AI%E5%85%A5%E4%BE%B5%E4%BA%A7%E4%B8%9A%2C2D%E5%9B%BD%E6%BC%AB%E5%85%AC%E5%8F%B8%E5%80%92%E9%97%AD",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时02分 ~ 23时54分]"
         },
         {
           "title": "“AI需求极其强劲”！台积电法说会实录：供不应求将持续至至少2027年",
@@ -127,17 +138,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时45分 ~ 14时54分]"
-        },
-        {
-          "title": "AI入侵产业,2D国漫公司倒闭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353402&amp;topic_name=AI%E5%85%A5%E4%BE%B5%E4%BA%A7%E4%B8%9A%2C2D%E5%9B%BD%E6%BC%AB%E5%85%AC%E5%8F%B8%E5%80%92%E9%97%AD",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时02分 ~ 22时50分]"
         },
         {
           "title": "国产AI激光“灭蚊神器”海外爆单",
@@ -243,6 +243,17 @@
           "time_info": "12时45分"
         },
         {
+          "title": "AI驱动核能需求，美国瞄准纳米比亚铀矿",
+          "url": "https://flash.jin10.com/detail/20260417233417863800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时54分"
+        },
+        {
           "title": "用 AI 写的代码，最终会不会让整个项目成为屎山？",
           "url": "https://www.zhihu.com/question/2013899380286047376",
           "source": "知乎",
@@ -315,7 +326,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
@@ -337,7 +348,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         }
@@ -392,17 +403,6 @@
           "time_info": "01时07分"
         },
         {
-          "title": "据美国纽约联储数据，上个交易日（4月16日）担保隔夜融资利率（SOFR）报3.67%，之前一天报3.72%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
-          "url": "https://wallstreetcn.com/livenews/3090184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时50分"
-        },
-        {
           "title": "美联储4月维持利率不变的概率为99.5%",
           "url": "https://flash.jin10.com/detail/20260417060122573800",
           "source": "金十数据",
@@ -425,6 +425,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时35分 ~ 12时45分]"
+        },
+        {
+          "title": "据美国纽约联储数据，上个交易日（4月16日）担保隔夜融资利率（SOFR）报3.67%，之前一天报3.72%。 上个交易日有效的联邦基金利率报3.64%，之前一天报3.64%。",
+          "url": "https://wallstreetcn.com/livenews/3090184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时50分 ~ 23时54分]"
         },
         {
           "title": "中小银行密集下调存款利率",
@@ -456,7 +468,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时50分"
         },
@@ -813,11 +825,12 @@
           "ranks": [
             17,
             7,
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时54分 ~ 22时50分]"
+          "appearance_count": 6,
+          "time_info": "[14时54分 ~ 23时54分]"
         }
       ]
     },
