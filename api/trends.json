@@ -1,8 +1,75 @@
 {
-  "generated_at": "2026-04-22T16:13:17.057599+08:00",
-  "total_titles_processed": 779,
+  "generated_at": "2026-04-22T17:58:01.616579+08:00",
+  "total_titles_processed": 924,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-04-22）",
+          "url": "https://flash.jin10.com/detail/20260422115711072800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "广东：重点布局人形机器人设计制造 推动人工智能与机器人“大脑”“小脑”及机身协同研发",
+          "url": "https://wallstreetcn.com/livenews/3092458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        },
+        {
+          "title": "广东：推动脑机接口和具身智能等人工智能前沿技术的融合",
+          "url": "https://wallstreetcn.com/livenews/3092456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI正洽谈向一家私募股权合资企业注资高达15亿美元，该合资企业估值达100亿美元，融资预计于5月初完成。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3092290",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
+          "title": "OpenAI向美国政府及五眼联盟盟友简报新型网络产品。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3092463",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时58分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 1,
@@ -21,40 +88,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI正洽谈向一家私募股权合资企业注资高达15亿美元，该合资企业估值达100亿美元，融资预计于5月初完成。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3092290",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2026-04-22）",
-          "url": "https://flash.jin10.com/detail/20260422115711072800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时22分"
-        }
-      ]
-    },
-    {
       "keyword_group": "马斯克",
       "match_count": 1,
       "titles": [
@@ -64,11 +97,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时22分 ~ 16时13分]"
+          "appearance_count": 6,
+          "time_info": "[12时22分 ~ 17时58分]"
         }
       ]
     },
@@ -86,8 +120,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时22分 ~ 16时13分]"
+          "appearance_count": 6,
+          "time_info": "[12时22分 ~ 17时58分]"
         }
       ]
     }
