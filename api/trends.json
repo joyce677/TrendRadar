@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T19:10:25.710208+08:00",
-  "total_titles_processed": 1034,
+  "generated_at": "2026-04-23T20:13:59.191345+08:00",
+  "total_titles_processed": 1143,
   "failed_sources": [],
   "trends": [
     {
@@ -86,7 +86,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时10分"
         },
@@ -104,6 +104,64 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何评价 DeepSeek API 更新百万 Token 上下文，看齐 App 及网页版？",
+          "url": "https://www.zhihu.com/question/2030308965683291022",
+          "source": "知乎",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 12时26分]"
+        },
+        {
+          "title": "如何看待腾讯、阿里洽谈投资 DeepSeek 的消息，估值超过 200 亿美元合理吗？",
+          "url": "https://www.zhihu.com/question/2030589948001084304",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌云年度Next大会：TPU打破“内存墙” OCS、液冷题材如期亮相",
+          "url": "https://www.cls.cn/detail/2352843",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 14时21分]"
+        },
+        {
+          "title": "谷歌云与CVC启动人工智能合作伙伴关系。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3093296",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克",
       "match_count": 2,
       "titles": [
@@ -116,8 +174,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时17分 ~ 19时10分]"
+          "appearance_count": 7,
+          "time_info": "[09时17分 ~ 20时13分]"
         },
         {
           "title": "马斯克算法撕开日本遮羞布",
@@ -131,44 +189,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时17分 ~ 19时10分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价 DeepSeek API 更新百万 Token 上下文，看齐 App 及网页版？",
-          "url": "https://www.zhihu.com/question/2030308965683291022",
-          "source": "知乎",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 12时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌云年度Next大会：TPU打破“内存墙” OCS、液冷题材如期亮相",
-          "url": "https://www.cls.cn/detail/2352843",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时17分 ~ 14时21分]"
+          "appearance_count": 7,
+          "time_info": "[09时17分 ~ 20时13分]"
         }
       ]
     },
