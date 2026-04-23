@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T09:59:06.985872+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2026-04-23T12:51:21.070982+08:00",
+  "total_titles_processed": 1021,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "贴吧",
           "ranks": [
             11,
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 09时59分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 12时51分]"
         },
         {
           "title": "特斯拉Q1营收创近三年最高增速，盈利大超预期，现金流翻倍，马斯克预告支出大增丨财报见闻",
           "url": "https://wallstreetcn.com/articles/3770645",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 12时51分]"
         },
         {
           "title": "特斯拉CEO埃隆·马斯克：长期来看，唯一的人类驾驶汽车将是新款Roadster。",
@@ -326,7 +328,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 17,
+      "match_count": 24,
       "titles": [
         {
           "title": "一图看懂 | AI+新三样+服务业，上海经济一季报的十足底气",
@@ -370,11 +372,12 @@
           "source": "贴吧",
           "ranks": [
             10,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 09时59分]"
+          "appearance_count": 9,
+          "time_info": "[00时52分 ~ 12时51分]"
         },
         {
           "title": "如果“AI艺人”真的来了，观众能接受吗",
@@ -401,6 +404,18 @@
           "time_info": "[00时52分 ~ 06时41分]"
         },
         {
+          "title": "上海为何能跑出千亿AI储能第一股？|聚焦",
+          "url": "https://www.cls.cn/detail/2352906",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 12时51分]"
+        },
+        {
           "title": "英伟达供应商SK海力士Q1利润增长超五倍，受益于AI芯片销售与存储价格飙升",
           "url": "https://wallstreetcn.com/livenews/3092896",
           "source": "华尔街见闻-快讯",
@@ -410,17 +425,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
-        },
-        {
-          "title": "上海为何能跑出千亿AI储能第一股？|聚焦",
-          "url": "https://www.cls.cn/detail/2352906",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时58分 ~ 09时59分]"
         },
         {
           "title": "微软：与Anthropic和行业合作伙伴们密切合作。 我们正在测试Anthropic旗下Claude AI模型Mythos的概览。 利用CTI-Realm评估Mythos。 将在安全开发生命周期内应用Mythos。",
@@ -480,6 +484,50 @@
           "time_info": "05时44分"
         },
         {
+          "title": "五角大楼申请540亿美元预算 大举推进AI无人作战体系",
+          "url": "https://www.cls.cn/detail/2352844",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
+          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850512&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/04/tkqLuXqkUDUaqE011Sbj4.jpg/lite\" height=\"120\"/></a>",
+          "url": "https://flash.jin10.com/detail/20260423120210812800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
+          "title": "阿里千问总裁吴嘉：“AI办事”对外开放，首家接入东航",
+          "url": "https://wallstreetcn.com/livenews/3093038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
+          "title": "AI 写代码只要几秒，坚持「古法编程」还有意义吗？",
+          "url": "https://www.zhihu.com/topic/2015450431187346551/hot",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
           "title": "踏浪AI大潮，中际旭创蝉联公募头号重仓股",
           "url": "https://wallstreetcn.com/livenews/3092882",
           "source": "华尔街见闻-快讯",
@@ -491,15 +539,37 @@
           "time_info": "07时41分"
         },
         {
+          "title": "人民海军成立77周年丨“吉野号已击毁”！AI让福建舰与北洋水师同框",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33032397",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
           "title": "微软承诺投入180亿美元，用于建设澳大利亚的AI能力。",
           "url": "https://wallstreetcn.com/livenews/3092931",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
+        },
+        {
+          "title": "AI艺人库为何遭抵制",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%89%BA%E4%BA%BA%E5%BA%93%E4%B8%BA%E4%BD%95%E9%81%AD%E6%8A%B5%E5%88%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         },
         {
           "title": "能定位会判断，AI乒乓机器人击败人类高手",
@@ -522,12 +592,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
+        },
+        {
+          "title": "受AI冲击 短剧霸总回家种地",
+          "url": "https://www.baidu.com/s?wd=%E5%8F%97AI%E5%86%B2%E5%87%BB+%E7%9F%AD%E5%89%A7%E9%9C%B8%E6%80%BB%E5%9B%9E%E5%AE%B6%E7%A7%8D%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         }
       ]
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "特斯拉(TSLA.O)：第一季度毛利率为21.1%。",
@@ -566,6 +647,17 @@
           "time_info": "[01时55分 ~ 03时03分]"
         },
         {
+          "title": "新疆发行15年期一般债地方债，规模36.6300亿元，发行利率2.1900%，边际倍数13.11倍，倍数预期2.20； 新疆发行7年期一般债地方债，规模49.8700亿元，发行利率1.6800%，边际倍数2.78倍，倍数预期1.69； 新疆发行10年期其他专项地方债，规模8.4300亿元，发行利率1.8600%，边际倍数1.71倍，倍数预期1.86； 新疆发行15年期其他专项地方债，规模7.5100亿元，发行利率2.1900%，边际倍数3.79倍，倍数预期2.20； 新疆发行20年期其他专项地方债，规模4.8400亿元，发行利率2.3200%，边际倍数1.24倍，倍数预期2.33； 新疆发行7年期普通专项地方债，规模11.9300亿元，发行利率1.6800%，边际倍数2.46倍，倍数预期1.69。",
+          "url": "https://wallstreetcn.com/livenews/3093052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
           "title": "依视路陆逊梯卡EssilorLuxottica一季度营收71.3亿欧元，分析师预期71.3亿欧元。 一季度营收（剔除汇率因素）增长10.8%，分析师预期增长11.3%。 一季度北美营收31.3亿欧元，分析师预期31.7亿欧元。",
           "url": "https://wallstreetcn.com/livenews/3092746",
           "source": "华尔街见闻-快讯",
@@ -583,7 +675,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
@@ -597,6 +689,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "甘肃发行20年期其他专项地方债，规模10.3200亿元，发行利率2.4000%，边际倍数12.50倍，倍数预期2.33； 甘肃发行30年期其他专项地方债，规模1.3000亿元，发行利率2.4400%，边际倍数5.00倍，倍数预期2.40； 甘肃发行20年期收费公路专项地方债，规模6.0000亿元，发行利率2.3900%，边际倍数1.06倍，倍数预期2.34； 甘肃发行10年期其他专项地方债，规模6.9688亿元，发行利率1.8600%，边际倍数1.32倍，倍数预期1.86； 甘肃发行7年期一般债地方债，规模61.2610亿元，发行利率1.6800%，边际倍数1.72倍，倍数预期1.69； 甘肃发行10年期普通专项地方债，规模35.4759亿元，发行利率1.8600%，边际倍数1.57倍，倍数预期1.86； 甘肃发行7年期普通专项地方债，规模41.5200亿元，发行利率1.6800%，边际倍数1.64倍，倍数预期1.69。",
+          "url": "https://wallstreetcn.com/livenews/3093021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
+          "title": "进出口行发行66月期债券，规模70亿元，发行利率1.5881%，预期1.6000%，投标倍数3.76倍，边际倍数1.00倍； 进出口行发行1年期债券，规模140亿元，发行利率1.3041%，预期1.2900%，投标倍数3.96倍，边际倍数2.39倍。",
+          "url": "https://wallstreetcn.com/livenews/3093020",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         },
         {
           "title": "美国财政部拍卖四个月期国债，得标利率3.610%，投标倍数3.02。",
@@ -619,6 +733,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "甘肃发行7年期棚改专项地方债，规模3.2500亿元，发行利率1.6800%，边际倍数1.23倍，倍数预期1.69； 甘肃发行20年期其他专项地方债，规模8.9200亿元，发行利率2.3900%，边际倍数3.23倍，倍数预期2.33。",
+          "url": "https://wallstreetcn.com/livenews/3093016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
+        },
+        {
+          "title": "印尼盾兑美元汇率一度下跌0.7%，至17,298，创9月以来最大单日跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3093010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         }
       ]
     },
@@ -632,11 +768,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时40分 ~ 09时59分]"
+          "appearance_count": 5,
+          "time_info": "[07时40分 ~ 12时51分]"
         },
         {
           "title": "谷歌设立7.5亿美元基金，助力咨询公司应用AI",
@@ -710,7 +847,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI在ChatGPT引入Workspace Agents。",
@@ -723,6 +860,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时55分 ~ 03时03分]"
+        },
+        {
+          "title": "ChatGPT Images 2.0发布",
+          "url": "https://www.douyin.com/hot/2474931",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时51分"
         },
         {
           "title": "OpenAI：在ChatGPT中引入工作空间助手。",
@@ -742,7 +890,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时59分"
         },
