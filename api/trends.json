@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T18:02:46.479206+08:00",
-  "total_titles_processed": 930,
+  "generated_at": "2026-04-23T19:10:25.710208+08:00",
+  "total_titles_processed": 1034,
   "failed_sources": [],
   "trends": [
     {
@@ -55,7 +55,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "微软承诺投入近180亿美元建设澳大利亚人工智能能力",
@@ -78,6 +78,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        },
+        {
+          "title": "日本财务大臣片山皋月：我决定加快与主要银行、东京证券交易所、日本央行在人工智能模型Mythos上的协调。",
+          "url": "https://flash.jin10.com/detail/20260423184701944800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时10分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-04-23）",
@@ -105,8 +116,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时17分 ~ 18时02分]"
+          "appearance_count": 6,
+          "time_info": "[09时17分 ~ 19时10分]"
         },
         {
           "title": "马斯克算法撕开日本遮羞布",
@@ -116,11 +127,12 @@
             11,
             15,
             17,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时17分 ~ 18时02分]"
+          "appearance_count": 6,
+          "time_info": "[09时17分 ~ 19时10分]"
         }
       ]
     },
@@ -188,7 +200,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         }
