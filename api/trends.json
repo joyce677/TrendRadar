@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T20:13:59.191345+08:00",
-  "total_titles_processed": 1143,
+  "generated_at": "2026-04-23T22:18:02.066861+08:00",
+  "total_titles_processed": 1273,
   "failed_sources": [],
   "trends": [
     {
@@ -104,37 +104,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何评价 DeepSeek API 更新百万 Token 上下文，看齐 App 及网页版？",
-          "url": "https://www.zhihu.com/question/2030308965683291022",
-          "source": "知乎",
-          "ranks": [
-            3,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 12时26分]"
-        },
-        {
-          "title": "如何看待腾讯、阿里洽谈投资 DeepSeek 的消息，估值超过 200 亿美元合理吗？",
-          "url": "https://www.zhihu.com/question/2030589948001084304",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌云年度Next大会：TPU打破“内存墙” OCS、液冷题材如期亮相",
@@ -155,9 +126,50 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
+        },
+        {
+          "title": "市场消息：欧盟将制定指导方针，要求谷歌为ChatGPT和Claude在安卓系统上提供与Gemini相同的功能。",
+          "url": "https://flash.jin10.com/detail/20260423214834084800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何评价 DeepSeek API 更新百万 Token 上下文，看齐 App 及网页版？",
+          "url": "https://www.zhihu.com/question/2030308965683291022",
+          "source": "知乎",
+          "ranks": [
+            3,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时17分 ~ 12时26分]"
+        },
+        {
+          "title": "如何看待腾讯、阿里洽谈投资 DeepSeek 的消息，估值超过 200 亿美元合理吗？",
+          "url": "https://www.zhihu.com/question/2030589948001084304",
+          "source": "知乎",
+          "ranks": [
+            16,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时13分 ~ 22时18分]"
         }
       ]
     },
@@ -174,8 +186,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时17分 ~ 20时13分]"
+          "appearance_count": 9,
+          "time_info": "[09时17分 ~ 22时18分]"
         },
         {
           "title": "马斯克算法撕开日本遮羞布",
@@ -186,11 +198,12 @@
             15,
             17,
             19,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时17分 ~ 20时13分]"
+          "appearance_count": 9,
+          "time_info": "[09时17分 ~ 22时18分]"
         }
       ]
     },
