@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T12:26:50.879159+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-04-23T14:21:22.676296+08:00",
+  "total_titles_processed": 632,
   "failed_sources": [],
   "trends": [
     {
@@ -47,7 +47,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
         }
@@ -86,7 +86,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时26分"
         }
@@ -105,8 +105,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 12时26分]"
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 14时21分]"
         },
         {
           "title": "马斯克算法撕开日本遮羞布",
@@ -114,11 +114,12 @@
           "source": "贴吧",
           "ranks": [
             11,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 12时26分]"
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 14时21分]"
         }
       ]
     },
@@ -153,8 +154,25 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时17分 ~ 12时26分]"
+          "appearance_count": 3,
+          "time_info": "[09时17分 ~ 14时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Anthropic",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "澳大利亚内政部发言人：正与软件供应商及Anthropic等公司合作，以确保我们能了解新兴的漏洞问题。",
+          "url": "https://flash.jin10.com/detail/20260423132552613800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         }
       ]
     }
