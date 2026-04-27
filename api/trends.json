@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T15:29:12.941134+08:00",
-  "total_titles_processed": 678,
+  "generated_at": "2026-04-27T17:36:21.454951+08:00",
+  "total_titles_processed": 827,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "如何评价 DeepSeek V4 Pro 官网限时 2.5 折优惠和缓存永久大降价？",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时20分 ~ 15时29分]"
+          "appearance_count": 5,
+          "time_info": "[09时20分 ~ 17时36分]"
         },
         {
           "title": "一条视频看懂DeepSeek V4",
@@ -25,11 +25,12 @@
           "ranks": [
             4,
             1,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时20分 ~ 15时29分]"
+          "appearance_count": 5,
+          "time_info": "[09时20分 ~ 17时36分]"
         },
         {
           "title": "DeepSeek V4“寄予厚望”！国产算力“进攻的矛”--超节点",
@@ -41,8 +42,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时20分 ~ 15时29分]"
+          "appearance_count": 5,
+          "time_info": "[09时20分 ~ 17时36分]"
         },
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -55,6 +56,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时20分 ~ 12时45分]"
+        },
+        {
+          "title": "中国信通院：正式启动DeepSeek V4国产化适配测试工作",
+          "url": "https://www.cls.cn/detail/2356575",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         },
         {
           "title": "深入解读DeepSeek V1-V4",
@@ -73,11 +85,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33057893",
           "source": "澎湃新闻",
           "ranks": [
-            20
+            20,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时45分 ~ 15时29分]"
+          "appearance_count": 4,
+          "time_info": "[12时45分 ~ 17时36分]"
         },
         {
           "title": "“价格屠夫”DeepSeek再度出手 国产算力核心标的有望直接受益",
@@ -108,7 +121,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -146,6 +159,17 @@
           "time_info": "12时45分"
         },
         {
+          "title": "DeepSeek 多位骨干离职去大厂，他们的去向透露出哪些信息？会对 DeepSeek 自身带来多大影响？",
+          "url": "https://www.zhihu.com/question/2031824748590494923",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
+        },
+        {
           "title": "DeepSeekV4脱离英伟达了吗",
           "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E8%84%B1%E7%A6%BB%E8%8B%B1%E4%BC%9F%E8%BE%BE%E4%BA%86%E5%90%97",
           "source": "bilibili 热搜",
@@ -163,7 +187,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -174,7 +198,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
         },
@@ -207,9 +231,37 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "郭明錤：OpenAI正与联发科及高通合作开发手机处理器，预计2028年量产。",
+          "url": "https://flash.jin10.com/detail/20260427115755863800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时45分"
+        },
+        {
+          "title": "高通(QCOM.O)盘前涨10%，此前分析师爆料称公司正在与OpenAI合作开发智能手机处理器。",
+          "url": "https://flash.jin10.com/detail/20260427170928667800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时36分"
         }
       ]
     },
@@ -234,23 +286,6 @@
           "source": "金十数据",
           "ranks": [
             22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "郭明錤：OpenAI正与联发科及高通合作开发手机处理器，预计2028年量产。",
-          "url": "https://flash.jin10.com/detail/20260427115755863800",
-          "source": "金十数据",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 1,
