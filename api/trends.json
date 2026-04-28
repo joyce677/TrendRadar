@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-29T05:02:08.223298+08:00",
-  "total_titles_processed": 436,
+  "generated_at": "2026-04-29T06:50:27.599049+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 11,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2358592",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时42分 ~ 06时50分]"
+        },
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，纳指盘初跌1.2%，半导体集体回调，WTI涨破百元大关，金银下挫",
           "url": "https://wallstreetcn.com/articles/3771095",
@@ -19,15 +30,16 @@
           "time_info": "[01时42分 ~ 05时02分]"
         },
         {
-          "title": "OpenAI增长疑云引发科技股回调 海合会召开特别峰会 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2358592",
-          "source": "财联社热门",
+          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
+          "url": "https://wallstreetcn.com/articles/3771064",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时42分 ~ 05时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时42分 ~ 06时50分]"
         },
         {
           "title": "埃隆·马斯克在加州联邦法院的OpenAI案庭审中出庭作证。",
@@ -52,16 +64,15 @@
           "time_info": "03时24分"
         },
         {
-          "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
-          "url": "https://wallstreetcn.com/articles/3771064",
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股债齐跌，半导体集体回调，WTI涨破百元大关，金银下挫",
+          "url": "https://wallstreetcn.com/articles/3771095",
           "source": "华尔街见闻",
           "ranks": [
-            7,
-            6
+            2
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时42分 ~ 05时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
         },
         {
           "title": "OpenAI：华尔街日报的报道是标题党，公司各项业务“火力全开”",
@@ -100,6 +111,28 @@
           "time_info": "[01时42分 ~ 03时24分]"
         },
         {
+          "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
+          "url": "https://www.cls.cn/detail/2358855",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
+        },
+        {
+          "title": "报道：OpenAI预计用户将大规模转向更廉价的ChatGPT订阅层级",
+          "url": "https://wallstreetcn.com/livenews/3096044",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
+        },
+        {
           "title": "市场分析：科技股抛售潮折射出OpenAI的巨大影响力",
           "url": "https://flash.jin10.com/detail/20260429025003263800",
           "source": "金十数据",
@@ -109,6 +142,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时24分"
+        },
+        {
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
+        },
+        {
+          "title": "据The Information：OpenAI预计今年将有1.12亿用户订阅ChatGPT Go。",
+          "url": "https://flash.jin10.com/detail/20260429060010713800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
+        },
+        {
+          "title": "据The Information：OpenAI预计今年“8美元ChatGPT Go”的订阅量将大幅增长。",
+          "url": "https://flash.jin10.com/detail/20260429055922440800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
+        },
+        {
+          "title": "据AXIOS：OpenAI与Anthropic就先进网络模型与美国众议院委员会举行会议。",
+          "url": "https://flash.jin10.com/detail/20260429055656678800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
         },
         {
           "title": "亚马逊云服务(AWS)与OpenAI宣布扩大合作伙伴关系。",
@@ -122,13 +199,24 @@
           "time_info": "01时42分"
         },
         {
+          "title": "OpenAI与Anthropic（上）周四向美国众议院国土安全委员会做了一次简报。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3096036",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
+        },
+        {
           "title": "马斯克在 OpenAI 案件审判中出庭作证，称“掠夺慈善机构”绝不可取",
           "url": "https://wallstreetcn.com/livenews/3095986",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         }
@@ -146,8 +234,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时42分 ~ 05时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时42分 ~ 06时50分]"
         },
         {
           "title": "岗位被AI替代怎么办？杭州发布指引",
@@ -180,11 +268,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            19
+            19,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 05时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 06时50分]"
         },
         {
           "title": "AI海报杀疯,设计师饭碗被砸",
@@ -194,8 +283,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 05时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 06时50分]"
         },
         {
           "title": "报道：苹果计划在今年发布的iOS 27中利用AI全面革新照片编辑功能",
@@ -234,7 +323,7 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "美国财政部拍卖440亿美元七年期国债，得标利率4.175%（3月26日为4.255），投标倍数2.51（前次为2.43）。",
@@ -247,6 +336,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时42分 ~ 03时24分]"
+        },
+        {
+          "title": "美联储次日凌晨维持利率不变的概率为100%",
+          "url": "https://flash.jin10.com/detail/20260429060246857800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
+        },
+        {
+          "title": "智利央行一致决定维持利率在4.50%不变。",
+          "url": "https://flash.jin10.com/detail/20260429060037235800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
+        },
+        {
+          "title": "智利央行维持关键利率在4.5%不变，符合预期。 全球经济继续表现出不确定性。",
+          "url": "https://wallstreetcn.com/livenews/3096038",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
         },
         {
           "title": "美国至4月28日7年期国债竞拍-得标利率 4.175%，前值4.26%。",
@@ -274,7 +396,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌突然退出美国国防部无人机蜂群技术竞标",
@@ -294,9 +416,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
+        },
+        {
+          "title": "据CNBC记者：美国国防部的人工智能负责人确认，该部门正在扩大对谷歌Gemini人工智能模型的使用。",
+          "url": "https://flash.jin10.com/detail/20260429054900131800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时50分"
         }
       ]
     },
@@ -310,11 +443,12 @@
           "source": "澎湃新闻",
           "ranks": [
             17,
-            16
+            16,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时42分 ~ 05时02分]"
+          "appearance_count": 6,
+          "time_info": "[01时42分 ~ 06时50分]"
         },
         {
           "title": "标普500指数的11个板块多数收涨，能源板块涨1.65%，房地产、日用消费品板块涨0.99%，电信、可选消费、工业板块则至多收跌0.88%，原材料板块跌0.17%，信息技术/科技跌1.29%。",
@@ -323,7 +457,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时02分"
         }
