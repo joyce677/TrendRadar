@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T06:52:26.593763+08:00",
-  "total_titles_processed": 600,
+  "generated_at": "2026-04-30T07:48:14.371184+08:00",
+  "total_titles_processed": 658,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "利率 汇率",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "锂电业绩大分化：上游多家材料厂利增十倍 储能龙头却坦言毛利率稳中有降是常态",
@@ -17,8 +17,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 06时52分]"
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 07时48分]"
+        },
+        {
+          "title": "香港金管局维持基准利率在4%不变。",
+          "url": "https://flash.jin10.com/detail/20260430070356302800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时48分"
         },
         {
           "title": "鲍威尔：我认为，我们相当接近中性利率。 不存在恢复实质性限制性货币政策的可能性。",
@@ -32,6 +43,18 @@
           "time_info": "03时14分"
         },
         {
+          "title": "美联储如期维持利率不变 内部分歧创1992年以来新高",
+          "url": "https://www.cls.cn/detail/2360231",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时56分 ~ 07时48分]"
+        },
+        {
           "title": "巴西央行下调基准贷款利率25个基点，至14.50%。",
           "url": "https://wallstreetcn.com/livenews/3096965",
           "source": "华尔街见闻-快讯",
@@ -42,17 +65,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时55分 ~ 06时52分]"
-        },
-        {
-          "title": "美联储如期维持利率不变 内部分歧创1992年以来新高",
-          "url": "https://www.cls.cn/detail/2360231",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时56分 ~ 05时55分]"
         },
         {
           "title": "微软第三财季营收828.9亿美元，分析师预期814.6亿美元。 第三财季运营利润384亿美元，分析师预期369亿美元。 第三财季Azure与其他云剔除汇率因素之后的营收增长39%，分析师预期增长38.2%。 第三财季云营收545亿美元，分析师预期537.8亿美元。 第三财季微软365商业云营收增长19%，消费者云营收增长33%。 第三财季LinkedIn营收增长12%，Dynamics 365营收增长22%。 第三财季Windos OEM与设备营收下滑2%，Xbox内容与服务营收下滑5%。 第三财季资本开支包含319亿美元租赁费用，分析师预期352.9亿美元。 微软在业绩报告发布后冲高回落，涨3%之后转而跌1.57%。",
@@ -71,11 +83,35 @@
           "url": "https://flash.jin10.com/detail/20260430060826680800",
           "source": "金十数据",
           "ranks": [
-            9
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时48分]"
+        },
+        {
+          "title": "微软(MSFT.O)：以固定汇率计算，预计第四财季Azure及其他云服务收入增速在39%-40%之间。",
+          "url": "https://flash.jin10.com/detail/20260430060150417800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时48分]"
+        },
+        {
+          "title": "香港金管局维持基准利率在4%不变。",
+          "url": "https://wallstreetcn.com/livenews/3096997",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时52分"
+          "time_info": "07时48分"
         },
         {
           "title": "鲍威尔：人们没说我们现在需要加息。 关于利率指引的措辞将是不错的讨论。",
@@ -89,24 +125,13 @@
           "time_info": "03时14分"
         },
         {
-          "title": "微软(MSFT.O)：以固定汇率计算，预计第四财季Azure及其他云服务收入增速在39%-40%之间。",
-          "url": "https://flash.jin10.com/detail/20260430060150417800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
           "title": "微软预计2026日历年资本开支为1900亿美元。 预计第四财季Azure销售案恒定汇率将增长39%-40%，预计将在（日历年）下半年“温和增长”。 预计第四财季Copilot Seats将较之前一个季度增长。 预计第四财季营收将增长13%-15%。",
           "url": "https://wallstreetcn.com/livenews/3096973",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -169,8 +194,20 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
+          "url": "https://wallstreetcn.com/articles/3771194",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 07时48分]"
+        },
         {
           "title": "AI魔改黑袍,星光姐被玩坏",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353890&amp;topic_name=AI%E9%AD%94%E6%94%B9%E9%BB%91%E8%A2%8D%2C%E6%98%9F%E5%85%89%E5%A7%90%E8%A2%AB%E7%8E%A9%E5%9D%8F",
@@ -179,19 +216,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 06时52分]"
-        },
-        {
-          "title": "智谱、Minimax即将进入恒生科技和港股通--AI重塑港股的时刻来了",
-          "url": "https://wallstreetcn.com/articles/3771194",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[01时21分 ~ 06时52分]"
+          "time_info": "[01时21分 ~ 07时48分]"
         },
         {
           "title": "鲍威尔即将揭晓最终悬念 超级AI财报日来临 | 今夜看点",
@@ -203,19 +229,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 06时52分]"
-        },
-        {
-          "title": "Meta Platforms(META.O)CEO：相信用户会为“高端或高算力版本”的目标导向AI功能付费。",
-          "url": "https://flash.jin10.com/detail/20260430062037400800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时52分"
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 07时48分]"
         },
         {
           "title": "为什么我们总怪父母没抓住房产和互联网红利，可轮到自己面对 AI 时代红利时，也开始犹豫了？",
@@ -224,11 +239,58 @@
           "ranks": [
             19,
             17,
+            14,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[04时56分 ~ 07时48分]"
+        },
+        {
+          "title": "软银计划让旗下一家新的人工智能与机器人公司在美上市，软银正寻求为该AI公司（名为Roze）争取高达1000亿美元的估值。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3097003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时48分"
+        },
+        {
+          "title": "在异环中演奏See you again",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E5%BC%82%E7%8E%AF%E4%B8%AD%E6%BC%94%E5%A5%8FSee%20you%20again",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[04时56分 ~ 07时48分]"
+        },
+        {
+          "title": "Meta Platforms(META.O)CEO：相信用户会为“高端或高算力版本”的目标导向AI功能付费。",
+          "url": "https://flash.jin10.com/detail/20260430062037400800",
+          "source": "金十数据",
+          "ranks": [
+            3,
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时56分 ~ 06时52分]"
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时48分]"
+        },
+        {
+          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时52分 ~ 07时48分]"
         },
         {
           "title": "AI 对画师的斩杀线大概在哪个位置？",
@@ -237,17 +299,6 @@
           "ranks": [
             17,
             16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时56分 ~ 05时55分]"
-        },
-        {
-          "title": "在异环中演奏See you again",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9C%A8%E5%BC%82%E7%8E%AF%E4%B8%AD%E6%BC%94%E5%A5%8FSee%20you%20again",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -277,24 +328,13 @@
           "time_info": "01时21分"
         },
         {
-          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时52分"
-        },
-        {
           "title": "《灵魂摆渡》电影全 AI 生成，原班幕后坐镇，演员全换 AI 建模，能延续过往的情怀吗？你还会去看吗？",
           "url": "https://www.zhihu.com/question/2030222424457703714",
           "source": "知乎",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -413,7 +453,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时52分"
         },
@@ -435,23 +475,24 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
-          "url": "https://wallstreetcn.com/articles/3771095",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 06时52分]"
-        },
-        {
           "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
           "url": "https://wallstreetcn.com/articles/3771182",
           "source": "华尔街见闻",
           "ranks": [
             5,
-            6
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 07时48分]"
+        },
+        {
+          "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
+          "url": "https://wallstreetcn.com/articles/3771095",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -485,11 +526,12 @@
           "url": "https://flash.jin10.com/detail/20260430061412017800",
           "source": "金十数据",
           "ranks": [
-            5
+            5,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时52分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时52分 ~ 07时48分]"
         },
         {
           "title": "OpenAI：开发者大会9月29日在旧金山举行。",
@@ -516,8 +558,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时14分 ~ 06时52分]"
+          "appearance_count": 7,
+          "time_info": "[03时14分 ~ 07时48分]"
         },
         {
           "title": "马斯克为何不惜重金拿下Cursor",
@@ -535,7 +577,7 @@
     },
     {
       "keyword_group": "房价 楼市 房地产",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "深圳楼市“五一”前放大招：核心区增购房资格 上调公积金额度",
@@ -549,8 +591,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时21分 ~ 06时52分]"
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 07时48分]"
+        },
+        {
+          "title": "证券日报：扎实推进城市更新，因城施策稳定房地产市场",
+          "url": "https://wallstreetcn.com/livenews/3096994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时48分"
         }
       ]
     }
