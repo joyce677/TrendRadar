@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T09:30:40.108705+08:00",
-  "total_titles_processed": 326,
+  "generated_at": "2026-04-29T12:50:03.707000+08:00",
+  "total_titles_processed": 517,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "美伊悬而未决，OpenAI“鬼故事”扰动，美股美债齐跌，半导体回调，WTI破百，金银大跌",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 12时50分]"
         },
         {
           "title": "美股收盘：OpenAI相关股票承压 三大指数集体下跌",
@@ -26,8 +26,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 12时50分]"
+        },
+        {
+          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
+          "url": "https://wallstreetcn.com/articles/3771151",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时29分 ~ 12时50分]"
         },
         {
           "title": "报道：OpenAI用户和营收双双未达标，CFO警告“还没准备好上市，或难以履行算力采购合同”",
@@ -52,26 +64,26 @@
           "time_info": "[09时29分 ~ 09时30分]"
         },
         {
-          "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
-          "url": "https://wallstreetcn.com/articles/3771151",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时29分 ~ 09时30分]"
-        },
-        {
           "title": "OpenAI：当我们发现有人试图使用我们的工具潜在地策划或实施暴力时，我们会采取行动，包括撤销访问权限。",
           "url": "https://flash.jin10.com/detail/20260429085748656800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
+        },
+        {
+          "title": "马斯克控诉“慈善被掠夺”，OpenAI反驳其想要“王国的钥匙”",
+          "url": "https://flash.jin10.com/detail/20260429115733020800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时50分"
         }
       ]
     },
@@ -84,11 +96,29 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeekV4Pro%E4%BC%98%E6%83%A0%E5%BB%B6%E6%9C%9F",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时30分 ~ 12时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2026-04-29）",
+          "url": "https://flash.jin10.com/detail/20260429115755266800",
+          "source": "金十数据",
+          "ranks": [
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时30分"
+          "time_info": "12时50分"
         }
       ]
     },
@@ -103,7 +133,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时30分"
         }
