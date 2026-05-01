@@ -1,11 +1,61 @@
 {
-  "generated_at": "2026-04-30T23:07:35.417815+08:00",
-  "total_titles_processed": 1177,
+  "generated_at": "2026-05-01T09:31:54.980045+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
+          "url": "https://wallstreetcn.com/articles/3771356",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
+          "url": "https://www.cls.cn/detail/2361634",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "科技巨头财报大比拼，为什么只有谷歌赢了？",
+          "url": "https://wallstreetcn.com/articles/3771342",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
+          "url": "https://news.ifeng.com/c/8skgZ2z6e0A",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
@@ -15,352 +65,81 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时22分 ~ 23时07分]"
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "全面测评DeepSeek V4",
+          "url": "https://search.bilibili.com/all?keyword=%E5%85%A8%E9%9D%A2%E6%B5%8B%E8%AF%84DeepSeek%20V4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
           "source": "bilibili 热搜",
           "ranks": [
-            15,
-            14,
-            16,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时28分 ~ 23时07分]"
-        },
-        {
-          "title": "Deepseek-V4 究竟在编程上和 Claude-Opus-4.7 差距有多大？",
-          "url": "https://www.zhihu.com/question/2031352480852915686",
-          "source": "知乎",
-          "ranks": [
-            18,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时22分 ~ 23时07分]"
-        },
-        {
-          "title": "如何评价 DeepSeek 刚刚上线的多模态「识图模式」？",
-          "url": "https://www.zhihu.com/question/2032851960177631968",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "DeepSeek思考过程好萌",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E6%80%9D%E8%80%83%E8%BF%87%E7%A8%8B%E5%A5%BD%E8%90%8C&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时00分 ~ 23时07分]"
-        },
-        {
-          "title": "DeepSeek多模态模型来了",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
-          "url": "https://wallstreetcn.com/articles/3771319",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时51分 ~ 23时07分]"
-        },
-        {
-          "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
-          "url": "https://wallstreetcn.com/articles/3771311",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时51分 ~ 23时07分]"
-        },
-        {
-          "title": "谷歌入驻广州珠江新城",
-          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E5%85%A5%E9%A9%BB%E5%B9%BF%E5%B7%9E%E7%8F%A0%E6%B1%9F%E6%96%B0%E5%9F%8E&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时22分 ~ 21时01分]"
-        },
-        {
-          "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
-          "url": "https://news.ifeng.com/c/8skgZ2z6e0A",
-          "source": "凤凰网",
-          "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时07分"
+          "time_info": "09时31分"
         }
       ]
     },
     {
-      "keyword_group": "Anthropic",
-      "match_count": 3,
+      "keyword_group": "人工智能",
+      "match_count": 1,
       "titles": [
         {
-          "title": "Anthropic提议允许另外70家公司使用其Mythos资源，白宫反对Anthropic扩大Mythos用户范围的计划。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3097049",
+          "title": "周四（4月30日），美股信息科技指数收涨2.06%，报341.16点，4月份累涨31.48%。 人工智能（AI）赢家指数涨1.69%，报357.04点，4月份累上涨29.66%。 AI软件先驱指数跌1.22%，报96.01点，4月份累涨2.48%。",
+          "url": "https://wallstreetcn.com/livenews/3097751",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "据华尔街日报：消息人士透露，特朗普政府告知Anthropic，反对扩大对Mythos模型的访问权限。",
-          "url": "https://flash.jin10.com/detail/20260430090057317800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "美国间谍机构利用Anthropic的大模型Mythos来寻找网络弱点。",
-          "url": "https://wallstreetcn.com/livenews/3097572",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "增长",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "AI驱动多项业务增长！Alphabet创四年最强季度营收增速，云业务飙升63%",
-          "url": "https://www.cls.cn/detail/2360312",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 12时51分]"
-        },
-        {
-          "title": "“AI次贷危机”初现端倪：GitHub Copilot转向按量计费，撕开了\"补贴换增长\"的遮羞布",
-          "url": "https://wallstreetcn.com/articles/3771219",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时22分 ~ 17时32分]"
-        },
-        {
-          "title": "三星电子：计划在第二季度交付HBM4E样品。 预计下半年服务器存储需求将保持强劲。 智能体AI将让下半年的需求增长加速。",
-          "url": "https://wallstreetcn.com/livenews/3097024",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "港股开盘，恒生指数开跌0.40%，恒生科技指数开跌0.68%；AI应用、芯片、生物医药、新能源车企等概念涨幅居前；中国人寿(02628.HK)绩后涨超4%。",
-          "url": "https://flash.jin10.com/detail/20260430092059606800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "Citadel证券与证券衍生品策略主管Scott Rubner：AI的开支与需求没有出现下滑迹象。 美国科技巨头被抛售，给投资者提供了进场机会。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3097574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时07分"
-        },
-        {
-          "title": "中国电信董事长：Token经营的本质就是为用户提供AI服务",
-          "url": "https://wallstreetcn.com/livenews/3097395",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "Anthropic 年收 300 亿，碾压 OpenAI，为什么 OpenAI 坐拥 9 亿周活用户，却被后来者反超？",
-          "url": "https://www.zhihu.com/question/2032816031513538587",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        },
-        {
-          "title": "马斯克OpenAI案二日庭审证词总结",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8BOpenAI%E6%A1%88%E4%BA%8C%E6%97%A5%E5%BA%AD%E5%AE%A1%E8%AF%81%E8%AF%8D%E6%80%BB%E7%BB%93",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时22分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马斯克出庭控诉奥特曼",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%87%BA%E5%BA%AD%E6%8E%A7%E8%AF%89%E5%A5%A5%E7%89%B9%E6%9B%BC",
-          "source": "bilibili 热搜",
           "ranks": [
             25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时28分"
-        },
-        {
-          "title": "马斯克与SpaceX天价薪酬方案有何深意",
-          "url": "https://www.toutiao.com/trending/7634521845265337862/",
-          "source": "今日头条",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时07分"
+          "time_info": "09时31分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
+      "keyword_group": "马斯克",
       "match_count": 1,
       "titles": [
         {
-          "title": "不再当好好先生！特朗普发AI持枪图威胁伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33079055",
-          "source": "澎湃新闻",
+          "title": "马斯克2025年特斯拉薪酬总额达1580亿美元",
+          "url": "https://wallstreetcn.com/livenews/3097752",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11,
-            15,
-            12,
-            10,
-            9
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时28分 ~ 21时01分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "内容创作",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "在上海，找到创作主场！市委网信办启动“互联网优质内容创作活动月”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33078229",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时07分"
+          "time_info": "09时31分"
         }
       ]
     },
     {
-      "keyword_group": "小红书",
+      "keyword_group": "Anthropic",
       "match_count": 1,
       "titles": [
         {
-          "title": "小红书发内部信：加大 AI 投入，柯南出任总裁",
-          "url": "https://wallstreetcn.com/livenews/3097165",
+          "title": "Anthropic大模型Mythos的扩张包括日本（市场）。（日经新闻）",
+          "url": "https://wallstreetcn.com/livenews/3097753",
           "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时51分"
+          "time_info": "09时31分"
         }
       ]
     }
