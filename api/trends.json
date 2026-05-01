@@ -1,72 +1,11 @@
 {
-  "generated_at": "2026-05-01T13:08:26.709001+08:00",
-  "total_titles_processed": 502,
+  "generated_at": "2026-05-01T15:41:00.261883+08:00",
+  "total_titles_processed": 645,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
-          "url": "https://wallstreetcn.com/articles/3771356",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 13时08分]"
-        },
-        {
-          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
-          "url": "https://www.cls.cn/detail/2361634",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 13时08分]"
-        },
-        {
-          "title": "美股四大科技巨头「谷歌、微软、亚马逊、 Meta」2026 年 Q1 财报同时出炉，如何解析？",
-          "url": "https://www.zhihu.com/question/2033115543276930640",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
-        },
-        {
-          "title": "科技巨头财报大比拼，为什么只有谷歌赢了？",
-          "url": "https://wallstreetcn.com/articles/3771342",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        },
-        {
-          "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
-          "url": "https://news.ifeng.com/c/8skgZ2z6e0A",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
@@ -74,22 +13,35 @@
           "source": "贴吧",
           "ranks": [
             2,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 13时08分]"
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 15时41分]"
         },
         {
           "title": "DeepSeek多模态正式发布",
           "url": "https://www.douyin.com/hot/2485029",
           "source": "抖音",
           "ranks": [
-            6
+            6,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时08分 ~ 15时41分]"
+        },
+        {
+          "title": "DeepSeek梦话大赏",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E6%A2%A6%E8%AF%9D%E5%A4%A7%E8%B5%8F%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时40分 ~ 15时41分]"
         },
         {
           "title": "全面测评DeepSeek V4",
@@ -116,9 +68,82 @@
       ]
     },
     {
-      "keyword_group": "人工智能",
-      "match_count": 1,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
       "titles": [
+        {
+          "title": "经济数据与财报提振信心，标普、纳指新高，谷歌大涨10%，日元暴涨",
+          "url": "https://wallstreetcn.com/articles/3771356",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 15时41分]"
+        },
+        {
+          "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
+          "url": "https://www.cls.cn/detail/2361634",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 15时41分]"
+        },
+        {
+          "title": "美股四大科技巨头「谷歌、微软、亚马逊、 Meta」2026 年 Q1 财报同时出炉，如何解析？",
+          "url": "https://www.zhihu.com/question/2033115543276930640",
+          "source": "知乎",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时08分 ~ 15时41分]"
+        },
+        {
+          "title": "科技巨头财报大比拼，为什么只有谷歌赢了？",
+          "url": "https://wallstreetcn.com/articles/3771342",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
+          "url": "https://news.ifeng.com/c/8skgZ2z6e0A",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "法国总理：将开发和部署人工智能工具，以检测系统存在的漏洞和弱点。这是一个安全和主权的问题。",
+          "url": "https://flash.jin10.com/detail/20260501142522147800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时41分"
+        },
         {
           "title": "周四（4月30日），美股信息科技指数收涨2.06%，报341.16点，4月份累涨31.48%。 人工智能（AI）赢家指数涨1.69%，报357.04点，4月份累上涨29.66%。 AI软件先驱指数跌1.22%，报96.01点，4月份累涨2.48%。",
           "url": "https://wallstreetcn.com/livenews/3097751",
@@ -160,7 +185,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
         }
@@ -194,9 +219,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时08分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时08分 ~ 15时41分]"
         }
       ]
     }
