@@ -1,8 +1,76 @@
 {
-  "generated_at": "2026-05-02T18:40:07.956203+08:00",
-  "total_titles_processed": 806,
+  "generated_at": "2026-05-02T19:36:02.747609+08:00",
+  "total_titles_processed": 858,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
+          "url": "https://wallstreetcn.com/articles/3771463",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时32分 ~ 19时36分]"
+        },
+        {
+          "title": "OpenAI 称 GPT-5.5 中「哥布林」泛滥是奖励机制所致，这反映了大模型训练的哪些难题？",
+          "url": "https://www.zhihu.com/question/2033267772931749457",
+          "source": "知乎",
+          "ranks": [
+            8,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时54分 ~ 18时40分]"
+        },
+        {
+          "title": "马斯克承认蒸馏ChatGPT",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%BF%E8%AE%A4%E8%92%B8%E9%A6%8FChatGPT",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时32分 ~ 14时54分]"
+        },
+        {
+          "title": "“我真是个傻瓜”，马斯克大战OpenAI索赔1500亿美元",
+          "url": "https://news.ifeng.com/c/8snnwdxDs8v",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时35分 ~ 19时36分]"
+        },
+        {
+          "title": "OpenAI：人工智能在一个月内从编写20%的代码提升至80%。",
+          "url": "https://flash.jin10.com/detail/20260502172401507800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 19时36分]"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 4,
@@ -113,61 +181,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "太抓马了！马斯克OpenAI开庭，硅谷巨富互揭老底像极了村口吵架",
-          "url": "https://wallstreetcn.com/articles/3771463",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时32分 ~ 18时40分]"
-        },
-        {
-          "title": "OpenAI 称 GPT-5.5 中「哥布林」泛滥是奖励机制所致，这反映了大模型训练的哪些难题？",
-          "url": "https://www.zhihu.com/question/2033267772931749457",
-          "source": "知乎",
-          "ranks": [
-            8,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时54分 ~ 18时40分]"
-        },
-        {
-          "title": "马斯克承认蒸馏ChatGPT",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E6%89%BF%E8%AE%A4%E8%92%B8%E9%A6%8FChatGPT",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时32分 ~ 14时54分]"
-        },
-        {
-          "title": "OpenAI：人工智能在一个月内从编写20%的代码提升至80%。",
-          "url": "https://flash.jin10.com/detail/20260502172401507800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能",
       "match_count": 1,
       "titles": [
@@ -198,8 +211,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时22分 ~ 18时40分]"
+          "appearance_count": 10,
+          "time_info": "[09时22分 ~ 19时36分]"
         }
       ]
     },
