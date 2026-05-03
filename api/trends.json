@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-03T17:02:06.098438+08:00",
-  "total_titles_processed": 683,
+  "generated_at": "2026-05-03T18:03:19.964794+08:00",
+  "total_titles_processed": 734,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
       "match_count": 4,
       "titles": [
+        {
+          "title": "马斯克去年薪酬实发金额为0",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8E%BB%E5%B9%B4%E8%96%AA%E9%85%AC%E5%AE%9E%E5%8F%91%E9%87%91%E9%A2%9D%E4%B8%BA0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时01分 ~ 18时03分]"
+        },
         {
           "title": "马斯克1583亿美元薪酬实际为0",
           "url": "https://flash.jin10.com/detail/20260503115208564800",
@@ -31,17 +43,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时25分 ~ 15时13分]"
-        },
-        {
-          "title": "马斯克去年薪酬实发金额为0",
-          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8E%BB%E5%B9%B4%E8%96%AA%E9%85%AC%E5%AE%9E%E5%8F%91%E9%87%91%E9%A2%9D%E4%B8%BA0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时01分 ~ 17时02分]"
         },
         {
           "title": "马斯克 2025 年总薪酬 1583.6 亿美元，全部为股票奖励，因考核没过，实际薪酬为零，如何看待此事？",
@@ -69,8 +70,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时13分 ~ 17时02分]"
+          "appearance_count": 4,
+          "time_info": "[15时13分 ~ 18时03分]"
         },
         {
           "title": "DeepSeek评世界杯转播权僵局",
@@ -127,6 +128,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特朗普发赤裸上身和万斯等人泡澡AI照",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E8%B5%A4%E8%A3%B8%E4%B8%8A%E8%BA%AB%E5%92%8C%E4%B8%87%E6%96%AF%E7%AD%89%E4%BA%BA%E6%B3%A1%E6%BE%A1AI%E7%85%A7%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时03分"
         }
       ]
     }
