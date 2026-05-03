@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-05-03T09:26:05.588010+08:00",
-  "total_titles_processed": 334,
+  "generated_at": "2026-05-03T12:53:49.341566+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "马斯克",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "马斯克1583亿美元薪酬实际为0",
+          "url": "https://flash.jin10.com/detail/20260503115208564800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时53分"
+        },
+        {
+          "title": "马斯克去年总薪酬：1583.6亿美元？实际到手：0美元！",
+          "url": "https://www.cls.cn/detail/2361824",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时25分 ~ 12时53分]"
+        },
+        {
+          "title": "马斯克 2025 年总薪酬 1583.6 亿美元，全部为股票奖励，因考核没过，实际薪酬为零，如何看待此事？",
+          "url": "https://www.zhihu.com/question/2033597739573965448",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 09时26分]"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
@@ -25,37 +65,9 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马斯克去年总薪酬：1583.6亿美元？实际到手：0美元！",
-          "url": "https://www.cls.cn/detail/2361824",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
-        },
-        {
-          "title": "马斯克 2025 年总薪酬 1583.6 亿美元，全部为股票奖励，因考核没过，实际薪酬为零，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2033597739573965448",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时25分 ~ 09时26分]"
         }
       ]
     },
@@ -70,7 +82,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         }
@@ -87,7 +99,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         }
