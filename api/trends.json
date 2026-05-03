@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-03T12:53:49.341566+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-05-03T15:13:24.828916+08:00",
+  "total_titles_processed": 590,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://flash.jin10.com/detail/20260503115208564800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 15时13分]"
         },
         {
           "title": "马斯克去年总薪酬：1583.6亿美元？实际到手：0美元！",
@@ -27,8 +28,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时25分 ~ 12时53分]"
+          "appearance_count": 4,
+          "time_info": "[09时25分 ~ 15时13分]"
         },
         {
           "title": "马斯克 2025 年总薪酬 1583.6 亿美元，全部为股票奖励，因考核没过，实际薪酬为零，如何看待此事？",
@@ -40,6 +41,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时25分 ~ 09时26分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek员工为何不加班",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%91%98%E5%B7%A5%E4%B8%BA%E4%BD%95%E4%B8%8D%E5%8A%A0%E7%8F%AD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "DeepSeek评世界杯转播权僵局",
+          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%AF%84%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BD%AC%E6%92%AD%E6%9D%83%E5%83%B5%E5%B1%80%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时26分"
         }
       ]
     },
@@ -64,23 +93,6 @@
           "source": "金十数据",
           "ranks": [
             12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek评世界杯转播权僵局",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E8%AF%84%E4%B8%96%E7%95%8C%E6%9D%AF%E8%BD%AC%E6%92%AD%E6%9D%83%E5%83%B5%E5%B1%80%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
           ],
           "is_new": false,
           "appearance_count": 1,
