@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T12:53:44.653193+08:00",
-  "total_titles_processed": 510,
+  "generated_at": "2026-05-04T15:42:23.964651+08:00",
+  "total_titles_processed": 673,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时24分 ~ 12时53分]"
+          "appearance_count": 3,
+          "time_info": "[09时24分 ~ 15时42分]"
         }
       ]
     },
@@ -49,9 +50,26 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "增长",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
+          "url": "https://www.cls.cn/detail/2362279",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         }
       ]
     },
@@ -66,9 +84,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时53分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时53分 ~ 15时42分]"
         }
       ]
     }
