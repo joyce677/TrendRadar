@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-05T17:25:58.554871+08:00",
-  "total_titles_processed": 750,
+  "generated_at": "2026-05-05T18:58:16.314889+08:00",
+  "total_titles_processed": 845,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "09时24分"
         },
         {
+          "title": "挪威主权财富基金首席执行官：即将有3个重要IPO——SpaceX、Anthropic和OpenAI，我们通常会投资这些公司。",
+          "url": "https://wallstreetcn.com/livenews/3098735",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时25分 ~ 18时58分]"
+        },
+        {
           "title": "“从未见过此等增速”！Anthropic年化收入两个月翻番，首超OpenAI",
           "url": "https://wallstreetcn.com/articles/3771533",
           "source": "华尔街见闻",
@@ -28,17 +40,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
-        },
-        {
-          "title": "挪威主权财富基金首席执行官：即将有3个重要IPO——SpaceX、Anthropic和OpenAI，我们通常会投资这些公司。",
-          "url": "https://wallstreetcn.com/livenews/3098735",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时25分"
         }
       ]
     },
@@ -46,6 +47,19 @@
       "keyword_group": "增长",
       "match_count": 3,
       "titles": [
+        {
+          "title": "AI驱动增长全面爆发，Palantir Q1营收激增85%、上调全年指引远超预期 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3771556",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时09分 ~ 18时58分]"
+        },
         {
           "title": "科创板PCB板块一季报扫描：超七成企业营收净利双增长 AI算力催生高端产能扩张",
           "url": "https://www.cls.cn/detail/2362279",
@@ -60,25 +74,13 @@
           "time_info": "[09时24分 ~ 15时09分]"
         },
         {
-          "title": "AI驱动增长全面爆发，Palantir Q1营收激增85%、上调全年指引远超预期 | 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3771556",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时09分 ~ 17时25分]"
-        },
-        {
           "title": "鸿海：4月营收同比增长29.74%。 第二季度是ICT行业的传统淡季，主要产品正处于新旧机型交替期。 不过，AI服务器预计将保持持续增长趋势。 根据目前的可见性，预计第二季度营收将实现环比和同比增长。 但仍需关注全球政治与经济局势波动的影响。",
           "url": "https://wallstreetcn.com/livenews/3098730",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时25分"
         }
@@ -96,11 +98,12 @@
             8,
             17,
             19,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时24分 ~ 17时25分]"
+          "appearance_count": 5,
+          "time_info": "[09时24分 ~ 18时58分]"
         },
         {
           "title": "中国移动将推出AI-eSIM产品",
@@ -113,6 +116,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时32分 ~ 15时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "UP主优化DeepSeek V4",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BC%98%E5%8C%96DeepSeek%20V4",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
         }
       ]
     },
@@ -147,6 +167,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
+          "url": "https://news.ifeng.com/c/8ssll5TyVCi",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
         }
       ]
     }
