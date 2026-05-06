@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-06T09:22:50.084453+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-05-06T12:48:32.622303+08:00",
+  "total_titles_processed": 506,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
+        {
+          "title": "OpenAI推出GPT-5.5 Instant",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%8E%A8%E5%87%BAGPT-5.5+Instant",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 12时48分]"
+        },
         {
           "title": "OpenAI或加速手机开发",
           "url": "https://s.weibo.com/weibo?q=%23OpenAI%E6%88%96%E5%8A%A0%E9%80%9F%E6%89%8B%E6%9C%BA%E5%BC%80%E5%8F%91%23&t=31&band_rank=19&Refer=top",
@@ -17,17 +29,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美军部署超10万个人工智能体，欲打造“算法铁幕”谋求算法霸权",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33099232",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时48分"
         },
         {
-          "title": "OpenAI推出GPT-5.5 Instant",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E6%8E%A8%E5%87%BAGPT-5.5+Instant",
-          "source": "百度热搜",
+          "title": "金十数据整理：每日人工智能动态汇总（2026-05-06）",
+          "url": "https://flash.jin10.com/detail/20260506120002891800",
+          "source": "金十数据",
           "ranks": [
-            22
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时22分"
+          "time_info": "12时48分"
         }
       ]
     },
@@ -40,22 +69,24 @@
           "url": "https://wallstreetcn.com/articles/3771572",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 12时48分]"
         },
         {
           "title": "从0开始了解Claude Code",
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E0%E5%BC%80%E5%A7%8B%E4%BA%86%E8%A7%A3Claude%20Code",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时22分"
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 12时48分]"
         }
       ]
     },
@@ -68,11 +99,29 @@
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E4%BC%98%E5%8C%96DeepSeek%20V4",
           "source": "bilibili 热搜",
           "ranks": [
-            27
+            27,
+            22
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 12时48分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Anthropic推出金融AI代理 谷歌、Meta被曝开发“龙虾”应用 | 环球市场",
+          "url": "https://www.cls.cn/detail/2363224",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时22分"
+          "time_info": "12时48分"
         }
       ]
     },
@@ -88,8 +137,25 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 12时48分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Anthropic",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Anthropic为何成了美国安全威胁",
+          "url": "https://search.bilibili.com/all?keyword=Anthropic%E4%B8%BA%E4%BD%95%E6%88%90%E4%BA%86%E7%BE%8E%E5%9B%BD%E5%AE%89%E5%85%A8%E5%A8%81%E8%83%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时22分"
+          "time_info": "12时48分"
         }
       ]
     },
