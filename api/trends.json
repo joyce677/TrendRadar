@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-06T19:02:13.395440+08:00",
-  "total_titles_processed": 1222,
+  "generated_at": "2026-05-06T20:29:04.393034+08:00",
+  "total_titles_processed": 1351,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "上调寒武纪、下调浪潮信息！高盛预言了“国产AI芯片的崛起”场景",
@@ -37,6 +37,18 @@
           "time_info": "[01时25分 ~ 10时08分]"
         },
         {
+          "title": "AI基建涨疯了，但数据中心烧钱也快烧光了，债务泡沫开始破裂",
+          "url": "https://wallstreetcn.com/articles/3771608",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时50分 ~ 20时29分]"
+        },
+        {
           "title": "立场反转，特朗普政府考虑对AI模型进行安全审查",
           "url": "https://news.ifeng.com/c/8ssll5TyVCi",
           "source": "凤凰网",
@@ -48,16 +60,15 @@
           "time_info": "[01时25分 ~ 10时08分]"
         },
         {
-          "title": "AI基建涨疯了，但数据中心烧钱也快烧光了，债务泡沫开始破裂",
-          "url": "https://wallstreetcn.com/articles/3771608",
-          "source": "华尔街见闻",
+          "title": "AI算力格局重塑！AMD财报会实录：CPU需求爆发 进入新一轮高增长通道",
+          "url": "https://www.cls.cn/detail/2363503",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            4
+            1
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时50分 ~ 19时02分]"
+          "time_info": "[19时00分 ~ 20时29分]"
         },
         {
           "title": "大学生用AI把家乡拖鞋卖到海外",
@@ -71,15 +82,16 @@
           "time_info": "[13时50分 ~ 13时51分]"
         },
         {
-          "title": "AI算力格局重塑！AMD财报会实录：CPU需求爆发 进入新一轮高增长通道",
-          "url": "https://www.cls.cn/detail/2363503",
-          "source": "财联社热门",
+          "title": "高通“二号人物”加盟英特尔，负责客户端计算与物理AI集团",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33099664",
+          "source": "澎湃新闻",
           "ranks": [
-            1
+            20,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时00分 ~ 19时02分]"
+          "appearance_count": 7,
+          "time_info": "[06时54分 ~ 20时29分]"
         },
         {
           "title": "从猫狗到水果 AI短剧还能火多久",
@@ -141,18 +153,6 @@
           "time_info": "[01时25分 ~ 04时58分]"
         },
         {
-          "title": "高通“二号人物”加盟英特尔，负责客户端计算与物理AI集团",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33099664",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时54分 ~ 19时02分]"
-        },
-        {
           "title": "AMD给出的季度营收指引高于市场预期，得益于AI芯片需求保持强劲",
           "url": "https://wallstreetcn.com/livenews/3098957",
           "source": "华尔街见闻-快讯",
@@ -164,6 +164,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时59分 ~ 07时43分]"
+        },
+        {
+          "title": "一图看懂 | 全球AI链迎史诗级共振暴涨，A股市场跑出了哪些“黑马”？",
+          "url": "https://www.cls.cn/detail/2363932",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时28分 ~ 20时29分]"
         },
         {
           "title": "Meta正在打造一款AI Agent（人工智能智能体），名叫Hatch和一款Instagram内的购物工具代理。（The Information）",
@@ -604,7 +615,7 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "中国央行：今日开展260亿元7天逆回购操作，投标量260亿元，中标量260亿元，操作利率为1.40%，与此前持平。",
@@ -627,6 +638,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        },
+        {
+          "title": "受伊朗停火乐观情绪影响，美元兑谢克尔汇率下跌1.1%至2.90，创1993年10月以来最低水平。",
+          "url": "https://wallstreetcn.com/livenews/3099374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "美联储6月维持利率不变的概率为96.0%",
@@ -657,7 +679,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         },
@@ -707,7 +729,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         }
