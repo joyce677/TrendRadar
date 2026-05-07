@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T15:46:25.406625+08:00",
-  "total_titles_processed": 672,
+  "generated_at": "2026-05-07T18:33:18.529862+08:00",
+  "total_titles_processed": 847,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时27分 ~ 15时46分]"
+          "appearance_count": 5,
+          "time_info": "[09时27分 ~ 18时33分]"
         },
         {
           "title": "国家队领投DeepSeek首轮融资",
@@ -67,7 +68,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "阿联酋国防部：启动一项专门针对武装部队成员的人工智能和先进数字解决方案的培训计划。",
@@ -76,9 +77,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
+        },
+        {
+          "title": "中美正考虑启动有关人工智能的官方讨论？外交部回应",
+          "url": "https://www.cls.cn/detail/2364810",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2026-05-07）",
@@ -90,6 +102,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时51分"
+        },
+        {
+          "title": "美国就业服务公司“挑战者”职场专家Andy Challenger：科技公司持续宣布大规模裁员，在所有行业中裁员人数最多。他们通常还会提及人工智能方面的投入和创新。无论具体工作岗位是否真的被人工智能取代，这些岗位的资金都会被人工智能取代。",
+          "url": "https://flash.jin10.com/detail/20260507174313143800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
         },
         {
           "title": "穆迪：人工智能热潮或将停滞，拖累亚太地区出口增长",
@@ -106,7 +129,7 @@
     },
     {
       "keyword_group": "Anthropic",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "SpaceX成算力租赁巨头 Anthropic大手一挥包下Colossus 1全部容量",
@@ -132,6 +155,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时27分 ~ 15时46分]"
+        },
+        {
+          "title": "Anthropic大手笔租下SpaceX顶级数据中心！深扒协议细节：22万块GPU是个什么水平？",
+          "url": "https://www.cls.cn/detail/2364674",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时33分"
         }
       ]
     },
@@ -175,9 +209,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时46分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时46分 ~ 18时33分]"
         }
       ]
     }
