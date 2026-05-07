@@ -1,8 +1,86 @@
 {
-  "generated_at": "2026-05-08T00:15:24.950930+08:00",
-  "total_titles_processed": 304,
+  "generated_at": "2026-05-08T02:19:49.322683+08:00",
+  "total_titles_processed": 384,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
+          "url": "https://wallstreetcn.com/articles/3771759",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "OpenAI：扩展安全警报选项，让所有18岁以上的用户都能选择将自己信任的人设为可信联系人。",
+          "url": "https://flash.jin10.com/detail/20260508020011019800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "OpenAI：开始向用户推出“可信联系人”功能。",
+          "url": "https://flash.jin10.com/detail/20260508015927604800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        },
+        {
+          "title": "OpenAI：GPT-Realtime-2的定价为音频输入每百万token 32美元 音频输出每百万token 64美元",
+          "url": "https://wallstreetcn.com/livenews/3100136",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Anthropic与SpaceX签署300兆瓦算力协议，旨在满足AI需求增长",
+          "url": "https://wallstreetcn.com/articles/3771688",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "三角洲如何忽悠AI送礼",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%A6%82%E4%BD%95%E5%BF%BD%E6%82%A0AI%E9%80%81%E7%A4%BC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时19分"
+        }
+      ]
+    },
     {
       "keyword_group": "利率 汇率",
       "match_count": 2,
@@ -24,23 +102,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "Anthropic与SpaceX签署300兆瓦算力协议，旨在满足AI需求增长",
-          "url": "https://wallstreetcn.com/articles/3771688",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 1,
