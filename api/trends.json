@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-09T06:50:37.371608+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-05-09T07:50:58.361691+08:00",
+  "total_titles_processed": 550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
@@ -27,11 +27,12 @@
             28,
             10,
             29,
-            27
+            27,
+            25
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 06时50分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 07时50分]"
         },
         {
           "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
@@ -45,16 +46,39 @@
           "time_info": "[01时10分 ~ 05时54分]"
         },
         {
+          "title": "周五（5月8日），美股AI软件先驱指数跌0.29%，报106.05点，跳空低开之后逐步收复失地，本周累涨6.36%。 成分股HubSpot收跌19.03%，ServiceNOW跌2.58%，Salesforce跌2.43%，Adobe跌1.35%，微软跌1.34%跌幅第五大，铿腾电子涨1.63%表现第五，MongoDB涨2.06%，新思科技涨2.23%，C3.ai涨3.03%，Datadog涨6.06%。",
+          "url": "https://wallstreetcn.com/livenews/3100961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
+          "title": "周五（5月8日），美股人工智能（AI）赢家指数收涨3.46%，报393.07点，创收盘历史新高，本周累计上涨8.09%。 成分股Fluence能源收涨27.36%，Sandisk涨16.60%，美光科技涨15.49%，戴尔科技涨13.11%，AMD涨11.44%表现第六，安费诺则收跌6.29%表现倒数第二，CoreWeave跌11.40%。",
+          "url": "https://wallstreetcn.com/livenews/3100960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时50分"
+        },
+        {
           "title": "报道：xAI上周裁员约10人，近期离职人员包括Mistral AI创始成员",
           "url": "https://wallstreetcn.com/livenews/3100934",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            8
+            8,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时54分 ~ 06时50分]"
+          "appearance_count": 3,
+          "time_info": "[05时54分 ~ 07时50分]"
         },
         {
           "title": "GAI新歌星梦MV",
@@ -166,17 +190,6 @@
           "time_info": "03时08分"
         },
         {
-          "title": "AMD收涨超11%，今年股价已经翻倍，苹果收涨2%，谷歌A涨0.7%",
-          "url": "https://wallstreetcn.com/livenews/3100943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时50分"
-        },
-        {
           "title": "谷歌(GOOG.O)旗下的Isomorphic Labs将筹集超过20亿美元的新资金。",
           "url": "https://flash.jin10.com/detail/20260509024606066800",
           "source": "金十数据",
@@ -186,6 +199,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时08分"
+        },
+        {
+          "title": "AMD收涨超11%，今年股价已经翻倍，苹果收涨2%，谷歌A涨0.7%",
+          "url": "https://wallstreetcn.com/livenews/3100943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时50分 ~ 07时50分]"
         },
         {
           "title": "谷歌旗下Isomorphic Labs拟在新一轮融资中筹集逾20亿美元",
@@ -234,8 +259,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时10分 ~ 06时50分]"
+          "appearance_count": 8,
+          "time_info": "[01时10分 ~ 07时50分]"
         }
       ]
     }
