@@ -1,615 +1,72 @@
 {
-  "generated_at": "2026-05-08T23:21:14.306225+08:00",
-  "total_titles_processed": 1689,
+  "generated_at": "2026-05-09T01:11:09.327109+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 25,
+      "match_count": 4,
       "titles": [
         {
           "title": "华为“天才少年”选择创业：用AI重构先进制造业，目标实现国产超越",
           "url": "https://m.thepaper.cn/newsDetail_forward_33105333",
           "source": "澎湃新闻",
           "ranks": [
-            18,
-            15,
-            11,
-            10,
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时25分 ~ 23时21分]"
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 01时11分]"
         },
         {
-          "title": "美股收盘：三大指数集体收跌 AI应用和软件板块逆势走强",
-          "url": "https://www.cls.cn/detail/2365503",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时46分 ~ 13时25分]"
-        },
-        {
-          "title": "三角洲如何忽悠AI送礼",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%89%E8%A7%92%E6%B4%B2%E5%A6%82%E4%BD%95%E5%BF%BD%E6%82%A0AI%E9%80%81%E7%A4%BC",
+          "title": "GAI新歌星梦MV",
+          "url": "https://search.bilibili.com/all?keyword=GAI%E6%96%B0%E6%AD%8C%E6%98%9F%E6%A2%A6MV",
           "source": "bilibili 热搜",
           "ranks": [
-            30,
-            28,
-            26,
-            20,
-            25
+            10
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时19分 ~ 15时20分]"
-        },
-        {
-          "title": "华尔街“传奇大佬”都铎琼斯：AI牛市“还能再持续一两年”，沃什“绝不可能”让美联储降息",
-          "url": "https://wallstreetcn.com/articles/3771771",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时10分 ~ 23时21分]"
-        },
-        {
-          "title": "AI四小龙估值破万亿",
-          "url": "https://www.toutiao.com/trending/7637337803117825590/",
-          "source": "今日头条",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 15时20分]"
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 01时11分]"
         },
         {
           "title": "SK 海力士因 AI 热潮发数百万元人均奖金，三星员工因待遇落差拟罢工，如何评价？反映了怎样的行业现状？",
           "url": "https://www.zhihu.com/question/2035827414475993469",
           "source": "知乎",
           "ranks": [
-            13,
-            7,
             12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时10分 ~ 23时21分]"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特：（谈AI导致的失业）如今我们正目睹AI创造就业。",
-          "url": "https://flash.jin10.com/detail/20260508211217764800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时15分"
-        },
-        {
-          "title": "加码科技金融，中小银行盼AIC试点扩容",
-          "url": "https://wallstreetcn.com/livenews/3100243",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            21
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时55分 ~ 07时46分]"
-        },
-        {
-          "title": "GAI专辑先行曲星梦",
-          "url": "https://www.douyin.com/hot/2491118",
-          "source": "抖音",
-          "ranks": [
-            29,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时19分 ~ 21时15分]"
-        },
-        {
-          "title": "知名爆料人：苹果首款AI视觉TWS设备已进入开发后期阶段",
-          "url": "https://www.cls.cn/detail/2365476",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 13时25分]"
-        },
-        {
-          "title": "日本右翼重金炮制AI假视频抹黑中国",
-          "url": "https://search.bilibili.com/all?keyword=%E6%97%A5%E6%9C%AC%E5%8F%B3%E7%BF%BC%E9%87%8D%E9%87%91%E7%82%AE%E5%88%B6AI%E5%81%87%E8%A7%86%E9%A2%91%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时14分 ~ 21时15分]"
+          "time_info": "[01时10分 ~ 01时11分]"
         },
         {
           "title": "私募和AI合体意味着什么",
           "url": "https://search.bilibili.com/all?keyword=%E7%A7%81%E5%8B%9F%E5%92%8CAI%E5%90%88%E4%BD%93%E6%84%8F%E5%91%B3%E7%9D%80%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[23时20分 ~ 23时21分]"
-        },
-        {
-          "title": "券商All in AI要多大财力？IT投入实力较量最新排行榜",
-          "url": "https://www.cls.cn/detail/2365785",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时10分 ~ 19时06分]"
-        },
-        {
-          "title": "顶级玩家已开始让AI用AI",
-          "url": "https://www.toutiao.com/trending/7637442790393122350/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时20分 ~ 23时21分]"
-        },
-        {
-          "title": "Anthropic与SpaceX签署300兆瓦算力协议，旨在满足AI需求增长",
-          "url": "https://wallstreetcn.com/articles/3771688",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "美媒披露：有美国组织高价雇网红抹黑中国AI产业，相关资金来自美AI巨头",
-          "url": "https://wallstreetcn.com/livenews/3100252",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "国际货币基金组织：AI对金融稳定构成潜在威胁",
-          "url": "https://wallstreetcn.com/livenews/3100631",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        },
-        {
-          "title": "传奇投资者：AI牛市“还能再持续一两年”",
-          "url": "https://wallstreetcn.com/livenews/3100154",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "贝莱德：非农对美联储意味着维持现状 宏观叙事已被AI主题主导",
-          "url": "https://flash.jin10.com/detail/20260508210349784800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时15分"
-        },
-        {
-          "title": "南威软件：公司关注到近期市场对算力租赁、人工智能相关概念的关注度较高。目前，公司北京七星园数字经济产业智算中心主体结构仍在建设中，智算运营相关的AI工具仍处于测试阶段，尚未正式发版。公司上述业务收入不足1%，对当期业绩不构成重大影响。",
-          "url": "https://wallstreetcn.com/livenews/3100627",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        },
-        {
-          "title": "港股AI应用股盘初拉升，迈富时(02556.HK)涨超11.5%，阜博集团(03738.HK)涨超5%，金山软件(03888.HK)、金蝶国际(00268.HK)、明源云(00909.HK)、微盟集团(02013.HK)均涨超3%。",
-          "url": "https://flash.jin10.com/detail/20260508095355656800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "南威软件：公司智算运营相关的AI工具仍处于测试阶段，尚未正式发版",
-          "url": "https://flash.jin10.com/detail/20260508182018476800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时06分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：下一代AI基础设施将需要大量的光学连接 铜线已无法满足需求",
-          "url": "https://flash.jin10.com/detail/20260508095017331800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "传奇投资者：沃什“绝无可能”降息，AI牛市还能持续1-2年",
-          "url": "https://flash.jin10.com/detail/20260508094554022800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "<a href=\"https://cdn.jin10.com/vip_column/index.html#/detail?id=850524&skuID=1671010697886&type=article&courseID=225&from=flash\" target=\"_blank\"><img src=\"https://img.jin10.com/misc/26/05/_7fDx_-OvpA6uVrXJZgJ9.jpg/lite\" height=\"120\"/></a>",
-          "url": "https://flash.jin10.com/detail/20260508122500600800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
+          "time_info": "[01时10分 ~ 01时11分]"
         }
       ]
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 16,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "房地美：美国30年期固定利率抵押贷款在5月7日当周的平均利率为6.37%，高于前一周的6.30%。",
-          "url": "https://flash.jin10.com/detail/20260508000148822800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "联邦基金期货定价显示美联储年内将维持利率不变",
-          "url": "https://flash.jin10.com/detail/20260508211213933800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时15分"
-        },
-        {
-          "title": "美联储6月维持利率不变的概率为96.4%",
-          "url": "https://flash.jin10.com/detail/20260508061145793800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时55分 ~ 07时46分]"
-        },
         {
           "title": "离岸人民币汇率升破 6.80 关口，有哪些原因？还会继续升么？",
           "url": "https://www.zhihu.com/question/2036025399935775604",
           "source": "知乎",
           "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时20分 ~ 23时21分]"
-        },
-        {
-          "title": "美国财政部拍卖四周期国债，得标利率3.610%，投标倍数2.59。 拍卖八周期国债，得标利率3.595%，投标倍数2.91。",
-          "url": "https://wallstreetcn.com/livenews/3100095",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "重庆发行7年期一般债地方债，规模9.0000亿元，发行利率1.6800%，边际倍数1.79倍，倍数预期1.68； 重庆发行15年期其他专项地方债，规模5.4400亿元，发行利率2.2600%，边际倍数1.10倍，倍数预期2.21； 重庆发行20年期其他专项地方债，规模12.7300亿元，发行利率2.4500%，边际倍数2.73倍，倍数预期2.41； 重庆发行30年期其他专项地方债，规模9.1700亿元，发行利率2.4900%，边际倍数11.17倍，倍数预期2.45； 重庆发行3年期一般债地方债，规模25.6900亿元，发行利率1.3400%，边际倍数1.81倍，倍数预期1.34； 重庆发行7年期一般债地方债，规模61.3000亿元，发行利率1.6800%，边际倍数2.15倍，倍数预期1.68； 重庆发行15年期普通专项地方债，规模63.0000亿元，发行利率2.2400%，边际倍数4.09倍，倍数预期2.21； 重庆发行20年期普通专项地方债，规模148.6700亿元，发行利率2.4400%，边际倍数1.14倍，倍数预期2.41。",
-          "url": "https://wallstreetcn.com/livenews/3100462",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "美国利率期货略微降低了2026年美联储加息的概率。",
-          "url": "https://wallstreetcn.com/livenews/3100728",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时15分"
-        },
-        {
-          "title": "据美国纽约联储数据，上个交易日（5月7日，非农前夜）担保隔夜融资利率（SOFR）报3.60%，之前一天报3.61%。 上个交易日有效的联邦基金利率报3.63%，之前一天报3.64%。",
-          "url": "https://wallstreetcn.com/livenews/3100804",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时21分"
-        },
-        {
-          "title": "美联储卡什卡利：受伊朗战争影响，下一步利率变动尚不确定",
-          "url": "https://wallstreetcn.com/livenews/3100251",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "丰田：预计本财年美元兑日元平均汇率为150。预计本财年欧元平均汇率为180日元。",
-          "url": "https://flash.jin10.com/detail/20260508125634580800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "中国央行公开市场开展5亿元7天期逆回购操作，操作利率1.40%，持平上日。今日无逆回购到期。",
-          "url": "https://wallstreetcn.com/livenews/3100302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
-        },
-        {
-          "title": "墨西哥央行：委员会以3票支持、2票反对通过降息决议。委员希思和博尔哈投票支持维持利率不变。",
-          "url": "https://flash.jin10.com/detail/20260508030250814800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "墨西哥央行：委员会在利率决定上并未达成一致。",
-          "url": "https://flash.jin10.com/detail/20260508030150467800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        },
-        {
-          "title": "中国财政部发行2年期债券，规模1700亿元，发行利率1.2295%，边际利率1.2571%，预期1.2300%，投标倍数2.31倍，边际倍数2.58倍； 中国财政部发行30年期债券，规模850亿元，发行利率2.2412%，预期2.2300%，投标倍数2.67倍，边际倍数1.11倍。",
-          "url": "https://wallstreetcn.com/livenews/3100389",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时25分"
-        },
-        {
-          "title": "非农公布后，美联储近期利率决议预期变化不大",
-          "url": "https://flash.jin10.com/detail/20260508205638461800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时15分"
-        },
-        {
-          "title": "进出口行发行3月期债券，规模40亿元，发行利率1.2999%，预期1.3000%，投标倍数1.00倍，边际倍数1.00倍。",
-          "url": "https://wallstreetcn.com/livenews/3100549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "全球AI新王诞生！Anthropic估值冲爆1.2万亿，首次反超OpenAI",
-          "url": "https://wallstreetcn.com/articles/3771759",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时19分 ~ 19时06分]"
-        },
-        {
-          "title": "软银将OpenAI保证金贷款目标削减40%，至60亿美元。",
-          "url": "https://wallstreetcn.com/livenews/3100476",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时20分"
-        },
-        {
-          "title": "存储超级周期重塑韩国婚恋市场 OpenAI芯片项目据传陷入融资困境 | 环球市场",
-          "url": "https://www.cls.cn/detail/2365554",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时24分 ~ 15时20分]"
-        },
-        {
-          "title": "OpenAI推出新模型，以供网络安全团队使用",
-          "url": "https://flash.jin10.com/detail/20260508065544953800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "OpenAI：扩展安全警报选项，让所有18岁以上的用户都能选择将自己信任的人设为可信联系人。",
-          "url": "https://flash.jin10.com/detail/20260508020011019800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "OpenAI：开始向用户推出“可信联系人”功能。",
-          "url": "https://flash.jin10.com/detail/20260508015927604800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "OpenAI：GPT-Realtime-2的定价为音频输入每百万token 32美元 音频输出每百万token 64美元",
-          "url": "https://wallstreetcn.com/livenews/3100136",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "OpenAI与博通的AI芯片交易遭遇180亿美元融资障碍。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3100153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何评价马斯克宣布 xAI 将解散，并入 SpaceX，只成为旗下一款 AI 产品？",
-          "url": "https://www.zhihu.com/question/2035662942067225907",
-          "source": "知乎",
-          "ranks": [
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时25分 ~ 13时25分]"
-        },
-        {
-          "title": "解散xAI ，马斯克和Anthropic都赢麻了",
-          "url": "https://wallstreetcn.com/articles/3771763",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时25分"
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 01时11分]"
         }
       ]
     }
