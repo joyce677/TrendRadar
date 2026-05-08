@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T20:53:54.275929+08:00",
-  "total_titles_processed": 1161,
+  "generated_at": "2026-05-08T22:29:01.539249+08:00",
+  "total_titles_processed": 1303,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "“人工智能+”走向智能经济新形态",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时31分 ~ 14时26分]"
+        },
+        {
+          "title": "报道：因担忧人工智能，TCI将微软持仓降至投资组合的1%",
+          "url": "https://wallstreetcn.com/livenews/3100790",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "四川修订省促进人工智能产业链发展若干政策，扩容“算力券”、启动“词元（Token）券”",
@@ -61,6 +72,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
+        },
+        {
+          "title": "英国富豪Chris Hohn旗下对冲基金TCI抛售了其在美国软件巨头微软(MSFT.O)公司持有的近80亿美元股份，并告诉投资者，人工智能对该公司占据主导地位的软件产品构成了威胁。",
+          "url": "https://flash.jin10.com/detail/20260508220508400800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时29分"
         },
         {
           "title": "南威软件：公司关注到近期市场对算力租赁、人工智能相关概念的关注度较高。目前，公司北京七星园数字经济产业智算中心主体结构仍在建设中，智算运营相关的AI工具仍处于测试阶段，尚未正式发版。公司上述业务收入不足1%，对当期业绩不构成重大影响。",
@@ -285,7 +307,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时53分"
         }
@@ -334,11 +356,12 @@
           "url": "https://www.zhihu.com/question/2036116192138457884",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时53分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时53分 ~ 22时29分]"
         }
       ]
     }
