@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-08T16:26:39.679690+08:00",
-  "total_titles_processed": 1129,
+  "generated_at": "2026-05-08T18:45:14.577325+08:00",
+  "total_titles_processed": 1281,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 96,
+      "match_count": 101,
       "titles": [
         {
           "title": "伊朗划定两条霍尔木兹航道，油价应声大跌",
@@ -13,11 +13,12 @@
           "source": "华尔街见闻",
           "ranks": [
             4,
-            2
+            2,
+            5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 16时26分]"
+          "appearance_count": 11,
+          "time_info": "[00时59分 ~ 18时45分]"
         },
         {
           "title": "霍尔木兹局势又紧张！伊朗称美违反停火空袭、已反击，美军称拦截伊发起的无端袭击",
@@ -25,11 +26,12 @@
           "source": "华尔街见闻",
           "ranks": [
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时01分 ~ 16时26分]"
+          "appearance_count": 7,
+          "time_info": "[08时01分 ~ 18时45分]"
         },
         {
           "title": "【早报】美方：定点打击伊军事设施；伊朗武装部队实施反击",
@@ -77,6 +79,17 @@
           "time_info": "[11时50分 ~ 14时04分]"
         },
         {
+          "title": "伊朗战争丨伊朗海军称扣押一艘违规油轮",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 18时45分]"
+        },
+        {
           "title": "伊朗确认将在美加墨世界杯开幕前 14 天抵达美国，如何看待这一决定？伊朗队世界杯发挥可能如何？",
           "url": "https://www.zhihu.com/question/2035679898308704139",
           "source": "知乎",
@@ -111,7 +124,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -147,6 +160,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "伊朗国家电视台称，伊朗军方在阿曼湾扣押了一艘油轮。",
+          "url": "https://wallstreetcn.com/livenews/3100624",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "伊朗官员：没有任何铀被移送出伊朗",
@@ -253,6 +277,31 @@
           "time_info": "[08时01分 ~ 16时26分]"
         },
         {
+          "title": "美国和伊朗又打起来了",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BC%8A%E6%9C%97%E5%8F%88%E6%89%93%E8%B5%B7%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6,
+            16,
+            30,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时50分 ~ 18时45分]"
+        },
+        {
+          "title": "美国 3 艘军舰穿越霍尔木兹海峡遭伊朗袭击，局势会升级吗？当前双方诉求是什么？",
+          "url": "https://www.zhihu.com/question/2036007359844020985",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时04分 ~ 18时45分]"
+        },
+        {
           "title": "伊朗打击美舰 美袭击伊油轮",
           "url": "https://www.toutiao.com/trending/7637289576934936100/",
           "source": "今日头条",
@@ -276,17 +325,29 @@
           "time_info": "[00时59分 ~ 06时09分]"
         },
         {
-          "title": "美国和伊朗又打起来了",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%9B%BD%E5%92%8C%E4%BC%8A%E6%9C%97%E5%8F%88%E6%89%93%E8%B5%B7%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
+          "title": "美中央司令部：对伊朗军事设施实施定点打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33118500",
+          "source": "澎湃新闻",
           "ranks": [
-            6,
-            16,
-            30
+            20,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时50分 ~ 18时45分]"
+        },
+        {
+          "title": "美军空袭伊朗港口",
+          "url": "https://www.douyin.com/hot/2491798",
+          "source": "抖音",
+          "ranks": [
+            9,
+            20
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时50分 ~ 16时26分]"
+          "time_info": "[16时26分 ~ 18时45分]"
         },
         {
           "title": "伊朗：最高领袖穆杰塔巴全面掌控局势",
@@ -299,17 +360,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时01分 ~ 11时50分]"
-        },
-        {
-          "title": "美国 3 艘军舰穿越霍尔木兹海峡遭伊朗袭击，局势会升级吗？当前双方诉求是什么？",
-          "url": "https://www.zhihu.com/question/2036007359844020985",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时04分 ~ 16时26分]"
         },
         {
           "title": "美军称袭击伊朗军事设施",
@@ -344,18 +394,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[08时01分 ~ 08时02分]"
-        },
-        {
-          "title": "美中央司令部：对伊朗军事设施实施定点打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33118500",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时50分 ~ 16时26分]"
         },
         {
           "title": "据福克斯新闻记者：从一位美国高级官员处获悉，美军刚刚袭击了伊朗米纳布的卡尔甘港海军检查站。",
@@ -466,17 +504,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
-        },
-        {
-          "title": "美军空袭伊朗港口",
-          "url": "https://www.douyin.com/hot/2491798",
-          "source": "抖音",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
         },
         {
           "title": "据伊朗Press TV：伊朗最高联合军事指挥部称，美国在一些地区国家的配合下，对平民地区进行了空袭。",
@@ -644,6 +671,17 @@
           "time_info": "08时02分"
         },
         {
+          "title": "伊朗海军扣押一艘违规油轮",
+          "url": "https://wallstreetcn.com/livenews/3100603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
           "title": "伊朗南部发生爆炸，伊媒指阿联酋或涉“敌对行动”",
           "url": "https://flash.jin10.com/detail/20260508035128765800",
           "source": "金十数据",
@@ -763,6 +801,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时09分"
+        },
+        {
+          "title": "两艘伊朗油轮在霍尔木兹海峡附近遇袭",
+          "url": "https://wallstreetcn.com/livenews/3100586",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "四名知情人士表示，美国中央情报局（CIA）本周的一份机密分析认为，伊朗至少可以在美国海上封锁下维持三至四个月，之后才会面临更严重的经济困境。（华盛顿邮报）",
@@ -941,6 +990,17 @@
           "time_info": "06时09分"
         },
         {
+          "title": "沙特媒体称伊朗预计今天回应美国方案",
+          "url": "https://wallstreetcn.com/livenews/3100582",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：阿巴斯港市再次传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260508044708787800",
           "source": "金十数据",
@@ -1087,7 +1147,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 47,
       "titles": [
         {
           "title": "从狂热支持到强烈担忧，日本“铁粉”也要弃特朗普了？",
@@ -1124,6 +1184,17 @@
           "time_info": "[00时59分 ~ 06时09分]"
         },
         {
+          "title": "中方回应何时发布特朗普访华消息",
+          "url": "https://www.toutiao.com/trending/7637034985857810475/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 18时45分]"
+        },
+        {
           "title": "特朗普访华前瞻——台湾怎么办？",
           "url": "https://news.ifeng.com/c/8swQYqpheqc",
           "source": "凤凰网",
@@ -1147,15 +1218,52 @@
           "time_info": "[00时59分 ~ 08时02分]"
         },
         {
-          "title": "中方回应何时发布特朗普访华消息",
-          "url": "https://www.toutiao.com/trending/7637034985857810475/",
-          "source": "今日头条",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-05-08）",
+          "url": "https://flash.jin10.com/detail/20260508181456677800",
+          "source": "金十数据",
           "ranks": [
-            2
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时26分"
+          "time_info": "18时45分"
+        },
+        {
+          "title": "卢拉会晤特朗普，称巴西不在中美之间选边站",
+          "url": "https://news.ifeng.com/c/8sx7oAMkRMI",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时50分 ~ 18时45分]"
+        },
+        {
+          "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
+          "url": "https://www.cls.cn/detail/2366051",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 18时45分]"
+        },
+        {
+          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2035771230985380677",
+          "source": "知乎",
+          "ranks": [
+            7,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时50分 ~ 18时45分]"
         },
         {
           "title": "特朗普称美伊“很可能”达成协议、威胁谈不成更强力轰炸，伊朗指美报道失实、称还在审阅美方提案",
@@ -1182,30 +1290,6 @@
           "time_info": "[02时53分 ~ 04时20分]"
         },
         {
-          "title": "卢拉会晤特朗普，称巴西不在中美之间选边站",
-          "url": "https://news.ifeng.com/c/8sx7oAMkRMI",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时50分 ~ 16时26分]"
-        },
-        {
-          "title": "王毅会见美国国会参议员代表团，此访是特朗普总统就任以来首个访华的两党参议员代表团，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2035771230985380677",
-          "source": "知乎",
-          "ranks": [
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时50分 ~ 16时26分]"
-        },
-        {
           "title": "晚宴枪击事件后，特朗普再为白宫宴会厅项目辩护",
           "url": "https://news.ifeng.com/c/8sxEzEFSGYq",
           "source": "凤凰网",
@@ -1216,6 +1300,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时50分 ~ 16时26分]"
+        },
+        {
+          "title": "中美双方就特朗普访华保持沟通",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BF%9D%E6%8C%81%E6%B2%9F%E9%80%9A",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时26分 ~ 18时45分]"
         },
         {
           "title": "黄仁勋：若受邀，将随特朗普一同访问中国",
@@ -1257,7 +1353,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -1304,17 +1400,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时04分"
-        },
-        {
-          "title": "特朗普称中美元首会谈将按计划举行，外交部回应",
-          "url": "https://www.cls.cn/detail/2366051",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
         },
         {
           "title": "美国总统特朗普：刚刚结束了与巴西总统卢拉的会晤。",
@@ -1504,17 +1589,6 @@
           "time_info": "04时20分"
         },
         {
-          "title": "中美双方就特朗普访华保持沟通",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E7%BE%8E%E5%8F%8C%E6%96%B9%E5%B0%B1%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E4%BF%9D%E6%8C%81%E6%B2%9F%E9%80%9A",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时26分"
-        },
-        {
           "title": "特朗普回应打击伊朗：只是小惩罚，停火仍然有效",
           "url": "https://flash.jin10.com/detail/20260508062437973800",
           "source": "金十数据",
@@ -1546,6 +1620,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "特朗普发图称已降低油价",
+          "url": "https://flash.jin10.com/detail/20260508180012129800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
         },
         {
           "title": "美国高级官员：特朗普与伊朗的停火还没有结束。（福克斯新闻）",
@@ -1598,6 +1683,18 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
+          "url": "https://wallstreetcn.com/articles/3771708",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时50分 ~ 18时45分]"
+        },
+        {
           "title": "美伊和谈预期升温，欧美股市大涨，标普纳指再新高，中概股指跑赢大盘，原油重挫，黄金大涨",
           "url": "https://wallstreetcn.com/articles/3771614",
           "source": "华尔街见闻",
@@ -1630,17 +1727,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[08时01分 ~ 14时04分]"
-        },
-        {
-          "title": "美伊和谈疑云压制风险情绪，美股指收跌，油价走V，离岸人民币盘中创四年新高",
-          "url": "https://wallstreetcn.com/articles/3771708",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时50分 ~ 16时26分]"
         },
         {
           "title": "重温泡沫巅峰的感觉？当前的美股涨的比1999年还快！",
@@ -1707,7 +1793,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时26分"
         },
@@ -1751,8 +1837,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时53分 ~ 16时26分]"
+          "appearance_count": 10,
+          "time_info": "[02时53分 ~ 18时45分]"
         },
         {
           "title": "博通(AVGO.O)股价小幅走低，下跌3.6%，报410美元。有报道称博通与OpenAI的交易因融资问题受阻。",
@@ -1836,8 +1922,69 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%B4%A9%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 18时45分]"
+        },
+        {
+          "title": "DeepSeek崩了",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B4%A9%E4%BA%86&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 18时45分]"
+        },
+        {
+          "title": "DeepSeek网页及API服务出现异常，官方称正在实施修复",
+          "url": "https://wallstreetcn.com/livenews/3100615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时45分"
+        },
+        {
+          "title": "DeepSeek估值450亿美元",
+          "url": "https://www.toutiao.com/trending/7637337504823119387/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        },
+        {
+          "title": "DeepSeek-TUI是如何火起来的",
+          "url": "https://www.toutiao.com/trending/7637338304165187078/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时04分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "全球最大黄金买家之一波兰央行：计划增持105吨黄金，金价短线拉升",
@@ -1849,8 +1996,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时01分 ~ 16时26分]"
+          "appearance_count": 7,
+          "time_info": "[08时01分 ~ 18时45分]"
+        },
+        {
+          "title": "中国央行连续第18个月增持黄金，国际金价升破4700美元后贵不贵？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33109633",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时44分 ~ 18时45分]"
         },
         {
           "title": "金十图示：2026年05月08日（周五）上海金早盘价为1036.12元/克，较国际金价(1030.95元/克)高5.17元/克",
@@ -1888,30 +2046,30 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "美债",
       "match_count": 2,
       "titles": [
         {
-          "title": "DeepSeek估值450亿美元",
-          "url": "https://www.toutiao.com/trending/7637337504823119387/",
-          "source": "今日头条",
+          "title": "分析师：中东局势缓和预期打压美元与美债收益率",
+          "url": "https://flash.jin10.com/detail/20260508181748199800",
+          "source": "金十数据",
           "ranks": [
-            20
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时04分"
+          "time_info": "18时45分"
         },
         {
-          "title": "DeepSeek-TUI是如何火起来的",
-          "url": "https://www.toutiao.com/trending/7637338304165187078/",
-          "source": "今日头条",
+          "title": "周四（5月7日）纽约尾盘，美国10年期国债收益率涨4.1个基点，报4.393%，北京时间20:55前后刷新日低至4.316%，随后显著回升。 两年期美债收益率涨4.6个基点，报3.916%；30年期美债收益率涨2.9个基点，报4.972%。",
+          "url": "https://wallstreetcn.com/livenews/3100167",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时04分"
+          "time_info": "04时20分"
         }
       ]
     },
@@ -1936,23 +2094,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "周四（5月7日）纽约尾盘，美国10年期国债收益率涨4.1个基点，报4.393%，北京时间20:55前后刷新日低至4.316%，随后显著回升。 两年期美债收益率涨4.6个基点，报3.916%；30年期美债收益率涨2.9个基点，报4.972%。",
-          "url": "https://wallstreetcn.com/livenews/3100167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 1,
