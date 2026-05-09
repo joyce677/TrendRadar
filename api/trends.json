@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T06:36:50.123456+08:00",
-  "total_titles_processed": 485,
+  "generated_at": "2026-05-10T07:40:32.045092+08:00",
+  "total_titles_processed": 515,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 13,
       "titles": [
         {
           "title": "“百度AI称一律师被判刑”构成侵权：百度辩称AI幻觉无法预见，法院判其书面道歉",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时40分]"
         },
         {
           "title": "报道：字节跳动计划将AI基础设施支出增加25%",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时40分]"
         },
         {
           "title": "专访中芯国际创始人张汝京：利基市场成半导体行业核心突围切口 看好AI场景化应用 赛道“小巨人”是破局关键",
@@ -36,11 +36,25 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时40分]"
+        },
+        {
+          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时40分]"
         },
         {
           "title": "摆脱传统试错模式，“90后”创业者用AI解决化工研发痛点",
@@ -67,28 +81,16 @@
           "time_info": "[00时44分 ~ 06时36分]"
         },
         {
-          "title": "被AI造谣？比亚迪、特斯拉、蔚小理等辟谣“被约谈”：不实！",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33139979",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时36分]"
-        },
-        {
           "title": "大空头：当前AI热潮酷似2000年互联网泡沫“破灭前几个月”",
           "url": "https://wallstreetcn.com/articles/3771893",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 06时36分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 07时40分]"
         },
         {
           "title": "德国AI动力无人机初创公司Helsing正计划以约180亿美元的估值筹集新一轮资金。（英国金融时报）",
@@ -101,8 +103,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时44分 ~ 06时36分]"
+          "appearance_count": 8,
+          "time_info": "[00时44分 ~ 07时40分]"
         },
         {
           "title": "35 岁主管被公司用 AI 替岗，月薪从 2.5 万降到 1.5 万，拒绝后被裁，面对技术替代，劳动者该怎么办？",
@@ -116,6 +118,50 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时44分 ~ 04时37分]"
+        },
+        {
+          "title": "AI修复美国公布UFO照片",
+          "url": "https://search.bilibili.com/all?keyword=AI%E4%BF%AE%E5%A4%8D%E7%BE%8E%E5%9B%BD%E5%85%AC%E5%B8%83UFO%E7%85%A7%E7%89%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "英伟达全面布局AI生态 股权投资今年已超400亿美元",
+          "url": "https://www.cls.cn/detail/2367033",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "【早报】字节被爆今年AI支出将超2000亿；我国第四代自主超导量子计算机上线",
+          "url": "https://www.cls.cn/detail/2367077",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
+        },
+        {
+          "title": "【社论】一本正经胡说八道，谁为AI幻觉担责？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33138759",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时40分"
         }
       ]
     },
@@ -129,11 +175,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时40分]"
         },
         {
           "title": "24岁掌管55亿美元！从被OpenAI扫地出门到华尔街投资新王：Leopold的“开挂人生”",
@@ -141,11 +188,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时40分]"
         },
         {
           "title": "为什么 ChatGPT 跟中文用户对话时，「我会稳稳地接住你」常会莫名其妙冒出来？你还发现 AI 的哪些怪癖？",
@@ -158,19 +206,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时44分 ~ 06时36分]"
+          "appearance_count": 9,
+          "time_info": "[00时44分 ~ 07时40分]"
         },
         {
           "title": "英伟达13倍涨幅不过尔尔？自ChatGPT问世以来的AI疯牛榜正发生巨变！",
           "url": "https://www.cls.cn/detail/2366733",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时53分 ~ 06时36分]"
+          "appearance_count": 5,
+          "time_info": "[03时53分 ~ 07时40分]"
         }
       ]
     }
