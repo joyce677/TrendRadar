@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-12T02:53:24.894609+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-05-12T04:29:02.392970+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "把AI用到了最有意义的场合",
+          "url": "https://www.douyin.com/hot/2495756",
+          "source": "抖音",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 04时29分]"
+        },
         {
           "title": "市场消息：美国俄克拉何马州HF Sinclair炼油厂发生大火，现场浓烟滚滚。",
           "url": "https://flash.jin10.com/detail/20260512024009408800",
@@ -14,7 +26,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -41,28 +53,17 @@
           "time_info": "00时27分"
         },
         {
-          "title": "把AI用到了最有意义的场合",
-          "url": "https://www.douyin.com/hot/2495756",
-          "source": "抖音",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 02时53分]"
-        },
-        {
           "title": "论文严查AI使用率是否合理",
           "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            30
+            30,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 04时29分]"
         },
         {
           "title": "AI时代如何评价各专业",
@@ -70,11 +71,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             15,
-            18
+            18,
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 04时29分]"
         },
         {
           "title": "AI原创短片国产爱死机",
@@ -82,11 +84,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             26,
-            17
+            17,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 02时53分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 04时29分]"
+        },
+        {
+          "title": "CORTIS新歌ACAI的MV来了",
+          "url": "https://www.douyin.com/hot/2495749",
+          "source": "抖音",
+          "ranks": [
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时27分 ~ 04时29分]"
         },
         {
           "title": "美国总统特朗普最快将于周一签署关于AI安全的命令。（华盛顿邮报）",
@@ -95,20 +110,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
         {
-          "title": "CORTIS新歌ACAI的MV来了",
-          "url": "https://www.douyin.com/hot/2495749",
-          "source": "抖音",
+          "title": "英国工党Tribune Group将要求摆脱财政制度，Louise Haigh呼吁首相斯塔默辞职。（泰晤士报）",
+          "url": "https://wallstreetcn.com/livenews/3101831",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时27分"
+          "time_info": "04时29分"
         },
         {
           "title": "英国银行监管机构预计最新AI模型将带来“相当显著的冲击”",
@@ -135,6 +150,34 @@
       ]
     },
     {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌母公司Alphabet收跌3%，创3月份以来最大单日跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3101843",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时29分"
+        },
+        {
+          "title": "谷歌：首次发现黑客借助AI开发“零日”漏洞攻击工具",
+          "url": "https://wallstreetcn.com/livenews/3101797",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "利率 汇率",
       "match_count": 2,
       "titles": [
@@ -145,7 +188,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         },
@@ -163,23 +206,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌：首次发现黑客借助AI开发“零日”漏洞攻击工具",
-          "url": "https://wallstreetcn.com/livenews/3101797",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -190,7 +216,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         }
@@ -207,7 +233,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         }
@@ -224,7 +250,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时53分"
         }
