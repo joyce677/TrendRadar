@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-12T12:59:01.240428+08:00",
-  "total_titles_processed": 658,
+  "generated_at": "2026-05-12T15:40:03.022610+08:00",
+  "total_titles_processed": 813,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_33149674",
           "source": "澎湃新闻",
           "ranks": [
-            18
+            18,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
+          "appearance_count": 4,
+          "time_info": "[12时58分 ~ 15时40分]"
         },
         {
           "title": "日本财务大臣片山皋月：意识到Mythos和其他先进人工智能可能构成重大威胁。",
@@ -58,7 +59,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         },
@@ -69,7 +70,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
         }
@@ -104,9 +105,43 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Claude Code上线新功能",
+          "url": "https://search.bilibili.com/all?keyword=Claude%20Code%E4%B8%8A%E7%BA%BF%E6%96%B0%E5%8A%9F%E8%83%BD",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时39分 ~ 15时40分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Anthropic",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待 Anthropic 购买百万实体书，扫描蒸馏后销毁？法院为啥认定合理使用？该行为可能带来啥影响？",
+          "url": "https://www.zhihu.com/question/2037127514833646636",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时39分 ~ 15时40分]"
         }
       ]
     }
