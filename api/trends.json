@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-12T20:32:55.874613+08:00",
-  "total_titles_processed": 1137,
+  "generated_at": "2026-05-12T23:24:07.346238+08:00",
+  "total_titles_processed": 1302,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "从加法到减法：人工智能时代最难的，不是创新，而是割舍",
@@ -18,8 +18,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时58分 ~ 20时32分]"
+          "appearance_count": 9,
+          "time_info": "[12时58分 ~ 23时24分]"
+        },
+        {
+          "title": "高盛总裁沃尔德伦：全球人工智能供应链支出正在增长。",
+          "url": "https://flash.jin10.com/detail/20260512231139571800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         },
         {
           "title": "日本财务大臣片山皋月：意识到Mythos和其他先进人工智能可能构成重大威胁。",
@@ -75,6 +86,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时59分"
+        },
+        {
+          "title": "市场消息：人工智能初创公司Wispr正在进行融资谈判，估值为20亿美元。",
+          "url": "https://flash.jin10.com/detail/20260512224256365800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
         }
       ]
     },
@@ -107,6 +129,65 @@
       ]
     },
     {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克库克随特朗普访华",
+          "url": "https://www.cls.cn/detail/2369414",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时24分]"
+        },
+        {
+          "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
+          "url": "https://wallstreetcn.com/articles/3772030",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 20时32分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Anthropic",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何看待 Anthropic 购买百万实体书，扫描蒸馏后销毁？法院为啥认定合理使用？该行为可能带来啥影响？",
+          "url": "https://www.zhihu.com/question/2037127514833646636",
+          "source": "知乎",
+          "ranks": [
+            12,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时39分 ~ 23时24分]"
+        },
+        {
+          "title": "美国国防部首席技术官：国防部已获得Anthropic的Mythos的访问权限；将继续进行六个月的过渡，以停止使用Anthropic工具。",
+          "url": "https://flash.jin10.com/detail/20260512230247266800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时24分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -121,24 +202,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时29分 ~ 12时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
-          "url": "https://wallstreetcn.com/articles/3772030",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时19分 ~ 20时32分]"
         }
       ]
     },
@@ -160,20 +223,19 @@
       ]
     },
     {
-      "keyword_group": "Anthropic",
+      "keyword_group": "AI",
       "match_count": 1,
       "titles": [
         {
-          "title": "如何看待 Anthropic 购买百万实体书，扫描蒸馏后销毁？法院为啥认定合理使用？该行为可能带来啥影响？",
-          "url": "https://www.zhihu.com/question/2037127514833646636",
-          "source": "知乎",
+          "title": "原油、AI芯片、房租“三连击”，今晚美国CPI恐“热辣滚烫”",
+          "url": "https://wallstreetcn.com/articles/3772081",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            4
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时39分 ~ 20时32分]"
+          "appearance_count": 2,
+          "time_info": "[23时23分 ~ 23时24分]"
         }
       ]
     }
