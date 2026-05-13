@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-13T07:54:48.591683+08:00",
-  "total_titles_processed": 611,
+  "generated_at": "2026-05-13T10:35:39.730700+08:00",
+  "total_titles_processed": 785,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "韩国政策高层：AI产业的超额利润应返还全民，提议设立“公民红利”",
           "url": "https://wallstreetcn.com/articles/3772036",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 07时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 10时35分]"
         },
         {
           "title": "原油、AI芯片、房租“三连击”，今晚美国CPI恐“热辣滚烫”",
@@ -26,11 +27,43 @@
             10,
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 07时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 10时35分]"
+        },
+        {
+          "title": "AI原创短片国产爱死机",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            15,
+            16,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 10时35分]"
+        },
+        {
+          "title": "论文严查AI使用率是否合理",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            21,
+            15,
+            17,
+            30,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 10时35分]"
         },
         {
           "title": "这轮AI行情是“泡沫”还是“新起点”？多家卖方最新研判",
@@ -45,33 +78,16 @@
           "time_info": "[01时10分 ~ 07时54分]"
         },
         {
-          "title": "AI原创短片国产爱死机",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8E%9F%E5%88%9B%E7%9F%AD%E7%89%87%E5%9B%BD%E4%BA%A7%E7%88%B1%E6%AD%BB%E6%9C%BA",
-          "source": "bilibili 热搜",
+          "title": "从海力士奖金、三星罢工到全民红利，飙升的韩股吓懵了，这是AI时代的预演吗？",
+          "url": "https://wallstreetcn.com/articles/3772082",
+          "source": "华尔街见闻",
           "ranks": [
-            27,
-            15,
-            16,
-            14
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 07时54分]"
-        },
-        {
-          "title": "论文严查AI使用率是否合理",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AE%BA%E6%96%87%E4%B8%A5%E6%9F%A5AI%E4%BD%BF%E7%94%A8%E7%8E%87%E6%98%AF%E5%90%A6%E5%90%88%E7%90%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            21,
-            15,
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 07时54分]"
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 10时35分]"
         },
         {
           "title": "报道：AI芯片制造商Cerebras的IPO发行价将高于160美元",
@@ -84,6 +100,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时54分 ~ 07时54分]"
+        },
+        {
+          "title": "韩国AI红利：闪崩之后，悬念才刚开始",
+          "url": "https://wallstreetcn.com/articles/3772076",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 10时35分]"
         },
         {
           "title": "据The Information：Anthropic正在与开发工具初创公司Stainless进行深入洽谈，收购金额至少为3亿美元。",
@@ -121,26 +148,48 @@
           "time_info": "[03时46分 ~ 05时12分]"
         },
         {
-          "title": "韩国AI红利：闪崩之后，悬念才刚开始",
-          "url": "https://wallstreetcn.com/articles/3772076",
-          "source": "华尔街见闻",
+          "title": "Create2026百度AI开发者大会",
+          "url": "https://www.baidu.com/s?wd=Create2026%E7%99%BE%E5%BA%A6AI%E5%BC%80%E5%8F%91%E8%80%85%E5%A4%A7%E4%BC%9A",
+          "source": "百度热搜",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时54分"
+          "time_info": "10时35分"
         },
         {
-          "title": "从海力士奖金、三星罢工到全民红利，飙升的韩股吓懵了，这是AI时代的预演吗？",
-          "url": "https://wallstreetcn.com/articles/3772082",
-          "source": "华尔街见闻",
+          "title": "全球AI药物递送第一股剂泰科技挂牌港交所",
+          "url": "https://wallstreetcn.com/livenews/3102648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "AI会员有必要充吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E4%BC%9A%E5%91%98%E6%9C%89%E5%BF%85%E8%A6%81%E5%85%85%E5%90%97",
+          "source": "bilibili 热搜",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时54分"
+          "time_info": "10时35分"
+        },
+        {
+          "title": "李彦宏：AI时代的度量衡是日活智能体数（DAA）",
+          "url": "https://wallstreetcn.com/livenews/3102632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
         },
         {
           "title": "周二（5月12日），美股人工智能（AI）赢家指数跌2.35%，报391.38点，整体呈现出平坦的V形走势、北京时间00:54刷新日低至391.38点。成分股Fluence Energy收跌15.66%，闪迪跌6.17%，CoreWeave跌6.06%，Lumentum Holdings跌5.77%，核电股Oklo跌5.76%，西部数据跌5.25%，康宁公司跌4.41%跌幅第七大，英伟达涨0.61%表现第六，Meta涨0.69%。",
@@ -149,7 +198,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -168,7 +217,7 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 5,
+      "match_count": 11,
       "titles": [
         {
           "title": "日本实施汇率干预后，日美财长首次面对面会谈",
@@ -182,6 +231,17 @@
           "time_info": "[01时10分 ~ 07时54分]"
         },
         {
+          "title": "进出口行发行3月期债券，规模40亿元，发行利率1.3000%，预期1.3000%，投标倍数1.00倍，边际倍数1.00倍。",
+          "url": "https://wallstreetcn.com/livenews/3102660",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
           "title": "芝加哥联储主席古尔斯比将于十分钟后参加当地商会举办的问答环节；美国至5月12日10年期国债竞拍-得标利率及投标倍数将于十分钟后公布。",
           "url": "https://flash.jin10.com/detail/20260513005000001800",
           "source": "金十数据",
@@ -191,6 +251,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "泡泡玛特(09992.HK)高开低走，现跌超3%；公司管理层表示，结合当前采购及生产情况测算，原材料成本较去年同期预计上升3至5个百分点，预计公司整体毛利率下降约0.5个百分点。",
+          "url": "https://flash.jin10.com/detail/20260513103104182800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
         },
         {
           "title": "美联储6月维持利率不变的概率为97.1%",
@@ -205,13 +276,35 @@
           "time_info": "[06时54分 ~ 07时54分]"
         },
         {
+          "title": "泰国央行：当前政策利率适合支持经济复苏。货币政策应与通胀根源保持一致，而不应对供给侧因素作出反应。预计2026年通胀将因能源价格上涨和成本传导而暂时上升。",
+          "url": "https://flash.jin10.com/detail/20260513103054344800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "泡泡玛特：原材料价格上涨 预计公司整体毛利率下降约0.5个百分点",
+          "url": "https://flash.jin10.com/detail/20260513102935139800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
           "title": "高盛认为能源冲击将维持高利率，推动美元走强",
           "url": "https://wallstreetcn.com/livenews/3102549",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -225,12 +318,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时10分"
+        },
+        {
+          "title": "经合组织：日本央行利率到2027年底可能达到2%",
+          "url": "https://flash.jin10.com/detail/20260513101324991800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
+          "title": "印尼盾兑美元汇率跌至历史低点17,530。",
+          "url": "https://flash.jin10.com/detail/20260513100853648800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Anthropic洽谈至少按3亿美元收购开发者工具初创公司Stainless。 后者向Anthropic、OpenAI、谷歌等模型开发商销售软件。（The Information）",
@@ -257,6 +372,17 @@
           "time_info": "[06时54分 ~ 07时54分]"
         },
         {
+          "title": "科技巨头竞逐太空算力新赛道！谷歌据悉接洽SpaceX发射轨道数据中心",
+          "url": "https://www.cls.cn/detail/2369554",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
+        },
+        {
           "title": "SpaceX与谷歌洽谈太空轨道的数据中心合作事宜，谷歌还与其他火箭发射公司接触。（华尔街日报）",
           "url": "https://wallstreetcn.com/livenews/3102418",
           "source": "华尔街见闻-快讯",
@@ -271,7 +397,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "马斯克库克随特朗普访华",
@@ -279,22 +405,24 @@
           "source": "财联社热门",
           "ranks": [
             2,
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时10分 ~ 07时54分]"
+          "appearance_count": 6,
+          "time_info": "[01时10分 ~ 10时35分]"
         },
         {
           "title": "【早报】马斯克、库克等将随特朗普访华；国内航线燃油附加费将上调",
           "url": "https://www.cls.cn/detail/2369623",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 10时35分]"
         },
         {
           "title": "报道称马斯克、库克、贝莱德、美光CEO等将随特朗普访华，黄仁勋缺席",
@@ -308,6 +436,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时46分 ~ 07时54分]"
+        },
+        {
+          "title": "库克、马斯克等人进入陪同特朗普访华名单，黄仁勋未在列，如何看待这份名单？",
+          "url": "https://www.zhihu.com/question/2037484197183321093",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
         }
       ]
     },
@@ -325,6 +464,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "创业板指跌超1%，科创50跌超2.5%，沪指跌0.26%，深成指跌0.55%，半导体、保险、券商、房地产等板块跌幅居前，沪深京三市下跌个股近3000只。",
+          "url": "https://wallstreetcn.com/livenews/3102641",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时35分"
         }
       ]
     },
