@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-13T09:48:50.592155+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-05-13T13:38:37.647843+08:00",
+  "total_titles_processed": 501,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "【早报】马斯克、库克等将随特朗普访华；国内航线燃油附加费将上调",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 13时38分]"
         },
         {
           "title": "马斯克库克随特朗普访华",
@@ -30,6 +30,17 @@
           "time_info": "09时48分"
         },
         {
+          "title": "马斯克点赞宇树载人机甲：很酷",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%82%B9%E8%B5%9E%E5%AE%87%E6%A0%91%E8%BD%BD%E4%BA%BA%E6%9C%BA%E7%94%B2%EF%BC%9A%E5%BE%88%E9%85%B7",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
           "title": "库克、马斯克等人进入陪同特朗普访华名单，黄仁勋未在列，如何看待这份名单？",
           "url": "https://www.zhihu.com/question/2037484197183321093",
           "source": "知乎",
@@ -39,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时48分"
+        },
+        {
+          "title": "马斯克点赞宇树载人机甲",
+          "url": "https://www.toutiao.com/trending/7638867621416386614/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
         }
       ]
     },
@@ -51,11 +73,12 @@
           "url": "https://www.zhihu.com/question/2036544679387341657",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 13时38分]"
         }
       ]
     },
@@ -68,11 +91,29 @@
           "url": "https://www.cls.cn/detail/2369554",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            7
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 13时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Anthropic",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Anthropic据悉寻求300亿美元融资 投前估值超9000亿美元",
+          "url": "https://www.cls.cn/detail/2369594",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时48分"
+          "time_info": "13时38分"
         }
       ]
     },
@@ -88,8 +129,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时48分"
+          "appearance_count": 2,
+          "time_info": "[09时48分 ~ 13时38分]"
         }
       ]
     }
