@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14T09:51:19.284220+08:00",
-  "total_titles_processed": 505,
+  "generated_at": "2026-05-14T13:38:02.221481+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
@@ -65,6 +65,95 @@
       ]
     },
     {
+      "keyword_group": "马斯克",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "马斯克说会谈很顺利，黄仁勋点赞库克比耶",
+          "url": "https://wallstreetcn.com/livenews/3103448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "马斯克360度转圈拍摄人民大会堂",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B360%E5%BA%A6%E8%BD%AC%E5%9C%88%E6%8B%8D%E6%91%84%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 13时38分]"
+        },
+        {
+          "title": "马斯克库克黄仁勋等进入会谈现场",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%BA%93%E5%85%8B%E9%BB%84%E4%BB%81%E5%8B%8B%E7%AD%89%E8%BF%9B%E5%85%A5%E4%BC%9A%E8%B0%88%E7%8E%B0%E5%9C%BA%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 13时38分]"
+        },
+        {
+          "title": "马斯克说会谈很顺利，黄仁勋点赞、库克比耶",
+          "url": "https://flash.jin10.com/detail/20260514130631765800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "日本批量生成AI视频抹黑中国",
+          "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E6%89%B9%E9%87%8F%E7%94%9F%E6%88%90AI%E8%A7%86%E9%A2%91%E6%8A%B9%E9%BB%91%E4%B8%AD%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 13时38分]"
+        },
+        {
+          "title": "【社论】中国AI企业背后的创新密码",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33172507",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时38分"
+        },
+        {
+          "title": "日媒曝光日本批量生成AI视频抹黑中国",
+          "url": "https://www.toutiao.com/trending/7639005443850797110/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Claude",
       "match_count": 1,
       "titles": [
@@ -95,25 +184,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时19分 ~ 09时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "日媒曝光日本批量生成AI视频抹黑中国",
-          "url": "https://www.toutiao.com/trending/7639005443850797110/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时51分"
+          "appearance_count": 4,
+          "time_info": "[00时19分 ~ 13时38分]"
         }
       ]
     }
