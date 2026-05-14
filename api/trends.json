@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T01:44:28.228276+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-15T03:31:31.678119+08:00",
+  "total_titles_processed": 369,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "国家反诈中心APP 检测AI图",
@@ -15,30 +15,55 @@
             2
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 03时31分]"
+        },
+        {
+          "title": "xAI发布Grok Build的一个早期测试版。",
+          "url": "https://wallstreetcn.com/livenews/3103859",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时44分"
+          "time_info": "03时31分"
         },
         {
           "title": "网友相信豆包「机票退票只扣 5% 手续费」，退票后发现与实际不符遂起诉字节，AI 该为传达错误信息担责吗？",
           "url": "https://www.zhihu.com/question/2037926535315677917",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 03时31分]"
         },
         {
           "title": "AI热潮推动美股走高，标普纳指又新高，盘中英伟达涨近5%、思科涨近20%，中概回落",
           "url": "https://wallstreetcn.com/articles/3772269",
           "source": "华尔街见闻",
           "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 03时31分]"
+        },
+        {
+          "title": "AI还原烂梗有多毒",
+          "url": "https://s.weibo.com/weibo?q=AI%E8%BF%98%E5%8E%9F%E7%83%82%E6%A2%97%E6%9C%89%E5%A4%9A%E6%AF%92&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24,
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 03时31分]"
         },
         {
           "title": "【焦点复盘】创业板指、科创50双双跌逾2%，AI硬件股分歧加剧，光伏概念逆势活跃",
@@ -48,8 +73,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 03时31分]"
         },
         {
           "title": "比核反应堆还遭嫌？民调：逾七成美国人反对在家附近建AI数据中心",
@@ -59,41 +84,88 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 03时31分]"
+        },
+        {
+          "title": "黄仁勋谈中国AI发展",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B0%88%E4%B8%AD%E5%9B%BDAI%E5%8F%91%E5%B1%95%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 03时31分]"
         },
         {
           "title": "AI续写轻音少女第三季",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E8%BD%BB%E9%9F%B3%E5%B0%91%E5%A5%B3%E7%AC%AC%E4%B8%89%E5%AD%A3",
           "source": "bilibili 热搜",
           "ranks": [
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 03时31分]"
         },
         {
           "title": "中国AI企业正在海外闷声发大财",
           "url": "https://www.toutiao.com/trending/7639747881846443571/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 03时31分]"
         },
         {
-          "title": "AI还原烂梗有多毒",
-          "url": "https://s.weibo.com/weibo?q=AI%E8%BF%98%E5%8E%9F%E7%83%82%E6%A2%97%E6%9C%89%E5%A4%9A%E6%AF%92&t=31&band_rank=24&Refer=top",
-          "source": "微博",
+          "title": "阿里投的AI项目终于看到回头钱了",
+          "url": "https://www.toutiao.com/trending/7639681041455648265/",
+          "source": "今日头条",
           "ranks": [
-            24
+            27
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时30分 ~ 03时31分]"
+        },
+        {
+          "title": "高校硬查AI率,复旦教授怒了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354246&amp;topic_name=%E9%AB%98%E6%A0%A1%E7%A1%AC%E6%9F%A5AI%E7%8E%87%2C%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%80%92%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 03时31分]"
+        },
+        {
+          "title": "xAI正式推出Grok Build早期测试版，旨在为超级Grok重度用户提供编码代理服务。",
+          "url": "https://flash.jin10.com/detail/20260515021742369800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时44分"
+          "time_info": "03时31分"
+        },
+        {
+          "title": "市场消息：自2月份以来，已有50余名研究人员和工程师离职离开SpaceX AI部门。",
+          "url": "https://flash.jin10.com/detail/20260515021140763800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时31分"
         },
         {
           "title": "摩根资产管理：全球股市的赢家不仅局限于AI",
@@ -105,34 +177,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
-        },
-        {
-          "title": "高校硬查AI率,复旦教授怒了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354246&amp;topic_name=%E9%AB%98%E6%A0%A1%E7%A1%AC%E6%9F%A5AI%E7%8E%87%2C%E5%A4%8D%E6%97%A6%E6%95%99%E6%8E%88%E6%80%92%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "黄仁勋谈中国AI发展",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B0%88%E4%B8%AD%E5%9B%BDAI%E5%8F%91%E5%B1%95%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "马斯克回复360度转圈拍人民大会堂",
@@ -142,19 +192,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
-        },
-        {
-          "title": "马斯克360度转圈拍摄人民大会堂",
-          "url": "https://www.toutiao.com/trending/7639626639860780553/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 03时31分]"
         },
         {
           "title": "马斯克回复360度转圈拍摄人民大会堂",
@@ -164,8 +203,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 03时31分]"
         },
         {
           "title": "马斯克携幼子现身人民大会堂",
@@ -175,19 +214,32 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 03时31分]"
+        },
+        {
+          "title": "马斯克：我的儿子正在学习普通话",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E6%88%91%E7%9A%84%E5%84%BF%E5%AD%90%E6%AD%A3%E5%9C%A8%E5%AD%A6%E4%B9%A0%E6%99%AE%E9%80%9A%E8%AF%9D",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 03时31分]"
         },
         {
           "title": "马斯克小儿子穿新中式现身大会堂",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%8F%E5%84%BF%E5%AD%90%E7%A9%BF%E6%96%B0%E4%B8%AD%E5%BC%8F%E7%8E%B0%E8%BA%AB%E5%A4%A7%E4%BC%9A%E5%A0%82",
           "source": "百度热搜",
           "ranks": [
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 03时31分]"
         },
         {
           "title": "马斯克：对此次会晤感觉不错",
@@ -197,8 +249,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 03时31分]"
         },
         {
           "title": "马斯克儿子新中式服装虎头包走红",
@@ -208,15 +260,26 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 03时31分]"
         },
         {
-          "title": "马斯克：我的儿子正在学习普通话",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E6%88%91%E7%9A%84%E5%84%BF%E5%AD%90%E6%AD%A3%E5%9C%A8%E5%AD%A6%E4%B9%A0%E6%99%AE%E9%80%9A%E8%AF%9D",
-          "source": "百度热搜",
+          "title": "马斯克谈会晤感受",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E8%B0%88%E4%BC%9A%E6%99%A4%E6%84%9F%E5%8F%97%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
           "ranks": [
-            26
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时30分 ~ 03时31分]"
+        },
+        {
+          "title": "马斯克360度转圈拍摄人民大会堂",
+          "url": "https://www.toutiao.com/trending/7639626639860780553/",
+          "source": "今日头条",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -237,7 +300,7 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "美联储在固定利率逆回购操作中总计接纳了8个对手方的20.34亿美元。",
@@ -255,22 +318,35 @@
           "url": "https://wallstreetcn.com/articles/3772216",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "appearance_count": 3,
+          "time_info": "[01时44分 ~ 03时31分]"
         },
         {
           "title": "房地美：美国上周30年期按揭贷款/抵押贷款利率6.36%，前值6.37%。",
           "url": "https://wallstreetcn.com/livenews/3103828",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            18,
+            30
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 03时31分]"
+        },
+        {
+          "title": "米兰正式提交辞呈 再次喊话当前利率过高",
+          "url": "https://flash.jin10.com/detail/20260515020124871800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时44分"
+          "time_info": "03时31分"
         },
         {
           "title": "美国财政部拍卖四周期国债，得标利率3.605%，投标倍数2.66。 拍卖八周期国债，得标利率3.610%，投标倍数2.72。",
@@ -294,11 +370,12 @@
           "url": "https://wallstreetcn.com/livenews/3103841",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            8,
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时44分"
+          "appearance_count": 2,
+          "time_info": "[01时44分 ~ 03时31分]"
         },
         {
           "title": "苹果与OpenAI关系紧张 后者拟诉诸法律",
