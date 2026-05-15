@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-15T09:49:10.490648+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-05-15T13:43:48.166082+08:00",
+  "total_titles_processed": 519,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
       "match_count": 8,
       "titles": [
+        {
+          "title": "马斯克：对此次会晤感觉不错",
+          "url": "https://www.douyin.com/hot/2499190",
+          "source": "抖音",
+          "ranks": [
+            18,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时48分 ~ 13时43分]"
+        },
         {
           "title": "马斯克儿子手拎的虎头包走红",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%84%BF%E5%AD%90%E6%89%8B%E6%8B%8E%E7%9A%84%E8%99%8E%E5%A4%B4%E5%8C%85%E8%B5%B0%E7%BA%A2",
@@ -46,17 +58,6 @@
           "source": "微博",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时48分 ~ 09时49分]"
-        },
-        {
-          "title": "马斯克：对此次会晤感觉不错",
-          "url": "https://www.douyin.com/hot/2499190",
-          "source": "抖音",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -108,7 +109,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         }
@@ -128,6 +129,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时48分 ~ 09时49分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Anthropic",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据日经亚洲：Anthropic正在考虑参与日本网络防御联盟。",
+          "url": "https://flash.jin10.com/detail/20260515133253538800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时43分"
         }
       ]
     }
