@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-17T19:36:29.252873+08:00",
-  "total_titles_processed": 784,
+  "generated_at": "2026-05-17T20:47:48.066507+08:00",
+  "total_titles_processed": 857,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "国安部：境外间谍对我稀土、光伏、半导体、高端芯片、人工智能等领域实施窃密",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时38分 ~ 19时36分]"
+          "appearance_count": 7,
+          "time_info": "[13时38分 ~ 20时47分]"
         },
         {
           "title": "国家人工智能应用中试基地（具身智能）揭牌，18家企业集中签约",
@@ -26,17 +26,29 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             8,
-            11
+            11,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时03分 ~ 19时36分]"
+          "appearance_count": 3,
+          "time_info": "[18时03分 ~ 20时47分]"
+        },
+        {
+          "title": "国家人工智能应用中试基地（具身智能）揭牌 18家企业集中签约",
+          "url": "https://flash.jin10.com/detail/20260517194359233800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "伯克希尔“新王新气象”：Q1减仓零售、油气，加仓谷歌，还建仓了航空",
@@ -48,6 +60,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时45分 ~ 09时46分]"
+        },
+        {
+          "title": "下周重磅日程：普京访华、英伟达财报、谷歌I/O大会、中国经济数据",
+          "url": "https://wallstreetcn.com/articles/3772335",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时47分"
         }
       ]
     },
@@ -82,8 +105,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时45分 ~ 19时36分]"
+          "appearance_count": 9,
+          "time_info": "[09时45分 ~ 20时47分]"
         }
       ]
     }
