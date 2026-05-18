@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-19T06:53:22.307931+08:00",
-  "total_titles_processed": 545,
+  "generated_at": "2026-05-19T07:59:39.754773+08:00",
+  "total_titles_processed": 625,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "英伟达周三财报夜：决定AI牛市命运的一战来了！",
           "url": "https://wallstreetcn.com/articles/3772508",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 06时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时59分]"
         },
         {
           "title": "AI恶意P图白嫖,卖家哭晕",
@@ -26,8 +27,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 06时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时28分 ~ 07时59分]"
         },
         {
           "title": "【焦点复盘】科创50冲高回落涨0.81%，近端次新股获资金持续抱团，物理AI概念异军突起",
@@ -42,6 +43,19 @@
           "time_info": "[01时27分 ~ 06时53分]"
         },
         {
+          "title": "AI自动驾驶赛车有搞头吗",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%B5%9B%E8%BD%A6%E6%9C%89%E6%90%9E%E5%A4%B4%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时28分 ~ 07时59分]"
+        },
+        {
           "title": "戴尔AI服务器新增1,000家客户，全力进军企业级用户市场",
           "url": "https://wallstreetcn.com/livenews/3105535",
           "source": "华尔街见闻-快讯",
@@ -54,16 +68,27 @@
           "time_info": "[01时28分 ~ 03时28分]"
         },
         {
-          "title": "AI自动驾驶赛车有搞头吗",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%B5%9B%E8%BD%A6%E6%9C%89%E6%90%9E%E5%A4%B4%E5%90%97",
-          "source": "bilibili 热搜",
+          "title": "用AI记录早餐奶奶的一生",
+          "url": "https://www.douyin.com/hot/2503064",
+          "source": "抖音",
           "ranks": [
-            12,
+            29,
             30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时28分 ~ 06时53分]"
+          "time_info": "[06时53分 ~ 07时59分]"
+        },
+        {
+          "title": "感觉AI治好了我多年的老花眼",
+          "url": "https://s.weibo.com/weibo?q=%E6%84%9F%E8%A7%89AI%E6%B2%BB%E5%A5%BD%E4%BA%86%E6%88%91%E5%A4%9A%E5%B9%B4%E7%9A%84%E8%80%81%E8%8A%B1%E7%9C%BC&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
           "title": "戴尔：Reflection的开源前沿人工智能模型将于戴尔AI工厂上线。",
@@ -75,6 +100,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "调查：大多数英国劳动者预计AI将引发大规模失业",
+          "url": "https://flash.jin10.com/detail/20260519070417624800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
           "title": "戴尔：SpaceXAI与戴尔共同为Grok提供更先进的推理能力与多模态能力，使其成为更安全、企业级的人工智能助手。",
@@ -138,20 +174,81 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时53分"
         },
         {
-          "title": "用AI记录早餐奶奶的一生",
-          "url": "https://www.douyin.com/hot/2503064",
-          "source": "抖音",
+          "title": "Vera来了：英伟达首款专为Agent打造的CPU交付一批顶级AI实验室",
+          "url": "https://wallstreetcn.com/livenews/3105632",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
           "is_new": true,
           "appearance_count": 1,
+          "time_info": "07时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "马斯克：（关于OpenAI 裁决）奥克兰法官的裁决创造了可怕的先例。",
+          "url": "https://flash.jin10.com/detail/20260519043702372800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时05分"
+        },
+        {
+          "title": "英伟达：Vera CPU抵达Anthropic、OpenAI、SpaceX、甲骨文的AI实验室。",
+          "url": "https://wallstreetcn.com/livenews/3105632",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
           "time_info": "06时53分"
+        },
+        {
+          "title": "马斯克起诉Altman案败诉，强制OpenAI重组的企图落空",
+          "url": "https://wallstreetcn.com/livenews/3105549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时28分"
+        },
+        {
+          "title": "马斯克对OpenAI诉讼被驳回",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AF%B9OpenAI%E8%AF%89%E8%AE%BC%E8%A2%AB%E9%A9%B3%E5%9B%9E%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
+        },
+        {
+          "title": "OpenAI 律师：（关于OpenAI与埃隆·马斯克的诉讼判决）即使有上诉，对我们的立场也非常有信心。",
+          "url": "https://flash.jin10.com/detail/20260519021820181800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时28分"
         }
       ]
     },
@@ -159,17 +256,6 @@
       "keyword_group": "房价 楼市 房地产",
       "match_count": 5,
       "titles": [
-        {
-          "title": "北京二手房房价三连涨，“小阳春”期间成交活跃",
-          "url": "https://wallstreetcn.com/livenews/3105648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时53分"
-        },
         {
           "title": "4月70城房价：一线城市二手房价环比连续第二个月上涨，二三线城市房价环比降幅收窄或持平",
           "url": "https://wallstreetcn.com/articles/3772478",
@@ -179,8 +265,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 06时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时59分]"
         },
         {
           "title": "4 月一线城市房价环比上涨，二三线降幅收窄，怎样解读？楼市真稳住了吗？二三线城市何时跟涨？",
@@ -189,11 +275,24 @@
           "ranks": [
             14,
             8,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 06时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时59分]"
+        },
+        {
+          "title": "北京二手房房价三连涨，“小阳春”期间成交活跃",
+          "url": "https://wallstreetcn.com/livenews/3105648",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时53分 ~ 07时59分]"
         },
         {
           "title": "标普500指数的11个板块多数收涨，能源板块涨1.81%，日用消费品、金融、房地产板块至少涨1.14%，工业板块则收跌0.42%，信息技术/科技板块跌0.97%。",
@@ -220,58 +319,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "马斯克：（关于OpenAI 裁决）奥克兰法官的裁决创造了可怕的先例。",
-          "url": "https://flash.jin10.com/detail/20260519043702372800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "英伟达：Vera CPU抵达Anthropic、OpenAI、SpaceX、甲骨文的AI实验室。",
-          "url": "https://wallstreetcn.com/livenews/3105632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时53分"
-        },
-        {
-          "title": "马斯克起诉Altman案败诉，强制OpenAI重组的企图落空",
-          "url": "https://wallstreetcn.com/livenews/3105549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "OpenAI 律师：（关于OpenAI与埃隆·马斯克的诉讼判决）即使有上诉，对我们的立场也非常有信心。",
-          "url": "https://flash.jin10.com/detail/20260519021820181800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        }
-      ]
-    },
-    {
       "keyword_group": "马斯克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "马斯克发视频点赞重庆东站",
@@ -280,11 +329,12 @@
           "ranks": [
             14,
             10,
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 06时53分]"
+          "appearance_count": 6,
+          "time_info": "[01时27分 ~ 07时59分]"
         },
         {
           "title": "马斯克爆料：正着手推进SpaceX IPO事宜，自动驾驶汽车今年将实现更广泛部署",
@@ -296,6 +346,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时05分"
+        },
+        {
+          "title": "马斯克发视频点赞重庆东站",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%91%E8%A7%86%E9%A2%91%E7%82%B9%E8%B5%9E%E9%87%8D%E5%BA%86%E4%B8%9C%E7%AB%99%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时59分"
         },
         {
           "title": "马斯克：星舰（Starship）生产线已经满负荷运转。 今年将完成大约10艘飞船和大约5套助推器（的生产）。",
