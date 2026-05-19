@@ -1,796 +1,239 @@
 {
-  "generated_at": "2026-05-19T21:53:24.901213+08:00",
-  "total_titles_processed": 1345,
+  "generated_at": "2026-05-20T00:47:35.826218+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 33,
+      "match_count": 7,
       "titles": [
         {
-          "title": "英伟达周三财报夜：决定AI牛市命运的一战来了！",
-          "url": "https://wallstreetcn.com/articles/3772508",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时27分 ~ 11时41分]"
-        },
-        {
-          "title": "AI恶意P图白嫖,卖家哭晕",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354385&amp;topic_name=AI%E6%81%B6%E6%84%8FP%E5%9B%BE%E7%99%BD%E5%AB%96%2C%E5%8D%96%E5%AE%B6%E5%93%AD%E6%99%95",
-          "source": "贴吧",
-          "ranks": [
-            2,
-            10,
-            13,
-            19,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时28分 ~ 21时53分]"
-        },
-        {
-          "title": "中专生花10天手搓AI短片火遍全网",
-          "url": "https://www.toutiao.com/trending/7640988449969864731/",
-          "source": "今日头条",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 15时40分]"
-        },
-        {
-          "title": "AI抢爆CPU产能！英特尔被传敦促PC厂商转用18A高端芯片",
-          "url": "https://www.cls.cn/detail/2375439",
+          "title": "AMD AI开放日落地上海！苏姿丰现身 称中国拥有全球最具活力的AI生态系统",
+          "url": "https://www.cls.cn/detail/2375797",
           "source": "财联社热门",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时56分 ~ 21时53分]"
-        },
-        {
-          "title": "港股AI应用板块走势分化，智谱(02513.HK)持续下挫跌差13%，MINIMAX-W(00100.HK)跌超9%，商汤(00020.HK)、范式智能(06682.HK)等跟跌。",
-          "url": "https://flash.jin10.com/detail/20260519110827085800",
-          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "【焦点复盘】科创50冲高回落涨0.81%，近端次新股获资金持续抱团，物理AI概念异军突起",
-          "url": "https://www.cls.cn/detail/2374303",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时27分 ~ 06时53分]"
-        },
-        {
-          "title": "莫奈钓出嘉豪哥,真迹变AI",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354399&amp;topic_name=%E8%8E%AB%E5%A5%88%E9%92%93%E5%87%BA%E5%98%89%E8%B1%AA%E5%93%A5%2C%E7%9C%9F%E8%BF%B9%E5%8F%98AI",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            8,
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时41分 ~ 21时53分]"
-        },
-        {
-          "title": "中专生花10天手搓AI短片火遍全网",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E4%B8%93%E7%94%9F%E8%8A%B110%E5%A4%A9%E6%89%8B%E6%90%93AI%E7%9F%AD%E7%89%87%E7%81%AB%E9%81%8D%E5%85%A8%E7%BD%91",
-          "source": "百度热搜",
-          "ranks": [
-            2,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时56分 ~ 21时53分]"
-        },
-        {
-          "title": "赢!米哈游携千亿进军AI行业",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354404&amp;topic_name=%E8%B5%A2%21%E7%B1%B3%E5%93%88%E6%B8%B8%E6%90%BA%E5%8D%83%E4%BA%BF%E8%BF%9B%E5%86%9BAI%E8%A1%8C%E4%B8%9A",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            10,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时40分 ~ 21时53分]"
-        },
-        {
-          "title": "近年来中国科学技术大学、上海财经大学等多所高校撤销外语专业，AI 翻译普及后，外语专业未来发展出路在哪？",
-          "url": "https://www.zhihu.com/question/2039715538398663059",
-          "source": "知乎",
-          "ranks": [
-            18,
-            17,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时39分 ~ 21时53分]"
-        },
-        {
-          "title": "AI自动驾驶赛车有搞头吗",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%87%AA%E5%8A%A8%E9%A9%BE%E9%A9%B6%E8%B5%9B%E8%BD%A6%E6%9C%89%E6%90%9E%E5%A4%B4%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时28分 ~ 07时59分]"
-        },
-        {
-          "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
-          "url": "https://wallstreetcn.com/articles/3772582",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时56分 ~ 21时53分]"
+          "time_info": "00时47分"
         },
         {
           "title": "【焦点复盘】沪指企稳反弹涨近1%，物理AI概念活跃不减，Token经济产业链热度扩散",
           "url": "https://www.cls.cn/detail/2375531",
           "source": "财联社热门",
           "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时56分 ~ 21时53分]"
-        },
-        {
-          "title": "戴尔AI服务器新增1,000家客户，全力进军企业级用户市场",
-          "url": "https://wallstreetcn.com/livenews/3105535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 03时28分]"
-        },
-        {
-          "title": "Figure AI人形机器人直播分拣包裹五天不间断，网友：分拣工要失业了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33193587",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 15时40分]"
-        },
-        {
-          "title": "用AI记录早餐奶奶的一生",
-          "url": "https://www.douyin.com/hot/2503064",
-          "source": "抖音",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时53分 ~ 07时59分]"
-        },
-        {
-          "title": "感觉AI治好了我多年的老花眼",
-          "url": "https://s.weibo.com/weibo?q=%E6%84%9F%E8%A7%89AI%E6%B2%BB%E5%A5%BD%E4%BA%86%E6%88%91%E5%A4%9A%E5%B9%B4%E7%9A%84%E8%80%81%E8%8A%B1%E7%9C%BC&t=31&band_rank=9&Refer=top",
-          "source": "微博",
-          "ranks": [
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时59分"
+          "time_info": "00时47分"
         },
         {
-          "title": "戴尔：Reflection的开源前沿人工智能模型将于戴尔AI工厂上线。",
-          "url": "https://flash.jin10.com/detail/20260519010946165800",
-          "source": "金十数据",
+          "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
+          "url": "https://wallstreetcn.com/articles/3772582",
+          "source": "华尔街见闻",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时28分"
+          "time_info": "00时47分"
         },
         {
-          "title": "调查：大多数英国劳动者预计AI将引发大规模失业",
-          "url": "https://flash.jin10.com/detail/20260519070417624800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "为何AI宁可瞎编也不说“我不知道”",
-          "url": "https://www.toutiao.com/trending/7641140742907723827/",
-          "source": "今日头条",
+          "title": "近年来中国科学技术大学、上海财经大学等多所高校撤销外语专业，AI 翻译普及后，外语专业未来发展出路在哪？",
+          "url": "https://www.zhihu.com/question/2039715538398663059",
+          "source": "知乎",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时56分"
+          "time_info": "00时47分"
         },
         {
-          "title": "AMD AI开放日落地上海！苏姿丰现身 称中国拥有全球最具活力的AI生态系统",
-          "url": "https://www.cls.cn/detail/2375797",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "戴尔：SpaceXAI与戴尔共同为Grok提供更先进的推理能力与多模态能力，使其成为更安全、企业级的人工智能助手。",
-          "url": "https://flash.jin10.com/detail/20260519010913039800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
-        },
-        {
-          "title": "戴尔：Palantir的Foundry和AIP平台将进驻戴尔AI工厂。",
-          "url": "https://flash.jin10.com/detail/20260519010837822800",
-          "source": "金十数据",
+          "title": "赢!米哈游携千亿进军AI行业",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354404&amp;topic_name=%E8%B5%A2%21%E7%B1%B3%E5%93%88%E6%B8%B8%E6%90%BA%E5%8D%83%E4%BA%BF%E8%BF%9B%E5%86%9BAI%E8%A1%8C%E4%B8%9A",
+          "source": "贴吧",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时28分"
+          "time_info": "00时47分"
         },
         {
-          "title": "影石发布首款旗舰无线麦克风Mic Pro，以墨水屏与AI降噪切入专业音频市场",
-          "url": "https://wallstreetcn.com/livenews/3106084",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "英伟达重磅CPU Vera交付：专为智能体AI设计 甲骨文承诺部署数十万颗",
-          "url": "https://www.cls.cn/detail/2374998",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
-          "title": "戴尔：与英伟达合作的“AI工厂”在技术上取得进展，涵盖代理式人工智能、数据编排、下一代基础设施以及不断扩展的开放生态系统。",
-          "url": "https://flash.jin10.com/detail/20260519010809536800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
-        },
-        {
-          "title": "Gradiant宣布完成E轮融资，公司估值达20亿美元，助力加快AI、半导体以及工业水务基建领域布局。 随着Gradiant依托AI基建和先进制造业务实现业绩大幅增长，新资金将用于支持战略性并购、新一代技术研发以及上市筹备工作。",
-          "url": "https://wallstreetcn.com/livenews/3105584",
-          "source": "华尔街见闻-快讯",
+          "title": "莫奈钓出嘉豪哥,真迹变AI",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354399&amp;topic_name=%E8%8E%AB%E5%A5%88%E9%92%93%E5%87%BA%E5%98%89%E8%B1%AA%E5%93%A5%2C%E7%9C%9F%E8%BF%B9%E5%8F%98AI",
+          "source": "贴吧",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时05分"
+          "time_info": "00时47分"
         },
         {
-          "title": "报道：苹果计划为iOS 27推出AI写作助手、快捷指令及壁纸功能",
-          "url": "https://wallstreetcn.com/livenews/3105548",
-          "source": "华尔街见闻-快讯",
+          "title": "AI恶意P图白嫖,卖家哭晕",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354385&amp;topic_name=AI%E6%81%B6%E6%84%8FP%E5%9B%BE%E7%99%BD%E5%AB%96%2C%E5%8D%96%E5%AE%B6%E5%93%AD%E6%99%95",
+          "source": "贴吧",
           "ranks": [
-            18
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "圆桌｜AI新叙事下，投资人更关注什么？从宏大叙事转向“软基建”与“活得久”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33189236",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
-          "title": "港股AI应用板块走强，美图(01357.HK)涨超6%，哔哩哔哩(09626.HK)涨超3%，金蝶国际(00268.HK)、快手(01024.HK)等跟涨。",
-          "url": "https://flash.jin10.com/detail/20260519104202893800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "报道：AI芯片初创公司Tenstorrent吸引英特尔与高通早期收购兴趣，估值或超50亿美元",
-          "url": "https://wallstreetcn.com/livenews/3105620",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时53分"
-        },
-        {
-          "title": "Vera来了：英伟达首款专为Agent打造的CPU交付一批顶级AI实验室",
-          "url": "https://wallstreetcn.com/livenews/3105632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "巴克莱称AI热潮将提振资源丰富型新兴市场的货币",
-          "url": "https://wallstreetcn.com/livenews/3106061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "马斯克发视频点赞重庆东站",
-          "url": "https://www.toutiao.com/trending/7641179836287877146/",
-          "source": "今日头条",
-          "ranks": [
-            14,
-            10,
-            7,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时27分 ~ 07时59分]"
-        },
-        {
-          "title": "马斯克怒喷达美航空弃用星链服务 高管反击：亚马逊竞品更便宜、功能更多",
-          "url": "https://www.cls.cn/detail/2374760",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时41分 ~ 15时40分]"
-        },
-        {
-          "title": "重庆东站为何能让马斯克点赞",
-          "url": "https://www.toutiao.com/trending/7641444363007970852/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时39分 ~ 18时56分]"
-        },
-        {
-          "title": "马斯克爆料：正着手推进SpaceX IPO事宜，自动驾驶汽车今年将实现更广泛部署",
-          "url": "https://www.cls.cn/detail/2374520",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "马斯克发视频点赞重庆东站",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%8F%91%E8%A7%86%E9%A2%91%E7%82%B9%E8%B5%9E%E9%87%8D%E5%BA%86%E4%B8%9C%E7%AB%99%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "马斯克预测：10年后，自己开车将是一种非常小众的行为",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33197981",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "马斯克转发视频点赞重庆东站",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%E8%BD%AC%E5%8F%91%E8%A7%86%E9%A2%91%E7%82%B9%E8%B5%9E%E9%87%8D%E5%BA%86%E4%B8%9C%E7%AB%99",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
-          "title": "马斯克：星舰（Starship）生产线已经满负荷运转。 今年将完成大约10艘飞船和大约5套助推器（的生产）。",
-          "url": "https://wallstreetcn.com/livenews/3105513",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
+          "time_info": "00时47分"
         }
       ]
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 8,
+      "match_count": 6,
       "titles": [
         {
-          "title": "沃什上任在即！特朗普“撤回”降息压力：伊朗战争结束前无法确定利率前景",
-          "url": "https://www.cls.cn/detail/2375112",
-          "source": "财联社热门",
+          "title": "日本央行行长植田和男：意识到长期利率正在迅速上升。",
+          "url": "https://flash.jin10.com/detail/20260520001244531800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            1,
-            5
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时39分 ~ 21时53分]"
+          "appearance_count": 1,
+          "time_info": "00时47分"
         },
         {
-          "title": "国开行发行3年期债券，规模50亿元，发行利率1.3658%，预期1.3700%，投标倍数3.26倍，边际倍数1.73倍； 国开行发行10年期债券，规模110亿元，发行利率1.7755%，预期1.7800%，投标倍数4.79倍，边际倍数6.39倍。",
-          "url": "https://wallstreetcn.com/livenews/3105748",
+          "title": "日本央行行长植田和男：七国集团（G7）央行行长们同意，能源价格上涨正影响到通胀预期、经济、金融市场。 最新GDP数据与央行的预期大体上吻合，中东局势已经开始影响（日本经济）。 需要密切留意关于价格上涨压力的那些迹象。 意识到长期利率正迅猛上涨。 （关于日本央行缩表计划）将评估市场形势和功能。",
+          "url": "https://wallstreetcn.com/livenews/3106169",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时41分"
+          "time_info": "00时47分"
         },
         {
-          "title": "农发行发行2年期债券，规模20亿元，发行利率1.3535%，预期1.3600%，投标倍数10.98倍，边际倍数3.44倍； 农发行发行2年期债券，规模50亿元，发行利率1.3849%，预期1.2500%，投标倍数3.74倍，边际倍数14.00倍； 农发行发行7年期债券，规模40亿元，发行利率1.6304%，预期1.6400%，投标倍数5.31倍，边际倍数5.83倍。",
-          "url": "https://wallstreetcn.com/livenews/3105879",
+          "title": "美国财政部拍卖六周期国债，得标利率3.580%，投标倍数3.01。",
+          "url": "https://wallstreetcn.com/livenews/3106160",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时40分"
+          "time_info": "00时47分"
         },
         {
-          "title": "青海发行7年期一般债地方债，规模16.0000亿元，发行利率1.6700%，边际倍数1.81倍，倍数预期1.67； 青海发行7年期其他专项地方债，规模2.5827亿元，发行利率1.6700%，边际倍数1.39倍，倍数预期1.67； 青海发行7年期一般债地方债，规模141.1766亿元，发行利率1.6700%，边际倍数2.10倍，倍数预期1.67； 青海发行7年期普通专项地方债，规模9.7965亿元，发行利率1.6700%，边际倍数1.74倍，倍数预期1.67。",
-          "url": "https://wallstreetcn.com/livenews/3105741",
-          "source": "华尔街见闻-快讯",
+          "title": "机构：黄金价格因美元的走强及利率担忧而下跌",
+          "url": "https://flash.jin10.com/detail/20260519235653385800",
+          "source": "金十数据",
           "ranks": [
-            11
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时41分"
+          "time_info": "00时47分"
         },
         {
-          "title": "厦门出台六条公积金措施，“卖旧换新”贷款按首套房利率执行",
-          "url": "https://wallstreetcn.com/livenews/3105982",
+          "title": "美国纽约联储官员：利率控制工具包能够应对银行准备金需求的下降",
+          "url": "https://wallstreetcn.com/livenews/3106155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        },
+        {
+          "title": "特朗普：将让沃什按自己的意愿决定利率",
+          "url": "https://wallstreetcn.com/livenews/3106151",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2375879",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        },
+        {
+          "title": "谷歌母公司Alphabet的投资者们在谷歌广告诉讼中获得集体诉讼地位。（彭博法律Blaw）",
+          "url": "https://wallstreetcn.com/livenews/3106144",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时47分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI创始成员Karpathy宣布，跳槽至Anthropic。",
+          "url": "https://wallstreetcn.com/livenews/3106163",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
-          "title": "日本财务大臣片山皋月：七国集团（G7）并没有考虑针对债券抛售采取协调行动，每个国家将针对自身市场形势做出回应。 需要针对汇率进行适当的应对。 投机交易是市场波动的一个因素。",
-          "url": "https://wallstreetcn.com/livenews/3105547",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "韩元兑美元汇率跌破1500关口，跌幅0.71%。",
-          "url": "https://flash.jin10.com/detail/20260519104415253800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "美国财长贝森特：相信日本央行行长植田和男将成功指导日本的货币政策。 日本经济基本面强劲，过度的汇率波动并不可取。 我今天与植田和男进行了对话。",
-          "url": "https://wallstreetcn.com/livenews/3106065",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
+          "time_info": "00时47分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "keyword_group": "马斯克",
+      "match_count": 1,
       "titles": [
         {
-          "title": "马斯克：（关于OpenAI 裁决）奥克兰法官的裁决创造了可怕的先例。",
-          "url": "https://flash.jin10.com/detail/20260519043702372800",
-          "source": "金十数据",
+          "title": "马斯克预测：10年后，自己开车将是一种非常小众的行为",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33197981",
+          "source": "澎湃新闻",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "英伟达：Vera CPU抵达Anthropic、OpenAI、SpaceX、甲骨文的AI实验室。",
-          "url": "https://wallstreetcn.com/livenews/3105632",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时53分"
-        },
-        {
-          "title": "马斯克起诉Altman案败诉，强制OpenAI重组的企图落空",
-          "url": "https://wallstreetcn.com/livenews/3105549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        },
-        {
-          "title": "马斯克对OpenAI诉讼被驳回",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%AF%B9OpenAI%E8%AF%89%E8%AE%BC%E8%A2%AB%E9%A9%B3%E5%9B%9E%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时59分"
-        },
-        {
-          "title": "OpenAI 律师：（关于OpenAI与埃隆·马斯克的诉讼判决）即使有上诉，对我们的立场也非常有信心。",
-          "url": "https://flash.jin10.com/detail/20260519021820181800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房价 楼市 房地产",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "4月70城房价：一线城市二手房价环比连续第二个月上涨，二三线城市房价环比降幅收窄或持平",
-          "url": "https://wallstreetcn.com/articles/3772478",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时27分 ~ 07时59分]"
-        },
-        {
-          "title": "4 月一线城市房价环比上涨，二三线降幅收窄，怎样解读？楼市真稳住了吗？二三线城市何时跟涨？",
-          "url": "https://www.zhihu.com/question/2039647734639108645",
-          "source": "知乎",
-          "ranks": [
-            14,
-            8,
-            18,
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时27分 ~ 07时59分]"
-        },
-        {
-          "title": "北京二手房房价三连涨，“小阳春”期间成交活跃",
-          "url": "https://wallstreetcn.com/livenews/3105648",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时53分 ~ 07时59分]"
-        },
-        {
-          "title": "标普500指数的11个板块多数收涨，能源板块涨1.81%，日用消费品、金融、房地产板块至少涨1.14%，工业板块则收跌0.42%，信息技术/科技板块跌0.97%。",
-          "url": "https://wallstreetcn.com/livenews/3105593",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时05分"
-        },
-        {
-          "title": "标普500指数初步收跌0.1%，科技板块跌约1%，工业板块跌0.4%，房地产、金融、日用消费品板块至多涨超1.3%，能源板块涨超1.4%。 纳斯达克100指数初步收跌0.4%，成分股中，再生元制药初步收跌9.6%，希捷科技、Strategy、美光、闪迪至多跌7.1%，汤森路透则涨8.5%，Zscaler涨9%，特许通讯涨9.9%。 3M初步收涨4.2%，Salesforce涨3.2%，雪佛龙涨2.6%，领跑道指成分股，苹果则跌0.8%，英伟达跌1.4%，卡特彼勒跌2.8%。",
-          "url": "https://wallstreetcn.com/livenews/3105587",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "九大看点梳理！谷歌I/O大会前瞻：“AI全栈霸主”能否再度惊艳华尔街？",
-          "url": "https://www.cls.cn/detail/2374982",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时39分 ~ 18时56分]"
-        },
-        {
-          "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2375879",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时53分"
-        },
-        {
-          "title": "戴尔：谷歌与戴尔合作，在戴尔PowerEdge XE9780服务器上通过谷歌分布式云推出Gemini 3闪存模型。",
-          "url": "https://flash.jin10.com/detail/20260519010215789800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
+          "time_info": "00时47分"
         }
       ]
     },
     {
       "keyword_group": "iphone apple apple watch ultra",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "小米17Max续航实测超两台iPhone",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B317Max%E7%BB%AD%E8%88%AA%E5%AE%9E%E6%B5%8B%E8%B6%85%E4%B8%A4%E5%8F%B0iPhone%23&t=31&band_rank=25&Refer=top",
+          "title": "iPhone或重回钛金属",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone%E6%88%96%E9%87%8D%E5%9B%9E%E9%92%9B%E9%87%91%E5%B1%9E%23&t=31&band_rank=23&Refer=top",
           "source": "微博",
           "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时39分 ~ 15时40分]"
-        },
-        {
-          "title": "iPhone 18 Pro最新爆料来了",
-          "url": "https://www.douyin.com/hot/2503684",
-          "source": "抖音",
-          "ranks": [
-            24
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "iPhone 18 Pro Max配置曝光",
-          "url": "https://www.toutiao.com/trending/7639964938291691526/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时05分"
+          "time_info": "00时47分"
         }
       ]
     }
