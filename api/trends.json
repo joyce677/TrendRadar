@@ -1,8 +1,91 @@
 {
-  "generated_at": "2026-05-19T13:56:12.747748+08:00",
-  "total_titles_processed": 709,
+  "generated_at": "2026-05-19T16:53:56.268961+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "人工智能",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "李强：推动人工智能与先进制造业深度融合 加快培育塑造经济发展新动能新优势",
+          "url": "https://www.cls.cn/detail/2374609",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时21分 ~ 09时55分]"
+        },
+        {
+          "title": "中美同意开展人工智能政府间对话",
+          "url": "https://www.toutiao.com/trending/7641151190163787270/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "助力人工智能发展，我国正前瞻布局一批数据领域前沿标准",
+          "url": "https://wallstreetcn.com/livenews/3105825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时56分"
+        },
+        {
+          "title": "Alphabet股价在盘前上涨1.1%，因其与黑石集团达成协议，共同推出人工智能云业务。",
+          "url": "https://flash.jin10.com/detail/20260519163138594800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "工信部：深入实施“人工智能+制造”专项行动 加力智能网联新能源汽车、高端装备、航空航天等新兴产业领域挖潜扩容",
+          "url": "https://wallstreetcn.com/livenews/3105892",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "日本首相高市早苗：日本与韩国将在人工智能和经济安全领域展开合作。",
+          "url": "https://flash.jin10.com/detail/20260519161304099800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "外交部：中美同意开展人工智能政府间对话",
+          "url": "https://wallstreetcn.com/livenews/3105889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        }
+      ]
+    },
     {
       "keyword_group": "马斯克",
       "match_count": 6,
@@ -85,11 +168,12 @@
           "url": "https://www.cls.cn/detail/2374982",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时55分 ~ 13时56分]"
+          "appearance_count": 3,
+          "time_info": "[13时55分 ~ 16时53分]"
         },
         {
           "title": "报道：谷歌与黑石集团拟成立一家新的AI云公司",
@@ -101,34 +185,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "李强：推动人工智能与先进制造业深度融合 加快培育塑造经济发展新动能新优势",
-          "url": "https://www.cls.cn/detail/2374609",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 09时55分]"
-        },
-        {
-          "title": "助力人工智能发展，我国正前瞻布局一批数据领域前沿标准",
-          "url": "https://wallstreetcn.com/livenews/3105825",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时56分"
         }
       ]
     },
@@ -150,6 +206,23 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "软银推出400亿美元的银团贷款计划，所得款项将用于支持软银对美国人工智能巨头OpenAI的投资。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3105924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Claude",
       "match_count": 1,
       "titles": [
@@ -163,6 +236,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时54分 ~ 09时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "近年来中国科学技术大学、上海财经大学等多所高校撤销外语专业，AI 翻译普及后，外语专业未来发展出路在哪？",
+          "url": "https://www.zhihu.com/question/2039715538398663059",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         }
       ]
     }
