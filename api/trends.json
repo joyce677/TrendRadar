@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-20T06:10:35.312673+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-05-20T07:58:00.248775+08:00",
+  "total_titles_processed": 649,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 29,
+      "match_count": 31,
       "titles": [
+        {
+          "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2375879",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 07时58分]"
+        },
         {
           "title": "谷歌Gemini：新的语音功能和 Gemini Spark 将于今夏在 macOS 的 Gemini 应用上推出。",
           "url": "https://flash.jin10.com/detail/20260520022605113800",
@@ -17,17 +29,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
-        },
-        {
-          "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2375879",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 06时10分]"
         },
         {
           "title": "谷歌展示Google Flow Music。",
@@ -51,6 +52,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时56分 ~ 04时27分]"
+        },
+        {
+          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
+          "url": "https://wallstreetcn.com/articles/3772658",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时57分 ~ 07时58分]"
         },
         {
           "title": "谷歌Gemini：上个月我们发布了适用于macOS的Gemini应用。在接下来的几周里，我们将把 Gemini Spar 引入Gemini 桌面应用，以帮助处理本地文件整理或将PDF数据直接提取到Google Sheets中。",
@@ -191,7 +203,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
@@ -202,7 +214,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
@@ -224,7 +236,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
         },
@@ -284,6 +296,17 @@
           "time_info": "02时57分"
         },
         {
+          "title": "三星与谷歌首次展示新款智能眼镜",
+          "url": "https://flash.jin10.com/detail/20260520071733734800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
           "title": "谷歌发布Gemini for science，来帮助研究",
           "url": "https://wallstreetcn.com/livenews/3106216",
           "source": "华尔街见闻-快讯",
@@ -331,7 +354,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "AMD AI开放日落地上海！苏姿丰现身 称中国拥有全球最具活力的AI生态系统",
@@ -339,11 +362,12 @@
           "source": "财联社热门",
           "ranks": [
             4,
-            3
+            3,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 07时58分]"
         },
         {
           "title": "【焦点复盘】沪指企稳反弹涨近1%，物理AI概念活跃不减，Token经济产业链热度扩散",
@@ -351,11 +375,36 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 07时58分]"
+        },
+        {
+          "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
+          "url": "https://wallstreetcn.com/articles/3772582",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 07时58分]"
+        },
+        {
+          "title": "Meta在AI推动的效率提升计划中开始裁员",
+          "url": "https://wallstreetcn.com/livenews/3106303",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "xAI允许在OpenClaw中使用Grok。",
@@ -369,18 +418,6 @@
           "time_info": "04时27分"
         },
         {
-          "title": "英伟达财报前夜，黄仁勋、戴尔访谈：AI正大规模进入企业，最核心瓶颈依旧是存储和先进制程芯片",
-          "url": "https://wallstreetcn.com/articles/3772582",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 06时10分]"
-        },
-        {
           "title": "赢!米哈游携千亿进军AI行业",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354404&amp;topic_name=%E8%B5%A2%21%E7%B1%B3%E5%93%88%E6%B8%B8%E6%90%BA%E5%8D%83%E4%BA%BF%E8%BF%9B%E5%86%9BAI%E8%A1%8C%E4%B8%9A",
           "source": "贴吧",
@@ -388,8 +425,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 06时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 07时58分]"
         },
         {
           "title": "莫奈钓出嘉豪哥,真迹变AI",
@@ -399,8 +436,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时47分 ~ 06时10分]"
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 07时58分]"
         },
         {
           "title": "AI恶意P图白嫖,卖家哭晕",
@@ -410,8 +447,21 @@
             21
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时47分 ~ 07时58分]"
+        },
+        {
+          "title": "中专生花10天手搓AI短片火遍全网",
+          "url": "https://www.toutiao.com/trending/7640988449969864731/",
+          "source": "今日头条",
+          "ranks": [
+            17,
+            19,
+            23
+          ],
+          "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时47分 ~ 06时10分]"
+          "time_info": "[04时27分 ~ 07时58分]"
         },
         {
           "title": "近年来中国科学技术大学、上海财经大学等多所高校撤销外语专业，AI 翻译普及后，外语专业未来发展出路在哪？",
@@ -424,18 +474,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时47分 ~ 02时57分]"
-        },
-        {
-          "title": "中专生花10天手搓AI短片火遍全网",
-          "url": "https://www.toutiao.com/trending/7640988449969864731/",
-          "source": "今日头条",
-          "ranks": [
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 06时10分]"
         },
         {
           "title": "印度为何押注AI和芯片产业",
@@ -458,13 +496,57 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "摩根大通：AI掀起产业变革正全方位考验管理层的领导力",
+          "url": "https://wallstreetcn.com/livenews/3106284",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "报道：SpaceX计划在美国IPO后30天内收购AI编程初创公司Cursor",
+          "url": "https://wallstreetcn.com/livenews/3106274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "周二（5月19日），美股AI软件先驱指数跌0.12%，报107.31点，高开高走之际、北京时间21:52刷新日高至110.81点，随后回吐涨幅，23:25以来大致持平。 成分股甲骨文收跌2.76%，铿腾电子跌2.27%，ServiceNOW、微软至少跌1.44%，新思科技跌0.91%，GitLab涨1.47%，Datadog涨3.03%，Snowflake涨3.23%。",
+          "url": "https://wallstreetcn.com/livenews/3106273",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         }
       ]
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "美国费城联储主席Anna Paulson（2026年FOMC票委）：收益率的变动是由实际利率驱动的，而非通胀。 没看出联邦公开市场委员会（FOMC）声明存在沟通问题。",
+          "url": "https://wallstreetcn.com/livenews/3106299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
         {
           "title": "日本央行行长植田和男：意识到长期利率正在迅速上升。",
           "url": "https://flash.jin10.com/detail/20260520001244531800",
@@ -486,6 +568,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "美联储Paulson：当前政策合适，但考虑长期维持利率或加息是“健康”的",
+          "url": "https://wallstreetcn.com/livenews/3106294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         },
         {
           "title": "美国财政部拍卖六周期国债，得标利率3.580%，投标倍数3.01。",
@@ -530,6 +623,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "美联储保尔森：市场开始考虑利率维持不变或上升的情景是“健康的”。",
+          "url": "https://flash.jin10.com/detail/20260520070141681800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "美联储保尔森：保持利率稳定使我们能够评估经济。",
+          "url": "https://flash.jin10.com/detail/20260520070140641800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
+        },
+        {
+          "title": "美联储保尔森：当前政策利率适当，并持续对通胀施加下行压力。",
+          "url": "https://flash.jin10.com/detail/20260520070112252800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时58分"
         }
       ]
     },
@@ -574,8 +700,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时47分 ~ 06时10分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 07时58分]"
         }
       ]
     },
