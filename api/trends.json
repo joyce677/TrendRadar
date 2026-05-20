@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-05-20T10:54:11.607804+08:00",
-  "total_titles_processed": 835,
+  "generated_at": "2026-05-20T14:49:27.849646+08:00",
+  "total_titles_processed": 1028,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 36,
+      "match_count": 38,
       "titles": [
+        {
+          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
+          "url": "https://wallstreetcn.com/articles/3772658",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 14时49分]"
+        },
+        {
+          "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
+          "url": "https://www.cls.cn/detail/2376057",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 14时49分]"
+        },
         {
           "title": "谷歌年度开发者大会揭幕 半导体板块不振美股持续调整 | 今夜看点",
           "url": "https://www.cls.cn/detail/2375879",
@@ -20,27 +45,17 @@
           "time_info": "[00时47分 ~ 07时58分]"
         },
         {
-          "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
-          "url": "https://www.cls.cn/detail/2376057",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 10时54分]"
-        },
-        {
-          "title": "谷歌I/O大会All in AI：Gemini模型上新，搜索框25年来最大改版，AI眼镜回归，Spark智能体首秀",
-          "url": "https://wallstreetcn.com/articles/3772658",
+          "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
+          "url": "https://wallstreetcn.com/articles/3772609",
           "source": "华尔街见闻",
           "ranks": [
+            10,
             7,
-            3
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时57分 ~ 10时54分]"
+          "appearance_count": 6,
+          "time_info": "[02时56分 ~ 14时49分]"
         },
         {
           "title": "谷歌Gemini：新的语音功能和 Gemini Spark 将于今夏在 macOS 的 Gemini 应用上推出。",
@@ -52,18 +67,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时57分"
-        },
-        {
-          "title": "谷歌I/O大会今夜揭幕： Gemini 4.0悬念、全栈智能体与AI购物",
-          "url": "https://wallstreetcn.com/articles/3772609",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时56分 ~ 10时54分]"
         },
         {
           "title": "谷歌展示Google Flow Music。",
@@ -78,33 +81,35 @@
           "time_info": "[02时57分 ~ 04时27分]"
         },
         {
-          "title": "2026 年 Google I/O 大会有哪些值得关注的信息？",
-          "url": "https://www.zhihu.com/question/2040145697911956151",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 10时54分]"
-        },
-        {
           "title": "万斯称美伊谈判取得“很大进展”谷歌推出Gemini 3.5系列模型 | 环球市场",
           "url": "https://www.cls.cn/detail/2376118",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 10时54分]"
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 14时49分]"
         },
         {
           "title": "谷歌推出Gemini 3.5系列模型 Omni视频生成迎来关键突破",
           "url": "https://www.cls.cn/detail/2376047",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 14时49分]"
+        },
+        {
+          "title": "2026 年 Google I/O 大会有哪些值得关注的信息？",
+          "url": "https://www.zhihu.com/question/2040145697911956151",
+          "source": "知乎",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -221,6 +226,17 @@
           "time_info": "02时57分"
         },
         {
+          "title": "Token消耗一年暴增7倍！谷歌步入Agent驱动时代 带来什么启示？",
+          "url": "https://www.cls.cn/detail/2376249",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
+        },
+        {
           "title": "谷歌新增Android Vibe编程支持到Google AI Studio。",
           "url": "https://wallstreetcn.com/livenews/3106201",
           "source": "华尔街见闻-快讯",
@@ -274,6 +290,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时10分"
+        },
+        {
+          "title": "如何看待 Google I/O 发布的 Gemini 3.5 Flash？在大模型竞争中处于什么位置？",
+          "url": "https://www.zhihu.com/question/2040264585383507841",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
         },
         {
           "title": "谷歌发布Gemini 3.5系列模型",
@@ -411,7 +438,7 @@
     },
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "AMD AI开放日落地上海！苏姿丰现身 称中国拥有全球最具活力的AI生态系统",
@@ -458,11 +485,12 @@
           "source": "贴吧",
           "ranks": [
             12,
-            15
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 10时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 14时49分]"
         },
         {
           "title": "莫奈钓出嘉豪哥,真迹变AI",
@@ -470,11 +498,12 @@
           "source": "贴吧",
           "ranks": [
             16,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时47分 ~ 10时54分]"
+          "appearance_count": 7,
+          "time_info": "[00时47分 ~ 14时49分]"
         },
         {
           "title": "AI恶意P图白嫖,卖家哭晕",
@@ -524,6 +553,17 @@
           "time_info": "[04时27分 ~ 07时58分]"
         },
         {
+          "title": "5月20日投资避雷针：9天6板人气股提示风险 无AI覆铜板及高速覆铜板产品",
+          "url": "https://www.cls.cn/detail/2376131",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 14时49分]"
+        },
+        {
           "title": "近年来中国科学技术大学、上海财经大学等多所高校撤销外语专业，AI 翻译普及后，外语专业未来发展出路在哪？",
           "url": "https://www.zhihu.com/question/2039715538398663059",
           "source": "知乎",
@@ -534,17 +574,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时47分 ~ 02时57分]"
-        },
-        {
-          "title": "5月20日投资避雷针：9天6板人气股提示风险 无AI覆铜板及高速覆铜板产品",
-          "url": "https://www.cls.cn/detail/2376131",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 10时54分]"
         },
         {
           "title": "伊朗战争冲击AI供应链 分析人士警告：最坏影响或仍未到来",
@@ -580,6 +609,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "机构：北美CSP大举购置NVIDIA GB/Rubin整柜式方案，今年AI推理算力将跃升1.2倍",
+          "url": "https://wallstreetcn.com/livenews/3106515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
+        },
+        {
           "title": "摩根大通：AI掀起产业变革正全方位考验管理层的领导力",
           "url": "https://wallstreetcn.com/livenews/3106284",
           "source": "华尔街见闻-快讯",
@@ -597,7 +637,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -627,18 +667,52 @@
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "美联储加息概率飙升！特朗普松口：沃什可“按自己意愿” 决定利率",
           "url": "https://www.cls.cn/detail/2376144",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 10时54分]"
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 14时49分]"
+        },
+        {
+          "title": "内蒙古发行10年期一般债地方债，规模144.9932亿元，发行利率1.8000%，边际倍数1.26倍，倍数预期1.85。",
+          "url": "https://wallstreetcn.com/livenews/3106538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
+        },
+        {
+          "title": "利率期货显示，到12月英国央行将加息约为52个基点，而周二为约60个基点。",
+          "url": "https://flash.jin10.com/detail/20260520143409062800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
+        },
+        {
+          "title": "美债上演“投降式大抛售”，高利率阴霾笼罩股市",
+          "url": "https://wallstreetcn.com/articles/3772671",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时49分"
         },
         {
           "title": "5月LPR报价出炉：5年期和1年期利率均维持不变",
@@ -691,7 +765,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -818,7 +892,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         }
@@ -835,7 +909,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         },
@@ -846,7 +920,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时54分"
         }
@@ -861,11 +935,12 @@
           "url": "https://s.weibo.com/weibo?q=%23iPhone%E7%BB%9D%E7%89%88%E9%85%8D%E4%BB%B6%E5%9B%9E%E5%BD%92%23&t=31&band_rank=9&Refer=top",
           "source": "微博",
           "ranks": [
-            9
+            9,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时53分 ~ 10时54分]"
+          "appearance_count": 3,
+          "time_info": "[10时53分 ~ 14时49分]"
         },
         {
           "title": "iPhone或重回钛金属",
