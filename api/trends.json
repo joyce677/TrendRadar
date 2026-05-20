@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T19:48:39.919017+08:00",
-  "total_titles_processed": 1065,
+  "generated_at": "2026-05-20T22:31:59.723175+08:00",
+  "total_titles_processed": 1221,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时54分 ~ 19时48分]"
+          "appearance_count": 6,
+          "time_info": "[09时54分 ~ 22时31分]"
         },
         {
           "title": "谷歌开发者大会火力全开：AI搜索、代码生成、视频模型齐发",
@@ -169,7 +169,7 @@
     },
     {
       "keyword_group": "人工智能",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "中美同意开展人工智能政府间对话",
@@ -183,8 +183,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时23分 ~ 19时48分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 22时31分]"
         },
         {
           "title": "外交部：中美元首就人工智能问题进行了建设性交流，同意开展相关对话",
@@ -206,9 +206,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
+        },
+        {
+          "title": "摩根大通预计人工智能不会影响初级银行员工的招聘。",
+          "url": "https://wallstreetcn.com/livenews/3106765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
+        },
+        {
+          "title": "报道：财捷集团将裁员17%以精简业务，关注人工智能",
+          "url": "https://wallstreetcn.com/livenews/3106753",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         },
         {
           "title": "云南：加快发展电子电路铜箔、电子级玻纤等形成印制电路板产能，引进人工智能服务器生产制造项目",
@@ -217,16 +239,38 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时48分"
+        },
+        {
+          "title": "风华高科：公司汽车电子、人工智能、储能及低空经济等新兴市场营收占比不超过15%",
+          "url": "https://wallstreetcn.com/livenews/3106744",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "如何看待 DeepSeek 组建 Harness 团队对标 Claude Code？",
+          "url": "https://www.zhihu.com/question/2040450519303288568",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时30分 ~ 22时31分]"
+        },
         {
           "title": "DeepSeek：特殊字符引发模型幻觉，不涉及安全问题或隐私泄露",
           "url": "https://www.cls.cn/detail/2375756",
@@ -303,7 +347,7 @@
     },
     {
       "keyword_group": "增长",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "花旗：中国电信运营商推出AI Token套餐 带来新的收入增长引擎",
@@ -326,6 +370,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "蔡崇信吴泳铭致股东信：努力将AI+云打造成阿里巴巴又一个增长动力",
+          "url": "https://wallstreetcn.com/livenews/3106746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时31分"
         }
       ]
     },
