@@ -1,39 +1,11 @@
 {
-  "generated_at": "2026-05-21T01:40:20.079402+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-05-21T09:53:54.988744+08:00",
+  "total_titles_processed": 495,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何评价 gemini 于 26 年 5 月 17 日实行的新限额形式？",
-          "url": "https://www.zhihu.com/question/2040264998916712429",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        },
-        {
-          "title": "谷歌在AI模型推出更有用的广告。",
-          "url": "https://wallstreetcn.com/livenews/3106842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "据知情人士透露，OpenAI按达到、或超过1万亿美元估值的预期筹备IPO。（英国金融时报）",
@@ -47,11 +19,51 @@
           "time_info": "01时40分"
         },
         {
+          "title": "软银集团股价大涨近20%，受OpenAI和SB Energy的IPO消息提振。",
+          "url": "https://wallstreetcn.com/livenews/3107041",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
+        },
+        {
           "title": "报道：OpenAI准备未来数日、或数周递交IPO申请",
           "url": "https://wallstreetcn.com/livenews/3106852",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何评价 gemini 于 26 年 5 月 17 日实行的新限额形式？",
+          "url": "https://www.zhihu.com/question/2040264998916712429",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 09时53分]"
+        },
+        {
+          "title": "谷歌在AI模型推出更有用的广告。",
+          "url": "https://wallstreetcn.com/livenews/3106842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -68,11 +80,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E7%BE%8E%E5%90%8C%E6%84%8F%E5%BC%80%E5%B1%95%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%94%BF%E5%BA%9C%E9%97%B4%E5%AF%B9%E8%AF%9D",
           "source": "bilibili 热搜",
           "ranks": [
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
+          "appearance_count": 2,
+          "time_info": "[01时40分 ~ 09时53分]"
         },
         {
           "title": "拉扎德CEO：美国经济已成为“人工智能赌局”",
@@ -101,6 +114,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美国毕业典礼嘘声四起背后：反AI浪潮浮现，“AI还不如政客受欢迎”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33204121",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时53分"
         }
       ]
     }
