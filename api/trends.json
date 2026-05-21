@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-05-21T13:59:34.319914+08:00",
-  "total_titles_processed": 691,
+  "generated_at": "2026-05-21T17:26:23.259990+08:00",
+  "total_titles_processed": 880,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "马斯克",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
+          "url": "https://wallstreetcn.com/articles/3772765",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 17时26分]"
+        },
+        {
+          "title": "马斯克冲击全球首位万亿美元富翁",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%86%B2%E5%87%BB%E5%85%A8%E7%90%83%E9%A6%96%E4%BD%8D%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AF%8C%E7%BF%81%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        },
+        {
+          "title": "马斯克离全球首位万亿美元富翁又近了一步",
+          "url": "https://news.ifeng.com/c/8tIqDq4kbYk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "马斯克：SpaceX正在积极招聘世界一流的工程师/物理学家加入SpaceXAI。",
+          "url": "https://flash.jin10.com/detail/20260521131729721800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时59分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
@@ -66,7 +116,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时59分"
         },
@@ -84,41 +134,30 @@
       ]
     },
     {
-      "keyword_group": "马斯克",
-      "match_count": 3,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
       "titles": [
         {
-          "title": "马斯克冲击全球首位万亿美元富翁",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E5%86%B2%E5%87%BB%E5%85%A8%E7%90%83%E9%A6%96%E4%BD%8D%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AF%8C%E7%BF%81%23&t=31&band_rank=2&Refer=top",
+          "title": "如何看待 DeepSeek 组建 Harness 团队对标 Claude Code？",
+          "url": "https://www.zhihu.com/question/2040450519303288568",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时40分"
+        },
+        {
+          "title": "不小心把DeepSeek叫成豆包",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
-            2
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
-          "url": "https://wallstreetcn.com/articles/3772765",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时59分"
-        },
-        {
-          "title": "马斯克：SpaceX正在积极招聘世界一流的工程师/物理学家加入SpaceXAI。",
-          "url": "https://flash.jin10.com/detail/20260521131729721800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时59分"
+          "time_info": "17时26分"
         }
       ]
     },
@@ -152,23 +191,6 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何看待 DeepSeek 组建 Harness 团队对标 Claude Code？",
-          "url": "https://www.zhihu.com/question/2040450519303288568",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时40分"
-        }
-      ]
-    },
-    {
       "keyword_group": "Anthropic",
       "match_count": 1,
       "titles": [
@@ -177,11 +199,12 @@
           "url": "https://wallstreetcn.com/articles/3772764",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 17时26分]"
         }
       ]
     },
@@ -194,11 +217,12 @@
           "url": "https://www.cls.cn/detail/2377636",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时59分 ~ 17时26分]"
         }
       ]
     },
@@ -212,11 +236,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            15
+            15,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 13时59分]"
+          "appearance_count": 3,
+          "time_info": "[09时53分 ~ 17时26分]"
         }
       ]
     }
