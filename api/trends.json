@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-21T17:26:23.259990+08:00",
-  "total_titles_processed": 880,
+  "generated_at": "2026-05-21T20:29:53.149823+08:00",
+  "total_titles_processed": 1057,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "马斯克",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "SpaceX招股书揭秘：Starlink是印钞机，xAI是吞金兽，马斯克用卫星养AI",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 17时26分]"
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 20时29分]"
         },
         {
           "title": "马斯克冲击全球首位万亿美元富翁",
@@ -36,9 +36,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
+        },
+        {
+          "title": "170次要变1万次，马斯克“太空壮志”遭美国监管机构泼冷水",
+          "url": "https://news.ifeng.com/c/8tJGUCBF9B8",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
+        {
+          "title": "马斯克儿子X全名有何含义",
+          "url": "https://search.bilibili.com/all?keyword=%E9%A9%AC%E6%96%AF%E5%85%8B%E5%84%BF%E5%AD%90X%E5%85%A8%E5%90%8D%E6%9C%89%E4%BD%95%E5%90%AB%E4%B9%89",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "马斯克：SpaceX正在积极招聘世界一流的工程师/物理学家加入SpaceXAI。",
@@ -55,8 +77,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "如何评价 OpenAI 称推翻困扰数学界近 80 年的「平面单位距离猜想」？这一结果的可信度如何？",
+          "url": "https://www.zhihu.com/question/2040738759281473391",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
+        },
         {
           "title": "据知情人士透露，OpenAI按达到、或超过1万亿美元估值的预期筹备IPO。（英国金融时报）",
           "url": "https://wallstreetcn.com/livenews/3106863",
@@ -138,6 +171,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "不小心把DeepSeek叫成豆包",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时26分 ~ 20时29分]"
+        },
+        {
           "title": "如何看待 DeepSeek 组建 Harness 团队对标 Claude Code？",
           "url": "https://www.zhihu.com/question/2040450519303288568",
           "source": "知乎",
@@ -147,17 +192,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时40分"
-        },
-        {
-          "title": "不小心把DeepSeek叫成豆包",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%8D%E5%B0%8F%E5%BF%83%E6%8A%8ADeepSeek%E5%8F%AB%E6%88%90%E8%B1%86%E5%8C%85&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时26分"
         }
       ]
     },
@@ -203,8 +237,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 17时26分]"
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 20时29分]"
         }
       ]
     },
@@ -218,11 +252,12 @@
           "source": "财联社热门",
           "ranks": [
             10,
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时59分 ~ 17时26分]"
+          "appearance_count": 3,
+          "time_info": "[13时59分 ~ 20时29分]"
         }
       ]
     },
@@ -237,11 +272,12 @@
           "ranks": [
             18,
             15,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时53分 ~ 17时26分]"
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 20时29分]"
         }
       ]
     }
