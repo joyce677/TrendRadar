@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-22T09:55:44.686247+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-22T13:55:30.110553+08:00",
+  "total_titles_processed": 504,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "AMD首席执行官苏姿丰：下一波重大趋势将是物理人工智能，包括机器人技术。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        },
+        {
+          "title": "关于“6张网”、人工智能、具身智能，国家发改委最新回应",
+          "url": "https://www.cls.cn/detail/2378704",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         },
         {
           "title": "AMD首席执行官苏姿丰：没有人真正从AI训练中赚钱。但我们现在所看到的是，人工智能不仅进入了推理阶段，还能真正做一些智能的事情。",
@@ -73,6 +84,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
+          "url": "https://www.zhihu.com/question/2040809853350831319",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时55分"
         }
       ]
     }
