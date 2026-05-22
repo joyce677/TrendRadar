@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-22T19:36:31.204334+08:00",
-  "total_titles_processed": 826,
+  "generated_at": "2026-05-22T22:08:10.194043+08:00",
+  "total_titles_processed": 999,
   "failed_sources": [],
   "trends": [
     {
@@ -38,7 +38,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
         },
@@ -60,7 +60,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时36分"
         }
@@ -120,11 +120,12 @@
           "url": "https://news.ifeng.com/c/8tL3ZUXTPWj",
           "source": "凤凰网",
           "ranks": [
-            7
+            7,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时36分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时36分 ~ 22时08分]"
         }
       ]
     },
@@ -172,11 +173,12 @@
           "source": "知乎",
           "ranks": [
             12,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时55分 ~ 19时36分]"
+          "appearance_count": 5,
+          "time_info": "[13时55分 ~ 22时08分]"
         }
       ]
     }
