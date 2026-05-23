@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T08:00:45.692613+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2026-05-23T11:33:44.294754+08:00",
+  "total_titles_processed": 767,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "AI浪潮提振全球股市，道指新高，量子计算股拉升，老虎证券、富途大跌逾30%，油价涨势暂歇",
@@ -18,6 +18,21 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时18分 ~ 06时02分]"
+        },
+        {
+          "title": "AI还原祖国人注射V1后的战斗力",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            14,
+            13,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 11时33分]"
         },
         {
           "title": "【每日收评】创业板指高开高走涨超2%，PCB等AI硬件全线爆发",
@@ -45,18 +60,15 @@
           "time_info": "[00时18分 ~ 08时00分]"
         },
         {
-          "title": "AI还原祖国人注射V1后的战斗力",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A5%96%E5%9B%BD%E4%BA%BA%E6%B3%A8%E5%B0%84V1%E5%90%8E%E7%9A%84%E6%88%98%E6%96%97%E5%8A%9B",
-          "source": "bilibili 热搜",
+          "title": "美银乐观预测：AI十年内每年将拉动增长约1个百分点",
+          "url": "https://flash.jin10.com/detail/20260523110713640800",
+          "source": "金十数据",
           "ranks": [
-            21,
-            14,
-            13,
-            15
+            1
           ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 08时00分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
         },
         {
           "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
@@ -119,12 +131,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时02分 ~ 08时00分]"
+        },
+        {
+          "title": "我国AI大模型优势在哪",
+          "url": "https://search.bilibili.com/all?keyword=%E6%88%91%E5%9B%BDAI%E5%A4%A7%E6%A8%A1%E5%9E%8B%E4%BC%98%E5%8A%BF%E5%9C%A8%E5%93%AA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "马斯克SpaceX星舰V3首飞成功",
@@ -144,7 +167,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时00分"
         },
@@ -158,6 +181,113 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
+        },
+        {
+          "title": "马斯克：祝贺SpaceX团队圆满完成星舰V3首次发射与溅落的壮举。",
+          "url": "https://flash.jin10.com/detail/20260523084019932800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "iphone apple apple watch ultra",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "曝iPhone18Pro配色大换血",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhone18Pro%E9%85%8D%E8%89%B2%E5%A4%A7%E6%8D%A2%E8%A1%80%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
+          "title": "iPhone17系列降价后销量",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E7%B3%BB%E5%88%97%E9%99%8D%E4%BB%B7%E5%90%8E%E9%94%80%E9%87%8F%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 02时50分]"
+        },
+        {
+          "title": "史上颜值巅峰iPhone要来了",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%B2%E4%B8%8A%E9%A2%9C%E5%80%BC%E5%B7%85%E5%B3%B0iPhone%E8%A6%81%E6%9D%A5%E4%BA%86%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "苹果谷歌英伟达，集体松了口气",
+          "url": "https://news.ifeng.com/c/8tL3ZUXTPWj",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时18分 ~ 11时33分]"
+        },
+        {
+          "title": "周五（5月22日），美股超大规模云服务商（Hyperscalers）指数收跌0.34%，报101.35点，本周累计下跌1.18%，整体呈现出平坦的V形走势。 日线图上，指数在3月27日跌至78.05点，随后持续反弹，5月份迄今持续测试100点整数位心理关口。 成分股中，谷歌A收跌1.21%，亚马逊跌0.80%，微软跌0.12%，Meta涨0.47%，甲骨文涨1.22%。",
+          "url": "https://wallstreetcn.com/livenews/3108281",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI称攻克80年数学难题",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%94%BB%E5%85%8B80%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
+          "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
+          "url": "https://flash.jin10.com/detail/20260523091339971800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时33分"
         }
       ]
     },
@@ -186,41 +316,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "苹果谷歌英伟达，集体松了口气",
-          "url": "https://news.ifeng.com/c/8tL3ZUXTPWj",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时18分 ~ 08时00分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "iphone apple apple watch ultra",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "iPhone17系列降价后销量",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone17%E7%B3%BB%E5%88%97%E9%99%8D%E4%BB%B7%E5%90%8E%E9%94%80%E9%87%8F%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时50分]"
         }
       ]
     },
