@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T14:31:10.597783+08:00",
-  "total_titles_processed": 916,
+  "generated_at": "2026-05-23T16:59:46.356077+08:00",
+  "total_titles_processed": 1050,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI浪潮提振全球股市，道指新高，量子计算股拉升，老虎证券、富途大跌逾30%，油价涨势暂歇",
@@ -109,6 +109,18 @@
           "time_info": "00时18分"
         },
         {
+          "title": "曝 DeepSeek 推进 700 亿元融资，梁文锋称坚持开源 AI 模型，此举意味着什么？",
+          "url": "https://www.zhihu.com/question/2041154123677126717",
+          "source": "知乎",
+          "ranks": [
+            10,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时29分 ~ 16时59分]"
+        },
+        {
           "title": "美国批准向多个间谍部门的90亿美元拨款，用于利用人工智能（AI）技术。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3108254",
           "source": "华尔街见闻-快讯",
@@ -133,17 +145,6 @@
           "time_info": "[06时02分 ~ 08时00分]"
         },
         {
-          "title": "曝 DeepSeek 推进 700 亿元融资，梁文锋称坚持开源 AI 模型，此举意味着什么？",
-          "url": "https://www.zhihu.com/question/2041154123677126717",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 14时31分]"
-        },
-        {
           "title": "美股AI应用软件股爆发",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1AI%E5%BA%94%E7%94%A8%E8%BD%AF%E4%BB%B6%E8%82%A1%E7%88%86%E5%8F%91%23&t=31&band_rank=14&Refer=top",
           "source": "微博",
@@ -153,6 +154,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时29分 ~ 14时31分]"
+        },
+        {
+          "title": "从“两弹一星”到AI时代，我们如何谈论科学家精神？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33218829",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "我国AI大模型优势在哪",
@@ -169,7 +181,7 @@
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "马斯克SpaceX星舰V3首飞成功",
@@ -181,6 +193,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时59分 ~ 08时00分]"
+        },
+        {
+          "title": "莫迪多次邀特斯拉来印设厂，马斯克为何最终拒绝？",
+          "url": "https://news.ifeng.com/c/8tM7SvgZdOf",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         },
         {
           "title": "SpaceX成功发射星舰，马斯克IPO帝国版图迎来关键大考",
@@ -219,7 +242,7 @@
     },
     {
       "keyword_group": "iphone apple apple watch ultra",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "曝iPhone18Pro配色大换血",
@@ -256,6 +279,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时18分 ~ 02时50分]"
+        },
+        {
+          "title": "iPhone20渲染视频",
+          "url": "https://s.weibo.com/weibo?q=%23iPhone20%E6%B8%B2%E6%9F%93%E8%A7%86%E9%A2%91%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时59分"
         }
       ]
     },
@@ -299,8 +333,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时33分 ~ 14时31分]"
+          "appearance_count": 4,
+          "time_info": "[11时33分 ~ 16时59分]"
         },
         {
           "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
@@ -352,11 +386,12 @@
           "url": "https://wallstreetcn.com/livenews/3108307",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            14,
+            21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时31分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时31分 ~ 16时59分]"
         }
       ]
     },
