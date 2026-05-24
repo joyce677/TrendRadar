@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T01:02:05.315962+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-25T02:02:28.085406+08:00",
+  "total_titles_processed": 357,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "什么情况下，本轮AI大行情会结束？",
@@ -15,8 +15,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时02分]"
+        },
+        {
+          "title": "欧洲央行紧急召集银行开会 敦促修复AI模型暴露的网络安全漏洞",
+          "url": "https://flash.jin10.com/detail/20260525012651977800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时02分"
         },
         {
           "title": "印度外交部长苏杰生：与来访的美国国务卿卢比奥讨论了关键矿物、人工智能（AI）、核、以及其他问题。",
@@ -25,9 +36,20 @@
           "ranks": [
             26
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时02分 ~ 02时02分]"
+        },
+        {
+          "title": "世界杯主题曲Dai Dai MV正式上线",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时02分"
+          "time_info": "02时02分"
         }
       ]
     },
@@ -43,8 +65,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 01时02分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 02时02分]"
         }
       ]
     }
