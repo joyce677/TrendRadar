@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-25T02:02:28.085406+08:00",
-  "total_titles_processed": 357,
+  "generated_at": "2026-05-25T04:01:45.364296+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "什么情况下，本轮AI大行情会结束？",
           "url": "https://wallstreetcn.com/articles/3773004",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时01分]"
         },
         {
           "title": "欧洲央行紧急召集银行开会 敦促修复AI模型暴露的网络安全漏洞",
@@ -25,9 +26,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时02分"
+        },
+        {
+          "title": "世界杯主题曲Dai Dai MV正式上线",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时02分 ~ 04时01分]"
         },
         {
           "title": "印度外交部长苏杰生：与来访的美国国务卿卢比奥讨论了关键矿物、人工智能（AI）、核、以及其他问题。",
@@ -41,15 +54,15 @@
           "time_info": "[01时02分 ~ 02时02分]"
         },
         {
-          "title": "世界杯主题曲Dai Dai MV正式上线",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%B8%BB%E9%A2%98%E6%9B%B2Dai%20Dai%20MV%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
+          "title": "欧洲央行将呼吁银行业解决因人工智能（AI）而暴露出来的瑕疵。 欧洲央行计划强调Anthropic模型Mythos构成的威胁的严重程度。 欧洲央行将于周二召开银行业会议讨论网络安全事宜。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3108534",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            28
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时02分"
+          "time_info": "04时01分"
         }
       ]
     },
@@ -62,11 +75,12 @@
           "url": "https://www.toutiao.com/trending/7642487158653304838/",
           "source": "今日头条",
           "ranks": [
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时01分 ~ 02时02分]"
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 04时01分]"
         }
       ]
     }
