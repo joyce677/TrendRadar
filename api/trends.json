@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-25T05:50:02.591354+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-05-25T06:52:17.155446+08:00",
+  "total_titles_processed": 488,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "什么情况下，本轮AI大行情会结束？",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 06时52分]"
         },
         {
           "title": "欧洲央行紧急召集银行开会 敦促修复AI模型暴露的网络安全漏洞",
@@ -36,11 +36,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时01分 ~ 05时50分]"
+          "appearance_count": 3,
+          "time_info": "[04时01分 ~ 06时52分]"
         },
         {
           "title": "世界杯主题曲Dai Dai MV正式上线",
@@ -48,11 +49,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             28,
-            26
+            26,
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时02分 ~ 04时01分]"
+          "appearance_count": 3,
+          "time_info": "[02时02分 ~ 06时52分]"
         },
         {
           "title": "印度外交部长苏杰生：与来访的美国国务卿卢比奥讨论了关键矿物、人工智能（AI）、核、以及其他问题。",
@@ -64,13 +66,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时02分 ~ 02时02分]"
+        },
+        {
+          "title": "训练AI取代自己？纺织工和外卖骑手正收集“第一人称视角数据”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33219435",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
         }
       ]
     },
     {
       "keyword_group": "利率 汇率",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美联储6月维持利率不变的概率为97.3%",
+          "url": "https://flash.jin10.com/detail/20260525060443507800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时52分"
+        },
         {
           "title": "欧洲央行行长拉加德：当前形势不确定性过高，尚无法就利率做出承诺；6月可能会修订通胀预测，届时欧洲央行将综合所有数据来评估经济状况。",
           "url": "https://flash.jin10.com/detail/20260525034518499800",
@@ -78,7 +102,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时50分"
         }
@@ -97,8 +121,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时01分 ~ 05时50分]"
+          "appearance_count": 7,
+          "time_info": "[01时01分 ~ 06时52分]"
         }
       ]
     }
