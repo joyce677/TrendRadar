@@ -1,254 +1,83 @@
 {
-  "generated_at": "2026-05-23T23:37:56.540877+08:00",
-  "total_titles_processed": 1280,
+  "generated_at": "2026-05-24T09:52:58.354275+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "【早报】国家数据局将把推动词元经济发展纳入工作体系；DeepSeek宣布永久降价",
+          "url": "https://www.cls.cn/detail/2379922",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时52分"
+        },
         {
           "title": "deepseek狂降价,友商被卷哭",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
           "source": "贴吧",
           "ranks": [
-            2,
-            3,
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时29分 ~ 23时37分]"
+          "appearance_count": 1,
+          "time_info": "09时52分"
         },
         {
-          "title": "曝 DeepSeek 推进 700 亿元融资，梁文锋称坚持开源 AI 模型，此举意味着什么？",
-          "url": "https://www.zhihu.com/question/2041154123677126717",
-          "source": "知乎",
+          "title": "AI进入“按量付费与算力配给”时代--Anthropic和DeepSeek告诉我们的事",
+          "url": "https://wallstreetcn.com/articles/3772969",
+          "source": "华尔街见闻",
           "ranks": [
-            5,
-            6,
-            7
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时53分 ~ 20时52分]"
+          "appearance_count": 1,
+          "time_info": "09时52分"
         },
         {
           "title": "DeepSeek宣布：永久降价",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E5%AE%A3%E5%B8%83%EF%BC%9A%E6%B0%B8%E4%B9%85%E9%99%8D%E4%BB%B7",
           "source": "百度热搜",
           "ranks": [
-            4
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时52分 ~ 23时37分]"
-        },
-        {
-          "title": "如何看待 DeepSeek V4 Pro 模型价格于 5 月 31 日结束 2.5 折优惠，调整为原定价的 1/4？",
-          "url": "https://www.zhihu.com/question/2041260640740927118",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时39分 ~ 13时29分]"
-        },
-        {
-          "title": "DeepSeek-V4-Pro API价格永久下调至原价25%",
-          "url": "https://flash.jin10.com/detail/20260523153803265800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时54分 ~ 17时31分]"
-        },
-        {
-          "title": "DeepSeek宣布，DeepSeek-V4-Pro模型API价格将于2026年5月31日结束2.5折优惠活动后，正式调整为原定价的1/4。DeepSeek在社交媒体上表示，“将把折扣永久化！”根据官方介绍，百万tokens输入（缓存命中）价格将为0.025元，百万tokens输入（缓存未命中）价格为3元，百万tokens输出价格为6元。（澎湃新闻）",
-          "url": "https://wallstreetcn.com/livenews/3108395",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时37分"
+          "time_info": "09时52分"
+        },
+        {
+          "title": "永久2.5折！DeepSeek宣布V4-Pro模型API降价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33220418",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时52分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "OpenAI称攻克80年数学难题",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E7%A7%B0%E6%94%BB%E5%85%8B80%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            5,
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时46分 ~ 19时51分]"
-        },
         {
           "title": "SpaceX、OpenAI、Anthropic“超级IPO”扎堆，美银：这是超级泡沫的重演",
           "url": "https://wallstreetcn.com/articles/3772963",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时52分 ~ 23时37分]"
-        },
-        {
-          "title": "一周热榜精选：沃什履新之际加息呼声渐高！SpaceX和OpenAI即将IPO",
-          "url": "https://flash.jin10.com/detail/20260523091339971800",
-          "source": "金十数据",
-          "ranks": [
-            7
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "莫迪多次邀特斯拉来印设厂，马斯克为何最终拒绝？",
-          "url": "https://news.ifeng.com/c/8tM7SvgZdOf",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时30分 ~ 20时52分]"
-        },
-        {
-          "title": "马斯克：祝贺SpaceX团队圆满完成星舰V3首次发射与溅落的壮举。",
-          "url": "https://flash.jin10.com/detail/20260523084019932800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        },
-        {
-          "title": "SpaceX成功发射星舰，马斯克IPO帝国版图迎来关键大考",
-          "url": "https://wallstreetcn.com/livenews/3108267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "苹果谷歌英伟达，集体松了口气",
-          "url": "https://news.ifeng.com/c/8tL3ZUXTPWj",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时39分 ~ 09时46分]"
-        },
-        {
-          "title": "周五（5月22日），美股超大规模云服务商（Hyperscalers）指数收跌0.34%，报101.35点，本周累计下跌1.18%，整体呈现出平坦的V形走势。 日线图上，指数在3月27日跌至78.05点，随后持续反弹，5月份迄今持续测试100点整数位心理关口。 成分股中，谷歌A收跌1.21%，亚马逊跌0.80%，微软跌0.12%，Meta涨0.47%，甲骨文涨1.22%。",
-          "url": "https://wallstreetcn.com/livenews/3108281",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英伟达(NVDA.O)CEO黄仁勋：人工智能将影响每个行业。",
-          "url": "https://flash.jin10.com/detail/20260523171540861800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            16,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时31分 ~ 19时51分]"
-        },
-        {
-          "title": "英伟达黄仁勋：Vera Rubin将成为迄今为止最成功的一代。 希望Super Micro能够提升合规性。 明年我们将继续保持高速增长。 人工智能将影响每一个行业。 内存价格对消费者来说是一个挑战。 希望内存供应商能尽快提升产能。",
-          "url": "https://wallstreetcn.com/livenews/3108333",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时52分 ~ 20时52分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "增长",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "标普500成分股有望创五年来最强财报季，增长势头从AI向其他行业扩展",
-          "url": "https://wallstreetcn.com/livenews/3108153",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
-        },
-        {
-          "title": "美银乐观预测：AI十年内每年将拉动增长约1个百分点",
-          "url": "https://flash.jin10.com/detail/20260523110713640800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时29分"
+          "time_info": "09时52分"
         }
       ]
     },
@@ -257,15 +86,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "如何看待达摩院、北大最新 Nature 成果，AI 绘制中国首张高精度风光分布图，这对新能源行业有何价值？",
-          "url": "https://www.zhihu.com/question/2040809853350831319",
-          "source": "知乎",
+          "title": "摩根大通一线调研：中国AI“赚钱时刻”来了，工作流层的价值开始超越基础模型",
+          "url": "https://wallstreetcn.com/articles/3772976",
+          "source": "华尔街见闻",
           "ranks": [
-            17
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时39分 ~ 00时40分]"
+          "appearance_count": 1,
+          "time_info": "09时52分"
         }
       ]
     }
