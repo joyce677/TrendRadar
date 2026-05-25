@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T09:58:59.196943+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-05-25T14:21:31.317180+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,60 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 14时21分]"
         },
         {
           "title": "梁文锋与DeepSeek的十万亿美元棋盘",
           "url": "https://wallstreetcn.com/articles/3772995",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时58分"
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 14时21分]"
         },
         {
           "title": "deepseek狂降价,友商被卷哭",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
           "source": "贴吧",
           "ranks": [
-            13
+            13,
+            17
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时58分 ~ 14时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "grok",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克：相较于目前处理所有Grok生产流量的0.5T V8-Small模型，这将是一个重大改进，尤其在处理复杂的编码任务方面。",
+          "url": "https://flash.jin10.com/detail/20260525135040658800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时58分"
+          "time_info": "14时21分"
+        },
+        {
+          "title": "马斯克：Grok基础模型V9-Medium（1.5T）已完成训练。评估结果良好。在补充训练中加入了大量Cursor数据，后续还将继续添加。微调工作正在进行中，强化学习将于数日后启动。预计2至3周后正式发布。",
+          "url": "https://flash.jin10.com/detail/20260525135012890800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时21分"
         }
       ]
     }
