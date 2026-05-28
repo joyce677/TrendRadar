@@ -1,8 +1,72 @@
 {
-  "generated_at": "2026-05-28T17:38:49.193983+08:00",
-  "total_titles_processed": 879,
+  "generated_at": "2026-05-28T20:58:26.405373+08:00",
+  "total_titles_processed": 1065,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "AI",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "明查｜起底“中国强拆寺庙”AI虚假视频背后：隐秘的协同发布与矩阵传播危害",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33244573",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            13,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时31分 ~ 20时58分]"
+        },
+        {
+          "title": "美国“散户大本营”开闸：股民可接入第三方智能体 让AI替自己炒股",
+          "url": "https://www.cls.cn/detail/2383460",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时31分 ~ 13时47分]"
+        },
+        {
+          "title": "美国网红券商允许散户用AI炒股 段永平举牌泡泡玛特 | 环球市场",
+          "url": "https://www.cls.cn/detail/2383558",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时47分"
+        },
+        {
+          "title": "香港拟将「中国内地」英译改为「Chinese Mainland」，此举释放了哪些信号？",
+          "url": "https://www.zhihu.com/question/2042897105346368773",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "市场消息：美国有线电视新闻网（CNN）对Perplexity AI提起诉讼，指控其侵犯CNN内容的版权。",
+          "url": "https://flash.jin10.com/detail/20260528203131610800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 3,
@@ -12,11 +76,12 @@
           "url": "https://wallstreetcn.com/articles/3773316",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时38分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时38分 ~ 20时58分]"
         },
         {
           "title": "DeepSeek网页及API服务中断 现已恢复",
@@ -43,49 +108,8 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "明查｜起底“中国强拆寺庙”AI虚假视频背后：隐秘的协同发布与矩阵传播危害",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33244573",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时31分 ~ 17时38分]"
-        },
-        {
-          "title": "美国“散户大本营”开闸：股民可接入第三方智能体 让AI替自己炒股",
-          "url": "https://www.cls.cn/detail/2383460",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时31分 ~ 13时47分]"
-        },
-        {
-          "title": "美国网红券商允许散户用AI炒股 段永平举牌泡泡玛特 | 环球市场",
-          "url": "https://www.cls.cn/detail/2383558",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时47分"
-        }
-      ]
-    },
-    {
       "keyword_group": "人工智能",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "人工智能成外贸增长新引擎",
@@ -99,21 +123,60 @@
           "time_info": "13时47分"
         },
         {
+          "title": "两部门联手 系统布局人工智能计量能力建设",
+          "url": "https://www.cls.cn/detail/2384415",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "据华尔街日报：法国人工智能公司Mistral AI表示，公司正以最快速度投入所谓“超级智能”的“登月计划式竞赛”，因为欧洲无法承受继续依赖美国科技巨头的代价。",
           "url": "https://flash.jin10.com/detail/20260528170544573800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时38分"
         }
       ]
     },
     {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美无人机用星链太多，马斯克要多收钱",
+          "url": "https://news.ifeng.com/c/8tUyr3DnDjj",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "SpaceX 若以 2 万亿美金成功上市，马斯克会成为人类历史上首位「万亿美金富翁」吗？这意味着什么？",
+          "url": "https://www.zhihu.com/question/2040788860502635015",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        }
+      ]
+    },
+    {
       "keyword_group": "Claude",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "微软被曝将弃用 Claude，是因成本过高还是已掌握核心技术？",
@@ -125,6 +188,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        },
+        {
+          "title": "如何看待微软取消了 Claude Code 订阅？",
+          "url": "https://www.zhihu.com/question/2042203258689672770",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     },
@@ -142,6 +216,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "tvc",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "卡厄思梦境柯洁TVC",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%A1%E5%8E%84%E6%80%9D%E6%A2%A6%E5%A2%83%E6%9F%AF%E6%B4%81TVC",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     }
