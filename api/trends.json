@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-05-28T01:38:25.646864+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-05-28T09:31:48.661264+08:00",
+  "total_titles_processed": 496,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "AI",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美国“散户大本营”开闸：股民可接入第三方智能体 让AI替自己炒股",
+          "url": "https://www.cls.cn/detail/2383460",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        },
+        {
+          "title": "明查｜起底“中国强拆寺庙”AI虚假视频背后：隐秘的协同发布与矩阵传播危害",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33244573",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
+        }
+      ]
+    },
     {
       "keyword_group": "Claude",
       "match_count": 1,
@@ -17,6 +45,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "增长",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美联储副主席杰斐逊：能源冲击是美国经济增长的阻力，但我们依然保持了增长，部分原因在于强劲的AI投资。 在货币政策沟通中，必须将重点放在监测与供应冲击以及投资需求飙升相关的第二轮效应上。",
+          "url": "https://wallstreetcn.com/livenews/3110325",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时31分"
         }
       ]
     }
