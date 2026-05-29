@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-29T14:02:46.091403+08:00",
-  "total_titles_processed": 695,
+  "generated_at": "2026-05-29T17:54:49.536374+08:00",
+  "total_titles_processed": 908,
   "failed_sources": [],
   "trends": [
     {
@@ -56,6 +56,84 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI发布 OpenAI 的前沿治理框架。",
+          "url": "https://flash.jin10.com/detail/20260529002616429800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时49分"
+        },
+        {
+          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
+          "url": "https://wallstreetcn.com/articles/3773389",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
+          "title": "OpenAI正调查影响用户登录和使用ChatGPT的故障",
+          "url": "https://wallstreetcn.com/livenews/3111141",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "如何看待 5 月 29 日发布的 Claude4.8Opus 疑似大量蒸馏国内开源模型？",
+          "url": "https://www.zhihu.com/question/2043515093007303790",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        },
+        {
+          "title": "Claude Opus 4.8版本来了",
+          "url": "https://www.baidu.com/s?wd=Claude+Opus+4.8%E7%89%88%E6%9C%AC%E6%9D%A5%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时52分 ~ 09时53分]"
+        },
+        {
+          "title": "claude opus 4.8 发布了，相较于 opus4.7，有什么提升的地方？",
+          "url": "https://www.zhihu.com/question/2043503794751791638",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时02分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI",
       "match_count": 3,
       "titles": [
@@ -95,6 +173,35 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国家大基金领投DeepSeek，投前估值450亿美元",
+          "url": "https://wallstreetcn.com/articles/3773316",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时48分 ~ 09时53分]"
+        },
+        {
+          "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
+          "url": "https://www.zhihu.com/question/2042260682780009473",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
+        }
+      ]
+    },
+    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -119,34 +226,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI发布 OpenAI 的前沿治理框架。",
-          "url": "https://flash.jin10.com/detail/20260529002616429800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时49分"
-        },
-        {
-          "title": "OpenAI正调查影响用户登录和使用ChatGPT的故障",
-          "url": "https://wallstreetcn.com/livenews/3111141",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时02分"
         }
       ]
     },
@@ -179,48 +258,31 @@
       ]
     },
     {
-      "keyword_group": "Claude",
+      "keyword_group": "增长",
       "match_count": 2,
       "titles": [
         {
-          "title": "Claude Opus 4.8版本来了",
-          "url": "https://www.baidu.com/s?wd=Claude+Opus+4.8%E7%89%88%E6%9C%AC%E6%9D%A5%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时52分 ~ 09时53分]"
-        },
-        {
-          "title": "claude opus 4.8 发布了，相较于 opus4.7，有什么提升的地方？",
-          "url": "https://www.zhihu.com/question/2043503794751791638",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国家大基金领投DeepSeek，投前估值450亿美元",
-          "url": "https://wallstreetcn.com/articles/3773316",
+          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3773393",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            4
+            8,
+            6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[00时48分 ~ 09时53分]"
+          "time_info": "[09时52分 ~ 17时54分]"
+        },
+        {
+          "title": "联发科预计AI业务收入将在2027年迎来爆发式增长",
+          "url": "https://wallstreetcn.com/livenews/3111299",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时54分"
         }
       ]
     },
@@ -243,23 +305,6 @@
       ]
     },
     {
-      "keyword_group": "增长",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3773393",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时52分 ~ 14时02分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "tvc",
       "match_count": 1,
       "titles": [
@@ -269,11 +314,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             21,
-            13
+            13,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时52分 ~ 14时02分]"
+          "appearance_count": 4,
+          "time_info": "[09时52分 ~ 17时54分]"
         }
       ]
     }
