@@ -1,567 +1,100 @@
 {
-  "generated_at": "2026-05-30T23:02:41.574601+08:00",
-  "total_titles_processed": 1378,
+  "generated_at": "2026-05-31T00:09:17.447622+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "“我们在赢”！戴尔电话会：业绩炸裂，但炸的不只是AI服务器，四大业务全赢麻了",
-          "url": "https://wallstreetcn.com/articles/3773407",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 07时07分]"
-        },
-        {
-          "title": "官方出手,AI吸附遭刑事打击",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354704&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%2CAI%E5%90%B8%E9%99%84%E9%81%AD%E5%88%91%E4%BA%8B%E6%89%93%E5%87%BB",
-          "source": "贴吧",
-          "ranks": [
-            15,
-            18,
-            20,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时39分 ~ 23时02分]"
-        },
-        {
-          "title": "“广东高考将用AI批卷”不实",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%B9%BF%E4%B8%9C%E9%AB%98%E8%80%83%E5%B0%86%E7%94%A8AI%E6%89%B9%E5%8D%B7%E2%80%9D%E4%B8%8D%E5%AE%9E",
-          "source": "百度热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 10时28分]"
-        },
-        {
-          "title": "戴尔绩后暴涨！Q1营收增长88%，AI收入暴增757%，全年指引大幅上调｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3773393",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时48分]"
-        },
-        {
-          "title": "莫言接受央媒专访：有志气的作家不会屈服于AI压力，还是要坚持原创",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33260666",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 07时07分]"
-        },
-        {
-          "title": "广东夏季高考用AI批卷系不实传言",
-          "url": "https://www.toutiao.com/trending/7644786880849182729/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 07时07分]"
-        },
-        {
-          "title": "“广东夏季高考将用AI批卷”不实",
-          "url": "https://www.douyin.com/hot/2516863",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 07时07分]"
-        },
-        {
-          "title": "AI改写黑袍纠察队结局",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%94%B9%E5%86%99%E9%BB%91%E8%A2%8D%E7%BA%A0%E5%AF%9F%E9%98%9F%E7%BB%93%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23,
-            19,
-            20,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 07时07分]"
-        },
         {
           "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
           "url": "https://wallstreetcn.com/articles/3773482",
           "source": "华尔街见闻",
           "ranks": [
-            9,
-            6,
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时18分 ~ 23时02分]"
-        },
-        {
-          "title": "与主席沃什看法相左！美联储官员穆萨莱姆称不能指望AI降低通胀",
-          "url": "https://wallstreetcn.com/articles/3773387",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时48分]"
-        },
-        {
-          "title": "停火预期压制油价，AI热潮推涨美股，标普九周连涨，戴尔暴涨33%，黄金冲高回落",
-          "url": "https://wallstreetcn.com/articles/3773437",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时06分 ~ 07时07分]"
-        },
-        {
-          "title": "两名初中生田间用AI识图发现罂粟",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%A4%E5%90%8D%E5%88%9D%E4%B8%AD%E7%94%9F%E7%94%B0%E9%97%B4%E7%94%A8AI%E8%AF%86%E5%9B%BE%E5%8F%91%E7%8E%B0%E7%BD%82%E7%B2%9F",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
+          "time_info": "[00时08分 ~ 00时09分]"
         },
         {
           "title": "全国首个绿色算力全栈AI平台上线",
           "url": "https://www.cls.cn/detail/2386167",
           "source": "财联社热门",
           "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时09分 ~ 23时02分]"
-        },
-        {
-          "title": "韩国巨额AI奖金引发科技财富分配大论战",
-          "url": "https://wallstreetcn.com/livenews/3111651",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            8
+            3
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时48分 ~ 07时07分]"
-        },
-        {
-          "title": "全国首个绿色算力全栈AI平台在呼和浩特正式上线",
-          "url": "https://wallstreetcn.com/livenews/3111792",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 21时10分]"
-        },
-        {
-          "title": "AI驱动美股狂飙！标普500 5月牛股盘点：戴尔、美光强势领跑",
-          "url": "https://www.cls.cn/detail/2386086",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时09分 ~ 23时02分]"
-        },
-        {
-          "title": "全国首个绿色算力全栈AI平台在呼和浩特正式上线",
-          "url": "https://flash.jin10.com/detail/20260530184817484800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时15分 ~ 21时10分]"
-        },
-        {
-          "title": "周五（5月29日），美股AI软件先驱指数涨7.34%，报122.40点，本周累涨11.32%，5月份累涨23.99%。 北美科技软件股指数ETF收涨6.25%，报101.66美元，本周累计上涨8.14%——连续第七周反弹，5月份累涨21.15%，创2001年10月份以来最佳单月表现。",
-          "url": "https://wallstreetcn.com/livenews/3111637",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时48分 ~ 07时07分]"
-        },
-        {
-          "title": "周五（5月29日），美股人工智能（AI）赢家指数行1.70%，报424.90点，本周累涨6.44%，5月份累涨19%。",
-          "url": "https://wallstreetcn.com/livenews/3111636",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时48分 ~ 07时07分]"
-        },
-        {
-          "title": "传奇对冲基金经理Dan Loeb：拒绝进化的“死硬价值派”都死了，不学AI注定灭绝",
-          "url": "https://wallstreetcn.com/articles/3773413",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
-          "title": "用AI整理会议记录或导致泄密",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E6%95%B4%E7%90%86%E4%BC%9A%E8%AE%AE%E8%AE%B0%E5%BD%95%E6%88%96%E5%AF%BC%E8%87%B4%E6%B3%84%E5%AF%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时02分"
+          "time_info": "[00时08分 ~ 00时09分]"
         },
         {
           "title": "“牛市”底气：全球企业盈利已“脱离基本面”，利润率将冲击历史记录，“AI效果类似中国加入WTO”",
           "url": "https://wallstreetcn.com/articles/3773496",
           "source": "华尔街见闻",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时02分"
-        },
-        {
-          "title": "“亚洲最大AI科技展”ComputeX下周开幕，黄仁勋领衔AI巨头轮番登台",
-          "url": "https://wallstreetcn.com/articles/3773430",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
-          "title": "AI算力烧热电力股",
-          "url": "https://www.toutiao.com/trending/7644393123837968394/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
-          "title": "网易副总裁、网易智企总经理阮良：正帮助企业构建“AI员工”",
-          "url": "https://wallstreetcn.com/livenews/3111746",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时11分"
-        },
-        {
-          "title": "40余款AI大模型集中亮相2026世界智能产业博览会",
-          "url": "https://wallstreetcn.com/livenews/3111671",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        },
-        {
-          "title": "让小孩学AI是浪费时间吗",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AE%A9%E5%B0%8F%E5%AD%A9%E5%AD%A6AI%E6%98%AF%E6%B5%AA%E8%B4%B9%E6%97%B6%E9%97%B4%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
-          "title": "美联储戴利：利用AI获得持续生产率增长的障碍很大程度上在于监管方面。 看到AI为生产率增长带来的绿色萌芽（积极迹象）。 未看到AI造成美国大规模失业或劳动力流离失所。",
-          "url": "https://wallstreetcn.com/livenews/3111573",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时30分"
-        },
-        {
-          "title": "报道：Meta计划推出AI吊坠，作为其可穿戴设备路线图的一部分",
-          "url": "https://wallstreetcn.com/livenews/3111665",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
-          "url": "https://wallstreetcn.com/articles/3773389",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时38分 ~ 07时07分]"
-        },
-        {
-          "title": "报道：OpenAI在讨论将花旗、摩根大通纳入IPO承销商名单",
-          "url": "https://wallstreetcn.com/livenews/3111808",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            23
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时10分 ~ 23时02分]"
+          "time_info": "[00时08分 ~ 00时09分]"
         },
         {
-          "title": "据知情人士透露，OpenAI已与包括花旗集团和摩根大通在内的多家银行就其即将进行的首次公开募股事宜进行了沟通。",
-          "url": "https://flash.jin10.com/detail/20260530034751105800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时48分 ~ 07时07分]"
-        },
-        {
-          "title": "据悉OpenAI已与花旗、摩根大通讨论参与IPO事宜",
-          "url": "https://flash.jin10.com/detail/20260530193729860800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时10分"
-        },
-        {
-          "title": "OpenAI确认推出Rosalind BioDefense Program。",
-          "url": "https://wallstreetcn.com/livenews/3111534",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "iphone apple apple watch",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "iPhone18Pro四色实锤",
-          "url": "https://www.baidu.com/s?wd=iPhone18Pro%E5%9B%9B%E8%89%B2%E5%AE%9E%E9%94%A4",
-          "source": "百度热搜",
-          "ranks": [
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时38分 ~ 10时28分]"
-        },
-        {
-          "title": "iPhone18Pro樱桃色",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%A8%B1%E6%A1%83%E8%89%B2%23&t=31&band_rank=13&Refer=top",
-          "source": "微博",
+          "title": "一个月烧掉5亿美元！科技巨头“AI Token消耗赛”踩下急刹",
+          "url": "https://www.cls.cn/detail/2386184",
+          "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时38分 ~ 00时39分]"
+          "time_info": "[00时08分 ~ 00时09分]"
         },
         {
-          "title": "iPhone18Pro可变光圈镜头确认",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E5%8F%AF%E5%8F%98%E5%85%89%E5%9C%88%E9%95%9C%E5%A4%B4%E7%A1%AE%E8%AE%A4%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "官方出手,AI吸附遭刑事打击",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354704&amp;topic_name=%E5%AE%98%E6%96%B9%E5%87%BA%E6%89%8B%2CAI%E5%90%B8%E9%99%84%E9%81%AD%E5%88%91%E4%BA%8B%E6%89%93%E5%87%BB",
+          "source": "贴吧",
           "ranks": [
-            18
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时28分"
-        },
+          "time_info": "00时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "iPhone18Pro无缘钛金属",
-          "url": "https://s.weibo.com/weibo?q=%23iPhone18Pro%E6%97%A0%E7%BC%98%E9%92%9B%E9%87%91%E5%B1%9E%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
+          "title": "报道：OpenAI在讨论将花旗、摩根大通纳入IPO承销商名单",
+          "url": "https://wallstreetcn.com/livenews/3111808",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时28分"
+          "time_info": "00时09分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "蓝色起源火箭测试中爆炸，贝索斯“太空梦”受挫，马斯克：火箭就是这么难",
           "url": "https://wallstreetcn.com/articles/3773436",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时28分 ~ 23时02分]"
-        },
-        {
-          "title": "马斯克公开辟谣：SpaceX下调IPO估值目标为“虚假”消息",
-          "url": "https://wallstreetcn.com/articles/3773468",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房价 楼市 房地产",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "深圳楼市新政满月，一二手房成交同比增33%",
-          "url": "https://wallstreetcn.com/livenews/3111748",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时11分"
-        },
-        {
-          "title": "深圳楼市新政满月 一二手房成交同比增33%",
-          "url": "https://flash.jin10.com/detail/20260530150205231800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "anthropic claude",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何看待 5 月 29 日发布的 Claude4.8Opus 疑似大量蒸馏国内开源模型？",
-          "url": "https://www.zhihu.com/question/2043515093007303790",
-          "source": "知乎",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时38分 ~ 05时48分]"
-        },
-        {
-          "title": "Anthropic将未经授权的二级平台名单削减一半。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3111789",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股七巨头收盘播报｜微软收涨超5.4%，5月份谷歌A涨21.6%",
-          "url": "https://wallstreetcn.com/livenews/3111630",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            26
+            9
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时48分 ~ 07时07分]"
+          "time_info": "[00时08分 ~ 00时09分]"
         }
       ]
     }
