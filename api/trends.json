@@ -1,53 +1,23 @@
 {
-  "generated_at": "2026-05-30T18:21:20.573147+08:00",
-  "total_titles_processed": 935,
+  "generated_at": "2026-05-30T19:50:13.670209+08:00",
+  "total_titles_processed": 1039,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "Claude",
+      "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
         {
-          "title": "如何看待 5 月 29 日发布的 Claude4.8Opus 疑似大量蒸馏国内开源模型？",
-          "url": "https://www.zhihu.com/question/2043515093007303790",
-          "source": "知乎",
+          "title": "据悉OpenAI已与花旗、摩根大通讨论参与IPO事宜",
+          "url": "https://flash.jin10.com/detail/20260530193729860800",
+          "source": "金十数据",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
-        },
-        {
-          "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
-          "url": "https://wallstreetcn.com/articles/3773482",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
             3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时38分 ~ 18时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         },
-        {
-          "title": "如何评价 Anthropic 在 2026 年 5 月 28 日发布的新模型 Claude Opus 4.8？",
-          "url": "https://www.zhihu.com/question/2043549906909098885",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 13时39分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
         {
           "title": "18倍PS？Anthropic最新估值达9650亿美元，首超OpenAI！",
           "url": "https://wallstreetcn.com/articles/3773389",
@@ -73,9 +43,61 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "keyword_group": "Claude",
+      "match_count": 3,
       "titles": [
+        {
+          "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
+          "url": "https://wallstreetcn.com/articles/3773482",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时38分 ~ 19时50分]"
+        },
+        {
+          "title": "如何看待 5 月 29 日发布的 Claude4.8Opus 疑似大量蒸馏国内开源模型？",
+          "url": "https://www.zhihu.com/question/2043515093007303790",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
+        },
+        {
+          "title": "如何评价 Anthropic 在 2026 年 5 月 28 日发布的新模型 Claude Opus 4.8？",
+          "url": "https://www.zhihu.com/question/2043549906909098885",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时38分 ~ 13时39分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "为什么无论是 chatgpt 还是 deepseek 都会在 24 点游戏上表现的这么差？",
+          "url": "https://www.zhihu.com/question/2040472846393161206",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 19时50分]"
+        },
         {
           "title": "华为发表韬 (τ) 定律，实现晶体管密度与系统性能突破，是芯片制造领域另一个 deepseek 时刻吗？",
           "url": "https://www.zhihu.com/question/2042260682780009473",
@@ -120,8 +142,25 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时49分 ~ 18时21分]"
+          "appearance_count": 7,
+          "time_info": "[09时49分 ~ 19时50分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Anthropic",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "Anthropic将未经授权的二级平台名单削减一半。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3111789",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
         }
       ]
     },
