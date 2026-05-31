@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T10:45:19.778369+08:00",
-  "total_titles_processed": 680,
+  "generated_at": "2026-05-31T14:54:30.531548+08:00",
+  "total_titles_processed": 843,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "全国首个绿色算力全栈AI平台上线",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时08分 ~ 10时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时08分 ~ 14时54分]"
         },
         {
           "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
@@ -40,11 +40,12 @@
             7,
             6,
             4,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时08分 ~ 10时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时08分 ~ 14时54分]"
         },
         {
           "title": "一个月烧掉5亿美元！科技巨头“AI Token消耗赛”踩下急刹",
@@ -79,11 +80,12 @@
           "source": "贴吧",
           "ranks": [
             21,
-            22
+            22,
+            29
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 10时45分]"
+          "appearance_count": 9,
+          "time_info": "[00时09分 ~ 14时54分]"
         },
         {
           "title": "报道：软银承诺投资750亿欧元在法国建设AI设施，总规模5 GW",
@@ -93,11 +95,12 @@
             2,
             5,
             6,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时48分 ~ 10时45分]"
+          "appearance_count": 6,
+          "time_info": "[04时48分 ~ 14时54分]"
         },
         {
           "title": "AI军备竞赛下一个爆发点！高盛：电容就是“新内存”",
@@ -105,11 +108,23 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时56分 ~ 10时45分]"
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 14时54分]"
+        },
+        {
+          "title": "当胡彦斌1个月写出APP，AI时代已经扑面而来",
+          "url": "https://wallstreetcn.com/articles/3773513",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
         },
         {
           "title": "AI绑架韩国经济",
@@ -118,7 +133,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         },
@@ -129,7 +144,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时45分"
         }
@@ -182,6 +197,23 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时08分 ~ 03时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "上海楼市为何先止跌？哪些城市有望跟进？",
+          "url": "https://wallstreetcn.com/articles/3773511",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时54分"
         }
       ]
     }
