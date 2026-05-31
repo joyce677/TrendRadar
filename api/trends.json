@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T14:54:30.531548+08:00",
-  "total_titles_processed": 843,
+  "generated_at": "2026-05-31T17:45:24.879024+08:00",
+  "total_titles_processed": 1005,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "全国首个绿色算力全栈AI平台上线",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时08分 ~ 14时54分]"
+          "appearance_count": 16,
+          "time_info": "[00时08分 ~ 17时45分]"
         },
         {
           "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
@@ -44,8 +44,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时08分 ~ 14时54分]"
+          "appearance_count": 16,
+          "time_info": "[00时08分 ~ 17时45分]"
         },
         {
           "title": "一个月烧掉5亿美元！科技巨头“AI Token消耗赛”踩下急刹",
@@ -103,28 +103,63 @@
           "time_info": "[04时48分 ~ 14时54分]"
         },
         {
+          "title": "当胡彦斌1个月写出APP，AI时代已经扑面而来",
+          "url": "https://wallstreetcn.com/articles/3773513",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时54分 ~ 17时45分]"
+        },
+        {
           "title": "AI军备竞赛下一个爆发点！高盛：电容就是“新内存”",
           "url": "https://wallstreetcn.com/articles/3773499",
           "source": "华尔街见闻",
           "ranks": [
             10,
             5,
-            3
+            3,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时56分 ~ 14时54分]"
+          "appearance_count": 4,
+          "time_info": "[07时56分 ~ 17时45分]"
         },
         {
-          "title": "当胡彦斌1个月写出APP，AI时代已经扑面而来",
-          "url": "https://wallstreetcn.com/articles/3773513",
+          "title": "GitHub不装了，用户炸锅了！AI编程的低价时代结束，从此按token计费",
+          "url": "https://wallstreetcn.com/articles/3773512",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时54分"
+          "time_info": "17时45分"
+        },
+        {
+          "title": "周末要闻汇总：全国首个绿色算力全栈AI平台上线；MiniMax启动A股上市辅导",
+          "url": "https://www.cls.cn/detail/2386314",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
+          "title": "高乐股份：不涉及芯片资产注入 AI玩具等新业务未实现收入",
+          "url": "https://flash.jin10.com/detail/20260531155249919800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "AI绑架韩国经济",
@@ -183,6 +218,35 @@
       ]
     },
     {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "上海楼市为何先止跌？哪些城市有望跟进？",
+          "url": "https://wallstreetcn.com/articles/3773511",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时54分 ~ 17时45分]"
+        },
+        {
+          "title": "中金研报称京沪楼市拐点确认，房价企稳后有望年内转涨，北上房价真要触底反弹了？现在该出手还是继续观望？",
+          "url": "https://www.zhihu.com/question/2043269779943843699",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克",
       "match_count": 1,
       "titles": [
@@ -197,23 +261,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时08分 ~ 03时21分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房价 楼市 房地产",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "上海楼市为何先止跌？哪些城市有望跟进？",
-          "url": "https://wallstreetcn.com/articles/3773511",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时54分"
         }
       ]
     }
