@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-31T08:09:58.731029+08:00",
-  "total_titles_processed": 528,
+  "generated_at": "2026-05-31T13:25:35.007320+08:00",
+  "total_titles_processed": 735,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 伊朗 台湾 美国 俄罗斯 中国 战争",
-      "match_count": 66,
+      "match_count": 94,
       "titles": [
         {
           "title": "“中国要2027‘武统’”，美军报告渲染威胁",
@@ -41,6 +41,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时11分 ~ 06时07分]"
+        },
+        {
+          "title": "“牛市”底气：全球企业盈利已“脱离基本面”，利润率将冲击历史记录，“AI效果类似中国加入WTO”",
+          "url": "https://wallstreetcn.com/articles/3773496",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时11分 ~ 13时25分]"
         },
         {
           "title": "中国留学生称在印度热到内脏沸腾",
@@ -128,31 +142,6 @@
           "time_info": "[06时07分 ~ 08时09分]"
         },
         {
-          "title": "一颗流星在美国马萨诸塞州上空爆炸引发巨响",
-          "url": "https://wallstreetcn.com/livenews/3111854",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时07分 ~ 08时09分]"
-        },
-        {
-          "title": "“牛市”底气：全球企业盈利已“脱离基本面”，利润率将冲击历史记录，“AI效果类似中国加入WTO”",
-          "url": "https://wallstreetcn.com/articles/3773496",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时11分 ~ 08时09分]"
-        },
-        {
           "title": "伊朗谈判代表：与美协议未最终敲定 拟议协议允许伊朗设置退出机制",
           "url": "https://flash.jin10.com/detail/20260531045814291800",
           "source": "金十数据",
@@ -176,18 +165,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时11分 ~ 08时09分]"
-        },
-        {
-          "title": "原美国疾控主任：埃博拉疫情表明世界尚未为大流行病做好准备",
-          "url": "https://wallstreetcn.com/livenews/3111838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时07分 ~ 08时09分]"
         },
         {
           "title": "美国：无论是否支付费用，美国个人和实体均不得接受伊朗政府提供的服务",
@@ -216,26 +193,87 @@
           "time_info": "[00时11分 ~ 08时09分]"
         },
         {
+          "title": "一颗流星在美国马萨诸塞州上空爆炸引发巨响",
+          "url": "https://wallstreetcn.com/livenews/3111854",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时07分 ~ 13时25分]"
+        },
+        {
           "title": "香会变调：美国在台海问题上收声",
           "url": "https://news.ifeng.com/c/8tYlYR2y29U",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
         {
-          "title": "中国留学生称在印度热到内脏沸腾",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E7%A7%B0%E5%9C%A8%E5%8D%B0%E5%BA%A6%E7%83%AD%E5%88%B0%E5%86%85%E8%84%8F%E6%B2%B8%E8%85%BE",
-          "source": "百度热搜",
+          "title": "中国人民解放军南部战区位中国黄岩岛领海领空及周边区域组织战备警巡",
+          "url": "https://flash.jin10.com/detail/20260531124525000800",
+          "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时09分"
+          "time_info": "13时25分"
+        },
+        {
+          "title": "中国留学生因印度高温提前回国",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E5%9B%A0%E5%8D%B0%E5%BA%A6%E9%AB%98%E6%B8%A9%E6%8F%90%E5%89%8D%E5%9B%9E%E5%9B%BD%23&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "原美国疾控主任：埃博拉疫情表明世界尚未为大流行病做好准备",
+          "url": "https://wallstreetcn.com/livenews/3111838",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            4,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时07分 ~ 13时25分]"
+        },
+        {
+          "title": "美国年轻人街头暴揍机器人",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354688&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%A1%97%E5%A4%B4%E6%9A%B4%E6%8F%8D%E6%9C%BA%E5%99%A8%E4%BA%BA",
+          "source": "贴吧",
+          "ranks": [
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时11分 ~ 13时25分]"
+        },
+        {
+          "title": "韩国人馋哭中国鲜荔枝",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354707&amp;topic_name=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E9%A6%8B%E5%93%AD%E4%B8%AD%E5%9B%BD%E9%B2%9C%E8%8D%94%E6%9E%9D",
+          "source": "贴吧",
+          "ranks": [
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时11分 ~ 13时25分]"
         },
         {
           "title": "清华教授：美伊冲突让美国失分，多国怀疑其军事能力",
@@ -244,9 +282,42 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "美国总统特朗普：所有竞选总统和副总统的人都应该被强制进行高难度认知测试。国会和民主党人应该要求这一点！",
+          "url": "https://flash.jin10.com/detail/20260531123650502800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "美国总统特朗普：事实上，这是我进行的第四次此类测试，全部都是完美的，120道题目中答对120道！能够获得满分是非常罕见的，尤其是连续四次都能做到。",
+          "url": "https://flash.jin10.com/detail/20260531123639729800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "美国总统特朗普：与其他美国总统不同，他们从未接受过批准的高难度认知测试，我的得分是30分满分，被认为是“极高智力”。",
+          "url": "https://flash.jin10.com/detail/20260531123628014800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "如何看待中国队缺席 2026 亚运会 LoL 项目？",
@@ -260,6 +331,39 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时11分 ~ 06时07分]"
+        },
+        {
+          "title": "香会变调，美国在台海问题上收声",
+          "url": "https://news.ifeng.com/c/8tYlYR2y29U",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "美国总统特朗普：我在沃尔特·里德军事医疗中心进行的体检结果刚刚发布，结果非常好。",
+          "url": "https://flash.jin10.com/detail/20260531123548870800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "特朗普：美伊若无法达成协议 “战争部”将介入",
+          "url": "https://wallstreetcn.com/livenews/3111873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "“中国造”灭蚊黑科技走红",
@@ -323,17 +427,6 @@
           "time_info": "[00时11分 ~ 08时09分]"
         },
         {
-          "title": "美国年轻人街头暴揍机器人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354688&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%B9%B4%E8%BD%BB%E4%BA%BA%E8%A1%97%E5%A4%B4%E6%9A%B4%E6%8F%8D%E6%9C%BA%E5%99%A8%E4%BA%BA",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时11分 ~ 08时09分]"
-        },
-        {
           "title": "中国华能集团有限公司原党组成员、总会计师王益华被查",
           "url": "https://wallstreetcn.com/livenews/3111816",
           "source": "华尔街见闻-快讯",
@@ -341,17 +434,6 @@
             13,
             28,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时11分 ~ 08时09分]"
-        },
-        {
-          "title": "韩国人馋哭中国鲜荔枝",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354707&amp;topic_name=%E9%9F%A9%E5%9B%BD%E4%BA%BA%E9%A6%8B%E5%93%AD%E4%B8%AD%E5%9B%BD%E9%B2%9C%E8%8D%94%E6%9E%9D",
-          "source": "贴吧",
-          "ranks": [
-            15
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -382,6 +464,30 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时11分 ~ 08时09分]"
+        },
+        {
+          "title": "中国留学生称在印度热到内脏沸腾",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%95%99%E5%AD%A6%E7%94%9F%E7%A7%B0%E5%9C%A8%E5%8D%B0%E5%BA%A6%E7%83%AD%E5%88%B0%E5%86%85%E8%84%8F%E6%B2%B8%E8%85%BE",
+          "source": "百度热搜",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 13时25分]"
+        },
+        {
+          "title": "中国华能原总会计师王益华被查",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33273188",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 13时25分]"
         },
         {
           "title": "俄罗斯国家原子能公司：乌克兰无人机于周六袭击了扎波罗热核电站。",
@@ -458,6 +564,32 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时11分 ~ 06时07分]"
+        },
+        {
+          "title": "伊朗官员：对伊朗的海上封锁终将结束",
+          "url": "https://wallstreetcn.com/livenews/3111846",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时07分 ~ 13时25分]"
+        },
+        {
+          "title": "美军称向一艘试图驶向伊朗船只发射“地狱火”导弹",
+          "url": "https://wallstreetcn.com/livenews/3111851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时07分 ~ 13时25分]"
         },
         {
           "title": "据伊朗国家电视台：伊朗已获得与美国的谅解备忘录非正式文本。文本显示，伊朗将有权决定霍尔木兹海峡船只的性质，并将决定霍尔木兹海峡的航线和费用。",
@@ -566,28 +698,27 @@
           "time_info": "[00时11分 ~ 04时14分]"
         },
         {
-          "title": "伊朗官员：对伊朗的海上封锁终将结束",
-          "url": "https://wallstreetcn.com/livenews/3111846",
-          "source": "华尔街见闻-快讯",
+          "title": "普京：已将残骸交给美国鉴定",
+          "url": "https://www.cls.cn/detail/2386165",
+          "source": "财联社热门",
           "ranks": [
-            11,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 13时25分]"
+        },
+        {
+          "title": "美国智库主席重批民进党愚蠢，蓝营议员解读：传达两大信号",
+          "url": "https://news.ifeng.com/c/8tYfiBi0636",
+          "source": "凤凰网",
+          "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[06时07分 ~ 08时09分]"
-        },
-        {
-          "title": "美军称向一艘试图驶向伊朗船只发射“地狱火”导弹",
-          "url": "https://wallstreetcn.com/livenews/3111851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时07分 ~ 08时09分]"
+          "time_info": "[08时09分 ~ 13时25分]"
         },
         {
           "title": "美国独立前大英派十几个旁系王族分封到美国每个州当公爵可不可行，比如分封到纽约州当纽约公爵？",
@@ -643,9 +774,64 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "阿根廷前驻华大使警告：再发生一次，会失去中国的信任",
+          "url": "https://news.ifeng.com/c/8tYcNycNJ2e",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "Wendy's终于敢来中国了",
+          "url": "https://www.douyin.com/hot/2518236",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
+          "url": "https://wallstreetcn.com/articles/3773514",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "特朗普：美伊若无法达成协议，“战争部”将介入",
+          "url": "https://news.ifeng.com/c/8tZS9zcXgA5",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "中国5月官方制造业PMI 50，非制造业PMI回升至50.1",
+          "url": "https://wallstreetcn.com/articles/3773510",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "一颗流星在美国上空爆炸，引发巨响",
@@ -654,20 +840,53 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         },
         {
-          "title": "中国华能原总会计师王益华被查",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33273188",
-          "source": "澎湃新闻",
+          "title": "大片火球从天而降！伊朗袭击科威特美军基地",
+          "url": "https://v.ifeng.com/c/8tZLWOELypO",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "中国5月官方综合PMI 50.5，前值 50.1。",
+          "url": "https://wallstreetcn.com/livenews/3111868",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "措辞严厉！俄罗斯、哈萨克斯坦等四国总统发布联合声明",
+          "url": "https://news.ifeng.com/c/8tYaakffjkW",
+          "source": "凤凰网",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时09分"
+          "time_info": "13时25分"
+        },
+        {
+          "title": "美官员透露：特朗普提出更强硬条款 试图施压伊朗加快谈判进程",
+          "url": "https://wallstreetcn.com/livenews/3111866",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "为什么全世界很多地方把土豆当口粮，中国人却更爱把它当菜？",
@@ -681,26 +900,26 @@
           "time_info": "00时11分"
         },
         {
-          "title": "普京：已将残骸交给美国鉴定",
-          "url": "https://www.cls.cn/detail/2386165",
-          "source": "财联社热门",
+          "title": "中国汽车流通协会：2026年5月中国汽车经销商库存预警指数为57.9%",
+          "url": "https://wallstreetcn.com/livenews/3111864",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时09分"
+          "time_info": "13时25分"
         },
         {
-          "title": "美国智库主席重批民进党愚蠢，蓝营议员解读：传达两大信号",
-          "url": "https://news.ifeng.com/c/8tYfiBi0636",
-          "source": "凤凰网",
+          "title": "伊朗伊斯兰革命卫队称击落一架美军MQ-1无人机",
+          "url": "https://wallstreetcn.com/livenews/3111863",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时09分"
+          "time_info": "13时25分"
         },
         {
           "title": "多名艺人退演“自由 250”音乐会 特朗普考虑改为集会和演讲",
@@ -725,6 +944,28 @@
           "time_info": "02时08分"
         },
         {
+          "title": "特朗普：美伊若无法达成协议 “战争部”将介入",
+          "url": "https://flash.jin10.com/detail/20260531103926927800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "崔天凯问菲律宾为何做美国小弟",
+          "url": "https://www.baidu.com/s?wd=%E5%B4%94%E5%A4%A9%E5%87%AF%E9%97%AE%E8%8F%B2%E5%BE%8B%E5%AE%BE%E4%B8%BA%E4%BD%95%E5%81%9A%E7%BE%8E%E5%9B%BD%E5%B0%8F%E5%BC%9F",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
           "title": "美国防长赫格塞思：霍尔木兹海峡将免费全面开放，各国船只均可通行，这也是该海峡应有的状态。",
           "url": "https://flash.jin10.com/detail/20260531000722608800",
           "source": "金十数据",
@@ -736,15 +977,37 @@
           "time_info": "02时08分"
         },
         {
+          "title": "台湾网红馆长撞脸三星堆青铜器",
+          "url": "https://www.toutiao.com/trending/7645186844111716371/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
           "title": "颠覆性“新格局”的诞生，美以伊战争如何重塑贸易与权力格局｜907编辑部",
           "url": "https://m.thepaper.cn/newsDetail_forward_33268447",
           "source": "澎湃新闻",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
+        },
+        {
+          "title": "华为感谢美国制裁",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%8E%E4%B8%BA%E6%84%9F%E8%B0%A2%E7%BE%8E%E5%9B%BD%E5%88%B6%E8%A3%81&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         },
         {
           "title": "博主：美国利率时代正在重写",
@@ -769,6 +1032,28 @@
           "time_info": "00时11分"
         },
         {
+          "title": "美国南方司令部：此次行动中三名男性毒贩恐怖分子被击毙。没有美国军方部队受到伤害。",
+          "url": "https://flash.jin10.com/detail/20260531101038355800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "美国南方司令部：5月30日，南方长矛联合特遣队对一艘由指定恐怖组织运营的船只进行了致命打击。",
+          "url": "https://flash.jin10.com/detail/20260531100848330800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
           "title": "伊媒：伊朗议会将通过霍尔木兹海峡“主权管辖”计划",
           "url": "https://flash.jin10.com/detail/20260530201304741800",
           "source": "金十数据",
@@ -780,6 +1065,17 @@
           "time_info": "00时11分"
         },
         {
+          "title": "日本防卫大臣小泉进次郎：必须与美国、欧洲及志同道合的盟友保持合作。",
+          "url": "https://flash.jin10.com/detail/20260531094755108800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
           "title": "据伊朗法尔斯通讯社：伊朗革命卫队霍尔木兹甘省军队称，从明天开始，将进行为期3天的敌方未爆弹药的排除作业。",
           "url": "https://flash.jin10.com/detail/20260530200112317800",
           "source": "金十数据",
@@ -789,12 +1085,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时11分"
+        },
+        {
+          "title": "中国军人压迫感太强了",
+          "url": "https://www.toutiao.com/trending/7644805076884471851/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
+        },
+        {
+          "title": "香会变调：美国在台海问题上收声",
+          "url": "https://www.toutiao.com/trending/7645860470716370495/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时25分"
         }
       ]
     },
     {
       "keyword_group": "美债 美股 美元 黄金 原油 航运",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "忘了设限，1家公司1个月在Claude烧掉5亿美元！--当AI已经贵到“用不起”",
@@ -836,6 +1154,20 @@
           "time_info": "[00时11分 ~ 06时07分]"
         },
         {
+          "title": "TrendForce大幅上调存储市场预测：2027年规模料超1.28万亿美元",
+          "url": "https://wallstreetcn.com/articles/3773500",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时11分 ~ 13时25分]"
+        },
+        {
           "title": "美国没收伊朗 10 亿美元加密货币资产，切断伊朗航空公司获取降落点、加油和售票的渠道，对局势有何影响？",
           "url": "https://www.zhihu.com/question/2043976799139492397",
           "source": "知乎",
@@ -844,11 +1176,12 @@
             14,
             12,
             5,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时11分 ~ 08时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时11分 ~ 13时25分]"
         },
         {
           "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
@@ -856,24 +1189,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时11分 ~ 08时09分]"
-        },
-        {
-          "title": "TrendForce大幅上调存储市场预测：2027年规模料超1.28万亿美元",
-          "url": "https://wallstreetcn.com/articles/3773500",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
             8,
-            6
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时11分 ~ 08时09分]"
+          "appearance_count": 6,
+          "time_info": "[00时11分 ~ 13时25分]"
         },
         {
           "title": "一个月烧掉5亿美元！科技巨头“AI Token消耗赛”踩下急刹",
@@ -887,6 +1208,19 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时11分 ~ 08时09分]"
+        },
+        {
+          "title": "伊朗称对霍尔木兹海峡航运实施全面管理",
+          "url": "https://wallstreetcn.com/livenews/3111848",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            11,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时07分 ~ 13时25分]"
         },
         {
           "title": "伊朗称对霍尔木兹海峡航运实施全面管理",
@@ -925,27 +1259,27 @@
           "time_info": "[04时14分 ~ 06时07分]"
         },
         {
-          "title": "伊朗称对霍尔木兹海峡航运实施全面管理",
-          "url": "https://wallstreetcn.com/livenews/3111848",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时07分 ~ 08时09分]"
-        },
-        {
           "title": "万亿美元大市场！又一赛道火了",
           "url": "https://www.baidu.com/s?wd=%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83%E5%A4%A7%E5%B8%82%E5%9C%BA%EF%BC%81%E5%8F%88%E4%B8%80%E8%B5%9B%E9%81%93%E7%81%AB%E4%BA%86",
           "source": "百度热搜",
           "ranks": [
-            13
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时09分 ~ 13时25分]"
+        },
+        {
+          "title": "黄金投资者周报上新！",
+          "url": "https://flash.jin10.com/detail/20260531120430838800",
+          "source": "金十数据",
+          "ranks": [
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时09分"
+          "time_info": "13时25分"
         },
         {
           "title": "中国黄金集团总经理殷长波会见京东集团CEO许冉一行",
