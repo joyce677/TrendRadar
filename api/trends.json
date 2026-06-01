@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-01T14:10:41.203894+08:00",
-  "total_titles_processed": 803,
+  "generated_at": "2026-06-01T20:44:18.038031+08:00",
+  "total_titles_processed": 1049,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 34,
       "titles": [
         {
           "title": "伊朗总统已向最高领袖提出辞职？官方回应",
@@ -19,15 +19,15 @@
           "time_info": "[06时06分 ~ 08时12分]"
         },
         {
-          "title": "美国财长贝森特：霍尔木兹海峡必须恢复至（美国和以色列挑起伊朗战争）之前的水平。 海峡关闭直接造成化肥价格上涨。",
-          "url": "https://wallstreetcn.com/livenews/3111960",
+          "title": "美国中央司令部：美军昨晚拦截了两枚伊朗的弹道导弹。 导弹的目标是驻科威特美军。 导弹被击落，无美军人员伤亡。",
+          "url": "https://wallstreetcn.com/livenews/3112433",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            3
           ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 06时06分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "伊朗总统：要么强硬前行，要么牺牲",
@@ -38,8 +38,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时12分 ~ 14时10分]"
+          "appearance_count": 3,
+          "time_info": "[08时12分 ~ 20时44分]"
+        },
+        {
+          "title": "美国财长贝森特：霍尔木兹海峡必须恢复至（美国和以色列挑起伊朗战争）之前的水平。 海峡关闭直接造成化肥价格上涨。",
+          "url": "https://wallstreetcn.com/livenews/3111960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 06时06分]"
         },
         {
           "title": "伊朗国家媒体：伊朗伊斯兰革命卫队对伊拉克北部的“分离主义组织”据点实施了打击。",
@@ -239,9 +250,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
+        },
+        {
+          "title": "伊朗外交部：美伊谅解备忘录缺不得黎巴嫩停火",
+          "url": "https://news.ifeng.com/c/8tbSvd3YFSk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "伊朗总统府再度否认佩泽希齐扬辞职传闻",
@@ -272,7 +294,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -349,9 +371,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
+        },
+        {
+          "title": "伊朗总统与日本首相讨论霍尔木兹海峡问题。",
+          "url": "https://wallstreetcn.com/livenews/3112407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         },
         {
           "title": "伊朗总统：在面临重大挑战的情况下，任何社会都不能指望在不承受困难的情况下继续前进。",
@@ -400,9 +433,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时10分 ~ 20时44分]"
         },
         {
           "title": "美国总统特朗普：Tom Barrack将兼任土耳其大使和叙利亚特使。",
@@ -516,7 +549,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
         },
@@ -549,9 +582,70 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "IBM美股盘前一度大涨15%，周末一段特朗普在去年12月某活动上称赞IBM首席执行官并讨论该公司股票的视频在社交媒体上再次流传。包括Polymarket Money在内的数十个账号在社交媒体平台X上发布了这段评论视频。",
+          "url": "https://wallstreetcn.com/livenews/3112430",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "美股软件股盘前持续走高，ServiceNow上涨11%，Adobe上涨5.7%。",
+          "url": "https://wallstreetcn.com/livenews/3112400",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
+          "title": "美股的“午夜钟声”或将敲响",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%9A%84%E2%80%9C%E5%8D%88%E5%A4%9C%E9%92%9F%E5%A3%B0%E2%80%9D%E6%88%96%E5%B0%86%E6%95%B2%E5%93%8D",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "英伟达美股夜盘股价上涨2.7%。",
+          "url": "https://wallstreetcn.com/livenews/3112174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时10分"
+        },
+        {
+          "title": "高通美股盘前跌幅扩大至10%。",
+          "url": "https://wallstreetcn.com/livenews/3112391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         }
       ]
     },
@@ -578,35 +672,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股的“午夜钟声”或将敲响",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%9A%84%E2%80%9C%E5%8D%88%E5%A4%9C%E9%92%9F%E5%A3%B0%E2%80%9D%E6%88%96%E5%B0%86%E6%95%B2%E5%93%8D",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "英伟达美股夜盘股价上涨2.7%。",
-          "url": "https://wallstreetcn.com/livenews/3112174",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "14时10分"
         }
@@ -627,6 +693,23 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时18分 ~ 08时12分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧盟云计算法律草案将使亚马逊、谷歌、微软在欧洲竞标“极为关键”云计算服务面临更多复杂要求。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3112418",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         }
       ]
     }
