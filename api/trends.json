@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-01T10:08:15.808707+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-01T15:27:36.866581+08:00",
+  "total_titles_processed": 541,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.cls.cn/detail/2386515",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时07分 ~ 10时08分]"
+          "appearance_count": 3,
+          "time_info": "[10时07分 ~ 15时27分]"
         },
         {
           "title": "阿波罗资产管理公司经济学家：目前尚无证据表明人工智能正在取代就业岗位。",
@@ -25,7 +26,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
         },
@@ -36,9 +37,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "SpaceX、OpenAI上市在即，亚洲投资者“卖芯片，买瓶颈”，押注“新一轮资本开支”",
+          "url": "https://wallstreetcn.com/articles/3773518",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时27分"
         }
       ]
     }
