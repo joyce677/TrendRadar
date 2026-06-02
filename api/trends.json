@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-02T15:02:44.850684+08:00",
-  "total_titles_processed": 704,
+  "generated_at": "2026-06-02T19:46:59.653826+08:00",
+  "total_titles_processed": 933,
   "failed_sources": [],
   "trends": [
     {
@@ -30,6 +30,18 @@
           "time_info": "03时03分"
         },
         {
+          "title": "先上市者为王？一文读懂：Anthropic与OpenAI缘何上演“抢滩登陆战”！",
+          "url": "https://www.cls.cn/detail/2387988",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时02分 ~ 19时46分]"
+        },
+        {
           "title": "OpenAI创始人奥尔特曼：人们对人工智能感到焦虑是合理的。",
           "url": "https://flash.jin10.com/detail/20260602024250472800",
           "source": "金十数据",
@@ -39,17 +51,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
+          "url": "https://wallstreetcn.com/articles/3773607",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时09分 ~ 19时46分]"
         },
         {
-          "title": "先上市者为王？一文读懂：Anthropic与OpenAI缘何上演“抢滩登陆战”！",
-          "url": "https://www.cls.cn/detail/2387988",
-          "source": "财联社热门",
+          "title": "伯克希尔投资100亿美元加码谷歌",
+          "url": "https://www.douyin.com/hot/2520581",
+          "source": "抖音",
           "ranks": [
-            12
+            21
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时02分"
+          "time_info": "19时46分"
+        },
+        {
+          "title": "谷歌前CEO被诬告强奸获赔千万美元",
+          "url": "https://www.toutiao.com/trending/7646587677566828586/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         }
       ]
     },
@@ -75,7 +117,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -86,7 +128,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         }
@@ -114,7 +156,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时02分"
         },
@@ -132,20 +174,19 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
-          "url": "https://wallstreetcn.com/articles/3773607",
-          "source": "华尔街见闻",
+          "title": "DeepSeek降价",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E9%99%8D%E4%BB%B7&t=31&band_rank=1&Refer=top",
+          "source": "微博",
           "ranks": [
-            5,
-            3
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时09分 ~ 15时02分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时46分"
         }
       ]
     },
