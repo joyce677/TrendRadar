@@ -1,24 +1,47 @@
 {
-  "generated_at": "2026-06-03T07:31:21.897326+08:00",
-  "total_titles_processed": 474,
-  "failed_sources": [
-    "toutiao"
-  ],
+  "generated_at": "2026-06-03T11:00:09.555851+08:00",
+  "total_titles_processed": 681,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 21,
+      "match_count": 27,
       "titles": [
         {
           "title": "黄仁勋、Marvell CEO同台对谈：未来AI拼的不是算力是连接，“能用铜就用铜，必须用光才用光”！",
           "url": "https://wallstreetcn.com/articles/3773656",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[02时35分 ~ 11时00分]"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
+          "url": "https://www.cls.cn/detail/2388968",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[02时35分 ~ 07时31分]"
+          "time_info": "[07时30分 ~ 11时00分]"
+        },
+        {
+          "title": "白嫖结束!豆包AI开始收费",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时35分 ~ 11时00分]"
         },
         {
           "title": "中东局势与AI热潮交织，标普纳指八连涨再新高，英伟达和Arm大涨，美油一度涨超8%",
@@ -32,26 +55,26 @@
           "time_info": "[02时35分 ~ 07时31分]"
         },
         {
-          "title": "白嫖结束!豆包AI开始收费",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354786&amp;topic_name=%E7%99%BD%E5%AB%96%E7%BB%93%E6%9D%9F%21%E8%B1%86%E5%8C%85AI%E5%BC%80%E5%A7%8B%E6%94%B6%E8%B4%B9",
-          "source": "贴吧",
+          "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫，铜上涨",
+          "url": "https://wallstreetcn.com/articles/3773650",
+          "source": "华尔街见闻",
           "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时35分 ~ 07时31分]"
-        },
-        {
-          "title": "美股收盘：三大股指小幅收涨 标普首次突破7600点 AI狂热压倒中东忧虑",
-          "url": "https://www.cls.cn/detail/2388968",
-          "source": "财联社热门",
-          "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时31分]"
+          "time_info": "[10时59分 ~ 11时00分]"
+        },
+        {
+          "title": "翘楚配角 我不是AI",
+          "url": "https://s.weibo.com/weibo?q=%E7%BF%98%E6%A5%9A%E9%85%8D%E8%A7%92%20%E6%88%91%E4%B8%8D%E6%98%AFAI&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时00分]"
         },
         {
           "title": "微软发布可充当行政助理的AI软件",
@@ -71,7 +94,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -80,11 +103,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354756&amp;topic_name=AI%E5%9D%91%E5%81%A5%E8%BA%AB%E5%B0%8F%E7%99%BD%E4%B9%B020kg%E5%93%91%E9%93%83",
           "source": "贴吧",
           "ranks": [
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时35分 ~ 07时31分]"
+          "appearance_count": 4,
+          "time_info": "[02时35分 ~ 11时00分]"
         },
         {
           "title": "AI热情力撑美股新高，纳指、标普九连涨，半导体指数大涨近6%，比特币重挫",
@@ -96,6 +120,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
+          "title": "网传一些公司因为 token 太贵开始限额了，会重返「古法编程」吗？AI 全栈可行性如何，只适合大公司吗？",
+          "url": "https://www.zhihu.com/question/2045210107105862467",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时00分]"
         },
         {
           "title": "我用AI做了祖国人胜利结局",
@@ -116,7 +151,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -149,7 +184,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -160,7 +195,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
         },
@@ -174,6 +209,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        },
+        {
+          "title": "腾讯：目前无法确定微信AI智能体何时推出",
+          "url": "https://wallstreetcn.com/livenews/3113439",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时00分"
         },
         {
           "title": "微软展示用于办公的桌面AI设备。 微软展示用于AI互联办公的数字工牌。 微软正与高通、联发科合作开发新设备。",
@@ -240,52 +286,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
-          "url": "https://wallstreetcn.com/articles/3773607",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时35分 ~ 07时31分]"
         },
         {
-          "title": "800亿美元！谷歌启动史上最大规模股权融资，伯克希尔参投100亿美元",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33289350",
-          "source": "澎湃新闻",
+          "title": "腾讯人士：目前无法确定微信AI智能体何时推出",
+          "url": "https://flash.jin10.com/detail/20260603101139183800",
+          "source": "金十数据",
           "ranks": [
-            19
+            26
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时30分 ~ 07时31分]"
-        },
-        {
-          "title": "据知情人士透露，谷歌母公司Alphabet的股权融资获得超额认购。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3113205",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时35分"
+          "time_info": "11时00分"
+        },
+        {
+          "title": "腾讯AI产业应用大会将在北京开幕，汤道生、姚顺雨将对话解读腾讯AI下半场",
+          "url": "https://flash.jin10.com/detail/20260603101014825800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时00分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "OpenAI举行“AI上岗”发布会：股票研究、投行路演都能干",
+          "url": "https://www.cls.cn/detail/2388950",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时00分]"
+        },
         {
           "title": "OpenAI：ZoomInfo将在企业版Codex（Codex for Work）中提供原生支持。",
           "url": "https://wallstreetcn.com/livenews/3113224",
@@ -315,9 +355,49 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "罕见增发！谷歌募资800亿美元砸AI基建，伯克希尔百亿入局",
+          "url": "https://wallstreetcn.com/articles/3773607",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时35分 ~ 07时31分]"
+        },
+        {
+          "title": "800亿美元！谷歌启动史上最大规模股权融资，伯克希尔参投100亿美元",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33289350",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时30分 ~ 11时00分]"
+        },
+        {
+          "title": "据知情人士透露，谷歌母公司Alphabet的股权融资获得超额认购。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3113205",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时35分"
         }
       ]
     },
@@ -363,6 +443,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "iphone apple apple watch",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "曝iPhoneUltra确认液态金属铰链",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9B%9DiPhoneUltra%E7%A1%AE%E8%AE%A4%E6%B6%B2%E6%80%81%E9%87%91%E5%B1%9E%E9%93%B0%E9%93%BE%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 11时00分]"
         }
       ]
     }
