@@ -1,8 +1,92 @@
 {
-  "generated_at": "2026-06-04T14:59:54.174476+08:00",
-  "total_titles_processed": 722,
+  "generated_at": "2026-06-04T18:37:17.255465+08:00",
+  "total_titles_processed": 913,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
+          "url": "https://wallstreetcn.com/articles/3773814",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时59分 ~ 18时37分]"
+        },
+        {
+          "title": "谷歌计划释放3200万只蚊子",
+          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E9%87%8A%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
+          "title": "IBM与谷歌云宣布战略合作，通过结合人类专业知识与人工智能驱动的交付模式推动AI规模化落地。",
+          "url": "https://wallstreetcn.com/livenews/3114361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
+          "title": "IBM(IBM.N)：该业务实践在谷歌云服务中代表数十亿美元的市场机会。",
+          "url": "https://flash.jin10.com/detail/20260604180402627800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
+          "title": "IBM(IBM.N)：此次合作将扩展IBM Consulting Advantage人工智能驱动交付平台，为Gemini 企业版引入面向特定行业的智能代理。",
+          "url": "https://flash.jin10.com/detail/20260604180339647800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
+          "title": "IBM(IBM.N)与谷歌云宣布战略合作，通过结合人类专业知识与人工智能驱动的交付模式推动AI规模化落地。",
+          "url": "https://flash.jin10.com/detail/20260604180127001800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
+        },
+        {
+          "title": "谷歌：推出新品“DreamBeans”",
+          "url": "https://wallstreetcn.com/livenews/3113924",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时25分"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
@@ -28,34 +112,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时24分 ~ 01时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
-          "url": "https://wallstreetcn.com/articles/3773814",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时59分"
-        },
-        {
-          "title": "谷歌：推出新品“DreamBeans”",
-          "url": "https://wallstreetcn.com/livenews/3113924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
         }
       ]
     },
@@ -98,11 +154,12 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时15分 ~ 14时59分]"
+          "appearance_count": 3,
+          "time_info": "[10时15分 ~ 18时37分]"
         },
         {
           "title": "SpaceX IPO定价将让马斯克距离“万亿富豪”仅一步之遥",
@@ -159,6 +216,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "AI“狂吞”存储芯片！美国九大行业联合上书 敦促特朗普政府扩产",
+          "url": "https://www.cls.cn/detail/2390381",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时37分"
         }
       ]
     }
