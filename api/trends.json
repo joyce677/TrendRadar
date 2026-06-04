@@ -1,151 +1,94 @@
 {
-  "generated_at": "2026-06-04T21:52:27.179553+08:00",
-  "total_titles_processed": 1098,
+  "generated_at": "2026-06-05T00:41:35.178453+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "keyword_group": "人工智能",
+      "match_count": 4,
       "titles": [
+        {
+          "title": "据相关声明，美国众议院议员公布人工智能监管法案草案。",
+          "url": "https://flash.jin10.com/detail/20260605001431778800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        },
+        {
+          "title": "英国央行行长贝利：市场可能夸大了人工智能传导的速度。",
+          "url": "https://flash.jin10.com/detail/20260605000744572800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        },
+        {
+          "title": "美联储戴利：尚未发现人工智能投资引发金融稳定方面的担忧。",
+          "url": "https://flash.jin10.com/detail/20260604234543146800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        },
+        {
+          "title": "美联储戴利：对人工智能持乐观态度，明年将成为检验行业发展方向的关键时期。",
+          "url": "https://flash.jin10.com/detail/20260604234526396800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "纳斯达克100指数跌幅收窄至0.5%，成分股博通目前仍然跌14.5%，美光科技跌6.1%，Lumentum跌2.3%，特斯拉跌1.1%，谷歌A则涨3.5%，迈威尔科技/美满科技、Doordash涨3.9%。",
+          "url": "https://wallstreetcn.com/livenews/3114548",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时41分"
+        },
         {
           "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
           "url": "https://wallstreetcn.com/articles/3773814",
           "source": "华尔街见闻",
           "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时59分 ~ 21时52分]"
-        },
-        {
-          "title": "谷歌：公司与能源开发商Intersect将建设Meitner能源中心，其中包括在德克萨斯州格雷县和罗伯茨县新建数据中心。",
-          "url": "https://wallstreetcn.com/livenews/3114468",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时52分"
-        },
-        {
-          "title": "谷歌计划释放3200万只蚊子",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E9%87%8A%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90",
-          "source": "百度热搜",
-          "ranks": [
-            8
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：宣布在得克萨斯州格雷县和罗伯茨县新建数据中心并投资能源项目。",
-          "url": "https://flash.jin10.com/detail/20260604210611731800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时52分"
-        },
-        {
-          "title": "IBM与谷歌云宣布战略合作，通过结合人类专业知识与人工智能驱动的交付模式推动AI规模化落地。",
-          "url": "https://wallstreetcn.com/livenews/3114361",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
-          "title": "IBM(IBM.N)：该业务实践在谷歌云服务中代表数十亿美元的市场机会。",
-          "url": "https://flash.jin10.com/detail/20260604180402627800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
-          "title": "IBM(IBM.N)：此次合作将扩展IBM Consulting Advantage人工智能驱动交付平台，为Gemini 企业版引入面向特定行业的智能代理。",
-          "url": "https://flash.jin10.com/detail/20260604180339647800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时37分"
+          "time_info": "00时41分"
         },
         {
           "title": "谷歌计划投放3200万只蚊子",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90%23&t=31&band_rank=17&Refer=top",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E6%AD%8C%E8%AE%A1%E5%88%92%E6%8A%95%E6%94%BE3200%E4%B8%87%E5%8F%AA%E8%9A%8A%E5%AD%90%23&t=31&band_rank=27&Refer=top",
           "source": "微博",
           "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时52分"
-        },
-        {
-          "title": "IBM(IBM.N)与谷歌云宣布战略合作，通过结合人类专业知识与人工智能驱动的交付模式推动AI规模化落地。",
-          "url": "https://flash.jin10.com/detail/20260604180127001800",
-          "source": "金十数据",
-          "ranks": [
-            20
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时37分"
-        },
-        {
-          "title": "谷歌：推出新品“DreamBeans”",
-          "url": "https://wallstreetcn.com/livenews/3113924",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "腾讯云宣布 DeepSeek-V4 系列模型降价，最高降幅达 97.5%，将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/2045220633466725057",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 01时25分]"
-        },
-        {
-          "title": "估值4000亿、腾讯与宁德时代入局？DeepSeek被曝开启中国AI最大规模融资",
-          "url": "https://www.cls.cn/detail/2389857",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时24分 ~ 01时25分]"
+          "time_info": "00时41分"
         }
       ]
     },
@@ -154,130 +97,60 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "如何评价 Codex 与 ChatGPT 两个独立 App 合并，这一举动有什么影响？",
-          "url": "https://www.zhihu.com/question/2045440339406762131",
-          "source": "知乎",
-          "ranks": [
-            12,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时24分 ~ 10时15分]"
-        },
-        {
-          "title": "美国参议院民主党领导人Schumer周三会见OpenAI的CEO Altman。（Semafor）",
-          "url": "https://wallstreetcn.com/livenews/3113923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "T-Mobile推出针对高密度环境的人工智能技术。",
-          "url": "https://flash.jin10.com/detail/20260604211119428800",
+          "title": "OpenAI：改善ChatGPT中的记忆合成，以优化新鲜度、连续性和相关性。",
+          "url": "https://flash.jin10.com/detail/20260605000634320800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时52分"
+          "time_info": "00时41分"
         },
         {
-          "title": "Diameter Capital Partners LP.的联合创始人Scott Goodwin：人工智能（AI）领域的那些超大规模云服务商（Hyperscalers）在投资级市场（IG Market）上的比重越来越高。 SaaS构成头等违约风险。 某些人在资本问题上态度审慎。 大量贷款面临高风险。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3113925",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI：今天向美国的Plus和Pro用户提供更新，未来几周将向其他国家及免费和Go用户推出。",
+          "url": "https://flash.jin10.com/detail/20260605000602512800",
+          "source": "金十数据",
           "ranks": [
-            20
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时25分"
+          "time_info": "00时41分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "定了！6月12日SpaceX上市交易，发行价135美元，马斯克距\"万亿富翁\"只差一步",
           "url": "https://wallstreetcn.com/articles/3773813",
           "source": "华尔街见闻",
           "ranks": [
-            5,
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时15分 ~ 21时52分]"
-        },
-        {
-          "title": "SpaceX IPO定价将让马斯克距离“万亿富豪”仅一步之遥",
-          "url": "https://wallstreetcn.com/livenews/3113952",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时25分"
+          "time_info": "00时41分"
         }
       ]
     },
     {
-      "keyword_group": "Anthropic",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "市场消息：Anthropic据悉已选定摩根士丹利和高盛牵头其首次公开募股（IPO），同时选定摩根大通参与其中。",
-          "url": "https://flash.jin10.com/detail/20260604010923600800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        },
-        {
-          "title": "报道：Anthropic委托摩根士丹利和高盛牵头其IPO，摩根大通也将参与其IPO。",
-          "url": "https://wallstreetcn.com/livenews/3113950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
+      "keyword_group": "增长",
       "match_count": 1,
       "titles": [
         {
-          "title": "AI“狂吞”存储芯片！美国九大行业联合上书 敦促特朗普政府扩产",
-          "url": "https://www.cls.cn/detail/2390381",
-          "source": "财联社热门",
+          "title": "美国旧金山联储主席戴利（2027年FOMC票委）：数据还没体现出AI带来的生产力增长。 看好AI，2027年将是“试金石”。 并没有发现AI投资相关的金融稳定性顾虑。",
+          "url": "https://wallstreetcn.com/livenews/3114535",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时37分"
+          "time_info": "00时41分"
         }
       ]
     }
