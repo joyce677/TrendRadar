@@ -1,22 +1,81 @@
 {
-  "generated_at": "2026-06-07T00:14:15.125746+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-07T02:14:41.989174+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "巴基斯坦内政部长Naqvi将向伊朗最高领袖递送信息。（ISNA）",
+          "url": "https://wallstreetcn.com/livenews/3115490",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "巴基斯坦内政部长Naqvi抵达伊朗。（Tasnim）",
+          "url": "https://wallstreetcn.com/livenews/3115487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
         {
           "title": "国际航空运输协会（IATA）中东区副总裁：令人担忧的是，在伊朗袭击中受损的科威特航站楼将至少瘫痪（停止运作）一年。 对此感到忧虑，因为此前所有非科威特的航空公司都使用该航站楼，因此目前该国仅剩科威特本土的航空公司仍在维持运营。 预计当前的成本形势不会对中东地区航空公司的飞机订单造成影响。 各航空公司在当前节点推迟飞机交付并非明智之举，因为这一决定可能会付出高昂的代价。",
           "url": "https://wallstreetcn.com/livenews/3115481",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 02时14分]"
+        },
+        {
+          "title": "伊朗外交部谴责美军多次违反停火协议",
+          "url": "https://wallstreetcn.com/livenews/3115473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 02时14分]"
+        },
+        {
+          "title": "伊朗足协：多名国家队随队成员未获签证 美国违背国际体育规则",
+          "url": "https://wallstreetcn.com/livenews/3115472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 02时14分]"
+        },
+        {
+          "title": "美媒曝以色列在伊朗周边多国设据点",
+          "url": "https://wallstreetcn.com/livenews/3115465",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 02时14分]"
         },
         {
           "title": "世界杯伊朗代表团十余人遭美国拒签",
@@ -25,29 +84,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "伊朗外交部谴责美军多次违反停火协议",
-          "url": "https://wallstreetcn.com/livenews/3115473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "伊朗足协：多名国家队随队成员未获签证 美国违背国际体育规则",
-          "url": "https://wallstreetcn.com/livenews/3115472",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
         },
@@ -58,18 +95,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "美媒曝以色列在伊朗周边多国设据点",
-          "url": "https://wallstreetcn.com/livenews/3115465",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
         },
@@ -80,9 +106,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：巴基斯坦内政部长抵达德黑兰，将与包括外交部长阿拉格奇在内的伊朗官员会面。",
+          "url": "https://flash.jin10.com/detail/20260607003850483800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时14分"
         },
         {
           "title": "据伊朗学生通讯社：巴基斯坦内政部长已出发前往德黑兰。",
@@ -91,7 +128,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
         },
@@ -102,9 +139,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "据沙特媒体哈达斯（alhadath）：巴基斯坦内政部长抵达伊朗。",
+          "url": "https://flash.jin10.com/detail/20260607003129000800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时14分"
         },
         {
           "title": "伊朗政府：伊朗工业部长赛义德·穆罕默德·阿塔巴克与白俄罗斯官员召开会议，强调扩大工业、贸易和物流合作，重点讨论联合生产、机械供应和运输发展。",
@@ -113,7 +161,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
         },
@@ -124,7 +172,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
         },
@@ -135,9 +183,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：黎巴嫩真主党谴责以色列对黎巴嫩军车的致命袭击。",
+          "url": "https://flash.jin10.com/detail/20260607000022677800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时14分"
         },
         {
           "title": "科威特军方：周六拦截了来自伊朗的七枚导弹。",
@@ -146,7 +205,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
         },
@@ -157,7 +216,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
         },
@@ -168,7 +227,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "00时14分"
         }
@@ -176,7 +235,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "非农大超预期，美股债“双杀”，纳指重挫超4%，芯片指数暴跌10%，贵金属、加密货币遭“血洗”",
@@ -186,8 +245,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 00时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时14分]"
         },
         {
           "title": "美股收盘：强劲非农引发加息担忧 AI热潮降温纳指重挫逾4%",
@@ -197,8 +256,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 00时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时14分]"
         },
         {
           "title": "开户就送“美股七姐妹”，部分港资券商抢开户，最后的窗口期真能安全吗？",
@@ -208,8 +267,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 00时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时14分]"
+        },
+        {
+          "title": "美股暴跌是AI第一次冲击人类经济吗",
+          "url": "https://www.toutiao.com/trending/7648276875000679942/",
+          "source": "今日头条",
+          "ranks": [
+            28,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时14分]"
         },
         {
           "title": "特朗普称美股应随“绝佳”就业报告上涨，哈塞特表示定价年内加息是错误的",
@@ -219,25 +290,25 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 00时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时14分]"
         },
         {
-          "title": "美股暴跌是AI第一次冲击人类经济吗",
-          "url": "https://www.toutiao.com/trending/7648276875000679942/",
-          "source": "今日头条",
+          "title": "如何应对美股泡沫爆破",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E7%88%86%E7%A0%B4",
+          "source": "bilibili 热搜",
           "ranks": [
-            28
+            19
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 00时14分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时14分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "特朗普“官宣”：我和马斯克又成朋友了",
@@ -247,8 +318,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 00时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时14分]"
         },
         {
           "title": "特朗普戴上金牌后开玩笑称“不想还了”：我喜欢金子，要留着",
@@ -258,8 +329,41 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 00时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时14分]"
+        },
+        {
+          "title": "特朗普首席人工智能顾问克里希南将于月底离职",
+          "url": "https://flash.jin10.com/detail/20260607003735471800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "据The Information报道，美国白宫科技政策办公室人工智能高级政策顾问克里希南已讨论建立一个支持特朗普政府的政策机构。",
+          "url": "https://flash.jin10.com/detail/20260607002708297800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时14分"
+        },
+        {
+          "title": "美国总统特朗普转发了白宫关于就业数据的社交媒体帖子，内容为：“就业、就业、就业。数据不会骗人。”",
+          "url": "https://flash.jin10.com/detail/20260607001237895800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时14分"
         }
       ]
     },
@@ -272,11 +376,12 @@
           "url": "https://www.cls.cn/detail/2392488",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 00时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时14分]"
         }
       ]
     },
@@ -326,8 +431,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时13分 ~ 00时14分]"
+          "appearance_count": 3,
+          "time_info": "[00时13分 ~ 02时14分]"
         }
       ]
     }
