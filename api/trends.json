@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T16:19:58.268323+08:00",
-  "total_titles_processed": 838,
+  "generated_at": "2026-06-06T18:28:18.314865+08:00",
+  "total_titles_processed": 962,
   "failed_sources": [],
   "trends": [
     {
@@ -70,6 +70,19 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
+          "url": "https://www.cls.cn/detail/2392488",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时44分 ~ 18时28分]"
+        },
+        {
           "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
           "url": "https://wallstreetcn.com/articles/3773921",
           "source": "华尔街见闻",
@@ -80,24 +93,12 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时13分 ~ 09时51分]"
-        },
-        {
-          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
-          "url": "https://www.cls.cn/detail/2392488",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 16时19分]"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "特朗普“官宣”：我和马斯克又成朋友了",
@@ -106,9 +107,20 @@
           "ranks": [
             1
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时19分 ~ 18时28分]"
+        },
+        {
+          "title": "马斯克借白人之死炮轰英国",
+          "url": "https://www.toutiao.com/trending/7648100387861528585/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时19分"
+          "time_info": "18时28分"
         }
       ]
     },
@@ -159,8 +171,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时44分 ~ 16时19分]"
+          "appearance_count": 4,
+          "time_info": "[13时44分 ~ 18时28分]"
         }
       ]
     }
