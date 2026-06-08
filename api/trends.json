@@ -1,201 +1,72 @@
 {
-  "generated_at": "2026-06-07T23:08:14.024790+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2026-06-08T10:10:01.917396+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 4,
       "titles": [
         {
           "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
           "url": "https://wallstreetcn.com/articles/3774032",
           "source": "华尔街见闻",
           "ranks": [
-            8,
-            7,
-            6
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时45分 ~ 23时08分]"
-        },
-        {
-          "title": "OpenAI计划对ChatGPT进行发布以来最大规模改版",
-          "url": "https://wallstreetcn.com/livenews/3115520",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            13,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时46分 ~ 21时02分]"
-        },
-        {
-          "title": "OpenAI等公司向美国提交了一项让全民分享人工智能红利（AI股权）的计划提案。 该人工智能提案涉及建立一个全新的主权财富基金式实体。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3115505",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            18,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时04分 ~ 17时54分]"
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 10时10分]"
         },
         {
           "title": "ChatGPT即将迎来大改造：告别单一聊天 变身“超级应用”",
           "url": "https://www.cls.cn/detail/2392807",
           "source": "财联社热门",
           "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[23时07分 ~ 23时08分]"
-        },
-        {
-          "title": "下一个是OpenAI？特朗普证实：政府考虑入股人工智能公司",
-          "url": "https://www.cls.cn/detail/2392488",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        },
-        {
-          "title": "OpenAI计划大幅升级ChatGPT 以创造更多收入",
-          "url": "https://flash.jin10.com/detail/20260607120910109800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "亮眼财报后股价大跌？博通CEO：永远不关心股价，死磕技术客户就不会跑，看好“博通-谷歌-Anthropic”铁三角",
-          "url": "https://wallstreetcn.com/articles/3774025",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时04分 ~ 19时32分]"
-        },
-        {
-          "title": "合计700亿美元！SpaceX先后与Anthropic和谷歌签下大单，“算力租赁”ARR高达260亿美元",
-          "url": "https://wallstreetcn.com/articles/3774016",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时04分 ~ 14时46分]"
-        },
-        {
-          "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
-          "url": "https://wallstreetcn.com/articles/3774034",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时32分 ~ 23时08分]"
-        },
-        {
-          "title": "标杆“芯片融资”交易：阿波罗、黑石和博通联手“募资”350亿美元，用于Anthropic向谷歌租赁TPU",
-          "url": "https://wallstreetcn.com/articles/3774013",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "马斯克称禁止中国客户投SpaceX",
-          "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E6%96%AF%E5%85%8B%E7%A7%B0%E7%A6%81%E6%AD%A2%E4%B8%AD%E5%9B%BD%E5%AE%A2%E6%88%B7%E6%8A%95SpaceX&t=31&band_rank=11&Refer=top",
-          "source": "微博",
-          "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时45分 ~ 17时54分]"
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 10时10分]"
         },
         {
-          "title": "阿斯麦：马斯克将出席本公司闭门技术研讨会，讨论Terafab项目",
-          "url": "https://wallstreetcn.com/livenews/3115479",
-          "source": "华尔街见闻-快讯",
+          "title": "SpaceX 、 OpenAI 、 Anthropic 扎堆天价 IPO，水分有多大？美股牛市是否临近尾声？",
+          "url": "https://www.zhihu.com/question/2046639064917586455",
+          "source": "知乎",
           "ranks": [
-            22
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 10时10分]"
+        },
         {
-          "title": "特朗普刚起床就发了AI视频",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%9A%E8%B5%B7%E5%BA%8A%E5%B0%B1%E5%8F%91%E4%BA%86AI%E8%A7%86%E9%A2%91&t=31&band_rank=17&Refer=top",
+          "title": "ChatGPT将迎最大改版",
+          "url": "https://s.weibo.com/weibo?q=ChatGPT%E5%B0%86%E8%BF%8E%E6%9C%80%E5%A4%A7%E6%94%B9%E7%89%88&t=31&band_rank=15&Refer=top",
           "source": "微博",
           "ranks": [
-            17,
-            27
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时45分 ~ 19时32分]"
+          "appearance_count": 2,
+          "time_info": "[10时09分 ~ 10时10分]"
         }
       ]
     },
     {
-      "keyword_group": "AI",
+      "keyword_group": "增长",
       "match_count": 1,
       "titles": [
         {
-          "title": "报道：美国白宫AI政策顾问Krisnan将离职",
-          "url": "https://wallstreetcn.com/livenews/3115486",
+          "title": "韩国总统李在明：我们将成为第一个在所有产业中全面整合AI的国家。 企业增长的红利必须延伸至小微企业以及每一个地区。 很快将公布一项大规模投资项目。 将决定如何最有效地利用芯片产业所产生的盈余税收。 将寻求修改《韩美核能合作协定》。 将培养芯片以外的下一代增长引擎。 将严厉打击操纵股价以及与房地产相关的犯罪行为。",
+          "url": "https://wallstreetcn.com/livenews/3115738",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时04分"
+          "time_info": "10时10分"
         }
       ]
     }
