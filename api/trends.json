@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T09:47:59.206308+08:00",
-  "total_titles_processed": 520,
+  "generated_at": "2026-06-09T13:57:17.603112+08:00",
+  "total_titles_processed": 719,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,24 @@
           "url": "https://www.zhihu.com/question/2047324900080051711",
           "source": "知乎",
           "ranks": [
-            3
+            3,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 13时57分]"
+        },
+        {
+          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
+          "url": "https://wallstreetcn.com/articles/3774134",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 13时57分]"
         },
         {
           "title": "谷歌(GOOG.O)：即日起向拥有Google AI Ultra的用户及使用AI Ultra的Workspace商业版客户，在全球范围内推出网页版更新，并扩大适用范围。",
@@ -28,17 +41,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时33分"
-        },
-        {
-          "title": "英特尔盘前涨超14%，报道：谷歌拟下单三百万AI芯片、英伟达测试其18A工艺",
-          "url": "https://wallstreetcn.com/articles/3774134",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
         },
         {
           "title": "谷歌(GOOG.O)：将NotebookLM升级至运行在Gemini 3.5和Antigravity上。",
@@ -58,26 +60,79 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         }
       ]
     },
     {
+      "keyword_group": "马斯克",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "洛杉矶市长选情逆转，特朗普、马斯克发声质疑",
+          "url": "https://news.ifeng.com/c/8toKe0HelhI",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        },
+        {
+          "title": "“真正的瓶颈在于芯片制造能力”，马斯克唱多美光：目前产能远不及芯片实际需求",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33333635",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时33分 ~ 13时57分]"
+        },
+        {
+          "title": "马斯克SpaceX拒绝中国投资者",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354956&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8BSpaceX%E6%8B%92%E7%BB%9D%E4%B8%AD%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时33分 ~ 09时47分]"
+        },
+        {
+          "title": "亲自为SpaceX上市预热！马斯克曝光AI卫星更多细节",
+          "url": "https://www.cls.cn/detail/2394326",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
           "url": "https://www.cls.cn/detail/2394212",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 13时57分]"
         },
         {
           "title": "以总理确认暂停袭击伊朗 OpenAI递交上市申请文件 | 环球市场",
@@ -86,9 +141,20 @@
           "ranks": [
             13
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时47分 ~ 13时57分]"
+        },
+        {
+          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
+          "url": "https://wallstreetcn.com/articles/3774156",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时47分"
+          "time_info": "13时57分"
         }
       ]
     },
@@ -121,31 +187,19 @@
       ]
     },
     {
-      "keyword_group": "马斯克",
-      "match_count": 2,
+      "keyword_group": "Claude",
+      "match_count": 1,
       "titles": [
         {
-          "title": "“真正的瓶颈在于芯片制造能力”，马斯克唱多美光：目前产能远不及芯片实际需求",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33333635",
-          "source": "澎湃新闻",
+          "title": "怎么看诺奖得主联手 Claude，40 轮对话证出 12 年物理猜想?",
+          "url": "https://www.zhihu.com/question/2047276929548604568",
+          "source": "知乎",
           "ranks": [
-            13,
-            9
+            3
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 09时47分]"
-        },
-        {
-          "title": "马斯克SpaceX拒绝中国投资者",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354956&amp;topic_name=%E9%A9%AC%E6%96%AF%E5%85%8BSpaceX%E6%8B%92%E7%BB%9D%E4%B8%AD%E5%9B%BD%E6%8A%95%E8%B5%84%E8%80%85",
-          "source": "贴吧",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时33分 ~ 09时47分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         }
       ]
     },
@@ -160,7 +214,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         }
