@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T19:51:27.910112+08:00",
-  "total_titles_processed": 1083,
+  "generated_at": "2026-06-09T22:13:42.383064+08:00",
+  "total_titles_processed": 1251,
   "failed_sources": [],
   "trends": [
     {
@@ -68,7 +68,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
@@ -79,8 +79,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时57分 ~ 19时51分]"
+          "appearance_count": 4,
+          "time_info": "[13时57分 ~ 22时13分]"
         },
         {
           "title": "OpenAI官宣已递交IPO申请文件 AI巨头资本大战或全面打响",
@@ -106,6 +106,17 @@
           "time_info": "[09时47分 ~ 13时57分]"
         },
         {
+          "title": "Perplexity CEO：无论Anthropic或OpenAI上市进展如何，公司均计划2028年IPO",
+          "url": "https://wallstreetcn.com/livenews/3116874",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
           "title": "美大学生因ChatGPT与母亲争吵后死亡",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%A4%A7%E5%AD%A6%E7%94%9F%E5%9B%A0ChatGPT%E4%B8%8E%E6%AF%8D%E4%BA%B2%E4%BA%89%E5%90%B5%E5%90%8E%E6%AD%BB%E4%BA%A1",
           "source": "百度热搜",
@@ -115,6 +126,56 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "事关数据赋能人工智能发展，国家层面首次系统部署",
+          "url": "https://www.cls.cn/detail/2393777",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
+        },
+        {
+          "title": "意大利竞争管理局结束了对Meta Platforms(META.O)关于WhatsApp人工智能聊天机器人的调查。",
+          "url": "https://flash.jin10.com/detail/20260609000618341800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时33分"
+        },
+        {
+          "title": "毕马威与微软(MSFT.O)达成协议，帮助客户大规模部署人工智能。",
+          "url": "https://flash.jin10.com/detail/20260609214401616800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
+        },
+        {
+          "title": "Applied Digital(APLD.O)一度涨逾12%，此前公司签署了一项52亿美元人工智能数据中心租赁协议。",
+          "url": "https://flash.jin10.com/detail/20260609213931003800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时13分"
         }
       ]
     },
@@ -173,30 +234,31 @@
       ]
     },
     {
-      "keyword_group": "人工智能",
+      "keyword_group": "AI",
       "match_count": 2,
       "titles": [
         {
-          "title": "事关数据赋能人工智能发展，国家层面首次系统部署",
-          "url": "https://www.cls.cn/detail/2393777",
-          "source": "财联社热门",
+          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
+          "url": "https://wallstreetcn.com/articles/3774181",
+          "source": "华尔街见闻",
           "ranks": [
-            8
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时33分"
+          "appearance_count": 3,
+          "time_info": "[16时55分 ~ 22时13分]"
         },
         {
-          "title": "意大利竞争管理局结束了对Meta Platforms(META.O)关于WhatsApp人工智能聊天机器人的调查。",
-          "url": "https://flash.jin10.com/detail/20260609000618341800",
+          "title": "美股开盘，道指涨0.3%，标普500指数涨0.5%，纳指涨0.7%。高通(QCOM.O)涨0.3%，黄仁勋喊话买入该股票。博通(AVGO.O)涨1.1%，其联手黑石和阿波罗成立AI算力平台。费城半导体指数涨1.98%。纳斯达克中国金龙指数涨0.8%。",
+          "url": "https://flash.jin10.com/detail/20260609213038011800",
           "source": "金十数据",
           "ranks": [
-            10
+            28
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时33分"
+          "time_info": "22时13分"
         }
       ]
     },
@@ -245,27 +307,9 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
-          "url": "https://wallstreetcn.com/articles/3774181",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时55分 ~ 19时51分]"
         }
       ]
     }
