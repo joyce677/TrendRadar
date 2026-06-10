@@ -1,265 +1,55 @@
 {
-  "generated_at": "2026-06-10T22:59:18.514515+08:00",
-  "total_titles_processed": 1350,
+  "generated_at": "2026-06-11T01:57:46.018272+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 37,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "增速19.4%！AI需求强劲，中国5月出口全面超预期",
-          "url": "https://wallstreetcn.com/articles/3774181",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时28分 ~ 10时43分]"
-        },
         {
           "title": "事关光电芯片、OCS、CPO…… 工信部聚焦“AI+通信” 打造智算网络体系",
           "url": "https://www.cls.cn/detail/2396017",
           "source": "财联社热门",
           "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时33分 ~ 22时59分]"
-        },
-        {
-          "title": "苹果WWDC 2026：Siri AI姗姗来迟，Apple Intelligence全面升级，OS集体迈入27版，股价盘中转跌",
-          "url": "https://wallstreetcn.com/articles/3774148",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 03时10分]"
-        },
-        {
-          "title": "小米AI上岛",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%B0%8F%E7%B1%B3AI%E4%B8%8A%E5%B2%9B%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时33分"
+          "time_info": "01时57分"
         },
         {
-          "title": "用AI复原孔子与苏格拉底教育之辩",
-          "url": "https://www.douyin.com/hot/2528746",
-          "source": "抖音",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "知情人士：SpaceX轨道AI计算测试计划将提前至2027年",
-          "url": "https://flash.jin10.com/detail/20260610063641524800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "美国2026届大学毕业生强烈不满AI，微软回应称人类不会被取代",
-          "url": "https://wallstreetcn.com/livenews/3117585",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时59分"
-        },
-        {
-          "title": "上周五的暴跌只是预演？高盛、巴克莱齐发警告：AI交易拥挤度已爆表",
-          "url": "https://wallstreetcn.com/articles/3774243",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时14分 ~ 19时33分]"
-        },
-        {
-          "title": "苹果发布 Siri AI 等 AI 功能，市值一夜蒸发超 5700 亿元，为何投资者反应平平？",
-          "url": "https://www.zhihu.com/question/2047616042067834810",
-          "source": "知乎",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时14分 ~ 10时43分]"
-        },
-        {
-          "title": "【焦点复盘】沪指缩量反弹收复4000点，全市场超200股涨逾10%，AI软硬件双双大涨",
-          "url": "https://www.cls.cn/detail/2394903",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 07时14分]"
-        },
-        {
-          "title": "夏奇拉邀请你来跳Dai Dai",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E5%A5%87%E6%8B%89%E9%82%80%E8%AF%B7%E4%BD%A0%E6%9D%A5%E8%B7%B3Dai%20Dai",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时33分 ~ 22时59分]"
-        },
-        {
-          "title": "中东暂歇火、AI牛股继续嗨 高盛提醒动量交易风险 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2395176",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 07时14分]"
-        },
-        {
-          "title": "AI入口重燃战火？多家互联网企业官宣接入微信AI生态，能带来什么",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33343767",
+          "title": "当患者开始带着AI回答来就诊：打破医患信息差还是增加风险？责任如何界定？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33350280",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            17
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时42分 ~ 19时33分]"
+          "appearance_count": 1,
+          "time_info": "01时57分"
         },
         {
-          "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
-          "url": "https://wallstreetcn.com/articles/3774282",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时03分 ~ 22时59分]"
-        },
-        {
-          "title": "Siri AI将如何改变苹果",
-          "url": "https://search.bilibili.com/all?keyword=Siri%20AI%E5%B0%86%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E8%8B%B9%E6%9E%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时42分 ~ 15时03分]"
-        },
-        {
-          "title": "腾讯高管称今年大部分代码都由 AI 生成，这会对软件开发行业带来哪些深远影响？",
-          "url": "https://www.zhihu.com/question/2046196309359646371",
-          "source": "知乎",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时28分 ~ 03时10分]"
-        },
-        {
-          "title": "超微电脑计划通过股权和股权相关方式融资70亿美元。 最近数周，该公司围绕AI服务器的融资获得390亿美元认购。 超微电脑美股盘后跌10%。",
-          "url": "https://wallstreetcn.com/livenews/3117028",
+          "title": "阿波罗全球管理示警：律所和咨询公司等专业服务行业将面临AI颠覆",
+          "url": "https://wallstreetcn.com/livenews/3117649",
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时47分"
+          "time_info": "01时57分"
         },
         {
-          "title": "紧跟福特步伐！通用汽车高调杀入数据中心储能赛道，携手Peak Energy抢占AI电力红利",
-          "url": "https://wallstreetcn.com/livenews/3117027",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时47分"
-        },
-        {
-          "title": "金刚石助力芯片突破散热瓶颈 AI算力进一步打开应用空间",
-          "url": "https://www.cls.cn/detail/2395511",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "富国银行警示：AI概念股遭遇猛烈抛售，给狂热投资者敲响“清道夫式”警钟",
-          "url": "https://wallstreetcn.com/livenews/3116984",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "Meta：将针对欧盟的WhatsApp AI命令提出上诉。",
-          "url": "https://wallstreetcn.com/livenews/3116943",
-          "source": "华尔街见闻-快讯",
+          "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
+          "url": "https://wallstreetcn.com/articles/3774282",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "消息人士：SpaceX告知投资者，其目标是在2027年启动轨道AI计算测试。",
-          "url": "https://flash.jin10.com/detail/20260610062928337800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
+          "time_info": "01时57分"
         },
         {
           "title": "于娜看到已故老公AI形象崩溃大哭",
@@ -268,309 +58,81 @@
           "ranks": [
             12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时59分"
-        },
-        {
-          "title": "字节AI制药开启拆分融资，AI4S进入产业化阶段",
-          "url": "https://wallstreetcn.com/livenews/3117261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "AI热潮催生“芯”需求！三星考虑新建先进芯片封装厂",
-          "url": "https://www.cls.cn/detail/2395630",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "苹果 AI 发布史上最大更新国区却不可用，是何原因导致？",
-          "url": "https://www.zhihu.com/question/2047598353421170561",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时33分"
-        },
-        {
-          "title": "字节AI制药开启拆分融资，AI4S进入产业化阶段",
-          "url": "https://flash.jin10.com/detail/20260610141326636800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "美国白宫AI政策顾问Thomas Lind将离职。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3117016",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时47分"
-        },
-        {
-          "title": "专家：AI淘汰的不是人而是重复性工作",
-          "url": "https://www.toutiao.com/trending/7649726725886053894/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时59分"
-        },
-        {
-          "title": "分析｜受AI产业热潮、价格因素等推动，5月进出口双双高增",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33344044",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时33分"
-        },
-        {
-          "title": "欧盟勒令Meta暂停针对AI竞争对手们限制WhatsApp。 要求该公司在五个工作日内做到合规。",
-          "url": "https://wallstreetcn.com/livenews/3116930",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时28分"
-        },
-        {
-          "title": "AI芯片需求持续旺盛，台积电前5月销售额增长30%",
-          "url": "https://flash.jin10.com/detail/20260610140856512800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        },
-        {
-          "title": "针对美国AI标准与创新中心，白宫要求Caisi停止披露公共报告。 Caisi被要求暂停披露关于AI模型评估的信息。 这反映白宫正加强对人工智能模型的管控。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3117045",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时14分"
-        },
-        {
-          "title": "中东战火引发二次通胀，南非央行暗示年内将再度加息，并警告前沿AI模型威胁金融安全",
-          "url": "https://wallstreetcn.com/livenews/3117558",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时59分"
-        },
-        {
-          "title": "AI灌篮高手真人化",
-          "url": "https://s.weibo.com/weibo?q=AI%E7%81%8C%E7%AF%AE%E9%AB%98%E6%89%8B%E7%9C%9F%E4%BA%BA%E5%8C%96&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
+          "time_info": "01时57分"
         },
         {
           "title": "于娜看到已故丈夫AI形象崩溃大哭",
           "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E5%A8%9C%E7%9C%8B%E5%88%B0%E5%B7%B2%E6%95%85%E4%B8%88%E5%A4%ABAI%E5%BD%A2%E8%B1%A1%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD",
           "source": "百度热搜",
           "ranks": [
-            29
+            12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时59分"
+          "time_info": "01时57分"
         },
         {
-          "title": "Meta达成印度AI数据中心交易，超大规模云厂商持续加码基础设施建设",
-          "url": "https://wallstreetcn.com/livenews/3117555",
+          "title": "苹果 AI 发布史上最大更新国区却不可用，是何原因导致？",
+          "url": "https://www.zhihu.com/question/2047598353421170561",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "夏奇拉邀请你来跳Dai Dai",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E5%A5%87%E6%8B%89%E9%82%80%E8%AF%B7%E4%BD%A0%E6%9D%A5%E8%B7%B3Dai%20Dai",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时57分"
+        },
+        {
+          "title": "阿波罗：过多AI支出被用于“低智商”任务",
+          "url": "https://wallstreetcn.com/livenews/3117625",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            30
+            26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时59分"
+          "time_info": "01时57分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
         {
-          "title": "谷歌为Anthropic数据中心提供350亿美元融资担保",
-          "url": "https://flash.jin10.com/detail/20260610024250153800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "谷歌英伟达",
-          "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E8%8B%B1%E4%BC%9F%E8%BE%BE&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时10分 ~ 07时14分]"
-        },
-        {
-          "title": "谷歌(GOOG.O)为Anthropic350亿美元芯片交易提供兜底支持。在谷歌的协助下，Anthropic将在5个数据中心租赁芯片。",
-          "url": "https://flash.jin10.com/detail/20260610023250783800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "谷歌(GOOG.O)：Anthropic最新的前沿模型Claude Fable 5现已在Google Cloud上全面开放。",
-          "url": "https://flash.jin10.com/detail/20260610023003307800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "谷歌(GOOG.O)Gemini：推出智能体风险监控功能。",
-          "url": "https://flash.jin10.com/detail/20260610020905007800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "俄亥俄州监管重拳落空！谷歌在上诉法院赢得决定性胜利，免受“公共事业级”严苛规管",
-          "url": "https://wallstreetcn.com/livenews/3116973",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "anthropic claude",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "如何评价 Anthropic 发布的 Claude Fable 5？",
-          "url": "https://www.zhihu.com/question/2047851398734394746",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
-        },
-        {
-          "title": "IPO前“秀肌肉”：Anthropic推出最强公开模型Fable 5，戴安全枷锁解封Mythos级能力",
-          "url": "https://wallstreetcn.com/articles/3774258",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时42分 ~ 22时59分]"
-        },
-        {
-          "title": "AWS：Claude Fable 5在亚马逊Bedrock可用，在AWS的Claude Platform上也可用。",
-          "url": "https://wallstreetcn.com/livenews/3116977",
+          "title": "谷歌公司：将携带Gemini的Chrome浏览器推广至非洲、中东、拉美等市场的用户。",
+          "url": "https://wallstreetcn.com/livenews/3117637",
           "source": "华尔街见闻-快讯",
           "ranks": [
             15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时10分"
+          "time_info": "01时57分"
         },
         {
-          "title": "Claude新模型实测",
-          "url": "https://search.bilibili.com/all?keyword=Claude%E6%96%B0%E6%A8%A1%E5%9E%8B%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时33分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)：Claude Fable 5现已在亚马逊云服务(AWS)上线。",
-          "url": "https://flash.jin10.com/detail/20260610014931640800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "Anthropic推出限制网络安全能力的“解耦版”新模型Fable 5，同步发布Mythos 5",
-          "url": "https://wallstreetcn.com/livenews/3116966",
+          "title": "谷歌推出DiffusionGemma实验性开源模型。",
+          "url": "https://wallstreetcn.com/livenews/3117624",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时10分"
+          "time_info": "01时57分"
         }
       ]
     },
@@ -579,131 +141,43 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "OpenAI提交上市申请，“三大超级IPO”考验美股承受力",
-          "url": "https://wallstreetcn.com/articles/3774156",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时28分 ~ 07时14分]"
-        },
-        {
-          "title": "据The Information：OpenAI正在洽谈一项为期20年的租赁协议，这将成为其迄今为止最大的基础设施投资承诺。英伟达已讨论为该项目提供信贷支持。",
-          "url": "https://flash.jin10.com/detail/20260610101124136800",
+          "title": "市场消息：OpenAI与Visa(V.N)合作，允许人工智能代理在线购物。",
+          "url": "https://flash.jin10.com/detail/20260611014950889800",
           "source": "金十数据",
           "ranks": [
-            9
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房价 楼市 房地产",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股大类资产类ETF多数收涨，房地产ETF涨2.3%，黄金ETF跌超1.6%",
-          "url": "https://wallstreetcn.com/livenews/3117015",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时47分"
+          "time_info": "01时57分"
         },
         {
-          "title": "标普500指数的11个板块多数收涨，房地产板块涨2.13%，原材料、保健、工业、公用事业板块至多涨1.72%，能源板块则收跌1.6%，信息技术/科技板块跌1.82%。",
-          "url": "https://wallstreetcn.com/livenews/3117013",
+          "title": "AI获“付款授权”：OpenAI联手Visa开启智能体在线购物新时代",
+          "url": "https://wallstreetcn.com/livenews/3117653",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时47分"
+          "time_info": "01时57分"
         }
       ]
     },
     {
-      "keyword_group": "agent",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "有没有大佬分享一下做 agent 时的一些经验？",
-          "url": "https://www.zhihu.com/question/1982512240482619481",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时42分 ~ 10时43分]"
-        },
-        {
-          "title": "阿里云：下调容器计算服务ACS Agent Sandbox价格",
-          "url": "https://wallstreetcn.com/livenews/3117238",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时03分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "iphone apple apple watch",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "人形机器人价格大跳水，比iPhone还便宜",
-          "url": "https://wallstreetcn.com/articles/3774234",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[05时47分 ~ 19时33分]"
-        },
-        {
-          "title": "换iPhone的理由够了吗",
-          "url": "https://s.weibo.com/weibo?q=%23%E6%8D%A2iPhone%E7%9A%84%E7%90%86%E7%94%B1%E5%A4%9F%E4%BA%86%E5%90%97%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "马斯克",
+      "keyword_group": "anthropic claude",
       "match_count": 1,
       "titles": [
         {
-          "title": "报道：SpaceX总裁与CFO参加周二的大摩闭门午餐会，马斯克曾短暂参与视频会议",
-          "url": "https://wallstreetcn.com/livenews/3116987",
+          "title": "微软限制员工使用Claude Fable。（The Verge）",
+          "url": "https://wallstreetcn.com/livenews/3117635",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时10分"
+          "time_info": "01时57分"
         }
       ]
     }
