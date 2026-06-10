@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-06-10T09:58:57.922360+08:00",
-  "total_titles_processed": 507,
+  "generated_at": "2026-06-10T14:16:04.710220+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "Anthropic",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "IPO前“秀肌肉”：Anthropic推出最强公开模型Fable 5，戴安全枷锁解封Mythos级能力",
+          "url": "https://wallstreetcn.com/articles/3774258",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时58分 ~ 14时16分]"
+        },
+        {
+          "title": "Anthropic发布Mythos系列新模型 AIAgent仍是最重要方向之一",
+          "url": "https://www.cls.cn/detail/2395422",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时15分 ~ 14时16分]"
+        },
         {
           "title": "如何看待 6 月 10 日 Anthropic 发布的 Fable 5 和 Mythos 5 模型？",
           "url": "https://www.zhihu.com/question/2047849109776816048",
@@ -14,20 +37,37 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "Claude",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何评价 Anthropic 发布的 Claude Fable 5？",
+          "url": "https://www.zhihu.com/question/2047851398734394746",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         },
         {
-          "title": "IPO前“秀肌肉”：Anthropic推出最强公开模型Fable 5，戴安全枷锁解封Mythos级能力",
-          "url": "https://wallstreetcn.com/articles/3774258",
-          "source": "华尔街见闻",
+          "title": "Claude神话模型Mythos发布",
+          "url": "https://search.bilibili.com/all?keyword=Claude%E7%A5%9E%E8%AF%9D%E6%A8%A1%E5%9E%8BMythos%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
           "ranks": [
-            8
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时15分 ~ 14时16分]"
         }
       ]
     },
@@ -59,24 +99,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价 Anthropic 发布的 Claude Fable 5？",
-          "url": "https://www.zhihu.com/question/2047851398734394746",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时58分"
         }
@@ -94,8 +117,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时09分 ~ 09时58分]"
+          "appearance_count": 5,
+          "time_info": "[01时09分 ~ 14时16分]"
         }
       ]
     }
