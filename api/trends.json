@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-11T06:49:40.874326+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-06-11T08:11:40.983400+08:00",
+  "total_titles_processed": 612,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 06时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 08时11分]"
         },
         {
           "title": "当患者开始带着AI回答来就诊：打破医患信息差还是增加风险？责任如何界定？",
@@ -27,8 +27,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 06时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 08时11分]"
         },
         {
           "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
@@ -36,11 +36,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 06时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 08时11分]"
         },
         {
           "title": "于娜看到已故老公AI形象崩溃大哭",
@@ -51,19 +52,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 06时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 08时11分]"
         },
         {
           "title": "于娜看到已故丈夫AI形象崩溃大哭",
           "url": "https://www.baidu.com/s?wd=%E4%BA%8E%E5%A8%9C%E7%9C%8B%E5%88%B0%E5%B7%B2%E6%95%85%E4%B8%88%E5%A4%ABAI%E5%BD%A2%E8%B1%A1%E5%B4%A9%E6%BA%83%E5%A4%A7%E5%93%AD",
           "source": "百度热搜",
           "ranks": [
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时57分 ~ 06时49分]"
+          "appearance_count": 4,
+          "time_info": "[01时57分 ~ 08时11分]"
         },
         {
           "title": "苹果 AI 发布史上最大更新国区却不可用，是何原因导致？",
@@ -73,8 +75,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 06时49分]"
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 08时11分]"
         },
         {
           "title": "阿波罗全球管理示警：律所和咨询公司等专业服务行业将面临AI颠覆",
@@ -124,7 +126,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "市场消息：OpenAI与Visa(V.N)合作，允许人工智能代理在线购物。",
@@ -144,7 +146,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
         },
@@ -155,7 +157,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时49分"
         },
@@ -170,6 +172,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时57分 ~ 04时24分]"
+        },
+        {
+          "title": "OpenAI与甲骨文构建合作伙伴关系。 双方将围绕面向OCI（甲骨文云基础设施建设）客户的Codex进行合作。",
+          "url": "https://wallstreetcn.com/livenews/3117747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
         }
       ]
     },
@@ -198,6 +211,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "英国5月三个月RICS房价指数 -35，预期 -32，前值 -34。",
+          "url": "https://wallstreetcn.com/livenews/3117755",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时11分"
         }
       ]
     },
