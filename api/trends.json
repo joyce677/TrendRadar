@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-06-11T01:41:02.282662+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-06-11T10:09:48.996560+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "报道：OpenAI正考虑大幅降价",
+          "url": "https://wallstreetcn.com/livenews/3117833",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI正在考虑大幅降低其token收费标准。",
+          "url": "https://flash.jin10.com/detail/20260611093853793800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI正考虑大幅降价，预计将与Anthropic展开用户争夺战。",
+          "url": "https://flash.jin10.com/detail/20260611093742490800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        }
+      ]
+    },
     {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
@@ -14,7 +53,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
@@ -25,9 +64,37 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "国家发改委：加快建设现代化产业体系，全面实施“人工智能+”行动",
+          "url": "https://www.cls.cn/detail/2396287",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 10时09分]"
+        },
+        {
+          "title": "A股半导体板块盘初拉升，炬光科技20cm涨停，江丰电子涨超12%，杰华特、富创精密、中微半导、汇成股份、帝奥微等个股跟涨。工业和信息化部日前印发《“人工智能+信息通信”创新发展实施意见（2026—2028年）》，提出加强高端光电芯片和器件研发，开展光电混合组网技术试验。",
+          "url": "https://flash.jin10.com/detail/20260611093320339800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         }
       ]
     },
@@ -42,7 +109,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
         },
@@ -53,26 +120,9 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国家发改委：加快建设现代化产业体系，全面实施“人工智能+”行动",
-          "url": "https://www.cls.cn/detail/2396287",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 01时41分]"
         }
       ]
     },
@@ -87,9 +137,26 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "抖音",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "抖音AI创作大赛来了",
+          "url": "https://www.douyin.com/hot/2529851",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         }
       ]
     },
@@ -102,11 +169,12 @@
           "url": "https://wallstreetcn.com/articles/3774282",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时40分 ~ 01时41分]"
+          "appearance_count": 3,
+          "time_info": "[01时40分 ~ 10时09分]"
         }
       ]
     }
