@@ -1,8 +1,81 @@
 {
-  "generated_at": "2026-06-13T03:58:36.375117+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-06-13T05:42:45.877432+08:00",
+  "total_titles_processed": 488,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "AI",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "抖音AI创作大赛首个爆款出现",
+          "url": "https://www.douyin.com/hot/2532139",
+          "source": "抖音",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 05时42分]"
+        },
+        {
+          "title": "猛男舞团翻跳Dai Dai",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8C%9B%E7%94%B7%E8%88%9E%E5%9B%A2%E7%BF%BB%E8%B7%B3Dai%20Dai",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 05时42分]"
+        },
+        {
+          "title": "抖音AI反网暴行动来了",
+          "url": "https://www.douyin.com/hot/2531858",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "用AI打开七时吉祥原著",
+          "url": "https://www.douyin.com/hot/2532352",
+          "source": "抖音",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "全抖音都在DaiDai",
+          "url": "https://www.douyin.com/hot/2531421",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时42分"
+        },
+        {
+          "title": "作家自曝用AI写作",
+          "url": "https://s.weibo.com/weibo?q=%E4%BD%9C%E5%AE%B6%E8%87%AA%E6%9B%9D%E7%94%A8AI%E5%86%99%E4%BD%9C&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时34分"
+        }
+      ]
+    },
     {
       "keyword_group": "马斯克",
       "match_count": 3,
@@ -12,11 +85,12 @@
           "url": "https://wallstreetcn.com/articles/3774523",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时58分]"
+          "appearance_count": 3,
+          "time_info": "[01时34分 ~ 05时42分]"
         },
         {
           "title": "美国参议院民主党成员Warren要求实施财富税，此前SpaceX美国IPO让马斯克成为人类第一位万亿美元富豪。",
@@ -43,46 +117,6 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "抖音AI创作大赛首个爆款出现",
-          "url": "https://www.douyin.com/hot/2532139",
-          "source": "抖音",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时58分]"
-        },
-        {
-          "title": "猛男舞团翻跳Dai Dai",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8C%9B%E7%94%B7%E8%88%9E%E5%9B%A2%E7%BF%BB%E8%B7%B3Dai%20Dai",
-          "source": "bilibili 热搜",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时34分 ~ 03时58分]"
-        },
-        {
-          "title": "作家自曝用AI写作",
-          "url": "https://s.weibo.com/weibo?q=%E4%BD%9C%E5%AE%B6%E8%87%AA%E6%9B%9D%E7%94%A8AI%E5%86%99%E4%BD%9C&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时34分"
-        }
-      ]
-    },
-    {
       "keyword_group": "anthropic claude",
       "match_count": 2,
       "titles": [
@@ -93,7 +127,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时58分"
         },
@@ -104,7 +138,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时58分"
         }
