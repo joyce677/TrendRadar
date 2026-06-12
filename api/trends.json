@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-12T10:05:23.276693+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-12T14:59:26.135391+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 14时59分]"
         },
         {
           "title": "OpenAI 考虑大幅降价以与 Anthropic 竞争，此举将如何影响 AI 市场格局？",
@@ -28,13 +28,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "瞄准AI代理赛道 OpenAI收购云端平台强化Codex竞争力",
+          "url": "https://www.cls.cn/detail/2397742",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "马斯克每天花100万美元或够花2700年",
+          "url": "https://www.toutiao.com/trending/7649975809004126249/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        },
         {
           "title": "特斯拉 FSD 中国山区挂壁公路实测爆火，马斯克转发，视频播放量破 4700 万，这种场景测试有多大参考意义？",
           "url": "https://www.zhihu.com/question/2048159787817375467",
@@ -45,6 +67,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "如何评价 SpaceX IPO 创纪录融资 750 亿美元，马斯克成首位万亿富翁？",
+          "url": "https://www.zhihu.com/question/2048672745810916944",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "今年前5个月我国区域外贸持续向好 人工智能等产品同比增长超五成",
+          "url": "https://wallstreetcn.com/livenews/3118623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        },
+        {
+          "title": "今年前5个月我国区域外贸持续向好 人工智能等产品同比增长超五成",
+          "url": "https://flash.jin10.com/detail/20260612140428249800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时59分"
         }
       ]
     },
@@ -57,11 +118,12 @@
           "url": "https://www.douyin.com/hot/2529851",
           "source": "抖音",
           "ranks": [
-            15
+            15,
+            23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 14时59分]"
         }
       ]
     }
