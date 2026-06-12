@@ -1,269 +1,50 @@
 {
-  "generated_at": "2026-06-11T23:26:50.989409+08:00",
-  "total_titles_processed": 1122,
+  "generated_at": "2026-06-12T10:05:23.276693+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "OpenAI宣布达成协议收购新闻机构ONA。",
-          "url": "https://flash.jin10.com/detail/20260611230642759800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时26分"
-        },
-        {
-          "title": "“Token价格战”烧到美国？OpenAI被曝考虑大幅降价",
-          "url": "https://www.cls.cn/detail/2396831",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时12分 ~ 15时13分]"
-        },
         {
           "title": "补贴→Token计费→降价！OpenAI打响价格战，Token经济学拐点将至？",
           "url": "https://wallstreetcn.com/articles/3774400",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时26分"
+          "time_info": "10时05分"
         },
         {
-          "title": "报道：OpenAI正考虑大幅降价",
-          "url": "https://wallstreetcn.com/livenews/3117833",
-          "source": "华尔街见闻-快讯",
+          "title": "OpenAI 考虑大幅降价以与 Anthropic 竞争，此举将如何影响 AI 市场格局？",
+          "url": "https://www.zhihu.com/question/2048342346048213458",
+          "source": "知乎",
           "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "OpenAI：将收购云平台Ona，从而支持AI智能体。 我们已经就此达成一份协议。",
-          "url": "https://wallstreetcn.com/livenews/3118273",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时26分"
-        },
-        {
-          "title": "据华尔街日报：OpenAI正在考虑大幅降低其token收费标准。",
-          "url": "https://flash.jin10.com/detail/20260611093853793800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "据华尔街日报：OpenAI正考虑大幅降价，预计将与Anthropic展开用户争夺战。",
-          "url": "https://flash.jin10.com/detail/20260611093742490800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌公司：将携带Gemini的Chrome浏览器推广至非洲、中东、拉美等市场的用户。",
-          "url": "https://wallstreetcn.com/livenews/3117637",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "谷歌推出DiffusionGemma实验性开源模型。",
-          "url": "https://wallstreetcn.com/livenews/3117624",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "Crusoe Energy Systems LLC.：谷歌公司出现顾虑之后，公司位于美国怀俄明州的AI项目被搁置。 谷歌公司正与现存合作伙伴们讨论怀俄明州数据中心的使用事宜。 公司与潜在客户独家洽谈。 公司无法为怀俄明州设施锁定客户。",
-          "url": "https://wallstreetcn.com/livenews/3118246",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "国家发改委：加快建设现代化产业体系，全面实施“人工智能+”行动",
-          "url": "https://www.cls.cn/detail/2396287",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时40分 ~ 10时09分]"
-        },
-        {
-          "title": "国家数据局召开“完善数据相关规则 赋能人工智能创新发展”座谈会",
-          "url": "https://wallstreetcn.com/livenews/3118120",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时52分"
-        },
-        {
-          "title": "A股半导体板块盘初拉升，炬光科技20cm涨停，江丰电子涨超12%，杰华特、富创精密、中微半导、汇成股份、帝奥微等个股跟涨。工业和信息化部日前印发《“人工智能+信息通信”创新发展实施意见（2026—2028年）》，提出加强高端光电芯片和器件研发，开展光电混合组网技术试验。",
-          "url": "https://flash.jin10.com/detail/20260611093320339800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Claude",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "微软限制员工使用Claude Fable。（The Verge）",
-          "url": "https://wallstreetcn.com/livenews/3117635",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        },
-        {
-          "title": "Claude Fable 5首发实测",
-          "url": "https://search.bilibili.com/all?keyword=Claude%20Fable%205%E9%A6%96%E5%8F%91%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        },
-        {
-          "title": "据美国科技媒体The Verge：微软以数据保留问题为由，限制员工使用Claude Fable。",
-          "url": "https://flash.jin10.com/detail/20260611005800282800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如出一辙！又一则“数据中心停工”消息引爆美国AI股新一轮调整？",
-          "url": "https://wallstreetcn.com/articles/3774376",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时12分 ~ 23时26分]"
-        },
-        {
-          "title": "AI需求驱动有色、计算机等涨价，中国5月PPI同比涨3.9%创四年新高，CPI同比增1.2%",
-          "url": "https://wallstreetcn.com/articles/3774282",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时40分 ~ 10时09分]"
+          "appearance_count": 1,
+          "time_info": "10时05分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "马斯克",
       "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek为何发力Agent",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%B8%BA%E4%BD%95%E5%8F%91%E5%8A%9BAgent%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "特斯拉 FSD 中国山区挂壁公路实测爆火，马斯克转发，视频播放量破 4700 万，这种场景测试有多大参考意义？",
+          "url": "https://www.zhihu.com/question/2048159787817375467",
+          "source": "知乎",
           "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时52分 ~ 23时26分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "特朗普称将与AI公司高管讨论回馈公众",
-          "url": "https://wallstreetcn.com/livenews/3117617",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时41分"
+          "time_info": "10时05分"
         }
       ]
     },
@@ -276,14 +57,11 @@
           "url": "https://www.douyin.com/hot/2529851",
           "source": "抖音",
           "ranks": [
-            4,
-            8,
-            6,
-            11
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时09分 ~ 23时26分]"
+          "appearance_count": 1,
+          "time_info": "10时05分"
         }
       ]
     }
