@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T14:59:26.135391+08:00",
-  "total_titles_processed": 536,
+  "generated_at": "2026-06-12T18:58:36.007442+08:00",
+  "total_titles_processed": 758,
   "failed_sources": [],
   "trends": [
     {
@@ -36,9 +36,48 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "今年前5个月我国区域外贸持续向好 人工智能等产品同比增长超五成",
+          "url": "https://wallstreetcn.com/livenews/3118623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        },
+        {
+          "title": "今年前5个月我国区域外贸持续向好 人工智能等产品同比增长超五成",
+          "url": "https://flash.jin10.com/detail/20260612140428249800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        },
+        {
+          "title": "研究显示：人工智能可提前预警乳腺癌",
+          "url": "https://wallstreetcn.com/livenews/3118807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
         }
       ]
     },
@@ -53,7 +92,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         },
@@ -75,35 +114,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "人工智能",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "今年前5个月我国区域外贸持续向好 人工智能等产品同比增长超五成",
-          "url": "https://wallstreetcn.com/livenews/3118623",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时59分"
-        },
-        {
-          "title": "今年前5个月我国区域外贸持续向好 人工智能等产品同比增长超五成",
-          "url": "https://flash.jin10.com/detail/20260612140428249800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时59分"
         }
@@ -111,7 +122,7 @@
     },
     {
       "keyword_group": "抖音",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "抖音AI创作大赛来了",
@@ -124,6 +135,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时05分 ~ 14时59分]"
+        },
+        {
+          "title": "抖音AI创作大赛首个爆款出现",
+          "url": "https://www.douyin.com/hot/2532139",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "我们真的需要又一个 DeepSeek V5 吗？",
+          "url": "https://www.zhihu.com/question/2031303606524186735",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时58分"
         }
       ]
     }
