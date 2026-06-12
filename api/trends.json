@@ -1,8 +1,58 @@
 {
-  "generated_at": "2026-06-12T18:58:36.007442+08:00",
-  "total_titles_processed": 758,
+  "generated_at": "2026-06-12T21:59:43.393690+08:00",
+  "total_titles_processed": 917,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "马斯克",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "马斯克每天花100万美元或够花2700年",
+          "url": "https://www.toutiao.com/trending/7649975809004126249/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        },
+        {
+          "title": "特斯拉 FSD 中国山区挂壁公路实测爆火，马斯克转发，视频播放量破 4700 万，这种场景测试有多大参考意义？",
+          "url": "https://www.zhihu.com/question/2048159787817375467",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时05分"
+        },
+        {
+          "title": "吴晓波：马斯克“造神运动”背后",
+          "url": "https://www.toutiao.com/trending/7649371811609002025/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时59分"
+        },
+        {
+          "title": "如何评价 SpaceX IPO 创纪录融资 750 亿美元，马斯克成首位万亿富翁？",
+          "url": "https://www.zhihu.com/question/2048672745810916944",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时59分"
+        }
+      ]
+    },
     {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
@@ -75,55 +125,28 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时58分"
         }
       ]
     },
     {
-      "keyword_group": "马斯克",
+      "keyword_group": "抖音",
       "match_count": 3,
       "titles": [
         {
-          "title": "马斯克每天花100万美元或够花2700年",
-          "url": "https://www.toutiao.com/trending/7649975809004126249/",
-          "source": "今日头条",
+          "title": "抖音AI创作大赛首个爆款出现",
+          "url": "https://www.douyin.com/hot/2532139",
+          "source": "抖音",
           "ranks": [
-            2
+            11,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时59分"
+          "appearance_count": 2,
+          "time_info": "[18时58分 ~ 21时59分]"
         },
-        {
-          "title": "特斯拉 FSD 中国山区挂壁公路实测爆火，马斯克转发，视频播放量破 4700 万，这种场景测试有多大参考意义？",
-          "url": "https://www.zhihu.com/question/2048159787817375467",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时05分"
-        },
-        {
-          "title": "如何评价 SpaceX IPO 创纪录融资 750 亿美元，马斯克成首位万亿富翁？",
-          "url": "https://www.zhihu.com/question/2048672745810916944",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时59分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "抖音",
-      "match_count": 2,
-      "titles": [
         {
           "title": "抖音AI创作大赛来了",
           "url": "https://www.douyin.com/hot/2529851",
@@ -137,15 +160,15 @@
           "time_info": "[10时05分 ~ 14时59分]"
         },
         {
-          "title": "抖音AI创作大赛首个爆款出现",
-          "url": "https://www.douyin.com/hot/2532139",
+          "title": "全抖音都在DaiDai",
+          "url": "https://www.douyin.com/hot/2531421",
           "source": "抖音",
           "ranks": [
-            11
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时58分"
+          "time_info": "21时59分"
         }
       ]
     },
@@ -160,9 +183,9 @@
           "ranks": [
             11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时58分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时58分 ~ 21时59分]"
         }
       ]
     }
