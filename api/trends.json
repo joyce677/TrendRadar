@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-14T15:02:30.350812+08:00",
-  "total_titles_processed": 496,
+  "generated_at": "2026-06-14T18:35:15.684527+08:00",
+  "total_titles_processed": 652,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,22 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
-          "url": "https://wallstreetcn.com/articles/3774577",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时08分 ~ 15时02分]"
-        },
-        {
           "title": "【早报】美将部分中企列入“中国军事企业清单”，商务部回应；OpenAI被查",
           "url": "https://www.cls.cn/detail/2399163",
           "source": "财联社热门",
           "ranks": [
             2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时08分 ~ 18时35分]"
+        },
+        {
+          "title": "SpaceX上市幕后大戏：抢跑OpenAI、疯狂并购装资产，华尔街全程被牵着鼻子走",
+          "url": "https://wallstreetcn.com/articles/3774577",
+          "source": "华尔街见闻",
+          "ranks": [
             1
           ],
           "is_new": false,
@@ -65,11 +65,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时08分 ~ 15时02分]"
+          "appearance_count": 5,
+          "time_info": "[10时08分 ~ 18时35分]"
         },
         {
           "title": "万亿富豪马斯克的“冰与火”：AI卫星要上天 地面算力却“卡了壳”",
@@ -80,15 +81,27 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时08分 ~ 15时02分]"
+          "appearance_count": 5,
+          "time_info": "[10时08分 ~ 18时35分]"
         }
       ]
     },
     {
       "keyword_group": "Anthropic",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "Anthropic全球下架Mythos和Fable模型的“幕后推手”：“主要股东”亚马逊CEO",
+          "url": "https://wallstreetcn.com/articles/3774600",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时02分 ~ 18时35分]"
+        },
         {
           "title": "最强模型遭美政府“闪电下线”，Anthropic：这个决定存在“严重误解”",
           "url": "https://m.thepaper.cn/newsDetail_forward_33373715",
@@ -102,15 +115,15 @@
           "time_info": "[10时08分 ~ 15时02分]"
         },
         {
-          "title": "Anthropic全球下架Mythos和Fable模型的“幕后推手”：“主要股东”亚马逊CEO",
-          "url": "https://wallstreetcn.com/articles/3774600",
-          "source": "华尔街见闻",
+          "title": "Anthropic最强模型被禁后，智谱宣布GLM5.2全量开放",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33374548",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 18时35分]"
         }
       ]
     },
