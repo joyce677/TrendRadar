@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T05:08:53.694491+08:00",
-  "total_titles_processed": 407,
+  "generated_at": "2026-06-21T07:01:12.152725+08:00",
+  "total_titles_processed": 444,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 05时08分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 07时01分]"
         },
         {
           "title": "相比“开源模型”，“前沿模型”溢价类似“奢侈品包包”！德银：这可能导致市场重估AI",
@@ -24,33 +24,36 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 05时08分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 07时01分]"
         },
         {
           "title": "“AI最紧瓶颈”！存储的影响已扩展至宏观经济，加剧整体通胀",
           "url": "https://wallstreetcn.com/articles/3775113",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 05时08分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 07时01分]"
         },
         {
           "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime完整飞轮”",
           "url": "https://wallstreetcn.com/articles/3775114",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 05时08分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 07时01分]"
         },
         {
           "title": "经纬度：让AI走进千家万户，人工智能消费按下加速键",
@@ -59,11 +62,12 @@
           "ranks": [
             18,
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 05时08分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 07时01分]"
         },
         {
           "title": "AI短剧“买脸” 每张脸500元一年",
@@ -71,22 +75,35 @@
           "source": "百度热搜",
           "ranks": [
             22,
-            19
+            19,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 05时08分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 07时01分]"
         },
         {
           "title": "谐音歌词版WAIYA",
           "url": "https://www.douyin.com/hot/2541878",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时13分 ~ 07时01分]"
+        },
+        {
+          "title": "AI算力的物理基石：PTFE从“塑料王”到“M10高速互联刚需材料”的范式跃迁",
+          "url": "https://wallstreetcn.com/premium/articles/3774876?layout=wscn-layout",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时13分 ~ 03时14分]"
+          "time_info": "[07时00分 ~ 07时01分]"
         }
       ]
     },
@@ -102,8 +119,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 05时08分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 07时01分]"
         },
         {
           "title": "马斯克暴赚7800亿",
@@ -111,11 +128,12 @@
           "source": "微博",
           "ranks": [
             19,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时18分 ~ 05时08分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 07时01分]"
         },
         {
           "title": "智谱唐杰“呛声”马斯克：中国模型达到Fable水平用不了那么久",
@@ -128,6 +146,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时18分 ~ 03时14分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "学习英伟达“好榜样”，谷歌和博通都开始“有样学样”，开启“AI芯片闭环”",
+          "url": "https://wallstreetcn.com/articles/3775105",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时00分 ~ 07时01分]"
         }
       ]
     }
