@@ -1,8 +1,48 @@
 {
-  "generated_at": "2026-06-20T14:16:58.647473+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-06-20T17:47:51.921648+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "AI",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美国电网扛不住AI热潮",
+          "url": "https://wallstreetcn.com/livenews/3122234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
+          "title": "美国电网扛不住AI热潮",
+          "url": "https://flash.jin10.com/detail/20260620165448483800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
+        },
+        {
+          "title": "SemiAnalysis：半数2026年美国数据中心将取消？这是被\"AI编码\"出来的假警报",
+          "url": "https://wallstreetcn.com/articles/3775091",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 17时47分]"
+        }
+      ]
+    },
     {
       "keyword_group": "马斯克",
       "match_count": 2,
@@ -16,8 +56,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 14时16分]"
+          "appearance_count": 3,
+          "time_info": "[09时59分 ~ 17时47分]"
         },
         {
           "title": "网友提问“中国大模型何时达到Fable级别？”，马斯克“可能明年Q1”，智谱CEO唐杰“不需要那么久”",
@@ -80,20 +120,19 @@
       ]
     },
     {
-      "keyword_group": "AI",
+      "keyword_group": "人工智能",
       "match_count": 1,
       "titles": [
         {
-          "title": "SemiAnalysis：半数2026年美国数据中心将取消？这是被\"AI编码\"出来的假警报",
-          "url": "https://wallstreetcn.com/articles/3775091",
-          "source": "华尔街见闻",
+          "title": "挪威将禁止小学生使用生成式人工智能",
+          "url": "https://flash.jin10.com/detail/20260620160408389800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            7
+            17
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时59分 ~ 14时16分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时47分"
         }
       ]
     }
