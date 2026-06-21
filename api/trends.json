@@ -1,8 +1,36 @@
 {
-  "generated_at": "2026-06-21T10:11:46.054026+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-06-21T15:15:02.685606+08:00",
+  "total_titles_processed": 499,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "下周重磅日程：“美联储最爱通胀指标”、英伟达股东大会、OpenAI或发新模型、美光财报",
+          "url": "https://wallstreetcn.com/articles/3775117",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时14分 ~ 15时15分]"
+        },
+        {
+          "title": "OpenAI被查、Anthropic被限，AI炒作漏算了什么？",
+          "url": "https://flash.jin10.com/detail/20260621120212050800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        }
+      ]
+    },
     {
       "keyword_group": "马斯克",
       "match_count": 2,
@@ -12,11 +40,12 @@
           "url": "https://www.cls.cn/detail/2404332",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时11分"
+          "appearance_count": 3,
+          "time_info": "[10时11分 ~ 15时15分]"
         },
         {
           "title": "马斯克拿下7800亿元天价薪酬",
@@ -45,6 +74,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "亚马逊创始人贝佐斯：人工智能可能造成劳动力短缺，而非大规模失业。",
+          "url": "https://flash.jin10.com/detail/20260621135346100800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         }
       ]
     }
