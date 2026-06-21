@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-21T20:07:44.609105+08:00",
-  "total_titles_processed": 1021,
+  "generated_at": "2026-06-21T23:09:38.614227+08:00",
+  "total_titles_processed": 1178,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "“新美联储通讯社”：1996还是1999？沃什的第一场考验是“如何看AI”",
@@ -44,6 +44,18 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时18分 ~ 08时13分]"
+        },
+        {
+          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
+          "url": "https://wallstreetcn.com/articles/3775121",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时55分 ~ 23时09分]"
         },
         {
           "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime完整飞轮”",
@@ -85,18 +97,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时18分 ~ 08时13分]"
-        },
-        {
-          "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
-          "url": "https://wallstreetcn.com/articles/3775121",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时55分 ~ 20时07分]"
         },
         {
           "title": "AI Agent时代的云基础设施是怎样的？你需要理解“Agent Runtime 完整飞轮”",
@@ -146,28 +146,17 @@
           "time_info": "[08时12分 ~ 17时39分]"
         },
         {
-          "title": "AI短剧严重“缺脸” 500元买一张脸",
-          "url": "https://www.toutiao.com/trending/7653430042109853737/",
-          "source": "今日头条",
-          "ranks": [
-            6,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 20时07分]"
-        },
-        {
           "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33407734",
           "source": "澎湃新闻",
           "ranks": [
             11,
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 20时07分]"
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 23时09分]"
         },
         {
           "title": "微信“小微”来了！数百万个小程序有了AI“总控台”",
@@ -176,6 +165,31 @@
           "ranks": [
             13,
             12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 23时09分]"
+        },
+        {
+          "title": "父亲节用AI表达爱",
+          "url": "https://www.douyin.com/hot/2542302",
+          "source": "抖音",
+          "ranks": [
+            29,
+            24,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 23时09分]"
+        },
+        {
+          "title": "AI短剧严重“缺脸” 500元买一张脸",
+          "url": "https://www.toutiao.com/trending/7653430042109853737/",
+          "source": "今日头条",
+          "ranks": [
+            6,
+            24
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -193,16 +207,15 @@
           "time_info": "[13时55分 ~ 13时56分]"
         },
         {
-          "title": "父亲节用AI表达爱",
-          "url": "https://www.douyin.com/hot/2542302",
-          "source": "抖音",
+          "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
+          "url": "https://wallstreetcn.com/articles/3775129",
+          "source": "华尔街见闻",
           "ranks": [
-            29,
-            24
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 20时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         },
         {
           "title": "数学博士生2年研究被AI抢发",
@@ -211,7 +224,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时07分"
         },
@@ -344,11 +357,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            7
+            7,
+            4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时55分 ~ 20时07分]"
+          "appearance_count": 5,
+          "time_info": "[13时55分 ~ 23时09分]"
         },
         {
           "title": "OpenAI被查、Anthropic被限，AI炒作漏算了什么？",
@@ -373,11 +387,29 @@
           "source": "华尔街见闻",
           "ranks": [
             5,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时39分 ~ 20时07分]"
+          "appearance_count": 3,
+          "time_info": "[17时39分 ~ 23时09分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "iphone apple apple watch",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "供应链公司：已向苹果首款折叠屏iPhone小批量供货",
+          "url": "https://wallstreetcn.com/livenews/3122346",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时09分"
         }
       ]
     }
