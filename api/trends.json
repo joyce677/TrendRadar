@@ -1,12 +1,26 @@
 {
-  "generated_at": "2026-06-22T10:59:44.267666+08:00",
-  "total_titles_processed": 720,
+  "generated_at": "2026-06-22T17:12:04.759799+08:00",
+  "total_titles_processed": 964,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
+          "url": "https://wallstreetcn.com/articles/3775129",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时21分 ~ 17时12分]"
+        },
         {
           "title": "对话丨被AI震动的两年人生，数学博士生的新难题：如何证明自己？",
           "url": "https://m.thepaper.cn/newsDetail_forward_33407734",
@@ -18,19 +32,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时21分 ~ 07时04分]"
-        },
-        {
-          "title": "“大空头”查诺斯：当前AI产业链存在巨大“财务不匹配”，“AI云”实际是租赁中介，看空SpaceX",
-          "url": "https://wallstreetcn.com/articles/3775129",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时21分 ~ 10时59分]"
         },
         {
           "title": "企业端开始“算力降本”之际，高盛警告5.3万亿AI资本支出正逼近信贷饱和！",
@@ -53,7 +54,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -87,7 +88,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -106,6 +107,28 @@
           "time_info": "[01时21分 ~ 07时04分]"
         },
         {
+          "title": "数学博士生 2 年研究被 AI 抢发，这种现象会越来越普遍吗？如何看待 AI 对数学研究的冲击？",
+          "url": "https://www.zhihu.com/question/2052067691926484153",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时11分 ~ 17时12分]"
+        },
+        {
+          "title": "京东开源实时视频视觉语言交互模型JoyAI-VL-Interaction",
+          "url": "https://flash.jin10.com/detail/20260622163628604800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
           "title": "外资巨头年中投资展望出炉，A股AI板块被视为“价值洼地”",
           "url": "https://wallstreetcn.com/livenews/3122399",
           "source": "华尔街见闻-快讯",
@@ -117,13 +140,24 @@
           "time_info": "07时04分"
         },
         {
+          "title": "京东开源JoyAI-VL-Interaction",
+          "url": "https://wallstreetcn.com/livenews/3122686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
+        {
           "title": "家长吐槽高报师不如AI",
           "url": "https://s.weibo.com/weibo?q=%23%E5%AE%B6%E9%95%BF%E5%90%90%E6%A7%BD%E9%AB%98%E6%8A%A5%E5%B8%88%E4%B8%8D%E5%A6%82AI%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         }
