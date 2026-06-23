@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-06-23T12:12:58.772240+08:00",
-  "total_titles_processed": 754,
+  "generated_at": "2026-06-23T16:34:38.942327+08:00",
+  "total_titles_processed": 976,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普 伊朗 台湾 美国 俄罗斯 中国 战争",
-      "match_count": 95,
+      "match_count": 112,
       "titles": [
+        {
+          "title": "伊朗谈判团队称伊美谈判达成5项要点",
+          "url": "https://wallstreetcn.com/articles/3775177",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时45分 ~ 16时34分]"
+        },
         {
           "title": "美伊艰难谈判：万斯称“取得巨大进展”，特朗普威胁“谈不好就炸”，伊朗强硬“合照不拍，抗议离场”",
           "url": "https://wallstreetcn.com/articles/3775145",
@@ -39,19 +52,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时45分 ~ 07时31分]"
-        },
-        {
-          "title": "伊朗谈判团队称伊美谈判达成5项要点",
-          "url": "https://wallstreetcn.com/articles/3775177",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时45分 ~ 12时12分]"
         },
         {
           "title": "如何看待伊朗队在洛杉矶更衣室留下的感谢信？",
@@ -124,6 +124,46 @@
           "time_info": "05时10分"
         },
         {
+          "title": "比利时0-0伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            17,
+            12,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时45分 ~ 16时34分]"
+        },
+        {
+          "title": "NiKo感谢中国粉丝支持",
+          "url": "https://search.bilibili.com/all?keyword=NiKo%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E7%B2%89%E4%B8%9D%E6%94%AF%E6%8C%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22,
+            20,
+            18,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时45分 ~ 16时34分]"
+        },
+        {
+          "title": "“她正在为战争做准备”，高市出席冲绳战死者追悼仪式时遭抨击",
+          "url": "https://news.ifeng.com/c/8uBvqRJLFFz",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "伊朗央行行长：剩余的被冻结资金不一定仅用于基本商品，伊朗将能够购买其他未受制裁的商品。",
           "url": "https://flash.jin10.com/detail/20260623044927151800",
           "source": "金十数据",
@@ -152,7 +192,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -225,15 +265,15 @@
           "time_info": "05时10分"
         },
         {
-          "title": "伊朗公布首批解冻资金用途",
-          "url": "https://news.ifeng.com/c/8uBeuEEfSWu",
+          "title": "美部长拍特朗普马屁，当场被打脸",
+          "url": "https://news.ifeng.com/c/8uBxMmUnV4m",
           "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时12分"
+          "time_info": "16时34分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗央行行长称，德黑兰在现有协议下没有义务从美国购买农业投入品。",
@@ -269,6 +309,17 @@
           "time_info": "05时10分"
         },
         {
+          "title": "美国能源部长警告欧盟或面临天然气供应紧张局面。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3123300",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "伊朗的抗争是否在实际意义上阻止了第三次世界大战的爆发？",
           "url": "https://www.zhihu.com/question/2050890957483202069",
           "source": "知乎",
@@ -283,31 +334,30 @@
           "time_info": "[01时45分 ~ 12时12分]"
         },
         {
-          "title": "比利时0-0伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AF%94%E5%88%A9%E6%97%B60-0%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
+          "title": "伊朗队在洛杉矶更衣室留下感谢信",
+          "url": "https://www.toutiao.com/trending/7654111669110669353/",
+          "source": "今日头条",
           "ranks": [
-            19,
-            17,
-            12
+            18,
+            12,
+            28,
+            21
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[01时45分 ~ 12时12分]"
+          "time_info": "[01时45分 ~ 16时34分]"
         },
         {
-          "title": "NiKo感谢中国粉丝支持",
-          "url": "https://search.bilibili.com/all?keyword=NiKo%E6%84%9F%E8%B0%A2%E4%B8%AD%E5%9B%BD%E7%B2%89%E4%B8%9D%E6%94%AF%E6%8C%81",
-          "source": "bilibili 热搜",
+          "title": "伊朗公布首批解冻资金用途",
+          "url": "https://news.ifeng.com/c/8uBeuEEfSWu",
+          "source": "凤凰网",
           "ranks": [
-            22,
-            20,
-            18,
-            15
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时45分 ~ 12时12分]"
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 16时34分]"
         },
         {
           "title": "受邀担任上海电视节青年大使，张凌赫要讲好中国故事",
@@ -316,19 +366,6 @@
           "ranks": [
             13,
             11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时45分 ~ 07时31分]"
-        },
-        {
-          "title": "伊朗队在洛杉矶更衣室留下感谢信",
-          "url": "https://www.toutiao.com/trending/7654111669110669353/",
-          "source": "今日头条",
-          "ranks": [
-            18,
-            12,
-            28
           ],
           "is_new": false,
           "appearance_count": 4,
@@ -395,6 +432,18 @@
           "time_info": "[01时45分 ~ 05时10分]"
         },
         {
+          "title": "内塔尼亚胡：只要我还是以色列总理，伊朗就别想拥有核武器",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33428620",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 16时34分]"
+        },
+        {
           "title": "佛得角到底有没有“感谢中国”",
           "url": "https://www.toutiao.com/trending/7654174154152742442/",
           "source": "今日头条",
@@ -446,7 +495,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -471,6 +520,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "伊朗驻日内瓦联合国大使：如果以色列以任何形式违反谅解备忘录，包括攻击黎巴嫩及黎巴嫩真主党，伊朗将作出回应。",
+          "url": "https://flash.jin10.com/detail/20260623161735647800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "特朗普政府将叙利亚比特币交易所XChange纳入制裁清单。",
@@ -501,9 +561,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "伊朗驻日内瓦联合国大使：有关霍尔木兹海峡的主要谈判将在伊朗和阿曼之间进行，随后与谅解备忘录各方进行平行讨论。",
+          "url": "https://flash.jin10.com/detail/20260623161620131800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "伊朗议长：霍尔木兹海峡将按伊方制定的机制进行管理",
@@ -523,9 +594,31 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "丑闻、叛乱与战争：谁击垮了斯塔默政府？｜907编辑部",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33429152",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "特朗普点名英意德差劲",
+          "url": "https://news.ifeng.com/c/8uC00MLRSEF",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "瑞士外交部：瑞士欢迎美国、伊朗、巴基斯坦和卡塔尔在比尔根斯托克举行的密集外交交流所取得的建设性进展。",
@@ -556,9 +649,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：谅解备忘录各方正努力在启动核问题谈判之前落实其所有条款。",
+          "url": "https://flash.jin10.com/detail/20260623161553954800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "特朗普称伊朗将同意接受重大武器核查",
@@ -583,6 +687,17 @@
           "time_info": "07时31分"
         },
         {
+          "title": "如何看待 2026 年大陆电影行业被曝投资撤退、票房失灵、演员无戏可接？中国电影到底出了什么问题？",
+          "url": "https://www.zhihu.com/question/2052111489327281889",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "伊朗议长：霍尔木兹海峡将按伊方制定的机制进行管理",
           "url": "https://flash.jin10.com/detail/20260623043914260800",
           "source": "金十数据",
@@ -605,24 +720,13 @@
           "time_info": "01时46分"
         },
         {
-          "title": "内塔尼亚胡：只要我还是以色列总理，伊朗就别想拥有核武器",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33428620",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
           "title": "特朗普政府加码量子战略！设定2028年科研级量子计算机突破目标",
           "url": "https://www.cls.cn/detail/2406197",
           "source": "财联社热门",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -636,6 +740,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时46分"
+        },
+        {
+          "title": "伊朗称目前尚未拟定国际原子能机构检查核设施的计划。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3123292",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：在德黑兰和华盛顿根据最近签署的谅解备忘录继续进行谈判之际，伊朗绝不会屈服于过分的要求，也不会容忍对其人民权利的压制。",
@@ -677,7 +792,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -688,9 +803,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "伊朗驻日内瓦联合国大使：霍尔木兹海峡目前开放且不收费用，但60天后情况将取决于谈判进展。",
+          "url": "https://flash.jin10.com/detail/20260623161138254800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "《中国广告业发展指数报告（2026）》发布",
+          "url": "https://wallstreetcn.com/livenews/3123289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "印度14岁学生布局定居中国",
@@ -737,6 +874,28 @@
           "time_info": "05时10分"
         },
         {
+          "title": "特朗普宣布美国汽车巨头将开始生产武器，包括巡航导弹和防空系统，释放了哪些信号？将对世界产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2052711074215081192",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "伊朗总统：与美谈判效果取决于对商定义务的承诺和执行",
+          "url": "https://flash.jin10.com/detail/20260623160940901800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "美国总统特朗普：所有人都清楚，伊朗将同意接受重大武器核查，以确保未来长期的“核诚信”。",
           "url": "https://flash.jin10.com/detail/20260623005913970800",
           "source": "金十数据",
@@ -754,7 +913,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -765,7 +924,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -779,6 +938,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时31分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：德黑兰的导弹和防御能力不会成为与任何一方谈判的议题。",
+          "url": "https://flash.jin10.com/detail/20260623160835398800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "美国总统特朗普：油价大幅下跌。",
@@ -875,7 +1045,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -908,7 +1078,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -941,7 +1111,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -955,6 +1125,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "伊朗驻日内瓦联合国大使：昨日技术层面会谈非常顺利，未来数日将就解除对伊制裁和伊朗核活动设立两个工作组。",
+          "url": "https://flash.jin10.com/detail/20260623160314525800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "伊朗谈判团队启程前往Muscat（阿曼首都马斯喀特）。 伊朗将在Muscat讨论霍尔木兹海峡的行政管理方案。（伊朗媒体IRNA）",
@@ -1012,6 +1193,17 @@
           "time_info": "01时46分"
         },
         {
+          "title": "鲁比奥开启“高难度海湾之行”：既要力挺特朗普，更要稳住中东盟友",
+          "url": "https://flash.jin10.com/detail/20260623160153876800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "特朗普：伊朗被冻结资金将用于购买美国农产品，必要时可重新封锁海峡",
           "url": "https://wallstreetcn.com/livenews/3123007",
           "source": "华尔街见闻-快讯",
@@ -1029,7 +1221,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -1073,7 +1265,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         }
@@ -1081,8 +1273,31 @@
     },
     {
       "keyword_group": "美债 美股 美元 黄金 原油 航运",
-      "match_count": 43,
+      "match_count": 51,
       "titles": [
+        {
+          "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
+          "url": "https://wallstreetcn.com/articles/3775156",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时31分 ~ 16时34分]"
+        },
+        {
+          "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
+          "url": "https://www.cls.cn/detail/2406186",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时31分 ~ 16时34分]"
+        },
         {
           "title": "美伊达成协议文件，美股盘初涨跌互现，半导体股普涨，油价跌超2%",
           "url": "https://wallstreetcn.com/articles/3775156",
@@ -1095,27 +1310,16 @@
           "time_info": "[01时45分 ~ 05时10分]"
         },
         {
-          "title": "科技巨头下挫拖累美股大盘，芯片股指新高，原油转跌，美债收益率“补涨”",
-          "url": "https://wallstreetcn.com/articles/3775156",
+          "title": "SpaceX跌超16%，跌穿IPO首日收盘价！宣布发债后“三连跌”，市值蒸发超6000亿美元",
+          "url": "https://wallstreetcn.com/articles/3775217",
           "source": "华尔街见闻",
           "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 12时12分]"
-        },
-        {
-          "title": "美股收盘：三大股指涨跌不一 SpaceX暴跌16% 美光续创历史新高",
-          "url": "https://www.cls.cn/detail/2406186",
-          "source": "财联社热门",
-          "ranks": [
             3,
-            2
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时31分 ~ 12时12分]"
+          "time_info": "[12时12分 ~ 16时34分]"
         },
         {
           "title": "SpaceX股价大跌逾10%：上市后火速发债 披露逾1000亿美元现金储备",
@@ -1130,6 +1334,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时45分 ~ 12时12分]"
+        },
+        {
+          "title": "科技热潮降温 ，全球股市“黑色星期二”，韩股收跌10%，纳指期货跌2%，现货黄金失守4100",
+          "url": "https://wallstreetcn.com/articles/3775262",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "丹斯克银行：预计2026年剩余时间内布伦特原油均价将为每桶80美元",
@@ -1154,37 +1369,26 @@
           "time_info": "01时46分"
         },
         {
-          "title": "SpaceX跌超16%，跌穿IPO首日收盘价！宣布发债后“三连跌”，市值蒸发超6000亿美元",
-          "url": "https://wallstreetcn.com/articles/3775217",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
-          "title": "美股即将大幅回调20%！资深策略师“捕捉”到六大预警信号",
-          "url": "https://www.cls.cn/detail/2406236",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
           "title": "韩股暴跌6%触发熔断，外资狂抛13亿美元，超买警报早就拉满！",
           "url": "https://flash.jin10.com/detail/20260623114156887800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "美光科技(MU.O)美股盘前跌超10%。",
+          "url": "https://flash.jin10.com/detail/20260623161955563800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "周一（6月22日），美联储隔夜逆回购协议（RRP）使用规模为39.25亿美元（交易对手4家），上个交易日报2.51亿美元。",
@@ -1233,6 +1437,18 @@
           "time_info": "[01时45分 ~ 12时12分]"
         },
         {
+          "title": "美股即将大幅回调20%！资深策略师“捕捉”到六大预警信号",
+          "url": "https://www.cls.cn/detail/2406236",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 16时34分]"
+        },
+        {
           "title": "香港机场黄金劫案4人潜逃至内地",
           "url": "https://s.weibo.com/weibo?q=%23%E9%A6%99%E6%B8%AF%E6%9C%BA%E5%9C%BA%E9%BB%84%E9%87%91%E5%8A%AB%E6%A1%884%E4%BA%BA%E6%BD%9C%E9%80%83%E8%87%B3%E5%86%85%E5%9C%B0%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -1245,26 +1461,50 @@
           "time_info": "[01时45分 ~ 07时31分]"
         },
         {
-          "title": "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元",
-          "url": "https://www.cls.cn/detail/2406127",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时12分"
-        },
-        {
           "title": "SpaceX 股价连续三个交易日下跌，市值蒸发逾 6000 亿美元，为何会持续下跌？其未来前景如何？",
           "url": "https://www.zhihu.com/question/2052610103719760554",
           "source": "知乎",
           "ranks": [
             8
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 16时34分]"
+        },
+        {
+          "title": "SpaceX据称斩获AI算力大单 合同总价值最高达63亿美元",
+          "url": "https://www.cls.cn/detail/2406127",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 16时34分]"
+        },
+        {
+          "title": "如何看待 Steam Machine 定价 1049 美元起？",
+          "url": "https://www.zhihu.com/question/2052643077081321839",
+          "source": "知乎",
+          "ranks": [
+            13,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时12分 ~ 16时34分]"
+        },
+        {
+          "title": "美股盘前：半导体股大跌，英特尔跌约7%，SpaceX跌近5%",
+          "url": "https://wallstreetcn.com/livenews/3123298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时12分"
+          "time_info": "16时34分"
         },
         {
           "title": "美元指数22日上涨",
@@ -1300,13 +1540,24 @@
           "time_info": "05时10分"
         },
         {
+          "title": "花400美元看世界杯中国球迷发声",
+          "url": "https://www.toutiao.com/trending/7653787759064170550/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
           "title": "美股科技股深夜下挫",
           "url": "https://www.douyin.com/hot/2544157",
           "source": "抖音",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -1333,15 +1584,26 @@
           "time_info": "01时46分"
         },
         {
-          "title": "如何看待 Steam Machine 定价 1049 美元起？",
-          "url": "https://www.zhihu.com/question/2052643077081321839",
-          "source": "知乎",
+          "title": "现货黄金失守4100美元/盎司，日内跌2.2%。 纽约金日内跌幅达2.0%，报4117.9美元/盎司。 现货白银跌近5%，报61.90美元/盎司。 纽约银日内跌幅达5.5%，报62.43美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3123291",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
+        },
+        {
+          "title": "黄金",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91&t=31&band_rank=13&Refer=top",
+          "source": "微博",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时12分"
+          "time_info": "16时34分"
         },
         {
           "title": "WTI原油向上触及75美元/桶，日内涨0.44%。",
@@ -1372,7 +1634,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -1405,7 +1667,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -1438,7 +1700,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
@@ -1452,6 +1714,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时10分"
+        },
+        {
+          "title": "现货白银日内跌幅达4.5%，报62.12美元/盎司。 现货黄金日内跌幅达2.0%，报4106.03美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3123282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "大摩拟打造13亿美元新办公大楼，拓展美国达拉斯业务",
@@ -1482,9 +1755,20 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
+        },
+        {
+          "title": "SpaceX(SPCX.O)美股盘前跌2.3%，此前三个交易日该股已累跌约23%。",
+          "url": "https://flash.jin10.com/detail/20260623160425351800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时34分"
         },
         {
           "title": "现货白银日内跌幅达3%，现报63.14美元/盎司。",
@@ -1493,7 +1777,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时12分"
         },
