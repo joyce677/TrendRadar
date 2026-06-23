@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T16:54:13.221421+08:00",
-  "total_titles_processed": 931,
+  "generated_at": "2026-06-23T19:50:19.613724+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
@@ -54,6 +54,45 @@
       ]
     },
     {
+      "keyword_group": "人工智能",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "阿布扎比的MGX融资约500亿美元，以加速人工智能交易。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3123407",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        },
+        {
+          "title": "六部门：加大人工智能等新技术在广告领域应用，培育数智广告新业态",
+          "url": "https://wallstreetcn.com/livenews/3123297",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "国家人工智能中试基地（工业软件）落地济南",
+          "url": "https://wallstreetcn.com/livenews/3123399",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时50分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -63,11 +102,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            6
+            6,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时56分 ~ 16时54分]"
+          "appearance_count": 4,
+          "time_info": "[13时56分 ~ 19时50分]"
         },
         {
           "title": "DeepSeek 2.0时刻？智谱市值突破万亿港元，GLM-5.2刷屏华尔街",
@@ -100,19 +140,19 @@
       ]
     },
     {
-      "keyword_group": "人工智能",
+      "keyword_group": "马斯克",
       "match_count": 1,
       "titles": [
         {
-          "title": "六部门：加大人工智能等新技术在广告领域应用，培育数智广告新业态",
-          "url": "https://wallstreetcn.com/livenews/3123297",
+          "title": "软银孙正义叫板马斯克：太空数据中心看似省电费，实则得不偿失",
+          "url": "https://wallstreetcn.com/livenews/3123408",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时54分"
+          "time_info": "19时50分"
         }
       ]
     },
@@ -144,7 +184,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时54分"
         }
