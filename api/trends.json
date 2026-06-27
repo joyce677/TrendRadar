@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T21:17:33.999310+08:00",
-  "total_titles_processed": 1340,
+  "generated_at": "2026-06-27T23:11:05.480919+08:00",
+  "total_titles_processed": 1463,
   "failed_sources": [],
   "trends": [
     {
@@ -35,6 +35,20 @@
           "time_info": "[00时10分 ~ 17时25分]"
         },
         {
+          "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
+          "url": "https://wallstreetcn.com/articles/3775658",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时55分 ~ 23时11分]"
+        },
+        {
           "title": "纯中二?美官员把AI当英雄",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
           "source": "贴吧",
@@ -46,11 +60,25 @@
             13,
             19,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时10分 ~ 21时17分]"
+          "appearance_count": 11,
+          "time_info": "[00时10分 ~ 23时11分]"
+        },
+        {
+          "title": "我喜欢的漫画被AI改编了",
+          "url": "https://www.douyin.com/hot/2549059",
+          "source": "抖音",
+          "ranks": [
+            9,
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时55分 ~ 23时11分]"
         },
         {
           "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
@@ -63,20 +91,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时10分 ~ 07时58分]"
-        },
-        {
-          "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
-          "url": "https://wallstreetcn.com/articles/3775658",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时55分 ~ 21时17分]"
         },
         {
           "title": "AI就业冲击已初现裂缝，高盛：1500万美国工人或将经历岗位转移",
@@ -93,16 +107,18 @@
           "time_info": "[07时58分 ~ 21时17分]"
         },
         {
-          "title": "我喜欢的漫画被AI改编了",
-          "url": "https://www.douyin.com/hot/2549059",
-          "source": "抖音",
+          "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
+          "url": "https://www.cls.cn/detail/2410894",
+          "source": "财联社热门",
           "ranks": [
-            9,
-            8
+            12,
+            8,
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时55分 ~ 21时17分]"
+          "appearance_count": 5,
+          "time_info": "[17时25分 ~ 23时11分]"
         },
         {
           "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
@@ -177,19 +193,6 @@
           "time_info": "07时58分"
         },
         {
-          "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
-          "url": "https://www.cls.cn/detail/2410894",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时25分 ~ 21时17分]"
-        },
-        {
           "title": "韩国政府组建跨部门机构应对涉AI犯罪",
           "url": "https://wallstreetcn.com/livenews/3125531",
           "source": "华尔街见闻-快讯",
@@ -249,7 +252,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "【OpenAI：开启下一代模型GPT-5.6系列的限量预览，其中Sol最强】OpenAI表示，已开启GPT-5.6系列的限量预览。该系列包括旗舰模型Sol、适用于日常工作的均衡模型Terra、以及快速且经济实惠的模型Luna。Terra的性能与 GPT-5.5 相当，但成本低2倍；Luna则以其最低的成本提供了强大的能力。 GPT-5.6 Sol搭载了该公司迄今最强大的安全防护体系。加强了对高风险活动、敏感网络请求以及重复滥用行为的防护，并花费数周时间寻找系统弱点、进行压力测试，以增强其抵御现实世界攻击的能力。 该公司计划在未来几周内全面开放GPT-5.6 Sol、Terra和Luna。作为我们与美国政府持续沟通的一部分，在周五发布之前，OpenAI提前向政府展示了该公司的发布计划以及模型的各项能力。 GPT-5.6 Sol是其迄今最强大的模型。",
@@ -272,6 +275,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时25分"
+        },
+        {
+          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
+          "url": "https://wallstreetcn.com/articles/3775650",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时25分 ~ 23时11分]"
         },
         {
           "title": "报道：美国政府将决定谁可以使用新版ChatGPT",
@@ -298,19 +315,6 @@
           "time_info": "[10时55分 ~ 14时26分]"
         },
         {
-          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
-          "url": "https://wallstreetcn.com/articles/3775650",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时25分 ~ 21时17分]"
-        },
-        {
           "title": "如何评价 OpenAI 发布 GPT-5.6 系列模型？这次更新最值得关注的是什么？",
           "url": "https://www.zhihu.com/question/2054058863066886644",
           "source": "知乎",
@@ -332,6 +336,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 06时06分]"
+        },
+        {
+          "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
+          "url": "https://wallstreetcn.com/articles/3775663",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时10分 ~ 23时11分]"
         },
         {
           "title": "伊朗革命卫队称将回应美军袭击 OpenAI推出旗舰大模型GPT‑5.6系列 | 环球市场",
@@ -399,11 +414,12 @@
           "url": "https://flash.jin10.com/detail/20260627205748841800",
           "source": "金十数据",
           "ranks": [
-            2
+            2,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时17分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时17分 ~ 23时11分]"
         },
         {
           "title": "Anthropic仍在与美国政府接触，希望能让Mythos重返市场。（CNBC）",
