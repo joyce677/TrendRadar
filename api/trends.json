@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T21:03:31.593628+08:00",
-  "total_titles_processed": 924,
+  "generated_at": "2026-06-27T22:58:49.551293+08:00",
+  "total_titles_processed": 1045,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "DeepSeek 宣布所有部门至少扩大一倍，进行大规模招聘，这一举动意味着什么？",
@@ -19,17 +19,29 @@
           "time_info": "09时51分"
         },
         {
+          "title": "如何评价 DeepSeek 发布 DSpark？哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2054255700407055156",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
+        },
+        {
           "title": "如何评价 DeepSeek 与智谱均声明将在下半年大规模使用华为昇腾 950 超节点？",
           "url": "https://www.zhihu.com/question/2050591443664779181",
           "source": "知乎",
           "ranks": [
             12,
             13,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时32分 ~ 21时03分]"
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 22时58分]"
         },
         {
           "title": "DeepSeek发布DSpark",
@@ -45,6 +57,18 @@
           "time_info": "[18时32分 ~ 21时03分]"
         },
         {
+          "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
+          "url": "https://wallstreetcn.com/articles/3775676",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 22时58分]"
+        },
+        {
           "title": "北大与DeepSeek联合开源DSpark框架，高并发下生成速度提升超60%",
           "url": "https://wallstreetcn.com/livenews/3125564",
           "source": "华尔街见闻-快讯",
@@ -55,23 +79,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时32分 ~ 19时54分]"
-        },
-        {
-          "title": "刚刚，DeepSeek V4更新DSpark，推理速度提升80%",
-          "url": "https://wallstreetcn.com/articles/3775676",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时03分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
@@ -79,11 +92,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时32分 ~ 21时03分]"
+          "appearance_count": 4,
+          "time_info": "[18时32分 ~ 22时58分]"
         },
         {
           "title": "内存涨价反噬终端需求！苹果涨价+OpenAI IPO推迟引爆亚洲芯片股崩盘",
@@ -96,6 +110,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时51分 ~ 13时43分]"
+        },
+        {
+          "title": "“OpenAI推迟上市”之下：甲骨文、Nebius带头硬件股下跌，ServiceNow和Workday领衔软件股全线大涨",
+          "url": "https://wallstreetcn.com/articles/3775663",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "伊朗革命卫队称将回应美军袭击 OpenAI推出旗舰大模型GPT‑5.6系列 | 环球市场",
@@ -134,7 +159,7 @@
     },
     {
       "keyword_group": "Anthropic",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "Anthropic：Mythos 5获准向美国机构重新部署，公众版FABLE 5恢复在即",
@@ -146,6 +171,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        },
+        {
+          "title": "美国政府或最早于下周解除对Anthropic Fable 5模型的限制",
+          "url": "https://flash.jin10.com/detail/20260627205748841800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         },
         {
           "title": "Anthropic：Mythos 5可重新部署至一批美国机构",
@@ -168,6 +204,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "欧洲央行执委Schnabel：预计油价将持续走高。 不确定性依然很高。 和平协议使负面情景出现的可能性降低。 能源冲击对欧元区打击尤为严重。 此次能源冲击的程度比以往几次石油危机要缓和。 预测显示通胀上升、增长放缓。 能源成本上升拖累信心和消费。 政府投资和全球人工智能热潮支撑了经济增长。 劳动力市场仍具韧性。",
+          "url": "https://wallstreetcn.com/livenews/3125605",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时58分"
         }
       ]
     },
