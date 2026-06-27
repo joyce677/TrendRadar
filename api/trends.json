@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T14:26:02.277634+08:00",
-  "total_titles_processed": 976,
+  "generated_at": "2026-06-27T17:25:42.431415+08:00",
+  "total_titles_processed": 1128,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "苹果涨价——压垮AI存储泡沫的最后一根稻草？",
@@ -27,11 +27,12 @@
             13,
             8,
             5,
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 10时56分]"
+          "appearance_count": 9,
+          "time_info": "[00时10分 ~ 17时25分]"
         },
         {
           "title": "苹果、微软被迫涨价，库克承认“40年来前所未见”，AI正在推升新一轮通胀？",
@@ -55,11 +56,38 @@
             11,
             12,
             13,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时10分 ~ 14时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时10分 ~ 17时25分]"
+        },
+        {
+          "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
+          "url": "https://wallstreetcn.com/articles/3775658",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时55分 ~ 17时25分]"
+        },
+        {
+          "title": "AI就业冲击已初现裂缝，高盛：1500万美国工人或将经历岗位转移",
+          "url": "https://wallstreetcn.com/articles/3775640",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时58分 ~ 17时25分]"
         },
         {
           "title": "【每日收评】创业板指跌超4%，全市场超4600股收绿，AI硬件股集体重挫",
@@ -134,30 +162,6 @@
           "time_info": "07时58分"
         },
         {
-          "title": "AI就业冲击已初现裂缝，高盛：1500万美国工人或将经历岗位转移",
-          "url": "https://wallstreetcn.com/articles/3775640",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时58分 ~ 14时26分]"
-        },
-        {
-          "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
-          "url": "https://wallstreetcn.com/articles/3775658",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时55分 ~ 14时26分]"
-        },
-        {
           "title": "我喜欢的漫画被AI改编了",
           "url": "https://www.douyin.com/hot/2549059",
           "source": "抖音",
@@ -166,8 +170,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时55分 ~ 14时26分]"
+          "appearance_count": 5,
+          "time_info": "[10时55分 ~ 17时25分]"
         },
         {
           "title": "韩国政府组建跨部门机构应对涉AI犯罪",
@@ -193,13 +197,24 @@
           "time_info": "[10时55分 ~ 10时56分]"
         },
         {
+          "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
+          "url": "https://www.cls.cn/detail/2410894",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "48小时行情过山车，揭秘AI拥挤交易有多脆弱？｜大师复盘",
           "url": "https://flash.jin10.com/detail/20260627112200280800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         },
@@ -229,7 +244,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "【OpenAI：开启下一代模型GPT-5.6系列的限量预览，其中Sol最强】OpenAI表示，已开启GPT-5.6系列的限量预览。该系列包括旗舰模型Sol、适用于日常工作的均衡模型Terra、以及快速且经济实惠的模型Luna。Terra的性能与 GPT-5.5 相当，但成本低2倍；Luna则以其最低的成本提供了强大的能力。 GPT-5.6 Sol搭载了该公司迄今最强大的安全防护体系。加强了对高风险活动、敏感网络请求以及重复滥用行为的防护，并花费数周时间寻找系统弱点、进行压力测试，以增强其抵御现实世界攻击的能力。 该公司计划在未来几周内全面开放GPT-5.6 Sol、Terra和Luna。作为我们与美国政府持续沟通的一部分，在周五发布之前，OpenAI提前向政府展示了该公司的发布计划以及模型的各项能力。 GPT-5.6 Sol是其迄今最强大的模型。",
@@ -323,6 +338,17 @@
           "time_info": "[14时25分 ~ 14时26分]"
         },
         {
+          "title": "OpenAI发布GPT-5.6系列模型，Sol基准测试超越Claude Mythos，应美政府要求限量开放",
+          "url": "https://wallstreetcn.com/articles/3775650",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时25分"
+        },
+        {
           "title": "据CNBC：OpenAI在特朗普政府的要求下，计划限制GPT 5.6的推出。",
           "url": "https://flash.jin10.com/detail/20260626233456947800",
           "source": "金十数据",
@@ -392,7 +418,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时26分"
         }
