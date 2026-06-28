@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-28T16:43:45.963661+08:00",
-  "total_titles_processed": 861,
+  "generated_at": "2026-06-28T19:03:02.202104+08:00",
+  "total_titles_processed": 1005,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "“我们AI相关的电源功率订单爆满，根本做不过来”！功率半导体再启阶梯式调价",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时02分 ~ 16时43分]"
+          "appearance_count": 14,
+          "time_info": "[01时02分 ~ 19时03分]"
         },
         {
           "title": "我喜欢的漫画被AI改编了",
@@ -27,11 +27,26 @@
             13,
             10,
             19,
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[03时07分 ~ 16时43分]"
+          "appearance_count": 12,
+          "time_info": "[03时07分 ~ 19时03分]"
+        },
+        {
+          "title": "纯中二?美官员把AI当英雄",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
+          "source": "贴吧",
+          "ranks": [
+            23,
+            24,
+            29,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时02分 ~ 19时03分]"
         },
         {
           "title": "AI交易退潮席卷科技股：安森美暴跌24%，甲骨文创2001年来最大周跌，七巨头全线周跌",
@@ -46,18 +61,15 @@
           "time_info": "[01时02分 ~ 07时00分]"
         },
         {
-          "title": "纯中二?美官员把AI当英雄",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355671&amp;topic_name=%E7%BA%AF%E4%B8%AD%E4%BA%8C%3F%E7%BE%8E%E5%AE%98%E5%91%98%E6%8A%8AAI%E5%BD%93%E8%8B%B1%E9%9B%84",
-          "source": "贴吧",
+          "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33470630",
+          "source": "澎湃新闻",
           "ranks": [
-            23,
-            24,
-            29,
-            30
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时02分 ~ 16时43分]"
+          "appearance_count": 3,
+          "time_info": "[16时43分 ~ 19时03分]"
         },
         {
           "title": "英伟达AI版图再扩张！数据中心以太网交换机收入暴增193%，悄然登顶全球第一",
@@ -73,27 +85,28 @@
           "time_info": "[08时05分 ~ 16时43分]"
         },
         {
-          "title": "教师杨某某论文图表被指有AI生成水印，兰州大学成立调查组",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33470630",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时43分"
-        },
-        {
           "title": "什么导致本周市场大动荡？高盛合伙人：不是沃什，而是AI再平衡",
           "url": "https://wallstreetcn.com/articles/3775685",
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时13分 ~ 19时03分]"
+        },
+        {
+          "title": "美国科技企业悄然转向中国AI模型，Coinbase带头用上GLM与Kimi",
+          "url": "https://wallstreetcn.com/articles/3775696",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时13分 ~ 16时43分]"
+          "time_info": "[19时02分 ~ 19时03分]"
         },
         {
           "title": "AI监管松绑！报道：美国放行Anthropic最强模型，超100家机构获准使用",
@@ -196,9 +209,38 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "房价 楼市 房地产",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "聚焦三个维度 江苏楼市政策“工具箱”扩容",
+          "url": "https://flash.jin10.com/detail/20260628183635251800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
+          "title": "楼市复苏信号？多城核心地块高溢价成交：房企扎堆抢夺，持续刷新当地纪录",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33463743",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时59分 ~ 08时06分]"
         }
       ]
     },
@@ -212,11 +254,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             11,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时13分 ~ 16时43分]"
+          "appearance_count": 3,
+          "time_info": "[13时13分 ~ 19时03分]"
         },
         {
           "title": "郭明錤：iOS 27将进一步深化与Apple Intelligence的系统级整合",
@@ -228,24 +271,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房价 楼市 房地产",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "楼市复苏信号？多城核心地块高溢价成交：房企扎堆抢夺，持续刷新当地纪录",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33463743",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时59分 ~ 08时06分]"
         }
       ]
     }
