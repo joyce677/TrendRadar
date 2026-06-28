@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-28T19:29:42.936646+08:00",
-  "total_titles_processed": 766,
+  "generated_at": "2026-06-28T20:54:08.978433+08:00",
+  "total_titles_processed": 855,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,18 @@
           "time_info": "[10时02分 ~ 14时19分]"
         },
         {
+          "title": "豆包和DeepSeek的博弈",
+          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%92%8CDeepSeek%E7%9A%84%E5%8D%9A%E5%BC%88&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时29分 ~ 20时54分]"
+        },
+        {
           "title": "大模型推理最高提速85%！DeepSeek发表重磅论文 提出两项互补机制",
           "url": "https://www.cls.cn/detail/2411046",
           "source": "财联社热门",
@@ -27,8 +39,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 19时29分]"
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 20时54分]"
         },
         {
           "title": "DeepSeek开源DSpark框架",
@@ -42,17 +54,6 @@
           "time_info": "10时02分"
         },
         {
-          "title": "豆包和DeepSeek的博弈",
-          "url": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%E5%92%8CDeepSeek%E7%9A%84%E5%8D%9A%E5%BC%88&t=31&band_rank=8&Refer=top",
-          "source": "微博",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
-        },
-        {
           "title": "如何评价 DeepSeek 发布 DSpark？哪些亮点值得关注？",
           "url": "https://www.zhihu.com/question/2054255700407055156",
           "source": "知乎",
@@ -62,6 +63,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "因算力供不应求，谷歌限制Meta对Gemini AI模型的使用",
+          "url": "https://flash.jin10.com/detail/20260628133655032800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
+        },
+        {
+          "title": "算力告急：谷歌悄然对Meta实施Gemini使用上限",
+          "url": "https://wallstreetcn.com/articles/3775694",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
+        },
+        {
+          "title": "据英国金融时报：谷歌限制Meta对Gemini的使用，因AI需求挤压算力容量。",
+          "url": "https://flash.jin10.com/detail/20260628120732763800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         }
       ]
     },
@@ -97,34 +137,6 @@
           "source": "华尔街见闻",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "因算力供不应求，谷歌限制Meta对Gemini AI模型的使用",
-          "url": "https://flash.jin10.com/detail/20260628133655032800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "据英国金融时报：谷歌限制Meta对Gemini的使用，因AI需求挤压算力容量。",
-          "url": "https://flash.jin10.com/detail/20260628120732763800",
-          "source": "金十数据",
-          "ranks": [
-            12
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -170,11 +182,29 @@
           "url": "https://flash.jin10.com/detail/20260628185444117800",
           "source": "金十数据",
           "ranks": [
+            7,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时29分 ~ 20时54分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特朗普发扛地球AI照，伊以都不服！",
+          "url": "https://news.ifeng.com/c/8uKW9oaTnDA",
+          "source": "凤凰网",
+          "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时53分 ~ 20时54分]"
         }
       ]
     },
@@ -188,11 +218,12 @@
           "source": "华尔街见闻",
           "ranks": [
             8,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时40分 ~ 19时29分]"
+          "appearance_count": 4,
+          "time_info": "[17时40分 ~ 20时54分]"
         }
       ]
     }
