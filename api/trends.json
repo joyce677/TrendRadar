@@ -1,248 +1,67 @@
 {
-  "generated_at": "2026-06-30T21:58:38.453252+08:00",
-  "total_titles_processed": 1210,
+  "generated_at": "2026-07-01T00:17:44.989247+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "人工智能",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "国常会：要加力推进人工智能创新突破，加快关键技术攻关和超大规模智算集群建设",
-          "url": "https://www.cls.cn/detail/2412070",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时15分 ~ 09时56分]"
-        },
-        {
-          "title": "临港集团举办Link系列集成电路及人工智能产业专场活动",
-          "url": "https://flash.jin10.com/detail/20260630193930701800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "据The Information：亚马逊(AMZN.O)正在评估其他人工智能模型，以应对不断上升的Anthropic成本。",
-          "url": "https://flash.jin10.com/detail/20260630000251814800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "惠誉评级：亚洲投资者面临加剧的人工智能、私人信贷和主权风险。",
-          "url": "https://flash.jin10.com/detail/20260630172436606800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "上海市新增13款已完成登记的生成式人工智能服务",
-          "url": "https://wallstreetcn.com/livenews/3126496",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        },
-        {
-          "title": "北航教授：学会利用人工智能报志愿",
-          "url": "https://www.toutiao.com/trending/7657073637762351146/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时29分"
-        },
-        {
-          "title": "Millennium建立人工智能实验室 ，求研发应用尖端技术",
-          "url": "https://wallstreetcn.com/livenews/3126234",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
-          "url": "https://www.zhihu.com/question/2055040930516824522",
-          "source": "知乎",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时29分 ~ 21时58分]"
-        },
-        {
-          "title": "DeepSeek V4 正式版官宣 7 月中旬上线，引入峰谷定价机制，你怎么看？",
-          "url": "https://www.zhihu.com/question/2054981283089069609",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "DeepSeek V4定档7月中旬，峰谷API定价同步落地",
-          "url": "https://wallstreetcn.com/articles/3775761",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时56分 ~ 17时29分]"
-        },
-        {
-          "title": "AI账单越来越高 企业开始转向更便宜的模型 DeepSeek等中国AI有望受益",
-          "url": "https://www.cls.cn/detail/2412167",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时56分 ~ 14时02分]"
-        },
-        {
-          "title": "DeepSeekV4正式版即将上线",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeekV4%E6%AD%A3%E5%BC%8F%E7%89%88%E5%8D%B3%E5%B0%86%E4%B8%8A%E7%BA%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
           "url": "https://wallstreetcn.com/articles/3775727",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时56分 ~ 21时58分]"
-        },
-        {
-          "title": "FactSet：公司将与谷歌云推出新的金融运营代理。",
-          "url": "https://flash.jin10.com/detail/20260630193124737800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        },
-        {
-          "title": "美国金融数据和分析服务提供商FactSet宣布与谷歌云建立合作关系。",
-          "url": "https://flash.jin10.com/detail/20260630193101223800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时58分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "Anthropic",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "据The Information：Anthropic与亚马逊(AMZN.O)重新谈判的协议已改为基于token计费而非计算小时。",
-          "url": "https://flash.jin10.com/detail/20260630000326731800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "据The Information：亚马逊(AMZN.O)可能会在新协议下为Anthropic技术支付更多费用。",
-          "url": "https://flash.jin10.com/detail/20260630000304703800",
-          "source": "金十数据",
-          "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "00时17分"
         },
         {
-          "title": "根据最新协议，亚马逊可能会对Anthropic支付更多。 亚马逊评估“通过使用其他模型来节省成本”。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3126264",
+          "title": "谷歌公司：在Google Slides中使用Gemini生成多页演示文稿。",
+          "url": "https://wallstreetcn.com/livenews/3126892",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "00时17分"
         }
       ]
     },
     {
-      "keyword_group": "营销",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "同有科技：拟定增募资不超过10亿元，用于面向AI全场景的企业级存储系统和SSD研发中心建设项目、企业级存储系统和SSD智能制造项目、营销体验中心项目、补充流动资金。",
-          "url": "https://wallstreetcn.com/livenews/3126762",
-          "source": "华尔街见闻-快讯",
+          "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
+          "url": "https://www.zhihu.com/question/2055040930516824522",
+          "source": "知乎",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时58分"
+          "time_info": "00时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI首席经济学家称AI不会取代人类劳动者",
+          "url": "https://wallstreetcn.com/livenews/3126913",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
         }
       ]
     }
