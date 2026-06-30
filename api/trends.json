@@ -1,8 +1,47 @@
 {
-  "generated_at": "2026-06-30T00:15:45.796599+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-06-30T09:56:54.730590+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "DeepSeek V4 正式版官宣 7 月中旬上线，引入峰谷定价机制，你怎么看？",
+          "url": "https://www.zhihu.com/question/2054981283089069609",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "AI账单越来越高 企业开始转向更便宜的模型 DeepSeek等中国AI有望受益",
+          "url": "https://www.cls.cn/detail/2412167",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        },
+        {
+          "title": "DeepSeek V4定档7月中旬，峰谷API定价同步落地",
+          "url": "https://wallstreetcn.com/articles/3775761",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
+        }
+      ]
+    },
     {
       "keyword_group": "人工智能",
       "match_count": 3,
@@ -15,8 +54,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "appearance_count": 2,
+          "time_info": "[00时15分 ~ 09时56分]"
         },
         {
           "title": "据The Information：亚马逊(AMZN.O)正在评估其他人工智能模型，以应对不断上升的Anthropic成本。",
@@ -82,19 +121,19 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "DeepSeek V4 正式版官宣 7 月中旬上线，引入峰谷定价机制，你怎么看？",
-          "url": "https://www.zhihu.com/question/2054981283089069609",
-          "source": "知乎",
+          "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
+          "url": "https://wallstreetcn.com/articles/3775727",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "09时56分"
         }
       ]
     }
