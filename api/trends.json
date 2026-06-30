@@ -1,8 +1,94 @@
 {
-  "generated_at": "2026-07-01T04:54:04.874841+08:00",
-  "total_titles_processed": 508,
+  "generated_at": "2026-07-01T06:11:38.596621+08:00",
+  "total_titles_processed": 562,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "AI",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "AI热情驱动，标普、纳指创2020年来最佳单季表现，原油承压",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
+          "url": "https://www.cls.cn/detail/2412920",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 06时11分]"
+        },
+        {
+          "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时18分 ~ 04时54分]"
+        },
+        {
+          "title": "终于明白AI免费和订阅的区别了",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%98%8E%E7%99%BDAI%E5%85%8D%E8%B4%B9%E5%92%8C%E8%AE%A2%E9%98%85%E7%9A%84%E5%8C%BA%E5%88%AB%E4%BA%86%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 02时52分]"
+        },
+        {
+          "title": "英国央行官员称AI模型犹如会说谎的青少年，智能体兴起或引发市场崩盘",
+          "url": "https://wallstreetcn.com/livenews/3126902",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        },
+        {
+          "title": "“大空头”迈克尔·伯里做空AI与芯片板块",
+          "url": "https://flash.jin10.com/detail/20260701050629588800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
+        },
+        {
+          "title": "IMF官员预警AI相关债务杠杆，称比估值更令人担忧",
+          "url": "https://wallstreetcn.com/livenews/3126879",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时18分"
+        }
+      ]
+    },
     {
       "keyword_group": "anthropic claude",
       "match_count": 6,
@@ -76,71 +162,8 @@
       ]
     },
     {
-      "keyword_group": "AI",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "AI热情驱动，美股指走高，太阳能板块普涨，日元创40年新低，金银油齐涨",
-          "url": "https://wallstreetcn.com/articles/3775797",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 04时54分]"
-        },
-        {
-          "title": "港股上半年收官：三大指数均跌超10% AI硬件错配引发“流动性双轨虹吸”",
-          "url": "https://www.cls.cn/detail/2412920",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 04时54分]"
-        },
-        {
-          "title": "终于明白AI免费和订阅的区别了",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%BB%88%E4%BA%8E%E6%98%8E%E7%99%BDAI%E5%85%8D%E8%B4%B9%E5%92%8C%E8%AE%A2%E9%98%85%E7%9A%84%E5%8C%BA%E5%88%AB%E4%BA%86%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时18分 ~ 02时52分]"
-        },
-        {
-          "title": "英国央行官员称AI模型犹如会说谎的青少年，智能体兴起或引发市场崩盘",
-          "url": "https://wallstreetcn.com/livenews/3126902",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        },
-        {
-          "title": "IMF官员预警AI相关债务杠杆，称比估值更令人担忧",
-          "url": "https://wallstreetcn.com/livenews/3126879",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "科技股力撑美股反弹，标普纳指终结五连跌，谷歌涨5%，油价反弹，日元跌至40年低位",
@@ -150,8 +173,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时18分 ~ 04时54分]"
+          "appearance_count": 5,
+          "time_info": "[00时18分 ~ 06时11分]"
         },
         {
           "title": "谷歌公司：现在可以在移动端通过Drive Now向Gemini提问。",
@@ -163,6 +186,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：发布适用于macOS的Gemini Spark，并扩展了应用程序集成。",
+          "url": "https://flash.jin10.com/detail/20260701050716207800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "谷歌公司：在Google Slides中使用Gemini生成多页演示文稿。",
@@ -229,8 +263,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时52分 ~ 04时54分]"
+          "appearance_count": 4,
+          "time_info": "[02时52分 ~ 06时11分]"
         },
         {
           "title": "李嘉诚突然杀回楼市",
