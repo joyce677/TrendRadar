@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T01:48:27.918798+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-02T03:43:27.459994+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "沃什：通胀近四周降温，AI正重塑经济，前瞻指引失去必要性",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时43分]"
         },
         {
           "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
@@ -26,19 +26,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时43分]"
         },
         {
           "title": "如何评价AI巨头之间的混战",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7AI%E5%B7%A8%E5%A4%B4%E4%B9%8B%E9%97%B4%E7%9A%84%E6%B7%B7%E6%88%98",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时43分]"
         },
         {
           "title": "盘前涨逾5%！报道：Meta筹划进军云计算市场，以出售富余的AI算力资源",
@@ -48,19 +49,53 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时43分]"
         },
         {
           "title": "越来越多公司证明AI无法替代人工",
           "url": "https://www.toutiao.com/trending/7657394487626416137/",
           "source": "今日头条",
           "ranks": [
-            27
+            27,
+            8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时43分]"
+        },
+        {
+          "title": "报道：SpaceX开发出类似手机的AI原型机",
+          "url": "https://wallstreetcn.com/livenews/3127573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时48分"
+          "time_info": "03时43分"
+        },
+        {
+          "title": "SpaceX披露手机形态AI设备原型 采用高通芯片并接入xAI",
+          "url": "https://flash.jin10.com/detail/20260702020830991800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "据华尔街日报：消息人士透露，该原型机将运行在集成SpaceX(SPCX.O)旗下xAI人工智能技术的专有操作系统上。该原型机设计时尚，比iPhone更纤薄。该设备将采用高通(QCOM.O)骁龙芯片组。",
+          "url": "https://flash.jin10.com/detail/20260702020102144800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
         },
         {
           "title": "美国联邦贸易委员会（FTC）围绕人工智能（AI）准确率问题的政策声明征求意见。",
@@ -76,6 +111,34 @@
       ]
     },
     {
+      "keyword_group": "马斯克",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "马斯克回应华尔街日报关于原型设备的报道，称：完全是虚假的。",
+          "url": "https://wallstreetcn.com/livenews/3127579",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "马斯克否认《华尔街日报》报道，该报道称SpaceX(SPCX.O)曾向投资者展示新型人工智能设备的原型。",
+          "url": "https://flash.jin10.com/detail/20260702023511622800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "anthropic claude",
       "match_count": 2,
       "titles": [
@@ -87,8 +150,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时43分]"
         },
         {
           "title": "美国对Anthropic的Mythos模型设限，外国企业陷入不确定状态",
@@ -112,11 +175,12 @@
           "url": "https://wallstreetcn.com/livenews/3127564",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            6,
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 03时43分]"
         }
       ]
     }
