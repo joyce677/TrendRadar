@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-01T14:49:47.615081+08:00",
-  "total_titles_processed": 733,
+  "generated_at": "2026-07-01T18:36:31.589982+08:00",
+  "total_titles_processed": 950,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时49分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时49分 ~ 18时36分]"
         },
         {
           "title": "Claude偷偷给中国用户打水印",
@@ -25,7 +25,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
         },
@@ -36,9 +36,37 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
+          "url": "https://www.zhihu.com/question/2055040930516824522",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
+        },
+        {
+          "title": "如何看待 DeepSeek 招聘多处点名要求 Rust？",
+          "url": "https://www.zhihu.com/question/2054320593491715458",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
         }
       ]
     },
@@ -71,19 +99,31 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "keyword_group": "Anthropic",
+      "match_count": 2,
       "titles": [
         {
-          "title": "如何评价 deepseek2026 年 6 月 29 日再次调整收费标准？",
-          "url": "https://www.zhihu.com/question/2055040930516824522",
-          "source": "知乎",
+          "title": "僵局打开！美国解除对Anthropic两大AI旗舰模型的出口管控",
+          "url": "https://www.cls.cn/detail/2413870",
+          "source": "财联社热门",
           "ranks": [
-            2
+            11,
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 3,
+          "time_info": "[14时49分 ~ 18时36分]"
+        },
+        {
+          "title": "美国对Anthropic Fable 5顶尖模型“解禁”，Anthropic：周三起恢复访问",
+          "url": "https://wallstreetcn.com/articles/3775902",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
         }
       ]
     },
@@ -105,19 +145,19 @@
       ]
     },
     {
-      "keyword_group": "Anthropic",
+      "keyword_group": "人工智能",
       "match_count": 1,
       "titles": [
         {
-          "title": "僵局打开！美国解除对Anthropic两大AI旗舰模型的出口管控",
-          "url": "https://www.cls.cn/detail/2413870",
+          "title": "人工智能领域“权力更迭”：美股三大芯片股市值Q2增加约2万亿美元",
+          "url": "https://www.cls.cn/detail/2413957",
           "source": "财联社热门",
           "ranks": [
-            11
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时49分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
         }
       ]
     }
