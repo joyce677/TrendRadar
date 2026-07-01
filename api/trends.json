@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-01T06:11:38.596621+08:00",
-  "total_titles_processed": 562,
+  "generated_at": "2026-07-01T08:02:44.647263+08:00",
+  "total_titles_processed": 701,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 7,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
+          "url": "https://wallstreetcn.com/articles/3775797",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
         {
           "title": "AI热情驱动，标普、纳指创2020年来最佳单季表现，原油承压",
           "url": "https://wallstreetcn.com/articles/3775797",
@@ -14,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -66,15 +77,92 @@
           "time_info": "00时18分"
         },
         {
+          "title": "澳大利亚6月AIG/PWC制造业表现指数 -16.8，前值-22.4。",
+          "url": "https://flash.jin10.com/detail/20260701070002377800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "澳大利亚6月AIG建筑业表现指数 -38.1，前值-9.9。",
+          "url": "https://flash.jin10.com/detail/20260701070002368800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
           "title": "“大空头”迈克尔·伯里做空AI与芯片板块",
           "url": "https://flash.jin10.com/detail/20260701050629588800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
+        },
+        {
+          "title": "英媒：苹果CEO与欧盟技术主管就“Siri AI”举行建设性会谈",
+          "url": "https://flash.jin10.com/detail/20260701065200498800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "苹果公司库克、欧盟官员Virkkunen讨论“Siri AI”。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3127010",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "据英国金融时报：苹果(AAPL.O)CEO库克与欧盟科技主管就“Siri AI”展开建设性的对话。",
+          "url": "https://flash.jin10.com/detail/20260701063003352800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "网友未备案AI动画被优酷备案后收费",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BD%91%E5%8F%8B%E6%9C%AA%E5%A4%87%E6%A1%88AI%E5%8A%A8%E7%94%BB%E8%A2%AB%E4%BC%98%E9%85%B7%E5%A4%87%E6%A1%88%E5%90%8E%E6%94%B6%E8%B4%B9%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "A股已有35家公司预告上半年业绩，预喜比例达74.29%，AI、锂电、化工三大板块领衔高增长",
+          "url": "https://wallstreetcn.com/livenews/3127006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "IMF官员预警AI相关债务杠杆，称比估值更令人担忧",
@@ -91,8 +179,19 @@
     },
     {
       "keyword_group": "anthropic claude",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "据美国商务部长卢特尼克致Anthropic的信函，美国取消对Anthropic公司Fable 5的控制措施。（Wired）",
+          "url": "https://wallstreetcn.com/livenews/3127031",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
         {
           "title": "Anthropic推出Claude Sonnet 5。",
           "url": "https://wallstreetcn.com/livenews/3126941",
@@ -103,6 +202,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "卢特尼克：Anthropic的Fable 5已通过分析并获得批准",
+          "url": "https://wallstreetcn.com/livenews/3127029",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "美国商务部长卢特尼克：与Anthropic进行了紧密合作，以批准Fable 5。",
+          "url": "https://wallstreetcn.com/livenews/3127026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         },
         {
           "title": "Anthropic推出Claude Sonnet 5，代理能力大幅提升",
@@ -158,6 +279,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "报道：Anthropic的Fable模型出口限制将于今晚解除",
+          "url": "https://wallstreetcn.com/livenews/3127007",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
+        },
+        {
+          "title": "消息称Anthropic模型Fable即将解禁",
+          "url": "https://flash.jin10.com/detail/20260701062215295800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时02分"
         }
       ]
     },
@@ -194,7 +337,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时11分"
         },
@@ -221,22 +364,24 @@
           "source": "微博",
           "ranks": [
             16,
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时52分 ~ 04时54分]"
+          "appearance_count": 4,
+          "time_info": "[02时52分 ~ 08时02分]"
         },
         {
           "title": "iPhone18 Pro机密文件遭泄露",
           "url": "https://www.douyin.com/hot/2552810",
           "source": "抖音",
           "ranks": [
-            7
+            7,
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时18分"
+          "appearance_count": 2,
+          "time_info": "[00时18分 ~ 08时02分]"
         },
         {
           "title": "iPhone18Pro樱桃红测试照片流出",
