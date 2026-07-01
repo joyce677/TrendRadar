@@ -1,22 +1,45 @@
 {
-  "generated_at": "2026-07-01T17:33:10.831370+08:00",
-  "total_titles_processed": 1124,
+  "generated_at": "2026-07-01T20:29:05.697502+08:00",
+  "total_titles_processed": 1319,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 23,
+      "match_count": 26,
       "titles": [
         {
           "title": "AI热情驱动美股收涨，道指续收新高，标普纳指创史上最佳季度之一，美债跌",
           "url": "https://wallstreetcn.com/articles/3775797",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[08时02分 ~ 17时33分]"
+          "appearance_count": 7,
+          "time_info": "[08时02分 ~ 20时29分]"
+        },
+        {
+          "title": "AI漫剧 降维打击",
+          "url": "https://s.weibo.com/weibo?q=AI%E6%BC%AB%E5%89%A7%20%E9%99%8D%E7%BB%B4%E6%89%93%E5%87%BB&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时28分 ~ 20时29分]"
+        },
+        {
+          "title": "AI进入下半场：模型不再稀缺",
+          "url": "https://www.toutiao.com/trending/7657493112633167403/",
+          "source": "今日头条",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时28分 ~ 20时29分]"
         },
         {
           "title": "AI驱动半导体制造升级 巨头抢购电子级氢氟酸 部分供货商年内已涨价三成",
@@ -31,13 +54,36 @@
           "time_info": "[13时16分 ~ 17时33分]"
         },
         {
+          "title": "如何评价AI巨头之间的混战",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E8%AF%84%E4%BB%B7AI%E5%B7%A8%E5%A4%B4%E4%B9%8B%E9%97%B4%E7%9A%84%E6%B7%B7%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时28分 ~ 20时29分]"
+        },
+        {
+          "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
+          "url": "https://www.zhihu.com/question/2055055883843925167",
+          "source": "知乎",
+          "ranks": [
+            14,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时16分 ~ 20时29分]"
+        },
+        {
           "title": "纳睿雷达：发布超460公里探测范围S波段全极化相控阵雷达及AI大模型",
           "url": "https://wallstreetcn.com/livenews/3127315",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -77,16 +123,28 @@
           "time_info": "[00时18分 ~ 04时54分]"
         },
         {
-          "title": "香港演员吴启华卖 20 岁肖像权拍 AI 电影，如何看待这一选择？对行业意味着什么？",
-          "url": "https://www.zhihu.com/question/2055055883843925167",
-          "source": "知乎",
+          "title": "AI正沦为科技圈的“自嗨”？一文起底：市场最危险的错配在这！",
+          "url": "https://www.cls.cn/detail/2414015",
+          "source": "财联社热门",
           "ranks": [
-            14,
-            6
+            8,
+            7
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[13时16分 ~ 17时33分]"
+          "time_info": "[17时32分 ~ 20时29分]"
+        },
+        {
+          "title": "美团开源万亿参数大模型 longcat-2.0，将对大模型领域和 AI 行业产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2055252813568119737",
+          "source": "知乎",
+          "ranks": [
+            18,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 20时29分]"
         },
         {
           "title": "僵局打开！美国解除对Anthropic两大AI旗舰模型的出口管控",
@@ -100,33 +158,11 @@
           "time_info": "[17时32分 ~ 17时33分]"
         },
         {
-          "title": "AI正沦为科技圈的“自嗨”？一文起底：市场最危险的错配在这！",
-          "url": "https://www.cls.cn/detail/2414015",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 17时33分]"
-        },
-        {
           "title": "当一人公司加上 AI 杠杆，能做出多有趣的项目来？",
           "url": "https://www.zhihu.com/question/2053591589927262082",
           "source": "知乎",
           "ranks": [
             15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 17时33分]"
-        },
-        {
-          "title": "美团开源万亿参数大模型 longcat-2.0，将对大模型领域和 AI 行业产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2055252813568119737",
-          "source": "知乎",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -269,7 +305,7 @@
     },
     {
       "keyword_group": "anthropic claude",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "网传 Claude 通过原生消息传递获取用户位置，再以隐写术隐蔽回传封杀中国大陆用户，什么情况？你怎么看？",
@@ -280,8 +316,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时16分 ~ 17时33分]"
+          "appearance_count": 6,
+          "time_info": "[13时16分 ~ 20时29分]"
         },
         {
           "title": "美国对Anthropic Fable 5顶尖模型“解禁”，Anthropic：周三起恢复访问",
@@ -291,8 +327,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 17时33分]"
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 20时29分]"
         },
         {
           "title": "Claude偷偷给中国用户打水印",
@@ -348,6 +384,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时02分"
+        },
+        {
+          "title": "Anthropic将Kimi K2.7与Opus 4.8、GPT-5.5纳入同场安全测试",
+          "url": "https://wallstreetcn.com/livenews/3127389",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时29分"
         },
         {
           "title": "Anthropic推出Claude Sonnet 5，代理能力大幅提升",
