@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-02T08:17:16.597192+08:00",
-  "total_titles_processed": 619,
+  "generated_at": "2026-07-02T13:05:20.463165+08:00",
+  "total_titles_processed": 836,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "美国总统特朗普：正如我所承诺的，油价正在迅速下跌，汽油价格也在下降，但速度还不够快。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -108,9 +108,31 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
+        },
+        {
+          "title": "特朗普又来：绝不让中国接管巴拿马运河",
+          "url": "https://news.ifeng.com/c/8uQHApVzfAw",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "美议员：不许苹果找中企买，坏了特朗普大事",
+          "url": "https://news.ifeng.com/c/8uQPHHBXrUC",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "美财政部公布“特朗普账户”投资组合标的 主投宽基标普500指数ETF",
@@ -248,7 +270,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "市场聚焦沃什讲话，美股三大股指集体低开，存储芯片股下跌，闪迪下跌8.6%，黄金站上4070",
@@ -266,11 +288,12 @@
           "url": "https://www.cls.cn/detail/2414790",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时16分 ~ 08时17分]"
+          "appearance_count": 3,
+          "time_info": "[08时16分 ~ 13时05分]"
         },
         {
           "title": "美股",
@@ -340,7 +363,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         },
@@ -376,6 +399,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        },
+        {
+          "title": "Meta 拟对外出售剩余 AI 算力，引发美股芯片及光通信重挫，对此你怎么看，会是 AI 退潮信号么？",
+          "url": "https://www.zhihu.com/question/2055934590297150773",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "金十图示：2026年07月01日（周三）美股热门股票行情一览（美股盘中）",
@@ -458,7 +492,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊朗议会议长：不允许核查人员进入受损核设施",
@@ -571,6 +605,17 @@
           "time_info": "06时24分"
         },
         {
+          "title": "伊朗队回国，接机现场人山人海，仪仗队奏响国歌迎接",
+          "url": "https://news.ifeng.com/c/8uQaMfSWpO8",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
           "title": "消息人士：伊朗要求分阶段执行美伊谅解备忘录，重点推动资产解冻",
           "url": "https://wallstreetcn.com/livenews/3127554",
           "source": "华尔街见闻-快讯",
@@ -662,7 +707,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "消息人士：软银就以OpenAI股权为抵押的贷款谈判重启，并作出更多让步",
@@ -693,11 +738,34 @@
           "url": "https://wallstreetcn.com/articles/3775976",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时16分 ~ 08时17分]"
+          "appearance_count": 3,
+          "time_info": "[08时16分 ~ 13时05分]"
+        },
+        {
+          "title": "报道：OpenAI提议让美国政府持有公司5%股份",
+          "url": "https://wallstreetcn.com/livenews/3127802",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
+        },
+        {
+          "title": "据报OpenAI提出向特朗普政府提供5%的股权",
+          "url": "https://flash.jin10.com/detail/20260702121147449800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         },
         {
           "title": "Palantir首席执行官Alex Karp猛烈抨击Anthropic和 OpenAI使用的Token计费结构。 Palantir与英伟达的开源模型是那些希望拥有自己数据所有权的企业和政府寻求的解决方案。 AI Token 成本的飙升让各大企业的首席执行官（CEO）们感到沮丧，这促使他们纷纷转向封闭模型之外的其他选择。",
@@ -706,7 +774,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时17分"
         }
@@ -761,6 +829,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "继美国司法部官司之后，Yelp在针对谷歌公司的反垄断诉讼中获胜。 联邦法院认定，谷歌网络搜索构成垄断。（彭博法律Blaw）",
+          "url": "https://wallstreetcn.com/livenews/3127564",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时05分"
+        },
+        {
+          "title": "Meta据悉布局AI云业务 拟对外出售算力 挑战亚马逊、微软和谷歌",
+          "url": "https://www.cls.cn/detail/2414683",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时05分"
         }
       ]
     },
@@ -840,23 +936,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时05分 ~ 06时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "继美国司法部官司之后，Yelp在针对谷歌公司的反垄断诉讼中获胜。 联邦法院认定，谷歌网络搜索构成垄断。（彭博法律Blaw）",
-          "url": "https://wallstreetcn.com/livenews/3127564",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时05分"
         }
       ]
     }
