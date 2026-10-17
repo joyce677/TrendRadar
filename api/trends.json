@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-10-17T22:45:53.614932+08:00",
-  "total_titles_processed": 1200,
+  "generated_at": "2026-10-18T01:41:52.396037+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 41,
+      "match_count": 17,
       "titles": [
-        {
-          "title": "美联储主席沃什：AI是我一生中最深远的经济变革，10月和12月议息会议至关重要",
-          "url": "https://wallstreetcn.com/articles/3783763",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 10时24分]"
-        },
         {
           "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，VIX一度升破22，布油涨破110",
           "url": "https://wallstreetcn.com/articles/3783778",
@@ -26,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时24分 ~ 22时45分]"
+          "appearance_count": 1,
+          "time_info": "01时41分"
         },
         {
           "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
@@ -37,70 +26,41 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时24分 ~ 22时45分]"
+          "appearance_count": 1,
+          "time_info": "01时41分"
         },
         {
           "title": "华尔街腹背受敌：AI抛售潮蔓延至债市，110美元油价再添一把火",
           "url": "https://wallstreetcn.com/articles/3783826",
           "source": "华尔街见闻",
           "ranks": [
-            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时23分 ~ 22时45分]"
-        },
-        {
-          "title": "老干妈用AI一年狂赚54亿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367216&amp;topic_name=%E8%80%81%E5%B9%B2%E5%A6%88%E7%94%A8AI%E4%B8%80%E5%B9%B4%E7%8B%82%E8%B5%9A54%E4%BA%BF",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            12,
-            19,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 22时45分]"
+          "appearance_count": 1,
+          "time_info": "01时41分"
         },
         {
           "title": "美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？",
           "url": "https://wallstreetcn.com/articles/3783832",
           "source": "华尔街见闻",
           "ranks": [
-            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 22时45分]"
+          "appearance_count": 1,
+          "time_info": "01时41分"
         },
         {
           "title": "“AI缺钱”风暴席卷市场！Meta财报打头阵，产业巨额投资迎“信心大考”",
           "url": "https://www.cls.cn/detail/2507445",
           "source": "财联社热门",
           "ranks": [
-            5,
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 22时45分]"
-        },
-        {
-          "title": "AI交易忧虑压垮美股，纳指跌超2%、CoreWeave暴跌12%，芯片指数八连跌，布油涨破110",
-          "url": "https://wallstreetcn.com/articles/3783778",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时11分 ~ 07时12分]"
+          "appearance_count": 1,
+          "time_info": "01时41分"
         },
         {
           "title": "中信建投：AI加速重塑制药传统研发范式",
@@ -109,9 +69,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时45分"
+          "time_info": "01时41分"
         },
         {
           "title": "英伟达市值 9 天蒸发约 4 万亿元，全球 AI 股集体遭抛售，AI 泡沫是不是要破了？",
@@ -120,178 +80,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
-          "title": "库克：中国几乎所有人都在积极拥抱AI，令人印象深刻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34261252",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 10时24分]"
-        },
-        {
-          "title": "毕导 科普UP主会被AI取代吗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%AF%95%E5%AF%BC%20%E7%A7%91%E6%99%AEUP%E4%B8%BB%E4%BC%9A%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 19时54分]"
-        },
-        {
-          "title": "赛力斯参股，赛豆AIVA首款车亮相工信部",
-          "url": "https://wallstreetcn.com/livenews/3180521",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时24分 ~ 15时23分]"
-        },
-        {
-          "title": "AI偶像怀孕 把全网都“耍了”",
-          "url": "https://www.baidu.com/s?wd=AI%E5%81%B6%E5%83%8F%E6%80%80%E5%AD%95+%E6%8A%8A%E5%85%A8%E7%BD%91%E9%83%BD%E2%80%9C%E8%80%8D%E4%BA%86%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时21分 ~ 10时24分]"
-        },
-        {
-          "title": "AI消失前的最后一天",
-          "url": "https://search.bilibili.com/all?keyword=AI%E6%B6%88%E5%A4%B1%E5%89%8D%E7%9A%84%E6%9C%80%E5%90%8E%E4%B8%80%E5%A4%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            26,
-            30,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 15时23分]"
-        },
-        {
-          "title": "谢娜发AI视频为赵丽颖庆生",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%A2%E5%A8%9C%E5%8F%91AI%E8%A7%86%E9%A2%91%E4%B8%BA%E8%B5%B5%E4%B8%BD%E9%A2%96%E5%BA%86%E7%94%9F",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            24,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 07时12分]"
-        },
-        {
-          "title": "龙珠声优痛斥AI配音没灵魂",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367426&amp;topic_name=%E9%BE%99%E7%8F%A0%E5%A3%B0%E4%BC%98%E7%97%9B%E6%96%A5AI%E9%85%8D%E9%9F%B3%E6%B2%A1%E7%81%B5%E9%AD%82",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时23分 ~ 22时45分]"
-        },
-        {
-          "title": "Anthropic秘密游说国会 推动制定前沿AI监管法案",
-          "url": "https://www.cls.cn/detail/2507401",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时23分 ~ 22时45分]"
+          "time_info": "01时41分"
         },
         {
           "title": "Anthropic被曝秘密游说国会：AI造成超10亿美元损失，政府才能叫停？",
           "url": "https://wallstreetcn.com/articles/3783831",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 22时45分]"
-        },
-        {
-          "title": "美国总统特朗普： 在佐治亚州，优时比（UCB）将投资20亿美元，建设其在美国的首座制药工厂。 倍耐力（Pirelli）刚刚宣布，将投资12亿美元扩建罗马市工厂，新增1000个就业岗位。 现代汽车（Hyundai）宣布，将投资5.6亿美元扩建西点市的工厂。",
-          "url": "https://wallstreetcn.com/livenews/3180498",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时12分 ~ 10时24分]"
-        },
-        {
-          "title": "AI为何会欺骗人类",
-          "url": "https://search.bilibili.com/all?keyword=AI%E4%B8%BA%E4%BD%95%E4%BC%9A%E6%AC%BA%E9%AA%97%E4%BA%BA%E7%B1%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时24分 ~ 15时23分]"
-        },
-        {
-          "title": "AWS CFO：AI基建投入热潮具备可持续性",
-          "url": "https://wallstreetcn.com/livenews/3180488",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时12分 ~ 10时24分]"
-        },
-        {
-          "title": "周鸿祎谈老干妈用AI一年赚54亿",
-          "url": "https://www.toutiao.com/trending/7697112143132380715/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时11分 ~ 07时12分]"
-        },
-        {
-          "title": "AWS首席财务官：AI支出可持续 服务器投资回报期不到三年",
-          "url": "https://flash.jin10.com/detail/20261017053229367800",
-          "source": "金十数据",
-          "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时12分"
+          "time_info": "01时41分"
         },
         {
           "title": "印度网络安全机构称，多个AI模型在测试期间入侵印度企业实时系统",
@@ -300,20 +102,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
-          "title": "AI交易忧虑压垮美股，盘中纳指跌超2%、CoreWeave跌超10%，芯片指数八连跌",
-          "url": "https://wallstreetcn.com/articles/3783778",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时21分"
+          "time_info": "01时41分"
         },
         {
           "title": "AI帮储户多赚钱，银行却慌了：花旗、美银、摩根大通集体对AI Agent设防",
@@ -322,119 +113,64 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
-          "title": "赛力斯参股 赛豆AIVA首款车亮相工信部",
-          "url": "https://flash.jin10.com/detail/20261017093538261800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时24分"
+          "time_info": "01时41分"
         },
         {
-          "title": "费城半导体连跌八个交易日，黄仁勋：“这一切终将过去”，AI变革才刚刚开始",
-          "url": "https://wallstreetcn.com/articles/3783817",
+          "title": "AI融资成本攀升：Anthropic拟向黑石提供超10%收益率",
+          "url": "https://wallstreetcn.com/articles/3783838",
           "source": "华尔街见闻",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时45分"
+          "time_info": "01时41分"
         },
         {
-          "title": "全球科技股暴跌，黄仁勋下场“救市”：力挺CoreWeave，直指“AI算力全靠两家实验室买单”是巨大误读",
-          "url": "https://wallstreetcn.com/articles/3783749",
-          "source": "华尔街见闻",
+          "title": "Anthropic秘密游说国会 推动制定前沿AI监管法案",
+          "url": "https://www.cls.cn/detail/2507401",
+          "source": "财联社热门",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时24分"
+          "time_info": "01时41分"
         },
         {
-          "title": "Anthropic单独向美国国会山议员们递交AI安全立法草案。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3180495",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "如何看待海外研究人员曝光「运行在腾讯云上 AI 智能体为查询高德地图，自主利用泄露密钥、绕过反爬」？",
-          "url": "https://www.zhihu.com/question/2094037238065714517",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "AI前沿日报-10月17日",
-          "url": "https://flash.jin10.com/detail/20261017185647210800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
-          "title": "AI改名SI：特朗普无厘头操作背后的科技、外交和政治心机",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34263975",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
-          "title": "黄仁勋：AI将带来变革，当前市场动荡终将过去",
-          "url": "https://flash.jin10.com/detail/20261017044601846800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "黄仁勋谈AI大跌",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%BB%84%E4%BB%81%E5%8B%8B%E8%B0%88AI%E5%A4%A7%E8%B7%8C%23&t=31&band_rank=20&Refer=top",
+          "title": "AI的吻戏比真人还欲啊",
+          "url": "https://s.weibo.com/weibo?q=%23AI%E7%9A%84%E5%90%BB%E6%88%8F%E6%AF%94%E7%9C%9F%E4%BA%BA%E8%BF%98%E6%AC%B2%E5%95%8A%23&t=31&band_rank=11&Refer=top",
           "source": "微博",
           "ranks": [
-            20
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时24分"
+          "time_info": "01时41分"
         },
         {
-          "title": "市值前二十AI芯片股蒸发超万亿",
-          "url": "https://www.douyin.com/hot/2697865",
-          "source": "抖音",
+          "title": "龙珠声优痛斥AI配音没灵魂",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367426&amp;topic_name=%E9%BE%99%E7%8F%A0%E5%A3%B0%E4%BC%98%E7%97%9B%E6%96%A5AI%E9%85%8D%E9%9F%B3%E6%B2%A1%E7%81%B5%E9%AD%82",
+          "source": "贴吧",
           "ranks": [
-            20
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时24分"
+          "time_info": "01时41分"
+        },
+        {
+          "title": "毕导 科普UP主会被AI取代吗",
+          "url": "https://search.bilibili.com/all?keyword=%E6%AF%95%E5%AF%BC%20%E7%A7%91%E6%99%AEUP%E4%B8%BB%E4%BC%9A%E8%A2%ABAI%E5%8F%96%E4%BB%A3%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时41分"
         },
         {
           "title": "Anthropic联合创始人：AI或推动美国经济规模到2030年达到44万亿美元",
@@ -443,200 +179,48 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时45分"
+          "time_info": "01时41分"
         },
         {
-          "title": "英伟达(NVDA.O)CEO黄仁勋：（关于AI市场动荡）这一切都会过去的。",
-          "url": "https://flash.jin10.com/detail/20261017043420130800",
-          "source": "金十数据",
+          "title": "老干妈用AI一年狂赚54亿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367216&amp;topic_name=%E8%80%81%E5%B9%B2%E5%A6%88%E7%94%A8AI%E4%B8%80%E5%B9%B4%E7%8B%82%E8%B5%9A54%E4%BA%BF",
+          "source": "贴吧",
           "ranks": [
-            24
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "报道：Anthropic向美国议员推介AI安全方案，拟为模型发布设置门槛",
-          "url": "https://wallstreetcn.com/livenews/3180495",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "黄仁勋看淡AI板块大跌：这一切都会过去",
-          "url": "https://wallstreetcn.com/livenews/3180473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "time_info": "01时41分"
         }
       ]
     },
     {
       "keyword_group": "iphone apple apple watch",
-      "match_count": 21,
+      "match_count": 5,
       "titles": [
         {
-          "title": "下单发货已排到明年！苹果首款折叠屏手机iPhone Duo开启预购，首发现货秒空",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34265063",
-          "source": "澎湃新闻",
+          "title": "苹果称iPhone Duo需求令人惊叹 欧洲卫星股异动拉涨 | 环球市场",
+          "url": "https://www.cls.cn/detail/2507383",
+          "source": "财联社热门",
           "ranks": [
-            11,
-            9,
-            4,
-            3,
-            2
+            7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时08分 ~ 19时54分]"
+          "appearance_count": 1,
+          "time_info": "01时41分"
         },
         {
           "title": "订货需等近两月！iPhone Duo预售秒售罄 产线协同爬坡制约初期供货",
           "url": "https://www.cls.cn/detail/2507262",
           "source": "财联社热门",
           "ranks": [
-            6,
-            7,
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时08分 ~ 22时45分]"
-        },
-        {
-          "title": "有人一口气买3部iPhone Duo准备卖掉",
-          "url": "https://www.toutiao.com/trending/7697509549280103946/",
-          "source": "今日头条",
-          "ranks": [
-            1
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时23分"
-        },
-        {
-          "title": "谁抢到了iPhone Duo",
-          "url": "https://www.douyin.com/hot/2699139",
-          "source": "抖音",
-          "ranks": [
-            19,
-            17,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 15时23分]"
-        },
-        {
-          "title": "iPhoneDuo开抢,黄牛遍地加价",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367356&amp;topic_name=iPhoneDuo%E5%BC%80%E6%8A%A2%2C%E9%BB%84%E7%89%9B%E9%81%8D%E5%9C%B0%E5%8A%A0%E4%BB%B7",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            23,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 19时54分]"
-        },
-        {
-          "title": "iPhoneDuo首批黑色溢价16000元",
-          "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E9%A6%96%E6%89%B9%E9%BB%91%E8%89%B2%E6%BA%A2%E4%BB%B716000%E5%85%83%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 10时24分]"
-        },
-        {
-          "title": "苹果称iPhone Duo需求令人惊叹 欧洲卫星股异动拉涨 | 环球市场",
-          "url": "https://www.cls.cn/detail/2507383",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时24分 ~ 22时45分]"
-        },
-        {
-          "title": "苹果公司：iPhone Duo需求“绝对是非凡的”。 正努力向消费者交付设备。 我们将继续接受线上订单。",
-          "url": "https://wallstreetcn.com/livenews/3180504",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时12分 ~ 10时24分]"
-        },
-        {
-          "title": "iPhone Duo首批现货最高涨7143元",
-          "url": "https://www.baidu.com/s?wd=iPhone+Duo%E9%A6%96%E6%89%B9%E7%8E%B0%E8%B4%A7%E6%9C%80%E9%AB%98%E6%B6%A87143%E5%85%83",
-          "source": "百度热搜",
-          "ranks": [
-            15,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 07时12分]"
-        },
-        {
-          "title": "iPhone Duo发货已排到明年",
-          "url": "https://www.baidu.com/s?wd=iPhone+Duo%E5%8F%91%E8%B4%A7%E5%B7%B2%E6%8E%92%E5%88%B0%E6%98%8E%E5%B9%B4",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时08分 ~ 07时12分]"
-        },
-        {
-          "title": "iPhone Duo选购指南",
-          "url": "https://search.bilibili.com/all?keyword=iPhone%20Duo%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时11分 ~ 07时12分]"
-        },
-        {
-          "title": "客服回应大量iPhone漂浮海面",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AE%A2%E6%9C%8D%E5%9B%9E%E5%BA%94%E5%A4%A7%E9%87%8FiPhone%E6%BC%82%E6%B5%AE%E6%B5%B7%E9%9D%A2%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 22时45分]"
+          "time_info": "01时41分"
         },
         {
           "title": "货轮沉没大量iPhone漂浮海面",
@@ -646,161 +230,47 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 22时45分]"
+          "appearance_count": 1,
+          "time_info": "01时41分"
         },
         {
-          "title": "iPhoneDuo溢价从5.8万暴跌至7000",
-          "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E6%BA%A2%E4%BB%B7%E4%BB%8E5.8%E4%B8%87%E6%9A%B4%E8%B7%8C%E8%87%B37000%23&t=31&band_rank=21&Refer=top",
+          "title": "iPhoneDuo溢价暴跌原因",
+          "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E6%BA%A2%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
           "ranks": [
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时23分 ~ 19时54分]"
-        },
-        {
-          "title": "iPhone Duo预售秒罄，首批现货溢价6000元起",
-          "url": "https://www.cls.cn/detail/2507194",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时08分"
+          "time_info": "01时41分"
         },
         {
-          "title": "iPhone Duo卖爆背后的真相",
-          "url": "https://www.toutiao.com/trending/7697485192776125995/",
+          "title": "有人一口气买3部iPhone Duo准备卖掉",
+          "url": "https://www.toutiao.com/trending/7697509549280103946/",
           "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时23分"
-        },
-        {
-          "title": "科技记者古尔曼：苹果未透露其门店是否会在发售首日供货iPhone Duo。 如果苹果不提前说明，可能会有很多人白排队，最终感到不满。 苹果显然是在供应有限的情况下过早推出了iPhone Duo，只是为了让它更早上市。 我认为他们知道最早也要到11月才会有合理的供应量。",
-          "url": "https://wallstreetcn.com/livenews/3180445",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
-        },
-        {
-          "title": "古尔曼：苹果过早推出iPhone Duo",
-          "url": "https://www.toutiao.com/trending/7697344719944400932/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "货轮起火沉没渔民现场打捞全新iPhone",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B4%A7%E8%BD%AE%E8%B5%B7%E7%81%AB%E6%B2%89%E6%B2%A1%E6%B8%94%E6%B0%91%E7%8E%B0%E5%9C%BA%E6%89%93%E6%8D%9E%E5%85%A8%E6%96%B0iPhone%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
           "ranks": [
             24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时54分"
-        },
-        {
-          "title": "iPhone Duo难抢",
-          "url": "https://www.toutiao.com/trending/7696426642602115113/",
-          "source": "今日头条",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
-          "title": "iPhone的1000天",
-          "url": "https://search.bilibili.com/all?keyword=iPhone%E7%9A%841000%E5%A4%A9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
+          "time_info": "01时41分"
         }
       ]
     },
     {
       "keyword_group": "马斯克",
-      "match_count": 10,
+      "match_count": 2,
       "titles": [
         {
-          "title": "Roadster 发布后，特斯拉、 SpaceX 仍在大跌，马斯克身家四天缩水 5286 亿元，如何解读？",
-          "url": "https://www.zhihu.com/question/2094694840407519249",
-          "source": "知乎",
+          "title": "马斯克飞行汽车遭踢馆",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A3%9E%E8%A1%8C%E6%B1%BD%E8%BD%A6%E9%81%AD%E8%B8%A2%E9%A6%86%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时23分"
-        },
-        {
-          "title": "能飞还会空中翻滚！特斯拉新款Roadster跑车亮相，马斯克称2028年量产",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34261270",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 10时24分]"
-        },
-        {
-          "title": "乌军使用星链遭限速，特朗普：不是我，也不是马斯克",
-          "url": "https://news.ifeng.com/c/8xIHdKH8nYi",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时23分"
-        },
-        {
-          "title": "特斯拉“飞行跑车”安全吗？马斯克：如果安全是首要目标，就别买",
-          "url": "https://wallstreetcn.com/articles/3783785",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时08分 ~ 15时23分]"
-        },
-        {
-          "title": "特朗普：白宫未干预乌克兰卫星系统 马斯克也没有",
-          "url": "https://flash.jin10.com/detail/20261017052606064800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "time_info": "01时41分"
         },
         {
           "title": "马斯克：AI和机器人是化解美国债务的唯一途径",
@@ -809,235 +279,26 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
-          "title": "马斯克为何折腾“超级跑车”",
-          "url": "https://www.toutiao.com/trending/7697377466989415946/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "马斯克飞行汽车遭踢馆",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%A9%AC%E6%96%AF%E5%85%8B%E9%A3%9E%E8%A1%8C%E6%B1%BD%E8%BD%A6%E9%81%AD%E8%B8%A2%E9%A6%86%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
-          "title": "马斯克：解决美债问题的唯一办法是依靠人工智能和机器人",
-          "url": "https://flash.jin10.com/detail/20261017203804811800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时45分"
-        },
-        {
-          "title": "马斯克：正在开发专用议价机器人，每年可为全球节省6万亿美元",
-          "url": "https://wallstreetcn.com/livenews/3180443",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时21分"
+          "time_info": "01时41分"
         }
       ]
     },
     {
       "keyword_group": "anthropic claude",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
           "title": "Claude专封国人,二创人设变腹黑",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367470&amp;topic_name=Claude%E4%B8%93%E5%B0%81%E5%9B%BD%E4%BA%BA%2C%E4%BA%8C%E5%88%9B%E4%BA%BA%E8%AE%BE%E5%8F%98%E8%85%B9%E9%BB%91",
           "source": "贴吧",
           "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时54分 ~ 22时45分]"
-        },
-        {
-          "title": "据Politico：Anthropic正在向立法者悄然推销其自身的人工智能安全法案。",
-          "url": "https://flash.jin10.com/detail/20261017055632346800",
-          "source": "金十数据",
-          "ranks": [
-            2
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "Anthropic估值预期承压：收入增速放缓，部分投资者转向1.5万亿美元",
-          "url": "https://wallstreetcn.com/articles/3783736",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时08分 ~ 04时21分]"
-        },
-        {
-          "title": "Anthropic据悉为600亿美元芯片融资向黑石提供逾10%收益率",
-          "url": "https://flash.jin10.com/detail/20261017085305335800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "据英国金融时报：Anthropic在最新一轮芯片融资交易中，向黑石集团提供两位数收益率。",
-          "url": "https://flash.jin10.com/detail/20261017084933804800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时24分"
-        },
-        {
-          "title": "Anthropic签署租约，租用位于新斯科舍省的Everwind数据中心。",
-          "url": "https://wallstreetcn.com/livenews/3180486",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "微软被告知员工应将OpenAI抓取项目列为“机密”",
-          "url": "https://wallstreetcn.com/livenews/3180499",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时12分 ~ 10时24分]"
-        },
-        {
-          "title": "OpenAI从SpaceX挖走另一位聚焦AI的销售主管",
-          "url": "https://wallstreetcn.com/livenews/3180494",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时12分 ~ 10时24分]"
-        },
-        {
-          "title": "OpenAI：ChatGPT中的GPT-6 Astra Pro已升级，响应速度更快，插件与工具调用能力也得到提升。现在，多个智能体可并行处理任务的不同部分。你可以实时跟踪每个智能体的进展，并打开已完成的任务查看其工作成果。该功能现已面向Pro用户，在Chat标签页中上线。",
-          "url": "https://flash.jin10.com/detail/20261017042959135800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "OpenAI向数学界捐赠500万美元",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%90%91%E6%95%B0%E5%AD%A6%E7%95%8C%E6%8D%90%E8%B5%A0500%E4%B8%87%E7%BE%8E%E5%85%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌公司：在美国市场推出Universal Cart。",
-          "url": "https://wallstreetcn.com/livenews/3180386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
-        },
-        {
-          "title": "Anthropic：人均雇员创收是Meta Platforms(META.O)和谷歌(GOOG.O)的2至4倍。<br/>",
-          "url": "https://flash.jin10.com/detail/20261017044819670800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "Anthropic：人均雇员创收是Meta Platforms和谷歌的2-4倍。",
-          "url": "https://wallstreetcn.com/livenews/3180478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "房价 楼市 房地产",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "深圳发布楼市销售新政，要求购房定金不超购房总价款的 3%，还有哪些信息值得关注？对购房者和楼市有何影响？",
-          "url": "https://www.zhihu.com/question/2094067803506439626",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时08分"
+          "time_info": "01时41分"
         }
       ]
     }
