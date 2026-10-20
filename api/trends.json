@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-20T13:50:02.328393+08:00",
-  "total_titles_processed": 669,
+  "generated_at": "2026-10-20T19:17:39.316450+08:00",
+  "total_titles_processed": 872,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "普京提议中美俄三方会谈，特朗普表态",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时49分 ~ 13时50分]"
+          "appearance_count": 3,
+          "time_info": "[13时49分 ~ 19时17分]"
         },
         {
           "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时49分 ~ 13时50分]"
+          "appearance_count": 3,
+          "time_info": "[13时49分 ~ 19时17分]"
         },
         {
           "title": "以色列公布通话纪录 特朗普对内塔尼亚胡表支持",
@@ -63,6 +63,17 @@
           "time_info": "04时58分"
         },
         {
+          "title": "据福克斯新闻：特朗普将于周二的一场活动上宣布一项2500万美元的举报人奖励计划。",
+          "url": "https://flash.jin10.com/detail/20261020190937306800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "特朗普称该换人代表乌克兰谈判",
           "url": "https://flash.jin10.com/detail/20261020042436240800",
           "source": "金十数据",
@@ -74,22 +85,34 @@
           "time_info": "04时58分"
         },
         {
-          "title": "特朗普称该换人代表乌克兰谈判 以色列总理下令推翻伊朗政权 | 环球市场",
-          "url": "https://www.cls.cn/detail/2509123",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时49分 ~ 13时50分]"
-        },
-        {
           "title": "花活+1，特朗普呼吁：新墨西哥州应更名为“新美国州”",
           "url": "https://news.ifeng.com/c/8xMwKeUNLmT",
           "source": "凤凰网",
           "ranks": [
             12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时49分 ~ 19时17分]"
+        },
+        {
+          "title": "新华社：特朗普为何此时“力挺”内塔尼亚胡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34285005",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时49分 ~ 19时17分]"
+        },
+        {
+          "title": "特朗普称该换人代表乌克兰谈判 以色列总理下令推翻伊朗政权 | 环球市场",
+          "url": "https://www.cls.cn/detail/2509123",
+          "source": "财联社热门",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -107,15 +130,15 @@
           "time_info": "[13时49分 ~ 13时50分]"
         },
         {
-          "title": "新华社：特朗普为何此时“力挺”内塔尼亚胡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34285005",
-          "source": "澎湃新闻",
+          "title": "特朗普：中方在乌问题上立场很公允",
+          "url": "https://www.toutiao.com/trending/7697897058136604715/",
+          "source": "今日头条",
           "ranks": [
-            18
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时49分 ~ 13时50分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "特朗普称该换人代表乌克兰谈判",
@@ -212,7 +235,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -264,7 +287,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "【早报】美股存储、半导体股，全线爆发；首批18只主动ETF获批；10余家A股公司宣布回购",
@@ -289,6 +312,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时13分 ~ 13时50分]"
+        },
+        {
+          "title": "雷神技术第三季度调整后销售额249.7亿美元，预期240.8亿美元。 第三季度调整后每股收益2.26美元，预期1.79美元。 雷神技术预计全年调整后每股收益为7.65至7.75美元，此前预期为7.10至7.25美元。 雷神技术美股盘前涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3181889",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "美股七巨头收盘播报｜周一（10月19日），美国科技股七巨头（Magnificent 7）指数涨1.26%，报234.71点，早盘显著上涨，北京时间22:30以来持续高位震荡。成分股中，亚马逊收涨4.98%，特斯拉涨3.76%，苹果跌0.15%。 “超大”市值科技股指数涨1.44%，报460.34点。",
@@ -368,6 +402,17 @@
           "time_info": "04时58分"
         },
         {
+          "title": "通用汽车预计全年调整后每股收益12.75美元至13.75美元，此前预计12美元至14美元，市场预估13.10美元。 通用汽车预计全年调整后息税前利润145亿美元至155亿美元，此前预计140亿美元至160亿美元，市场预估150.6亿美元。 通用汽车预计全年汽车部门调整后自由现金流115亿美元至125亿美元，此前预计95亿美 通用汽车第三季度调整后每股收益3.70美元，上年同期2.80美元，预估3.56美元。 通用汽车第三季度净销售额和营收500.2亿美元，同比增长2.9%，预估485.3亿美元。 通用汽车第三季度调整后息税前利润41.1亿美元，同比增长22%，预估40.2亿美元。 通用汽车美股盘前跌超4%。 通用汽车预计，软件费用上升将带来10亿至15亿美元的额外成本。 通用汽车预计，全年电动汽车亏损将改善10亿至15亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3181864",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
+        },
+        {
           "title": "美股收盘：费城半导体指数结束下跌",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9A%E8%B4%B9%E5%9F%8E%E5%8D%8A%E5%AF%BC%E4%BD%93%E6%8C%87%E6%95%B0%E7%BB%93%E6%9D%9F%E4%B8%8B%E8%B7%8C",
           "source": "百度热搜",
@@ -382,8 +427,20 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "以色列总理称已下达“推翻伊朗政权”指令",
+          "url": "https://news.ifeng.com/c/8xMtGPaQbmS",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时13分 ~ 19时17分]"
+        },
         {
           "title": "伊朗波斯湾海峡管理局：截至目前，已有122艘船只被列入波斯湾航道管理局的不合规名单。",
           "url": "https://flash.jin10.com/detail/20261020044813476800",
@@ -394,18 +451,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时58分"
-        },
-        {
-          "title": "以色列总理称已下达“推翻伊朗政权”指令",
-          "url": "https://news.ifeng.com/c/8xMtGPaQbmS",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时13分 ~ 13时50分]"
         },
         {
           "title": "伊朗针对美以威胁有哪些反击预案？凤凰记者：可能从3方面入手",
@@ -425,9 +470,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
+        },
+        {
+          "title": "巴基斯坦陆军参谋长抵达伊朗德黑兰",
+          "url": "https://wallstreetcn.com/livenews/3181869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "伊朗新任防长誓言扩大导弹及无人机生产",
@@ -458,7 +514,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         },
@@ -488,7 +544,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?",
@@ -499,8 +555,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时13分 ~ 13时50分]"
+          "appearance_count": 4,
+          "time_info": "[08时13分 ~ 19时17分]"
+        },
+        {
+          "title": "美国政府指示各机构停用DeepSeek，外交部：反对将科技经贸问题政治化",
+          "url": "https://www.cls.cn/detail/2509748",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
@@ -546,6 +613,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时49分 ~ 13时50分]"
+        },
+        {
+          "title": "中方回应美要求机构停用DeepSeek",
+          "url": "https://www.toutiao.com/trending/7698396845743850010/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时17分"
         },
         {
           "title": "如何评价 DeepSeek 开放自研搜索 API，单价为每 1000 次成功请求 5 元？",
@@ -671,7 +749,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时50分"
         }
