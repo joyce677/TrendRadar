@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-22T14:58:05.105571+08:00",
-  "total_titles_processed": 764,
+  "generated_at": "2026-10-22T21:16:19.589189+08:00",
+  "total_titles_processed": 989,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 29,
+      "match_count": 40,
       "titles": [
         {
           "title": "英伟达GTC柏林：电信基站有望变身AI算力节点，黄仁勋力推欧洲全行业拥抱AI",
@@ -22,6 +22,18 @@
           "time_info": "[03时50分 ~ 14时58分]"
         },
         {
+          "title": "强劲季报提振AI交易，纳指反弹超1%，绩优SpaceX涨近8%、Meta盘后走高，原油高位震荡",
+          "url": "https://wallstreetcn.com/articles/3784116",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时10分 ~ 21时16分]"
+        },
+        {
           "title": "黄仁勋GTC柏林演讲：AI工厂部署最快缩至14天 智能体与物理AI加速落地",
           "url": "https://www.cls.cn/detail/2511348",
           "source": "财联社热门",
@@ -34,16 +46,17 @@
           "time_info": "[03时50分 ~ 09时10分]"
         },
         {
-          "title": "强劲季报提振AI交易，纳指反弹超1%，绩优SpaceX涨近8%、Meta盘后走高，原油高位震荡",
-          "url": "https://wallstreetcn.com/articles/3784116",
+          "title": "Meta Q3营收与Q4指引双超预期，上调AI资本开支下限，拟发行无投票权新股｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3784152",
           "source": "华尔街见闻",
           "ranks": [
-            1,
-            2
+            5,
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时10分 ~ 14时58分]"
+          "appearance_count": 4,
+          "time_info": "[09时10分 ~ 21时16分]"
         },
         {
           "title": "低价共享AI付费权益靠谱吗",
@@ -58,27 +71,16 @@
           "time_info": "[03时50分 ~ 06时57分]"
         },
         {
-          "title": "Meta Q3营收与Q4指引双超预期，上调AI资本开支下限，拟发行无投票权新股｜财报见闻",
-          "url": "https://wallstreetcn.com/articles/3784152",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时10分 ~ 14时58分]"
-        },
-        {
           "title": "物理AI进入爆发前夜？王兴兴、黄仁勋齐发声 机器人成重要落地场景",
           "url": "https://www.cls.cn/detail/2511957",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 14时58分]"
+          "appearance_count": 3,
+          "time_info": "[14时57分 ~ 21时16分]"
         },
         {
           "title": "SpaceX Q3 AI业务大爆发、收入暴增830%，利润碾压预期，资本支出近200亿｜财报见闻",
@@ -90,6 +92,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时50分 ~ 03时51分]"
+        },
+        {
+          "title": "AI发现PHP严重漏洞！全球75%网站面临威胁，欧洲多国政府网站紧急下线",
+          "url": "https://wallstreetcn.com/articles/3784140",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时10分 ~ 21时16分]"
         },
         {
           "title": "特斯拉Q3财报出炉：加码AI和机器人汽车主业承压，资本支出远逊预期！",
@@ -114,6 +128,17 @@
           "time_info": "03时51分"
         },
         {
+          "title": "因AI支出计划，Meta信用风险指标升至新高。",
+          "url": "https://wallstreetcn.com/livenews/3183764",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "Meta个人AI智能体Muse上线一个月用户突破1000万",
           "url": "https://flash.jin10.com/detail/20261022063620351800",
           "source": "金十数据",
@@ -123,6 +148,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
+        },
+        {
+          "title": "AI交易熄火、中东局势恶化，全球股市遭遇“黑色星期四”！",
+          "url": "https://wallstreetcn.com/articles/3784189",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "音乐出版商向Anthropic索赔，AI训练版权边界迎关键听证",
+          "url": "https://flash.jin10.com/detail/20261022204928263800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "强劲季报提振AI交易，美股开盘走高，SpaceX涨幅扩大至10%，英伟达涨约2%，油价再度走高",
@@ -135,6 +182,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时50分 ~ 06时57分]"
+        },
+        {
+          "title": "多款 3A 老游戏被 AI 光速反编译并移植网页端，将对游戏行业带来哪些冲击？",
+          "url": "https://www.zhihu.com/question/2094620721343481537",
+          "source": "知乎",
+          "ranks": [
+            15,
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时10分 ~ 21时16分]"
         },
         {
           "title": "张益唐的数学难题被AI化为习题",
@@ -150,16 +210,15 @@
           "time_info": "[03时50分 ~ 09时10分]"
         },
         {
-          "title": "AI发现PHP严重漏洞！全球75%网站面临威胁，欧洲多国政府网站紧急下线",
-          "url": "https://wallstreetcn.com/articles/3784140",
-          "source": "华尔街见闻",
+          "title": "基金经理为重仓AI致歉，又到了集体反思时刻",
+          "url": "https://www.cls.cn/detail/2512611",
+          "source": "财联社热门",
           "ranks": [
-            7,
-            5
+            4
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时10分 ~ 14时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "据美国财经媒体Semafor：Meta Platforms(META.O)最早可能于周三在发布季度财报的同时正式宣布无投票权股票计划，旨在为AI投资融资。此举不稀释扎克伯格的控制权。",
@@ -231,18 +290,6 @@
           "time_info": "[03时50分 ~ 06时57分]"
         },
         {
-          "title": "多款 3A 老游戏被 AI 光速反编译并移植网页端，将对游戏行业带来哪些冲击？",
-          "url": "https://www.zhihu.com/question/2094620721343481537",
-          "source": "知乎",
-          "ranks": [
-            15,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时10分 ~ 14时58分]"
-        },
-        {
           "title": "吴越等人被AI盗用带货，经济日报：识别AI仿冒平台需担起责任",
           "url": "https://m.thepaper.cn/newsDetail_forward_34296636",
           "source": "澎湃新闻",
@@ -299,15 +346,70 @@
           "time_info": "06时57分"
         },
         {
+          "title": "李雪健配合AI声音登长征文艺晚会",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E9%9B%AA%E5%81%A5%E9%85%8D%E5%90%88AI%E5%A3%B0%E9%9F%B3%E7%99%BB%E9%95%BF%E5%BE%81%E6%96%87%E8%89%BA%E6%99%9A%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "AI短剧走强，制作不再稀缺，钱到底谁赚？券商吵起来了",
+          "url": "https://www.cls.cn/detail/2512263",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "贝森特闭门会向华尔街放话：看不出AI有什么“系统性风险”",
+          "url": "https://wallstreetcn.com/articles/3784160",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "估值更具吸引力 贝莱德全球首席投资策略师称公司寻求重新布局AI交易",
+          "url": "https://wallstreetcn.com/livenews/3183750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "美国软件公司Palantir向欧洲“保证”无法切断北约的AI系统",
           "url": "https://flash.jin10.com/detail/20261022142735146800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
+        },
+        {
+          "title": "王兴兴：物理AI已看到被击穿的苗头，竞争会非常惨烈，需要共同努力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34306053",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "华尔街大佬：AI确定已是大泡沫",
@@ -341,13 +443,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
+        },
+        {
+          "title": "美国能靠芯片拖慢中国AI发展速度吗",
+          "url": "https://www.toutiao.com/trending/7699429417566604854/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "【不实！AI龙头股未出现网传连锁强平现象】今日，网传“部分AI龙头股发生大额强制平仓，产生连锁反应”，引发部分投资者关注。记者获悉，今日深市AI龙头股未出现网传的连锁强平现象，仅个别股票小额平仓，金额不足十万元，相关传闻为不实信息。（证券时报）",
+          "url": "https://wallstreetcn.com/livenews/3183711",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         }
       ]
     },
     {
       "keyword_group": "iphone apple apple watch",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
+        {
+          "title": "影视飓风iPhone Duo深度评测",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8EiPhone%20Duo%E6%B7%B1%E5%BA%A6%E8%AF%84%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[03时50分 ~ 21时16分]"
+        },
         {
           "title": "iPhone Duo折叠3000次后折痕加深",
           "url": "https://www.baidu.com/s?wd=iPhone+Duo%E6%8A%98%E5%8F%A03000%E6%AC%A1%E5%90%8E%E6%8A%98%E7%97%95%E5%8A%A0%E6%B7%B1",
@@ -368,17 +503,6 @@
             16,
             15,
             27
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时50分 ~ 14时58分]"
-        },
-        {
-          "title": "影视飓风iPhone Duo深度评测",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8EiPhone%20Duo%E6%B7%B1%E5%BA%A6%E8%AF%84%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 6,
@@ -408,6 +532,30 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时50分 ~ 14时58分]"
+        },
+        {
+          "title": "iPhone Duo折叠3000次后折痕加深",
+          "url": "https://www.toutiao.com/trending/7699061219055829034/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时57分 ~ 21时16分]"
+        },
+        {
+          "title": "何同学iPhone Duo首发体验",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BD%95%E5%90%8C%E5%AD%A6iPhone%20Duo%E9%A6%96%E5%8F%91%E4%BD%93%E9%AA%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时57分 ~ 21时16分]"
         },
         {
           "title": "微信回应iPhoneDuo不适配",
@@ -443,17 +591,6 @@
           "time_info": "[14时57分 ~ 14时58分]"
         },
         {
-          "title": "iPhone Duo折叠3000次后折痕加深",
-          "url": "https://www.toutiao.com/trending/7699061219055829034/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 14时58分]"
-        },
-        {
           "title": "iPhoneDuo微信不适配",
           "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E5%BE%AE%E4%BF%A1%E4%B8%8D%E9%80%82%E9%85%8D%23&t=31&band_rank=21&Refer=top",
           "source": "微博",
@@ -465,15 +602,37 @@
           "time_info": "[14时57分 ~ 14时58分]"
         },
         {
-          "title": "何同学iPhone Duo首发体验",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BD%95%E5%90%8C%E5%AD%A6iPhone%20Duo%E9%A6%96%E5%8F%91%E4%BD%93%E9%AA%8C",
+          "title": "iPhone Duo 测评出炉，折叠 3000 次后，折痕明显加深，高负载下发热明显，还有哪些问题值得关注？",
+          "url": "https://www.zhihu.com/question/2096555342171563789",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "林俊杰开箱iPhone Duo",
+          "url": "https://www.toutiao.com/trending/7699372858690207780/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "iPhone Duo首发评测",
+          "url": "https://search.bilibili.com/all?keyword=iPhone%20Duo%E9%A6%96%E5%8F%91%E8%AF%84%E6%B5%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            29
+            24
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时57分 ~ 14时58分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "iPhoneDuo折痕真实体验",
@@ -522,8 +681,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时50分 ~ 14时58分]"
+          "appearance_count": 7,
+          "time_info": "[03时50分 ~ 21时16分]"
         },
         {
           "title": "SpaceX电话会：马斯克称明年ARR上看1万亿，已设委员会探索合并特斯拉",
@@ -754,7 +913,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时58分"
         },
