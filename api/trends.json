@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-23T08:18:35.751699+08:00",
-  "total_titles_processed": 541,
+  "generated_at": "2026-10-23T13:38:00.012384+08:00",
+  "total_titles_processed": 768,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 18,
+      "match_count": 24,
       "titles": [
         {
           "title": "黄仁勋：AI算力需求极其旺盛 但资本短缺制约“新云”扩张",
@@ -65,6 +65,17 @@
           "time_info": "[01时47分 ~ 05时03分]"
         },
         {
+          "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
+          "url": "https://wallstreetcn.com/articles/3784189",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时18分 ~ 13时37分]"
+        },
+        {
           "title": "AI交易熄火、中东局势恶化，美股跌幅扩大，费城半导体跌近6%，CoreWeave大跌8%",
           "url": "https://wallstreetcn.com/articles/3784189",
           "source": "华尔街见闻",
@@ -74,17 +85,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时47分 ~ 01时48分]"
-        },
-        {
-          "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
-          "url": "https://wallstreetcn.com/articles/3784189",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时18分"
         },
         {
           "title": "AI交易熄火、中东局势恶化，美股跌幅扩大，费城半导体跌超6%，CoreWeave大跌10%",
@@ -121,16 +121,28 @@
           "time_info": "[01时47分 ~ 05时03分]"
         },
         {
+          "title": "程序员解读AI挖出PHP安全漏洞",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A8%8B%E5%BA%8F%E5%91%98%E8%A7%A3%E8%AF%BBAI%E6%8C%96%E5%87%BAPHP%E5%AE%89%E5%85%A8%E6%BC%8F%E6%B4%9E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
           "title": "野村警告：当前AI信用风险与互联网泡沫、雷曼危机前惊人相似，一切都取决于油价",
           "url": "https://wallstreetcn.com/articles/3784197",
           "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时47分 ~ 08时18分]"
+          "appearance_count": 5,
+          "time_info": "[01时47分 ~ 13时37分]"
         },
         {
           "title": "AI短剧走强，制作不再稀缺，钱到底谁赚？券商吵起来了",
@@ -142,6 +154,19 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时47分 ~ 05时03分]"
+        },
+        {
+          "title": "IMF：亚洲经济增长仍具韧性，AI投资回报不确定性或带来风险",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34308431",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时03分 ~ 13时37分]"
         },
         {
           "title": "王兴兴：物理AI已看到被击穿的苗头，竞争会非常惨烈，需要共同努力",
@@ -156,16 +181,59 @@
           "time_info": "[01时47分 ~ 05时03分]"
         },
         {
-          "title": "IMF：亚洲经济增长仍具韧性，AI投资回报不确定性或带来风险",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34308431",
-          "source": "澎湃新闻",
+          "title": "AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅",
+          "url": "https://wallstreetcn.com/articles/3784249",
+          "source": "华尔街见闻",
           "ranks": [
-            19,
-            18
+            7
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时03分 ~ 08时18分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "全球AI股惨遭拋售？摩根大通：不要慌，本轮抛售可能已近尾声",
+          "url": "https://www.cls.cn/detail/2513145",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "玉渊谭天：“中国AI禁令”是怎么回事",
+          "url": "https://www.cls.cn/detail/2512926",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "AI视频初创公司Higgsfield获英伟达投资",
+          "url": "https://flash.jin10.com/detail/20261023131057332800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "AI短片妖怪衙门",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E5%A6%96%E6%80%AA%E8%A1%99%E9%97%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
         },
         {
           "title": "美股存储芯片指数初步收跌8%，AI赢家指数跌6.2%、AI软件先驱指数跌1.3%，费城半导体指数跌6.7%，科技股七巨头指数跌2.7%、超大市值科技股指数跌3.2%。 标普500指数初步收跌1.2%，电信板块跌3.1%，科技板块跌3%，可选消费、工业板块至多跌1.6%，能源板块跌0.8%。 纳斯达克100指数初步收跌2.9%，成分股中，莫德纳初步收跌18%，拉姆研究、Lumentum、ALAB跌超11%，泰瑞达、CoreWeave跌10%，SpaceX跌9.2%，闪迪跌8.2%，Meta跌7%，汤森路透涨6.9%，ROP涨9.5%。",
@@ -214,8 +282,173 @@
       ]
     },
     {
+      "keyword_group": "iphone apple apple watch",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "iPhone Duo 测评出炉，折叠 3000 次后，折痕明显加深，高负载下发热明显，还有哪些问题值得关注？",
+          "url": "https://www.zhihu.com/question/2096555342171563789",
+          "source": "知乎",
+          "ranks": [
+            8,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 08时18分]"
+        },
+        {
+          "title": "影视飓风iPhone Duo深度评测",
+          "url": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8EiPhone%20Duo%E6%B7%B1%E5%BA%A6%E8%AF%84%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时47分 ~ 13时37分]"
+        },
+        {
+          "title": "iPhone Duo折叠3000次后折痕加深",
+          "url": "https://www.toutiao.com/trending/7699061219055829034/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 08时18分]"
+        },
+        {
+          "title": "何同学iPhone Duo首发体验",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BD%95%E5%90%8C%E5%AD%A6iPhone%20Duo%E9%A6%96%E5%8F%91%E4%BD%93%E9%AA%8C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 13时37分]"
+        },
+        {
+          "title": "用iPhone Duo的前夜",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8iPhone%20Duo%E7%9A%84%E5%89%8D%E5%A4%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时03分 ~ 08时18分]"
+        },
+        {
+          "title": "iPhone Duo开售 义乌手机壳同步上市",
+          "url": "https://www.toutiao.com/trending/7699496910083932198/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "直播丨iPhone Duo上市首日：上手体验如何？直击提货现场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34308703",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "如何评价 iPhone Duo 经拆机，纳米纹理表面并非玻璃而是纳米纹理膜（磨砂膜）？",
+          "url": "https://www.zhihu.com/question/2096744765073126686",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "华强北商家说iPhoneDuo毫无技术含量",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%8E%E5%BC%BA%E5%8C%97%E5%95%86%E5%AE%B6%E8%AF%B4iPhoneDuo%E6%AF%AB%E6%97%A0%E6%8A%80%E6%9C%AF%E5%90%AB%E9%87%8F%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "史上最贵iPhone今天发售",
+          "url": "https://www.toutiao.com/trending/7699669736619294758/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "iPhoneDuo PuraXMax",
+          "url": "https://s.weibo.com/weibo?q=iPhoneDuo%20PuraXMax&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "全网首拆iPhone Duo",
+          "url": "https://www.douyin.com/hot/2709221",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "iPhone Duo最高溢价降至3000元",
+          "url": "https://www.douyin.com/hot/2709250",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
+        },
+        {
+          "title": "iPhone Duo正式开售 每人限购2部",
+          "url": "https://www.toutiao.com/trending/7699646244972400179/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时18分"
+        }
+      ]
+    },
+    {
       "keyword_group": "马斯克",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "“限速”乌克兰星链，马斯克被指责让美在乌人员生命遭严重威胁",
@@ -257,7 +490,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时18分"
         },
@@ -301,15 +534,26 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时18分"
+        },
+        {
+          "title": "马斯克为美国共和党中期选举捐款超过4.45亿美元",
+          "url": "https://wallstreetcn.com/livenews/3184155",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "OpenAI接近完成新一轮融资",
@@ -321,6 +565,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "OpenAI与波兰国家网络安全局（NASK）合作推进人工智能安全与保障。",
+          "url": "https://flash.jin10.com/detail/20261023131838501800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时37分"
         },
         {
           "title": "“DeepSeek才是真正的OpenAI”",
@@ -391,84 +646,20 @@
       ]
     },
     {
-      "keyword_group": "iphone apple apple watch",
-      "match_count": 6,
+      "keyword_group": "anthropic claude",
+      "match_count": 2,
       "titles": [
         {
-          "title": "iPhone Duo 测评出炉，折叠 3000 次后，折痕明显加深，高负载下发热明显，还有哪些问题值得关注？",
-          "url": "https://www.zhihu.com/question/2096555342171563789",
+          "title": "Anthropic 最快将于本周提交 S-1 招股说明书，有望冲击史上最大 IPO，会对市场带来怎样的影响？",
+          "url": "https://www.zhihu.com/question/2096551809837790048",
           "source": "知乎",
           "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时47分 ~ 08时18分]"
-        },
-        {
-          "title": "iPhone Duo折叠3000次后折痕加深",
-          "url": "https://www.toutiao.com/trending/7699061219055829034/",
-          "source": "今日头条",
-          "ranks": [
-            21,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时47分 ~ 08时18分]"
-        },
-        {
-          "title": "影视飓风iPhone Duo深度评测",
-          "url": "https://search.bilibili.com/all?keyword=%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8EiPhone%20Duo%E6%B7%B1%E5%BA%A6%E8%AF%84%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时47分 ~ 08时18分]"
-        },
-        {
-          "title": "用iPhone Duo的前夜",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8iPhone%20Duo%E7%9A%84%E5%89%8D%E5%A4%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26,
             15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时03分 ~ 08时18分]"
-        },
-        {
-          "title": "何同学iPhone Duo首发体验",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BD%95%E5%90%8C%E5%AD%A6iPhone%20Duo%E9%A6%96%E5%8F%91%E4%BD%93%E9%AA%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 01时48分]"
-        },
-        {
-          "title": "iPhone Duo正式开售 每人限购2部",
-          "url": "https://www.toutiao.com/trending/7699646244972400179/",
-          "source": "今日头条",
-          "ranks": [
-            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "anthropic claude",
-      "match_count": 1,
-      "titles": [
+          "time_info": "13时37分"
+        },
         {
           "title": "Anthropic首次公开募股将为Iconiq、Spark和GIC带来巨额收益。",
           "url": "https://wallstreetcn.com/livenews/3183944",
