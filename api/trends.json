@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-23T13:38:00.012384+08:00",
-  "total_titles_processed": 768,
+  "generated_at": "2026-10-23T18:48:40.529588+08:00",
+  "total_titles_processed": 974,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "黄仁勋：AI算力需求极其旺盛 但资本短缺制约“新云”扩张",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时47分 ~ 08时18分]"
+        },
+        {
+          "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
+          "url": "https://wallstreetcn.com/articles/3784189",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时18分 ~ 18时48分]"
         },
         {
           "title": "Meta Q3营收与Q4指引双超预期，上调AI资本开支下限，拟发行无投票权新股｜财报见闻",
@@ -63,17 +74,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时47分 ~ 05时03分]"
-        },
-        {
-          "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
-          "url": "https://wallstreetcn.com/articles/3784189",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时18分 ~ 13时37分]"
         },
         {
           "title": "AI交易熄火、中东局势恶化，美股跌幅扩大，费城半导体跌近6%，CoreWeave大跌8%",
@@ -127,7 +127,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -145,6 +145,32 @@
           "time_info": "[01时47分 ~ 13时37分]"
         },
         {
+          "title": "全球AI股惨遭拋售？摩根大通：不要慌，本轮抛售可能已近尾声",
+          "url": "https://www.cls.cn/detail/2513145",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 18时48分]"
+        },
+        {
+          "title": "IMF：亚洲经济增长仍具韧性，AI投资回报不确定性或带来风险",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34308431",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            18,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时03分 ~ 18时48分]"
+        },
+        {
           "title": "AI短剧走强，制作不再稀缺，钱到底谁赚？券商吵起来了",
           "url": "https://www.cls.cn/detail/2512263",
           "source": "财联社热门",
@@ -154,19 +180,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时47分 ~ 05时03分]"
-        },
-        {
-          "title": "IMF：亚洲经济增长仍具韧性，AI投资回报不确定性或带来风险",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34308431",
-          "source": "澎湃新闻",
-          "ranks": [
-            19,
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时03分 ~ 13时37分]"
         },
         {
           "title": "王兴兴：物理AI已看到被击穿的苗头，竞争会非常惨烈，需要共同努力",
@@ -185,22 +198,24 @@
           "url": "https://wallstreetcn.com/articles/3784249",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 18时48分]"
         },
         {
-          "title": "全球AI股惨遭拋售？摩根大通：不要慌，本轮抛售可能已近尾声",
-          "url": "https://www.cls.cn/detail/2513145",
-          "source": "财联社热门",
+          "title": "AI短片妖怪衙门",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E5%A6%96%E6%80%AA%E8%A1%99%E9%97%A8",
+          "source": "bilibili 热搜",
           "ranks": [
-            8
+            14,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 18时48分]"
         },
         {
           "title": "玉渊谭天：“中国AI禁令”是怎么回事",
@@ -209,7 +224,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -220,18 +235,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
-          "title": "AI短片妖怪衙门",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%9F%AD%E7%89%87%E5%A6%96%E6%80%AA%E8%A1%99%E9%97%A8",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -256,6 +260,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时03分"
+        },
+        {
+          "title": "胡彦斌手工耿锐评AI",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%83%A1%E5%BD%A6%E6%96%8C%E6%89%8B%E5%B7%A5%E8%80%BF%E9%94%90%E8%AF%84AI%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "德国闲置核电站瞄准新生：或转型为AI数据中心",
@@ -283,7 +298,7 @@
     },
     {
       "keyword_group": "iphone apple apple watch",
-      "match_count": 14,
+      "match_count": 23,
       "titles": [
         {
           "title": "iPhone Duo 测评出炉，折叠 3000 次后，折痕明显加深，高负载下发热明显，还有哪些问题值得关注？",
@@ -296,6 +311,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时47分 ~ 08时18分]"
+        },
+        {
+          "title": "最贵iPhone发售 黄牛哭了",
+          "url": "https://www.toutiao.com/trending/7699795406187974195/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "影视飓风iPhone Duo深度评测",
@@ -327,11 +353,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             27,
-            26
+            26,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 13时37分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 18时48分]"
+        },
+        {
+          "title": "直播丨iPhone Duo上市首日：上手体验如何？直击提货现场",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34308703",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 18时48分]"
         },
         {
           "title": "用iPhone Duo的前夜",
@@ -346,24 +385,57 @@
           "time_info": "[05时03分 ~ 08时18分]"
         },
         {
+          "title": "全网首拆iPhone Duo",
+          "url": "https://www.douyin.com/hot/2709221",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 18时48分]"
+        },
+        {
+          "title": "iPhone Duo最高溢价降至3000元",
+          "url": "https://www.douyin.com/hot/2709250",
+          "source": "抖音",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时37分 ~ 18时48分]"
+        },
+        {
+          "title": "iPhone Duo等货排至明年1月 黄牛加价预期却先“松动”了？｜实探",
+          "url": "https://www.cls.cn/detail/2513551",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "iPhoneDuo到手发现华为更香了",
+          "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E5%88%B0%E6%89%8B%E5%8F%91%E7%8E%B0%E5%8D%8E%E4%B8%BA%E6%9B%B4%E9%A6%99%E4%BA%86%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
           "title": "iPhone Duo开售 义乌手机壳同步上市",
           "url": "https://www.toutiao.com/trending/7699496910083932198/",
           "source": "今日头条",
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
-          "title": "直播丨iPhone Duo上市首日：上手体验如何？直击提货现场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34308703",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -374,9 +446,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
+        },
+        {
+          "title": "iPhoneDuo当主力机考验自适应能力",
+          "url": "https://s.weibo.com/weibo?q=%23iPhoneDuo%E5%BD%93%E4%B8%BB%E5%8A%9B%E6%9C%BA%E8%80%83%E9%AA%8C%E8%87%AA%E9%80%82%E5%BA%94%E8%83%BD%E5%8A%9B%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "华强北商家说iPhoneDuo毫无技术含量",
@@ -385,7 +468,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -396,9 +479,31 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
+        },
+        {
+          "title": "iPhone Duo开售万元溢价缩水",
+          "url": "https://www.toutiao.com/trending/7699777458588880420/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "iPhone Duo拆机测评",
+          "url": "https://search.bilibili.com/all?keyword=iPhone%20Duo%E6%8B%86%E6%9C%BA%E6%B5%8B%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "iPhoneDuo PuraXMax",
@@ -407,31 +512,31 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
         {
-          "title": "全网首拆iPhone Duo",
-          "url": "https://www.douyin.com/hot/2709221",
-          "source": "抖音",
+          "title": "微信适配iPhone Duo了",
+          "url": "https://www.toutiao.com/trending/7699774189984796170/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
+        },
+        {
+          "title": "微信适配iPhoneDuo版本",
+          "url": "https://s.weibo.com/weibo?q=%E5%BE%AE%E4%BF%A1%E9%80%82%E9%85%8DiPhoneDuo%E7%89%88%E6%9C%AC&t=31&band_rank=27&Refer=top",
+          "source": "微博",
           "ranks": [
             27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "13时37分"
-        },
-        {
-          "title": "iPhone Duo最高溢价降至3000元",
-          "url": "https://www.douyin.com/hot/2709250",
-          "source": "抖音",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时37分"
+          "time_info": "18时48分"
         },
         {
           "title": "iPhone Duo正式开售 每人限购2部",
@@ -443,6 +548,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时18分"
+        },
+        {
+          "title": "当我用上iPhone Duo后",
+          "url": "https://www.douyin.com/hot/2709463",
+          "source": "抖音",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         }
       ]
     },
@@ -545,7 +661,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         }
@@ -573,7 +689,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
@@ -656,7 +772,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时37分"
         },
